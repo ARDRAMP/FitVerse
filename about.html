@@ -1,0 +1,855 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FitVerse | About Us & Brand Story</title>
+    <meta name="description"
+        content="Learn about FitVerse's mission: engineering commercial-grade fitness equipment, strength racks, barbells, and cardio machines for athletes worldwide.">
+
+    <!-- Google Fonts: Poppins, Inter, Playfair Display, JetBrains Mono -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Poppins:wght@300;400;500;600;700;800&family=Playfair+Display:ital,wght@1,400;1,500;1,600&family=JetBrains+Mono:wght@400;500;700&display=swap"
+        rel="stylesheet">
+
+    <!-- FontAwesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <link rel="stylesheet" href="styles.css?v=325">
+
+    <style>
+        /* Custom Styles for About Page */
+        .stat-card-enhanced {
+            background: rgba(15, 22, 34, 0.85);
+            border: 1px solid rgba(255, 215, 0, 0.2);
+            border-radius: 18px;
+            padding: 2.2rem 1.5rem;
+            text-align: center;
+            backdrop-filter: blur(10px);
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+        }
+
+        .stat-card-enhanced:hover {
+            transform: translateY(-6px);
+            border-color: #FFD700;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5), 0 0 25px rgba(255, 215, 0, 0.15);
+            background: rgba(255, 215, 0, 0.04);
+        }
+
+        .timeline-container {
+            position: relative;
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 2rem 0;
+        }
+
+        .timeline-container::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 50%;
+            width: 2px;
+            background: linear-gradient(180deg, #FFD700 0%, rgba(255, 215, 0, 0.1) 100%);
+            transform: translateX(-50%);
+        }
+
+        .timeline-item {
+            display: flex;
+            justify-content: flex-end;
+            padding-right: 3rem;
+            position: relative;
+            margin-bottom: 3rem;
+            width: 50%;
+        }
+
+        .timeline-item:nth-child(even) {
+            align-self: flex-end;
+            justify-content: flex-start;
+            padding-right: 0;
+            padding-left: 3rem;
+            margin-left: 50%;
+        }
+
+        .timeline-dot {
+            position: absolute;
+            top: 1.5rem;
+            right: -10px;
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background: #FFD700;
+            box-shadow: 0 0 15px #FFD700;
+            z-index: 2;
+        }
+
+        .timeline-item:nth-child(even) .timeline-dot {
+            right: auto;
+            left: -10px;
+        }
+
+        .timeline-content {
+            background: #0f1622;
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            border-radius: 16px;
+            padding: 1.8rem;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+            transition: border-color 0.3s ease;
+        }
+
+        .timeline-content:hover {
+            border-color: rgba(255, 215, 0, 0.4);
+        }
+
+        .pillar-card-enhanced {
+            background: #0f1622;
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            border-radius: 18px;
+            padding: 2.2rem;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            display: flex;
+            flex-direction: column;
+        }
+
+        .pillar-card-enhanced:hover {
+            transform: translateY(-6px);
+            border-color: rgba(255, 215, 0, 0.4);
+            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5), 0 0 20px rgba(255, 215, 0, 0.08);
+        }
+
+        .ambassador-card {
+            background: #0f1622;
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            border-radius: 16px;
+            overflow: hidden;
+            transition: all 0.3s ease;
+        }
+
+        .ambassador-card:hover {
+            transform: translateY(-5px);
+            border-color: #FFD700;
+        }
+
+        @media (max-width: 768px) {
+            .timeline-container::before {
+                left: 20px;
+            }
+
+            .timeline-item,
+            .timeline-item:nth-child(even) {
+                width: 100%;
+                margin-left: 0;
+                padding-left: 3rem;
+                padding-right: 0;
+            }
+
+            .timeline-dot,
+            .timeline-item:nth-child(even) .timeline-dot {
+                left: 10px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Initial Loading Screen -->
+    <div id="loader" class="loader-overlay">
+        <div class="loader-content">
+            <img src="logo.png?v=3" alt="Loading" class="loader-icon"
+                style="width:50px; height:auto; border-radius: 50%;">
+            <div class="loader-text">Loading FitVerse Story...</div>
+        </div>
+    </div>
+
+    <!-- Navigation -->
+    <header class="navbar">
+        <div class="nav-container">
+            <a href="index.html" class="brand">
+                <img src="logo.png?v=3" alt="FitVerse Logo" class="brand-logo">
+                <span class="brand-wordmark">FitVerse</span>
+            </a>
+
+            <nav class="nav-links golds-nav-links">
+                <a href="index.html">HOME</a>
+                <span class="nav-divider">|</span>
+                <a href="shop.html">SHOP</a>
+                <span class="nav-divider">|</span>
+                <a href="categories.html">CATEGORIES</a>
+                <span class="nav-divider">|</span>
+                <a href="bundles.html">BUNDLES</a>
+                <span class="nav-divider">|</span>
+                <a href="about.html">ABOUT US</a>
+            </nav>
+
+            <div class="nav-actions golds-nav-actions">
+                <button aria-label="Wishlist" class="icon-btn wishlist-toggle">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                        stroke-linecap="round" stroke-linejoin="round">
+                        <path
+                            d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z">
+                        </path>
+                    </svg>
+                    <span class="wishlist-badge" style="display:none;">0</span>
+                </button>
+                
+                <button aria-label="Cart" class="icon-btn cart-toggle">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                        stroke-linecap="round" stroke-linejoin="round">
+                        <circle cx="9" cy="21" r="1"></circle>
+                        <circle cx="20" cy="21" r="1"></circle>
+                        <path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path>
+                    </svg>
+                    <span class="cart-badge" style="display:none;">0</span>
+                </button>
+                <a href="login.html" class="golds-signin-btn">SIGN IN</a>
+                <button aria-label="Toggle Navigation" class="mobile-menu-toggle"
+                    onclick="window.toggleMobileMenu(event)">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <line x1="3" y1="12" x2="21" y2="12"></line>
+                        <line x1="3" y1="6" x2="21" y2="6"></line>
+                        <line x1="3" y1="18" x2="21" y2="18"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+
+        <!-- Mobile Menu Panel -->
+        <div class="mobile-menu">
+            <a href="index.html" class="mobile-link">Home</a>
+            <a href="shop.html" class="mobile-link">Shop</a>
+            <a href="categories.html" class="mobile-link">Categories</a>
+            <a href="bundles.html" class="mobile-link">Bundles</a>
+            <a href="about.html" class="mobile-link">About Us</a>
+            <a href="login.html" class="golds-signin-btn mobile-join">SIGN IN</a>
+        </div>
+    </header>
+
+    <main style="background: #060a10; min-height: 100vh; color: #fff; padding-top: 85px;">
+        <!-- Hero Section with Background Photo -->
+        <div class="cat-page-hero about-hero-section"
+            style="position: relative; padding: 4.5rem 2rem 5.5rem; background: linear-gradient(180deg, rgba(6, 10, 16, 0.8) 0%, rgba(15, 22, 34, 0.92) 70%, rgba(6, 10, 16, 1) 100%), url('images/about_hero_bg.jpg') center/cover no-repeat; border-bottom: 1px solid rgba(255, 215, 0, 0.2); overflow: hidden;">
+            <div
+                style="position: absolute; top: 15%; left: 50%; transform: translateX(-50%); width: 650px; height: 320px; background: radial-gradient(circle, rgba(255,215,0,0.15) 0%, rgba(0,0,0,0) 70%); pointer-events: none; filter: blur(40px);">
+            </div>
+
+            <div class="cat-hero-content"
+                style="max-width: 950px; margin: 0 auto; text-align: center; position: relative; z-index: 2;">
+
+                <div
+                    style="display: inline-flex; align-items: center; gap: 0.5rem; background: rgba(255, 215, 0, 0.08); border: 1px solid rgba(255, 215, 0, 0.35); padding: 0.4rem 1.1rem; border-radius: 30px; margin-bottom: 1.4rem; backdrop-filter: blur(8px);">
+                    <span style="color: #FFD700; font-size: 0.8rem;">✨</span>
+                    <span
+                        style="color: #FFD700; font-family: var(--font-mono); font-size: 0.82rem; font-weight: 800; letter-spacing: 1.5px; text-transform: uppercase;">THE
+                        FITVERSE PHILOSOPHY</span>
+                </div>
+
+                <h1 class="about-hero-title">
+                    ENGINEERING THE FUTURE OF FITNESS GEAR
+                </h1>
+
+                <p
+                    style="color: #cbd5e1; font-size: 1.15rem; line-height: 1.8; max-width: 800px; margin: 0 auto 2.4rem; font-weight: 400; text-shadow: 0 2px 10px rgba(0,0,0,0.5);">
+                    FitVerse was born from a singular obsession: merging commercial-grade biomechanical precision,
+                    heavy-duty structural steel, and sleek modern aesthetics for home sanctuaries and commercial
+                    facilities.
+                </p>
+
+                <div
+                    style="display: flex; gap: 1.2rem; justify-content: center; flex-wrap: wrap; margin-bottom: 2.5rem;">
+                    <a href="shop.html" class="btn btn-gold glow-btn"
+                        style="padding: 0.95rem 2.2rem; font-weight: 800; font-size: 0.95rem; display: inline-flex; align-items: center; gap: 0.6rem; letter-spacing: 0.5px;">
+                        <span>EXPLORE EQUIPMENT</span> <i class="fas fa-arrow-right" style="font-size: 0.85rem;"></i>
+                    </a>
+                    <a href="contact.html" class="btn"
+                        style="background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.25); backdrop-filter: blur(10px); color: #fff; padding: 0.95rem 2.2rem; border-radius: 8px; text-decoration: none; font-weight: 700; font-size: 0.95rem; display: inline-flex; align-items: center; gap: 0.6rem; transition: all 0.25s ease;"
+                        onmouseover="this.style.borderColor='#FFD700'; this.style.color='#FFD700'"
+                        onmouseout="this.style.borderColor='rgba(255,255,255,0.25)'; this.style.color='#fff'">
+                        <i class="fas fa-envelope" style="font-size: 0.85rem;"></i> <span>GET IN TOUCH</span>
+                    </a>
+                </div>
+
+                <!-- Confidence Badges Below Buttons -->
+                <div class="about-confidence-badges"
+                    style="display: flex; justify-content: center; align-items: center; gap: 1.8rem; flex-wrap: wrap; padding-top: 1.2rem; border-top: 1px solid rgba(255,255,255,0.08); max-width: 700px; margin: 0 auto;">
+                    <span
+                        style="color: #cbd5e1; font-size: 0.82rem; font-weight: 600; display: inline-flex; align-items: center; gap: 0.4rem;">
+                        <i class="fas fa-shield-alt" style="color: #FFD700;"></i> 10-Year Frame Warranty
+                    </span>
+                    <span class="badge-dot" style="color: rgba(255,255,255,0.2);">•</span>
+                    <span
+                        style="color: #cbd5e1; font-size: 0.82rem; font-weight: 600; display: inline-flex; align-items: center; gap: 0.4rem;">
+                        <i class="fas fa-bolt" style="color: #FFD700;"></i> 100% Laser-Cut Steel
+                    </span>
+                    <span class="badge-dot" style="color: rgba(255,255,255,0.2);">•</span>
+                    <span
+                        style="color: #cbd5e1; font-size: 0.82rem; font-weight: 600; display: inline-flex; align-items: center; gap: 0.4rem;">
+                        <i class="fas fa-star" style="color: #FFD700;"></i> 4.9/5 Athlete Rated
+                    </span>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="about-main-container">
+
+            <!-- Stat Counters Section -->
+            <div class="about-stats-grid">
+                <div class="stat-card-enhanced">
+                    <div
+                        style="font-size: 3rem; font-weight: 900; color: #FFD700; font-family: var(--font-mono); margin-bottom: 0.3rem;">
+                        50K+</div>
+                    <div style="color: #fff; font-weight: 700; font-size: 1rem; margin-bottom: 0.2rem;">Athletes
+                        Equipped</div>
+                    <div style="color: #64748b; font-size: 0.82rem;">Across 40+ countries</div>
+                </div>
+                <div class="stat-card-enhanced">
+                    <div
+                        style="font-size: 3rem; font-weight: 900; color: #FFD700; font-family: var(--font-mono); margin-bottom: 0.3rem;">
+                        99.4%</div>
+                    <div style="color: #fff; font-weight: 700; font-size: 1rem; margin-bottom: 0.2rem;">Satisfaction
+                        Rate</div>
+                    <div style="color: #64748b; font-size: 0.82rem;">Verified buyer rating</div>
+                </div>
+                <div class="stat-card-enhanced">
+                    <div
+                        style="font-size: 3rem; font-weight: 900; color: #FFD700; font-family: var(--font-mono); margin-bottom: 0.3rem;">
+                        4.9 ★</div>
+                    <div style="color: #fff; font-weight: 700; font-size: 1rem; margin-bottom: 0.2rem;">Community Score
+                    </div>
+                    <div style="color: #64748b; font-size: 0.82rem;">Over 12,000+ reviews</div>
+                </div>
+                <div class="stat-card-enhanced">
+                    <div
+                        style="font-size: 3rem; font-weight: 900; color: #FFD700; font-family: var(--font-mono); margin-bottom: 0.3rem;">
+                        10-Year</div>
+                    <div style="color: #fff; font-weight: 700; font-size: 1rem; margin-bottom: 0.2rem;">Structural
+                        Warranty</div>
+                    <div style="color: #64748b; font-size: 0.82rem;">Frame & weld guarantee</div>
+                </div>
+            </div>
+
+            <!-- Our Story Feature Photo Section -->
+            <div class="about-story-grid">
+                <div>
+                    <span
+                        style="color: #FFD700; font-family: var(--font-mono); font-size: 0.85rem; text-transform: uppercase; letter-spacing: 1.5px; font-weight: bold;">OUR
+                        CRAFT & PASSION</span>
+                    <h2 class="about-section-h2">BUILT IN OUR BANGALORE R&D FACILITY</h2>
+                    <p style="color: #cbd5e1; font-size: 0.98rem; line-height: 1.7; margin-bottom: 1.2rem;">
+                        Every power rack, Olympic barbell, and bumper plate is designed and stress-tested in our
+                        state-of-the-art Bangalore innovation center. We subject every prototype to over 50,000 cycle
+                        drop tests and 1,000kg static load simulations before it ever enters production.
+                    </p>
+                    <p style="color: #94a3b8; font-size: 0.92rem; line-height: 1.6; margin-bottom: 1.5rem;">
+                        We source ultra-pure 11-gauge structural steel and utilize robotic fiber-laser cutters to ensure
+                        0.1mm tolerance precision across every J-cup hole and attachment sleeve.
+                    </p>
+                    <div
+                        style="display: flex; gap: 1.5rem; border-top: 1px solid rgba(255,255,255,0.08); padding-top: 1.2rem;">
+                        <div>
+                            <div
+                                style="color: #FFD700; font-weight: 900; font-size: 1.4rem; font-family: var(--font-mono);">
+                                0.1mm</div>
+                            <div style="color: #64748b; font-size: 0.78rem;">Laser Cut Precision</div>
+                        </div>
+                        <div style="width: 1px; background: rgba(255,255,255,0.1);"></div>
+                        <div>
+                            <div
+                                style="color: #FFD700; font-weight: 900; font-size: 1.4rem; font-family: var(--font-mono);">
+                                50,000+</div>
+                            <div style="color: #64748b; font-size: 0.78rem;">Drop Cycle Tested</div>
+                        </div>
+                    </div>
+                </div>
+                <div style="position: relative;">
+                    <img src="images/about_story_img.jpg" alt="FitVerse Engineering R&D Workshop"
+                        style="width: 100%; border-radius: 18px; border: 1px solid rgba(255,215,0,0.25); box-shadow: 0 20px 40px rgba(0,0,0,0.6); display: block;">
+                    <span
+                        style="position: absolute; bottom: 1rem; right: 1rem; background: rgba(0,0,0,0.75); backdrop-filter: blur(8px); border: 1px solid rgba(255,215,0,0.4); color: #FFD700; font-size: 0.75rem; font-weight: bold; padding: 0.35rem 0.8rem; border-radius: 8px;">
+                        📍India
+                    </span>
+                </div>
+            </div>
+
+            <!-- Pillars of Excellence Section -->
+            <div class="about-section-wrapper">
+                <div style="text-align: center; margin-bottom: 3.5rem;">
+                    <span
+                        style="color: #FFD700; font-family: var(--font-mono); font-size: 0.85rem; text-transform: uppercase; letter-spacing: 1.5px; font-weight: bold;">OUR
+                        STANDARDS</span>
+                    <h2 class="about-section-h2">THE 4 PILLARS OF FITVERSE</h2>
+                </div>
+
+                <div class="about-pillars-grid">
+                    <div class="pillar-card-enhanced">
+                        <div
+                            style="width: 54px; height: 54px; border-radius: 14px; background: rgba(255, 215, 0, 0.1); color: #FFD700; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; margin-bottom: 1.5rem;">
+                            <i class="fas fa-shield-halved"></i>
+                        </div>
+                        <h3 style="font-size: 1.25rem; color: #fff; margin-bottom: 0.8rem; font-weight: 700;">11-Gauge
+                            Structural Steel</h3>
+                        <p style="color: #94a3b8; font-size: 0.92rem; line-height: 1.6; margin: 0; flex: 1;">
+                            Heavy-duty 3x3" laser-cut steel tubing engineered to support up to 1,000kg load capacities
+                            with zero flex or structural deformation.
+                        </p>
+                    </div>
+
+                    <div class="pillar-card-enhanced">
+                        <div
+                            style="width: 54px; height: 54px; border-radius: 14px; background: rgba(255, 215, 0, 0.1); color: #FFD700; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; margin-bottom: 1.5rem;">
+                            <i class="fas fa-microchip"></i>
+                        </div>
+                        <h3 style="font-size: 1.25rem; color: #fff; margin-bottom: 0.8rem; font-weight: 700;">
+                            Biomechanical Calibration</h3>
+                        <p style="color: #94a3b8; font-size: 0.92rem; line-height: 1.6; margin: 0; flex: 1;">
+                            Co-designed with elite strength researchers to maximize range of motion, muscle fiber
+                            recruitment, and joint longevity.
+                        </p>
+                    </div>
+
+                    <div class="pillar-card-enhanced">
+                        <div
+                            style="width: 54px; height: 54px; border-radius: 14px; background: rgba(255, 215, 0, 0.1); color: #FFD700; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; margin-bottom: 1.5rem;">
+                            <i class="fas fa-gem"></i>
+                        </div>
+                        <h3 style="font-size: 1.25rem; color: #fff; margin-bottom: 0.8rem; font-weight: 700;">Aesthetic
+                            Glassmorphism</h3>
+                        <p style="color: #94a3b8; font-size: 0.92rem; line-height: 1.6; margin: 0; flex: 1;">
+                            Sleek matte powder coat, gold accents, and refined styling that transform any garage or
+                            facility into a luxury training sanctuary.
+                        </p>
+                    </div>
+
+                    <div class="pillar-card-enhanced">
+                        <div
+                            style="width: 54px; height: 54px; border-radius: 14px; background: rgba(255, 215, 0, 0.1); color: #FFD700; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; margin-bottom: 1.5rem;">
+                            <i class="fas fa-headset"></i>
+                        </div>
+                        <h3 style="font-size: 1.25rem; color: #fff; margin-bottom: 0.8rem; font-weight: 700;">
+                            Athlete-Centric Support</h3>
+                        <p style="color: #94a3b8; font-size: 0.92rem; line-height: 1.6; margin: 0; flex: 1;">
+                            Dedicated support from real lifters, fast pan-India express freight, and hassle-free 30-day
+                            returns on all equipment.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Engineering Schematic Photo Feature -->
+            <div class="about-cad-grid">
+                <div class="about-cad-text">
+                    <span
+                        style="color: #FFD700; font-family: var(--font-mono); font-size: 0.85rem; text-transform: uppercase; letter-spacing: 1.5px; font-weight: bold;">PRECISION
+                        SPECIFICATIONS</span>
+                    <h2 class="about-section-h2">CAD-ENGINEERED LOAD INTEGRITY</h2>
+                    <p style="color: #cbd5e1; font-size: 0.98rem; line-height: 1.7; margin-bottom: 1.2rem;">
+                        Our engineering team designs every power rack upright with Westside hole spacing, numbered laser
+                        engravings, and robotically welded gusset plates to prevent joint fatigue even after years of
+                        commercial abuse.
+                    </p>
+                    <div style="display: flex; flex-direction: column; gap: 0.8rem;">
+                        <div
+                            style="display: flex; align-items: center; gap: 0.8rem; background: rgba(255,255,255,0.03); padding: 0.75rem 1rem; border-radius: 10px; border: 1px solid rgba(255,255,255,0.06);">
+                            <span style="color: #FFD700; font-size: 1.1rem;">✓</span>
+                            <span style="color: #cbd5e1; font-size: 0.9rem;">Westside Hole Spacing on Lower Bench Press
+                                Zone</span>
+                        </div>
+                        <div
+                            style="display: flex; align-items: center; gap: 0.8rem; background: rgba(255,255,255,0.03); padding: 0.75rem 1rem; border-radius: 10px; border: 1px solid rgba(255,255,255,0.06);">
+                            <span style="color: #FFD700; font-size: 1.1rem;">✓</span>
+                            <span style="color: #cbd5e1; font-size: 0.9rem;">UHMW Plastic Liners on J-Cups & Safety
+                                Spotter Arms</span>
+                        </div>
+                        <div
+                            style="display: flex; align-items: center; gap: 0.8rem; background: rgba(255,255,255,0.03); padding: 0.75rem 1rem; border-radius: 10px; border: 1px solid rgba(255,255,255,0.06);">
+                            <span style="color: #FFD700; font-size: 1.1rem;">✓</span>
+                            <span style="color: #cbd5e1; font-size: 0.9rem;">Electrostatic Powder Coating Against Sweat
+                                & Corrosion</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="about-cad-img-wrapper" style="position: relative;">
+                    <img src="images/power_rack_schematic.jpg" alt="CAD Power Rack Schematic"
+                        style="width: 100%; border-radius: 18px; border: 1px solid rgba(255,215,0,0.25); box-shadow: 0 20px 40px rgba(0,0,0,0.6); display: block;">
+                </div>
+            </div>
+
+            <!-- Brand Journey Timeline Section -->
+            <div class="about-section-wrapper">
+                <div style="text-align: center; margin-bottom: 3.5rem;">
+                    <span
+                        style="color: #FFD700; font-family: var(--font-mono); font-size: 0.85rem; text-transform: uppercase; letter-spacing: 1.5px; font-weight: bold;">OUR
+                        HISTORY</span>
+                    <h2 class="about-section-h2">FROM WORKSHOP TO GLOBAL EMPIRE</h2>
+                </div>
+
+                <div class="timeline-container" style="display: flex; flex-direction: column;">
+                    <!-- Milestone 1 -->
+                    <div class="timeline-item">
+                        <div class="timeline-dot"></div>
+                        <div class="timeline-content">
+                            <span
+                                style="color: #FFD700; font-weight: 900; font-family: var(--font-mono); font-size: 1.2rem;">2020</span>
+                            <h4 style="color: #fff; font-size: 1.1rem; margin: 0.4rem 0 0.6rem; font-weight: 700;">The
+                                Genesis in Bangalore</h4>
+                            <p style="color: #cbd5e1; font-size: 0.9rem; line-height: 1.5; margin: 0;">FitVerse was
+                                launched with a single product line: Olympic power barbells engineered with custom
+                                knurling patterns that didn't tear up hands during heavy pulls.</p>
+                        </div>
+                    </div>
+
+                    <!-- Milestone 2 -->
+                    <div class="timeline-item">
+                        <div class="timeline-dot"></div>
+                        <div class="timeline-content">
+                            <span
+                                style="color: #FFD700; font-weight: 900; font-family: var(--font-mono); font-size: 1.2rem;">2022</span>
+                            <h4 style="color: #fff; font-size: 1.1rem; margin: 0.4rem 0 0.6rem; font-weight: 700;">
+                                Biomechanical Innovation Facility</h4>
+                            <p style="color: #cbd5e1; font-size: 0.9rem; line-height: 1.5; margin: 0;">Opened our
+                                dedicated R&D testing facility. Introduced laser-cut 11-gauge power racks, calibrated
+                                steel plates, and high-density foam utility benches.</p>
+                        </div>
+                    </div>
+
+                    <!-- Milestone 3 -->
+                    <div class="timeline-item">
+                        <div class="timeline-dot"></div>
+                        <div class="timeline-content">
+                            <span
+                                style="color: #FFD700; font-weight: 900; font-family: var(--font-mono); font-size: 1.2rem;">2024</span>
+                            <h4 style="color: #fff; font-size: 1.1rem; margin: 0.4rem 0 0.6rem; font-weight: 700;">
+                                Commercial Gym & Bundle Suites</h4>
+                            <p style="color: #cbd5e1; font-size: 0.9rem; line-height: 1.5; margin: 0;">Expanded into
+                                complete custom equipment suites, air fan conditioning bikes, dual cable crossovers, and
+                                commercial gym outfitting across Asia.</p>
+                        </div>
+                    </div>
+
+                    <!-- Milestone 4 -->
+                    <div class="timeline-item">
+                        <div class="timeline-dot"></div>
+                        <div class="timeline-content">
+                            <span
+                                style="color: #FFD700; font-weight: 900; font-family: var(--font-mono); font-size: 1.2rem;">2026</span>
+                            <h4 style="color: #fff; font-size: 1.1rem; margin: 0.4rem 0 0.6rem; font-weight: 700;">
+                                50,000+ Athletes Worldwide</h4>
+                            <p style="color: #cbd5e1; font-size: 0.9rem; line-height: 1.5; margin: 0;">Now powering over
+                                50,000 home gyms, powerlifting clubs, and commercial studios with an average 4.9/5
+                                satisfaction rating.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Leadership & Advisory Council (With Team Photos) -->
+            <div class="about-section-wrapper">
+                <div style="text-align: center; margin-bottom: 3.5rem;">
+                    <span
+                        style="color: #FFD700; font-family: var(--font-mono); font-size: 0.85rem; text-transform: uppercase; letter-spacing: 1.5px; font-weight: bold;">MEET
+                        THE COUNCIL</span>
+                    <h2 class="about-section-h2">ENGINEERED BY LIFTERS FOR LIFTERS</h2>
+                </div>
+
+                <div class="about-council-grid">
+
+                    <!-- Leader 1: Vikram Malhotra -->
+                    <div class="ambassador-card" style="padding: 2rem; text-align: center;">
+                        <img src="images/team_vikram.jpg" alt="Vikram Malhotra"
+                            style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 3px solid #FFD700; box-shadow: 0 0 20px rgba(255,215,0,0.3); margin: 0 auto 1.2rem; display: block;">
+                        <h3 style="color: #fff; font-size: 1.2rem; margin-bottom: 0.2rem; font-weight: 700;">Vikram
+                            Malhotra</h3>
+                        <span
+                            style="color: #FFD700; font-size: 0.85rem; font-weight: 600; display: block; margin-bottom: 1rem;">Founder
+                            & Head of R&D</span>
+                        <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.5; margin: 0;">Former national
+                            powerlifter and mechanical engineer devoted to creating indestructible strength equipment.
+                        </p>
+                    </div>
+
+                    <!-- Leader 2: Ananya Roy -->
+                    <div class="ambassador-card" style="padding: 2rem; text-align: center;">
+                        <img src="images/team_ananya.jpg" alt="Ananya Roy"
+                            style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 3px solid #FFD700; box-shadow: 0 0 20px rgba(255,215,0,0.3); margin: 0 auto 1.2rem; display: block;">
+                        <h3 style="color: #fff; font-size: 1.2rem; margin-bottom: 0.2rem; font-weight: 700;">Ananya Roy
+                        </h3>
+                        <span
+                            style="color: #FFD700; font-size: 0.85rem; font-weight: 600; display: block; margin-bottom: 1rem;">Lead
+                            Biomechanics Specialist</span>
+                        <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.5; margin: 0;">PhD in Exercise
+                            Science specializing in cable leverage, force curves, and ergonomic joint protection.</p>
+                    </div>
+
+                    <!-- Leader 3: Siddharth Kapoor -->
+                    <div class="ambassador-card" style="padding: 2rem; text-align: center;">
+                        <img src="images/team_siddharth.jpg" alt="Siddharth Kapoor"
+                            style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 3px solid #FFD700; box-shadow: 0 0 20px rgba(255,215,0,0.3); margin: 0 auto 1.2rem; display: block;">
+                        <h3 style="color: #fff; font-size: 1.2rem; margin-bottom: 0.2rem; font-weight: 700;">Siddharth
+                            Kapoor</h3>
+                        <span
+                            style="color: #FFD700; font-size: 0.85rem; font-weight: 600; display: block; margin-bottom: 1rem;">Head
+                            of Commercial Solutions</span>
+                        <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.5; margin: 0;">Over 12 years
+                            experience designing and outfitting elite strength studios and commercial gym sanctuaries.
+                        </p>
+                    </div>
+
+                </div>
+            </div>
+
+            <!-- FitVerse in Action Photo Gallery Grid -->
+            <div class="about-section-wrapper">
+                <div style="text-align: center; margin-bottom: 3.5rem;">
+                    <span
+                        style="color: #FFD700; font-family: var(--font-mono); font-size: 0.85rem; text-transform: uppercase; letter-spacing: 1.5px; font-weight: bold;">COMMUNITY
+                        GALLERY</span>
+                    <h2 class="about-section-h2">FITVERSE IN ACTION WORLDWIDE</h2>
+                </div>
+
+                <div class="about-gallery-grid">
+                    <div
+                        style="position: relative; border-radius: 16px; overflow: hidden; height: 260px; border: 1px solid rgba(255,255,255,0.1);">
+                        <img src="images/hero_athlete_1.jpg" alt="Powerlifting Sanctuary"
+                            style="width: 100%; height: 100%; object-fit: cover; transition: transform 0.4s ease;"
+                            onmouseover="this.style.transform='scale(1.08)'"
+                            onmouseout="this.style.transform='scale(1)'">
+                        <div
+                            style="position: absolute; inset: 0; background: linear-gradient(to top, rgba(0,0,0,0.85) 0%, transparent 60%); padding: 1.2rem; display: flex; flex-direction: column; justify-content: flex-end;">
+                            <h4 style="color: #fff; font-size: 1rem; margin: 0; font-weight: 700;">Garage Power
+                                Sanctuary</h4>
+                            <span style="color: #FFD700; font-size: 0.8rem; font-family: var(--font-mono);">India</span>
+                        </div>
+                    </div>
+
+                    <div
+                        style="position: relative; border-radius: 16px; overflow: hidden; height: 260px; border: 1px solid rgba(255,255,255,0.1);">
+                        <img src="images/human_strength.jpg" alt="Commercial Deadlift Platform"
+                            style="width: 100%; height: 100%; object-fit: cover; transition: transform 0.4s ease;"
+                            onmouseover="this.style.transform='scale(1.08)'"
+                            onmouseout="this.style.transform='scale(1)'">
+                        <div
+                            style="position: absolute; inset: 0; background: linear-gradient(to top, rgba(0,0,0,0.85) 0%, transparent 60%); padding: 1.2rem; display: flex; flex-direction: column; justify-content: flex-end;">
+                            <h4 style="color: #fff; font-size: 1rem; margin: 0; font-weight: 700;">Competition Training
+                                Platform</h4>
+                            <span style="color: #FFD700; font-size: 0.8rem; font-family: var(--font-mono);">India</span>
+                        </div>
+                    </div>
+
+                    <div
+                        style="position: relative; border-radius: 16px; overflow: hidden; height: 260px; border: 1px solid rgba(255,255,255,0.1);">
+                        <img src="images/hero_athlete_2.jpg" alt="Cross-Training Suite"
+                            style="width: 100%; height: 100%; object-fit: cover; transition: transform 0.4s ease;"
+                            onmouseover="this.style.transform='scale(1.08)'"
+                            onmouseout="this.style.transform='scale(1)'">
+                        <div
+                            style="position: absolute; inset: 0; background: linear-gradient(to top, rgba(0,0,0,0.85) 0%, transparent 60%); padding: 1.2rem; display: flex; flex-direction: column; justify-content: flex-end;">
+                            <h4 style="color: #fff; font-size: 1rem; margin: 0; font-weight: 700;">CrossFit Rig Studio
+                            </h4>
+                            <span style="color: #FFD700; font-size: 0.8rem; font-family: var(--font-mono);">India</span>
+                        </div>
+                    </div>
+
+                    <div
+                        style="position: relative; border-radius: 16px; overflow: hidden; height: 260px; border: 1px solid rgba(255,255,255,0.1);">
+                        <img src="images/human_cardio.jpg" alt="Cardio Conditioning Lab"
+                            style="width: 100%; height: 100%; object-fit: cover; transition: transform 0.4s ease;"
+                            onmouseover="this.style.transform='scale(1.08)'"
+                            onmouseout="this.style.transform='scale(1)'">
+                        <div
+                            style="position: absolute; inset: 0; background: linear-gradient(to top, rgba(0,0,0,0.85) 0%, transparent 60%); padding: 1.2rem; display: flex; flex-direction: column; justify-content: flex-end;">
+                            <h4 style="color: #fff; font-size: 1rem; margin: 0; font-weight: 700;">Air Fan Bike
+                                Conditioning Zone</h4>
+                            <span style="color: #FFD700; font-size: 0.8rem; font-family: var(--font-mono);">India</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Call to Action Banner -->
+            <div class="about-cta-card">
+                <span
+                    style="color: #FFD700; font-family: var(--font-mono); font-size: 0.85rem; text-transform: uppercase; letter-spacing: 1.5px; font-weight: bold;">EQUIP
+                    YOUR JOURNEY</span>
+                <h2 style="color: #fff; margin: 0.5rem 0 1rem; font-weight: 900;">READY TO UPGRADE YOUR TRAINING SPACE?
+                </h2>
+                <p style="color: #cbd5e1; font-size: 1.05rem; max-width: 650px; margin: 0 auto 2rem; line-height: 1.6;">
+                    Whether you are building a garage power sanctuary or a full-scale commercial gym, explore our
+                    engineered gear suites today.
+                </p>
+                <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+                    <a href="shop.html" class="btn btn-gold glow-btn"
+                        style="padding: 0.9rem 2.2rem; font-weight: 800;">BROWSE ALL GEAR</a>
+                    <a href="bundles.html" class="btn"
+                        style="background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.2); color: #fff; padding: 0.9rem 2.2rem; border-radius: 8px; text-decoration: none; font-weight: 700;">EXPLORE
+                        BUNDLES</a>
+                </div>
+            </div>
+
+        </div>
+    </main>
+
+    <!-- Professional Footer -->
+    <footer class="cfooter">
+        <div class="cfooter-container">
+            <!-- Col 1: Brand -->
+            <div class="cfooter-col cfooter-brand-col">
+                <a href="index.html" class="cfooter-logo-link">
+                    <img src="logo.png?v=3" alt="FitVerse" class="cfooter-logo-img">
+                    <span class="cfooter-logo-text">FitVerse</span>
+                </a>
+                <p class="cfooter-brand-desc">
+                    Equip Your Journey with premium fitness gear engineered for peak performance and commercial
+                    durability.
+                </p>
+            </div>
+
+            <!-- Col 2: Shop Gear -->
+            <div class="cfooter-col">
+                <h4 class="cfooter-heading">SHOP GEAR</h4>
+                <ul class="cfooter-links">
+                    <li><a href="shop.html">Strength</a></li>
+                    <li><a href="shop.html">Cardio Equipment</a></li>
+                    <li><a href="categories.html">Categories</a></li>
+                    <li><a href="bundles.html">Bundles</a></li>
+                </ul>
+            </div>
+
+            <!-- Col 3: Company -->
+            <div class="cfooter-col">
+                <h4 class="cfooter-heading">COMPANY</h4>
+                <ul class="cfooter-links">
+                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="reviews.html">Reviews</a></li>
+                    <li><a href="careers.html">Careers</a></li>
+                    <li><a href="javascript:void(0)" onclick="openPressModal()">Press</a></li>
+                </ul>
+            </div>
+
+            <!-- Col 4: Customer Service -->
+            <div class="cfooter-col">
+                <h4 class="cfooter-heading">CUSTOMER SERVICE</h4>
+                <ul class="cfooter-links">
+                    <li><a href="javascript:void(0)" onclick="openHelpModal()">Help Center</a></li>
+                    <li><a href="javascript:void(0)" onclick="openShippingModal()">Shipping Policy</a></li>
+                    <li><a href="returns.html">Returns & Refunds</a></li>
+                    <li><a href="contact.html">Contact Us</a></li>
+                </ul>
+            </div>
+
+            <!-- Col 5: Newsletter -->
+            <div class="cfooter-col cfooter-newsletter-col">
+                <h4 class="cfooter-heading">NEWSLETTER</h4>
+                <p class="cfooter-newsletter-desc">Subscribe for VIP gear drops & discounts.</p>
+                <form
+                    onsubmit="event.preventDefault(); if(window.auth) auth.showToast('Thank you for subscribing!', 'success');"
+                    class="cfooter-form">
+                    <input type="email" placeholder="Enter your email" required class="cfooter-input">
+                    <button type="submit" class="cfooter-btn" aria-label="Subscribe"><i
+                            class="fas fa-arrow-right"></i></button>
+                </form>
+            </div>
+        </div>
+
+        <!-- Bottom Bar -->
+        <div class="cfooter-bottom">
+            <p class="cfooter-copy">&copy; 2026 FitVerse Inc. All rights reserved.</p>
+            <div class="cfooter-legal-links">
+                <a href="privacy.html">Privacy Policy</a>
+                <a href="terms.html">Terms of Service</a>
+                <a href="returns.html">Returns and refunds</a>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Overlays & Drawers -->
+
+
+    </div>
+
+    <!-- Cart Drawer -->
+    <!-- Compact Floating Search Bar -->
+    <div id="search-modal" style="display: none;">
+        <div>
+            <div class="search-bar-inner">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#ffd700" stroke-width="2.5"
+                    stroke-linecap="round" stroke-linejoin="round">
+                    <circle cx="11" cy="11" r="8"></circle>
+                    <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                </svg>
+                <input type="text" id="search-input-modal" placeholder="Search gear, categories, bundles..."
+                    autocomplete="off">
+                <button id="search-submit" class="search-submit-btn">Search</button>
+                <button class="close-search-btn" aria-label="Close search">&times;</button>
+            </div>
+            <div class="search-quick-tags">
+                <span>Popular:</span>
+                <a href="shop.html?category=Strength">Strength</a>
+                <a href="shop.html?category=Cardio">Cardio</a>
+                <a href="shop.html?category=Combat">Combat</a>
+                <a href="shop.html?category=Home Gym">Home Gym</a>
+                <a href="bundles.html">Bundles</a>
+            </div>
+        </div>
+    </div>
+
+    <div id="cart-overlay" class="overlay cart-overlay-bg">
+        <div class="cart-drawer">
+            <div class="cart-header"
+                style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.1); padding-bottom: 1rem;">
+                <h2 style="color: #fff; margin: 0;">Your Cart (<span id="cart-count-title">0</span>)</h2>
+                <button class="close-btn cart-close-btn" aria-label="Close Cart"
+                    style="background: none; border: none; color: #fff; font-size: 2rem; cursor: pointer;">&times;</button>
+            </div>
+            <div id="cart-items" class="cart-items" style="flex: 1; overflow-y: auto; padding: 1rem 0;">
+                <p style="color: rgba(255,255,255,0.5); text-align: center; margin-top: 2rem;">Your cart is empty.</p>
+            </div>
+            <div class="cart-footer" style="border-top: 1px solid rgba(255,255,255,0.1); padding-top: 1rem;">
+                <div class="cart-subtotal"
+                    style="display: flex; justify-content: space-between; color: #fff; font-size: 1.2rem; font-weight: bold; margin-bottom: 1rem;">
+                    <span>Subtotal:</span>
+                    <span id="cart-total-price">$0.00</span>
+                </div>
+                <a href="checkout.html" class="btn btn-primary" style="width: 100%; text-align: center;">Checkout</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Wishlist Modal -->
+    <div id="wishlist-overlay" class="overlay wishlist-overlay-bg">
+        <div class="cart-drawer" style="background: #1a1a1c; color: #fff;">
+            <div class="cart-header"
+                style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.1); padding-bottom: 1rem;">
+                <h2 style="color: #fff; margin: 0;">Your Wishlist (<span id="wishlist-count-title">0</span>)</h2>
+                <button class="close-btn wishlist-close-btn" aria-label="Close Wishlist"
+                    style="background: none; border: none; color: #fff; font-size: 2rem; cursor: pointer;">&times;</button>
+            </div>
+            <div id="wishlist-items" class="cart-items" style="flex: 1; overflow-y: auto; padding: 1rem 0;">
+                <p style="color: rgba(255,255,255,0.5); text-align: center; margin-top: 2rem;">Your wishlist is
+                    currently empty.</p>
+            </div>
+            <div class="cart-footer" style="border-top: 1px solid rgba(255,255,255,0.1); padding-top: 1rem;">
+                <a href="shop.html" class="btn btn-primary" style="width: 100%; text-align: center;">Continue
+                    Shopping</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Toast Notification Container -->
+    <div id="toast-container" class="toast-container"
+        style="position: fixed; bottom: 2rem; right: 2rem; z-index: 9999; display: flex; flex-direction: column; gap: 0.75rem;">
+    </div>
+
+    <!-- Back to Top -->
+    <button id="back-to-top" class="back-to-top icon-btn" aria-label="Back to top">↑</button>
+
+    <!-- Global App Scripts -->
+    <script src="products.js?v=1787555781"></script>
+    <script src="app.js?v=325"></script>
+    <script src="auth.js?v=325"></script>
+</body>
+
+</html>

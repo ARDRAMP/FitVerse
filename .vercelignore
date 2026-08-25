@@ -1,0 +1,15 @@
+*.py
+*.md
+.git
+.vercel
+.tempmediaStorage
+.user_uploaded
+scratch
+logo_original_backup.png
+styles_pure_restored.css
+styles_restored.css
+styles_restored_clean.css
+styles_restored_full.css
+assets/images/products/*/1.jpg
+assets/images/products/*/2.jpg
+assets/images/products/*/3.jpg

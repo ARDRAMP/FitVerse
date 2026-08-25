@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FitVerse | Returns & Refunds Policy</title>
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="logo.png?v=3">
+    <link rel="apple-touch-icon" href="logo.png?v=3">
+    <meta name="description" content="FitVerse Returns & Refunds Policy - 30-day hassle-free money back guarantee, return process, and exchange guidelines.">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Poppins:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css?v=440">
+    <style>
+        .policy-wrapper {
+            padding-top: calc(var(--nav-height) + 3rem);
+            padding-bottom: 5rem;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding-left: 1.5rem;
+            padding-right: 1.5rem;
+        }
+        .policy-hero {
+            text-align: center;
+            margin-bottom: 3.5rem;
+        }
+        .policy-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background: rgba(255, 215, 0, 0.1);
+            border: 1px solid rgba(255, 215, 0, 0.3);
+            color: #FFD700;
+            font-size: 0.85rem;
+            font-weight: 700;
+            padding: 6px 16px;
+            border-radius: 999px;
+            margin-bottom: 1rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        .policy-title {
+            font-size: 2.8rem;
+            font-weight: 800;
+            color: #fff;
+            margin-bottom: 1rem;
+        }
+        .policy-subtitle {
+            color: rgba(255, 255, 255, 0.7);
+            font-size: 1.1rem;
+            max-width: 700px;
+            margin: 0 auto 1.5rem auto;
+        }
+        .return-features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 3.5rem;
+        }
+        .feature-box {
+            background: rgba(15, 23, 42, 0.6);
+            border: 1px solid rgba(255, 215, 0, 0.2);
+            border-radius: 16px;
+            padding: 1.8rem;
+            text-align: center;
+        }
+        .feature-icon {
+            width: 54px;
+            height: 54px;
+            background: rgba(255, 215, 0, 0.15);
+            color: #FFD700;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            margin: 0 auto 1rem auto;
+        }
+        .feature-box h3 {
+            font-size: 1.15rem;
+            color: #fff;
+            margin-bottom: 0.5rem;
+        }
+        .feature-box p {
+            color: rgba(255, 255, 255, 0.7);
+            font-size: 0.9rem;
+            line-height: 1.5;
+            margin: 0;
+        }
+        .policy-card {
+            background: rgba(15, 23, 42, 0.5);
+            backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            border-radius: 20px;
+            padding: 2.5rem;
+            margin-bottom: 2rem;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+        }
+        .policy-card h2 {
+            font-size: 1.6rem;
+            color: #FFD700;
+            margin-bottom: 1.2rem;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        .policy-card p {
+            color: rgba(255, 255, 255, 0.8);
+            line-height: 1.7;
+            margin-bottom: 1rem;
+            font-size: 0.98rem;
+        }
+        .steps-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 1.5rem;
+            margin: 2rem 0;
+        }
+        .step-item {
+            background: rgba(0, 0, 0, 0.4);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            border-radius: 12px;
+            padding: 1.5rem;
+            position: relative;
+        }
+        .step-number {
+            width: 32px;
+            height: 32px;
+            background: #FFD700;
+            color: #000;
+            font-weight: 800;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.9rem;
+            margin-bottom: 1rem;
+        }
+        .step-item h4 {
+            color: #fff;
+            font-size: 1.05rem;
+            margin-bottom: 0.5rem;
+        }
+        .step-item p {
+            color: rgba(255, 255, 255, 0.7);
+            font-size: 0.88rem;
+            margin: 0;
+        }
+        .faq-accordion {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+            margin-top: 1.5rem;
+        }
+        .faq-item {
+            background: rgba(0, 0, 0, 0.4);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            border-radius: 12px;
+            padding: 1.25rem 1.5rem;
+            cursor: pointer;
+        }
+        .faq-question {
+            color: #fff;
+            font-weight: 600;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 1rem;
+        }
+        .faq-answer {
+            color: rgba(255, 255, 255, 0.75);
+            font-size: 0.92rem;
+            line-height: 1.6;
+            margin-top: 0.75rem;
+            display: block;
+        }
+    </style>
+</head>
+<body class="dark-theme">
+    <!-- Navigation -->
+    <header class="navbar">
+        <div class="nav-container">
+            <a href="index.html" class="brand">
+                <img src="logo.png?v=3" alt="FitVerse Logo" class="brand-logo">
+                <span class="brand-wordmark">FitVerse</span>
+            </a>
+
+            <nav class="nav-links golds-nav-links">
+                <a href="index.html">HOME</a>
+                <span class="nav-divider">|</span>
+                <a href="shop.html">SHOP</a>
+                <span class="nav-divider">|</span>
+                <a href="categories.html">CATEGORIES</a>
+                <span class="nav-divider">|</span>
+                <a href="bundles.html">BUNDLES</a>
+                <span class="nav-divider">|</span>
+                <a href="about.html">ABOUT US</a>
+            </nav>
+
+            <div class="nav-actions golds-nav-actions">
+                <button aria-label="Wishlist" class="icon-btn wishlist-toggle">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path>
+                    </svg>
+                    <span class="wishlist-badge" style="display:none;">0</span>
+                </button>
+                
+                <button aria-label="Cart" class="icon-btn cart-toggle">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <circle cx="9" cy="21" r="1"></circle>
+                        <circle cx="20" cy="21" r="1"></circle>
+                        <path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path>
+                    </svg>
+                    <span class="cart-badge" style="display:none;">0</span>
+                </button>
+                <a href="login.html" class="golds-signin-btn">SIGN IN</a>
+                <button aria-label="Toggle Navigation" class="mobile-menu-toggle" onclick="window.toggleMobileMenu(event)">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg>
+                </button>
+            </div>
+        </div>
+
+        <!-- Mobile Menu Panel -->
+        <div class="mobile-menu">
+            <a href="index.html" class="mobile-link">Home</a>
+            <a href="shop.html" class="mobile-link">Shop</a>
+            <a href="categories.html" class="mobile-link">Categories</a>
+            <a href="bundles.html" class="mobile-link">Bundles</a>
+            <a href="about.html" class="mobile-link">About Us</a>
+            <a href="login.html" class="golds-signin-btn mobile-join">SIGN IN</a>
+        </div>
+    </header>
+
+    <main class="policy-wrapper">
+        <div class="policy-hero">
+            <div class="policy-badge"><i class="fas fa-undo-alt"></i> Guarantee & Support</div>
+            <h1 class="policy-title">Returns & Refunds Policy</h1>
+            <p class="policy-subtitle">We stand behind our gear. Enjoy 30 days of hassle-free returns on all eligible FitVerse products.</p>
+        </div>
+
+        <div class="return-features">
+            <div class="feature-box">
+                <div class="feature-icon"><i class="fas fa-calendar-check"></i></div>
+                <h3>30-Day Window</h3>
+                <p>Initiate returns within 30 days of item delivery.</p>
+            </div>
+            <div class="feature-box">
+                <div class="feature-icon"><i class="fas fa-truck-loading"></i></div>
+                <h3>Free Doorstep Pickup</h3>
+                <p>Complimentary courier collection for all returnable items.</p>
+            </div>
+            <div class="feature-box">
+                <div class="feature-icon"><i class="fas fa-money-check-alt"></i></div>
+                <h3>Fast Refund Processing</h3>
+                <p>Refunds issued within 3-5 business days upon inspection.</p>
+            </div>
+        </div>
+
+        <div class="policy-card">
+            <h2><i class="fas fa-tasks"></i> How to Return an Item (4 Simple Steps)</h2>
+            <div class="steps-container">
+                <div class="step-item">
+                    <div class="step-number">1</div>
+                    <h4>Request Return</h4>
+                    <p>Log in to your profile or contact support with your Order ID.</p>
+                </div>
+                <div class="step-item">
+                    <div class="step-number">2</div>
+                    <h4>Pack Item</h4>
+                    <p>Place item in original packaging with tags and manuals intact.</p>
+                </div>
+                <div class="step-item">
+                    <div class="step-number">3</div>
+                    <h4>Courier Pickup</h4>
+                    <p>Our courier agent collects the package from your doorstep.</p>
+                </div>
+                <div class="step-item">
+                    <div class="step-number">4</div>
+                    <h4>Receive Refund</h4>
+                    <p>Refund is credited to your original payment method or store credit.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="policy-card">
+            <h2><i class="fas fa-clipboard-check"></i> Return Eligibility Criteria</h2>
+            <p>To be eligible for a full refund or exchange, items must meet the following criteria:</p>
+            <ul style="line-height:1.8;">
+                <li>Item must be unused, unwashed, and in the same original condition as received.</li>
+                <li>Original tags, protective plastic, and manufacturer box must be intact.</li>
+                <li>Heavy strength cages and machines must be un-assembled or disassembled into original boxes.</li>
+                <li><strong>Non-Returnable Items:</strong> Sealed nutritional supplements that have been opened, customized apparel, and hygienic items (e.g. mouthguards).</li>
+            </ul>
+        </div>
+
+        <div class="policy-card">
+            <h2><i class="fas fa-question-circle"></i> Frequently Asked Questions</h2>
+            <div class="faq-accordion">
+                <div class="faq-item">
+                    <div class="faq-question"><span>How long does it take to process my refund?</span> <i class="fas fa-chevron-down" style="color:#FFD700;"></i></div>
+                    <div class="faq-answer">Once your return package arrives at our warehouse, our quality control team inspects the item within 24 hours. Approved refunds are processed back to your UPI, credit card, or bank account in 3 to 5 business days.</div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-question"><span>What if I received a damaged or defective item?</span> <i class="fas fa-chevron-down" style="color:#FFD700;"></i></div>
+                    <div class="faq-answer">If your shipment arrives damaged or defective, please notify us within 48 hours with photo/video proof. We will send an immediate replacement at zero cost and arrange express pickup.</div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-question"><span>Can I exchange for a different size or product?</span> <i class="fas fa-chevron-down" style="color:#FFD700;"></i></div>
+                    <div class="faq-answer">Yes! Exchanges for size differences (apparel, belts, wrist wraps) are completely free. Select "Exchange" when submitting your return request.</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="policy-card" style="text-align: center; background: rgba(255,215,0,0.05); border-color: rgba(255,215,0,0.3);">
+            <h2 style="justify-content: center; color: #FFD700;"><i class="fas fa-headset"></i> Need Help with a Return?</h2>
+            <p style="color: rgba(255,255,255,0.9); margin-bottom: 1.5rem;">Our customer care team is available 24/7 to assist you with returns, exchanges, and warranty claims.</p>
+            <a href="contact.html" class="btn btn-primary" style="background: #FFD700; color: #000; font-weight: 800; padding: 0.85rem 2rem; border-radius: 999px; text-decoration: none;">Contact Support Team</a>
+        </div>
+    </main>
+
+                        <!-- Professional Footer -->
+        <footer class="cfooter">
+        <div class="cfooter-container">
+            <!-- Col 1: Brand -->
+            <div class="cfooter-col cfooter-brand-col">
+                <a href="index.html" class="cfooter-logo-link">
+                    <img src="logo.png?v=3" alt="FitVerse" class="cfooter-logo-img">
+                    <span class="cfooter-logo-text">FitVerse</span>
+                </a>
+                <p class="cfooter-brand-desc">
+                    Equip Your Journey with premium fitness gear engineered for peak performance and commercial durability.
+                </p>
+            </div>
+
+            <!-- Col 2: Shop Gear -->
+            <div class="cfooter-col">
+                <h4 class="cfooter-heading">SHOP GEAR</h4>
+                <ul class="cfooter-links">
+                    <li><a href="shop.html">Strength</a></li>
+                    <li><a href="shop.html">Cardio Equipment</a></li>
+                    <li><a href="categories.html">Categories</a></li>
+                    <li><a href="bundles.html">Bundles</a></li>
+                </ul>
+            </div>
+
+            <!-- Col 3: Company -->
+            <div class="cfooter-col">
+                <h4 class="cfooter-heading">COMPANY</h4>
+                <ul class="cfooter-links">
+                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="reviews.html">Reviews</a></li>
+                    <li><a href="careers.html">Careers</a></li>
+                    <li><a href="javascript:void(0)" onclick="openPressModal()">Press</a></li>
+                </ul>
+            </div>
+
+            <!-- Col 4: Customer Service -->
+            <div class="cfooter-col">
+                <h4 class="cfooter-heading">CUSTOMER SERVICE</h4>
+                <ul class="cfooter-links">
+                    <li><a href="javascript:void(0)" onclick="openHelpModal()">Help Center</a></li>
+                    <li><a href="javascript:void(0)" onclick="openShippingModal()">Shipping Policy</a></li>
+                    <li><a href="returns.html">Returns & Refunds</a></li>
+                    <li><a href="contact.html">Contact Us</a></li>
+                </ul>
+            </div>
+
+            <!-- Col 5: Newsletter -->
+            <div class="cfooter-col cfooter-newsletter-col">
+                <h4 class="cfooter-heading">NEWSLETTER</h4>
+                <p class="cfooter-newsletter-desc">Subscribe for VIP gear drops & discounts.</p>
+                <form onsubmit="event.preventDefault(); if(window.auth) auth.showToast('Thank you for subscribing!', 'success');" class="cfooter-form">
+                    <input type="email" placeholder="Enter your email" required class="cfooter-input">
+                    <button type="submit" class="cfooter-btn" aria-label="Subscribe"><i class="fas fa-arrow-right"></i></button>
+                </form>
+            </div>
+        </div>
+
+        <!-- Bottom Bar -->
+        <div class="cfooter-bottom">
+            <p class="cfooter-copy">&copy; 2026 FitVerse Inc. All rights reserved.</p>
+            <div class="cfooter-legal-links">
+                <a href="privacy.html">Privacy Policy</a>
+                <a href="terms.html">Terms of Service</a>
+                <a href="returns.html">Returns and refunds</a>
+            </div>
+        </div>
+    </footer> -->
+
+    <!-- Overlays -->
+        <!-- Compact Floating Search Bar -->
+    <div id="search-modal" style="display: none;">
+        <div>
+            <div class="search-bar-inner">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#ffd700" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+                <input type="text" id="search-input-modal" placeholder="Search gear, categories, bundles..." autocomplete="off">
+                <button id="search-submit" class="search-submit-btn">Search</button>
+                <button class="close-search-btn" aria-label="Close search">&times;</button>
+            </div>
+            <div class="search-quick-tags">
+                <span>Popular:</span>
+                <a href="shop.html?category=Strength">Strength</a>
+                <a href="shop.html?category=Cardio">Cardio</a>
+                <a href="shop.html?category=Combat">Combat</a>
+                <a href="shop.html?category=Home Gym">Home Gym</a>
+                <a href="bundles.html">Bundles</a>
+            </div>
+        </div>
+    </div>
+
+    <div id="cart-overlay" class="overlay cart-overlay-bg">
+        <div class="cart-drawer">
+            <div class="cart-header">
+                <h2>Your Cart (<span id="cart-count-title">0</span>)</h2>
+                <button class="close-btn cart-close-btn" aria-label="Close Cart">✕</button>
+            </div>
+            <div id="cart-items" class="cart-items"></div>
+            <div class="cart-footer">
+                <div class="cart-subtotal"><span>Subtotal</span><span id="cart-total-price">₹0.00</span></div>
+                <a href="checkout.html" id="checkout-btn" class="btn btn-primary btn-block" style="width: 100%; text-align: center; display: block; background: #ffd700; color: #000; font-weight: 800; padding: 0.85rem; border-radius: 8px; text-decoration: none; text-transform: uppercase;">Checkout</a>
+            </div>
+        </div>
+    </div>
+
+    <div id="wishlist-overlay" class="overlay wishlist-overlay-bg">
+        <div class="cart-drawer" style="background: #1a1a1c; color: #fff;">
+            <div class="cart-header" style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.1); padding-bottom: 1rem;">
+                <h2 style="color: #fff; margin: 0;">Your Wishlist (<span id="wishlist-count-title">0</span>)</h2>
+                <button class="close-btn wishlist-close-btn" aria-label="Close Wishlist" style="background: none; border: none; color: #fff; font-size: 2rem; cursor: pointer;">&times;</button>
+            </div>
+            <div id="wishlist-items" class="cart-items" style="flex: 1; overflow-y: auto; padding: 1rem 0;">
+                <p style="color: rgba(255,255,255,0.5); text-align: center; margin-top: 2rem;">Your wishlist is currently empty.</p>
+            </div>
+            <div class="cart-footer" style="border-top: 1px solid rgba(255,255,255,0.1); padding-top: 1rem;">
+                <a href="shop.html" class="btn btn-primary" style="width: 100%; text-align: center;">Continue Shopping</a>
+            </div>
+        </div>
+    </div>
+
+    
+    </div>
+
+    <script src="products.js?v=440"></script>
+    <script src="app.js?v=440"></script>
+    <script src="auth.js?v=440"></script>
+</body>
+</html>

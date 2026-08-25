@@ -1,0 +1,636 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Detail — FitVerse | Premium Fitness Equipment</title>
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="logo.png?v=3">
+    <link rel="apple-touch-icon" href="logo.png?v=3">
+    <meta name="description" content="View detailed product information, specifications, and purchase premium fitness equipment at FitVerse.">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Poppins:wght@300;400;500;600;700;800;900&family=Outfit:wght@400;500;600;700;800;900&family=Bebas+Neue&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <link rel="stylesheet" href="styles.css?v=440">
+
+    <style>
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+        html { scroll-behavior: smooth; }
+        body { background: #060a10; color: #fff; font-family: 'Inter', sans-serif; min-height: 100vh; overflow-x: hidden; }
+
+        /* ── Product Page Layout ───────────────────────── */
+        .product-page-wrapper {
+            max-width: 1300px;
+            margin: 0 auto;
+            padding: 6rem 2rem 4rem;
+        }
+
+        .product-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 4rem;
+            align-items: start;
+            min-height: 500px;
+        }
+
+        @media (max-width: 900px) {
+            .product-page-wrapper {
+                padding: 1.25rem 0.85rem 3rem !important;
+            }
+            .product-container {
+                grid-template-columns: 1fr !important;
+                gap: 1.5rem !important;
+            }
+            .premium-gallery {
+                position: relative !important;
+                top: auto !important;
+                width: 100% !important;
+            }
+        }
+
+        /* ── Gallery ───────────────────────────────────── */
+        .premium-gallery {
+            position: sticky;
+            top: 6rem;
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+
+        .zoom-image-container {
+            position: relative;
+            width: 100%;
+            aspect-ratio: 1 / 1;
+            border-radius: 20px;
+            overflow: hidden;
+            background: rgba(255,255,255,0.04);
+            border: 1px solid rgba(255,255,255,0.08);
+            cursor: zoom-in;
+        }
+
+        .zoom-image {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+            transition: transform 0.4s ease;
+        }
+
+        .zoom-image-container:hover .zoom-image {
+            transform: scale(1.08);
+        }
+
+        .premium-thumbnails {
+            display: flex;
+            gap: 0.75rem;
+        }
+
+        .premium-thumb {
+            flex: 1;
+            aspect-ratio: 1 / 1;
+            border-radius: 12px;
+            overflow: hidden;
+            border: 2px solid transparent;
+            cursor: pointer;
+            background: rgba(255,255,255,0.04);
+            transition: border-color 0.2s, transform 0.2s;
+        }
+
+        .premium-thumb img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: opacity 0.2s;
+        }
+
+        .premium-thumb:hover {
+            border-color: rgba(255, 215, 0, 0.5);
+            transform: translateY(-2px);
+        }
+
+        .premium-thumb.active {
+            border-color: #ffd700;
+            box-shadow: 0 0 12px rgba(255, 215, 0, 0.35);
+        }
+
+        /* ── Wishlist / Stock badge ─────────────────────── */
+        .premium-wishlist {
+            position: absolute;
+            top: 1rem;
+            right: 1rem;
+            width: 44px;
+            height: 44px;
+            border-radius: 50%;
+            background: rgba(6, 10, 16, 0.7);
+            backdrop-filter: blur(8px);
+            border: 1px solid rgba(255,255,255,0.15);
+            color: #fff;
+            font-size: 1.1rem;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s;
+            z-index: 5;
+        }
+        .premium-wishlist:hover, .premium-wishlist.active { color: #ff4a4a; border-color: #ff4a4a; }
+
+        .stock-badge {
+            display: none !important;
+        }
+
+        .pulse-dot {
+            width: 8px;
+            height: 8px;
+            background: #4ade80;
+            border-radius: 50%;
+            animation: pulse 1.5s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; transform: scale(1); }
+            50% { opacity: 0.5; transform: scale(0.8); }
+        }
+
+        /* ── Details ────────────────────────────────────── */
+        .premium-details { display: flex; flex-direction: column; gap: 1.5rem; }
+
+        .premium-breadcrumbs {
+            font-size: 0.8rem;
+            color: rgba(255,255,255,0.4);
+            font-family: 'JetBrains Mono', monospace;
+        }
+        .premium-breadcrumbs a { color: rgba(255,255,255,0.4); text-decoration: none; }
+        .premium-breadcrumbs a:hover { color: #ffd700; }
+        .premium-breadcrumbs span { color: rgba(255,255,255,0.7); }
+
+        .premium-title {
+            font-family: 'Outfit', 'Inter', sans-serif !important;
+            font-size: clamp(1.8rem, 3.5vw, 2.5rem) !important;
+            font-weight: 700 !important;
+            font-style: normal !important;
+            color: #ffffff !important;
+            line-height: 1.25 !important;
+            letter-spacing: -0.02em !important;
+            text-transform: capitalize !important;
+        }
+
+        .premium-meta { display: flex; align-items: center; gap: 1rem; flex-wrap: wrap; }
+
+        .premium-rating { display: flex; align-items: center; gap: 0.5rem; }
+        .premium-rating .stars { color: #ffd700; font-size: 0.9rem; }
+        .premium-rating .rating-text { font-size: 0.85rem; color: rgba(255,255,255,0.5); }
+
+        .premium-category-tag {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.4rem;
+            background: rgba(255, 215, 0, 0.1);
+            color: #ffd700;
+            border: 1px solid rgba(255,215,0,0.25);
+            border-radius: 50px;
+            padding: 0.3rem 0.85rem;
+            font-size: 0.75rem;
+            font-weight: 700;
+            font-family: 'JetBrains Mono', monospace;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .premium-price {
+            font-size: 2.2rem;
+            font-weight: 900;
+            color: #ffd700;
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        .premium-excerpt {
+            font-size: 0.95rem;
+            line-height: 1.7;
+            color: rgba(255,255,255,0.65);
+        }
+
+        .feature-badges {
+            display: flex;
+            gap: 0.75rem;
+            flex-wrap: wrap;
+        }
+
+        .badge-item {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            background: rgba(255,255,255,0.04);
+            border: 1px solid rgba(255,255,255,0.08);
+            border-radius: 10px;
+            padding: 0.5rem 0.85rem;
+            font-size: 0.78rem;
+            font-weight: 600;
+            color: rgba(255,255,255,0.7);
+        }
+        .badge-item i { color: #ffd700; }
+
+        /* ── Actions (Sleek & Professional) ───────────────── */
+        .premium-actions {
+            display: flex;
+            flex-direction: column;
+            gap: 0.6rem;
+            margin: 0.5rem 0 1.2rem;
+            width: 100%;
+        }
+
+        .actions-top-row {
+            display: flex;
+            gap: 0.65rem;
+            width: 100%;
+            align-items: center;
+        }
+
+        .premium-qty {
+            display: flex;
+            align-items: center;
+            border: 1px solid rgba(255,255,255,0.15);
+            border-radius: 8px;
+            overflow: hidden;
+            height: 42px;
+            background: rgba(255,255,255,0.03);
+            flex-shrink: 0;
+        }
+
+        .qty-btn {
+            width: 34px;
+            height: 100%;
+            background: rgba(255,255,255,0.04);
+            border: none;
+            color: #fff;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: background 0.2s, color 0.2s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .qty-btn:hover { background: rgba(255,215,0,0.2); color: #ffd700; }
+
+        .qty-input {
+            width: 38px;
+            height: 100%;
+            background: transparent;
+            border: none;
+            color: #fff;
+            font-size: 0.88rem;
+            font-weight: 700;
+            text-align: center;
+            outline: none;
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        .premium-add-to-cart {
+            flex: 1;
+            height: 42px;
+            background: rgba(255, 215, 0, 0.12) !important;
+            color: #FFD700 !important;
+            border: 1px solid rgba(255, 215, 0, 0.4) !important;
+            border-radius: 8px;
+            font-weight: 700 !important;
+            font-size: 0.82rem !important;
+            letter-spacing: 0.8px;
+            text-transform: uppercase;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+            transition: all 0.25s ease;
+        }
+        .premium-add-to-cart:hover {
+            background: #FFD700 !important;
+            color: #000000 !important;
+            border-color: #FFD700 !important;
+            box-shadow: 0 4px 12px rgba(255, 215, 0, 0.3);
+        }
+
+        .premium-buy-now {
+            width: 100%;
+            height: 44px;
+            background: #FFD700 !important;
+            color: #000000 !important;
+            border: none !important;
+            border-radius: 4px;
+            font-weight: 900 !important;
+            font-size: 0.85rem !important;
+            letter-spacing: 0.5px;
+            text-transform: uppercase;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+            transition: all 0.2s ease;
+        }
+        .premium-buy-now:hover {
+            background: #ffffff !important;
+            color: #000000 !important;
+        }
+
+        /* ── Accordion ───────────────────────────────────── */
+        .premium-accordion { display: flex; flex-direction: column; gap: 0; border: 1px solid rgba(255,255,255,0.08); border-radius: 14px; overflow: hidden; }
+
+        .accordion-item { border-bottom: 1px solid rgba(255,255,255,0.06); }
+        .accordion-item:last-child { border-bottom: none; }
+
+        .accordion-header {
+            width: 100%;
+            background: rgba(255,255,255,0.03);
+            border: none;
+            color: #fff;
+            font-size: 0.95rem;
+            font-weight: 600;
+            padding: 1rem 1.25rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+        .accordion-header:hover { background: rgba(255,255,255,0.06); }
+        .accordion-header i { transition: transform 0.3s; font-size: 0.8rem; color: rgba(255,255,255,0.5); }
+        .accordion-item.active .accordion-header i { transform: rotate(180deg); }
+
+        .accordion-content {
+            max-height: 0;
+            overflow: hidden;
+            opacity: 0;
+            transition: max-height 0.4s ease, opacity 0.3s ease, padding 0.3s ease;
+            padding: 0 1.25rem;
+            font-size: 0.92rem;
+            color: rgba(255,255,255,0.75);
+            line-height: 1.7;
+        }
+
+        .accordion-item.active .accordion-content {
+            max-height: 2000px !important;
+            opacity: 1 !important;
+            padding: 0.75rem 1.25rem 1.5rem !important;
+        }
+
+        .accordion-content p { padding: 0.5rem 0; margin: 0; }
+        .accordion-content p + p { border-top: 1px solid rgba(255,255,255,0.05); margin-top: 0.5rem; padding-top: 0.75rem; }
+
+        .specs-list { list-style: none; padding: 0.75rem 0; }
+        .specs-list li { padding: 0.4rem 0; border-bottom: 1px solid rgba(255,255,255,0.04); font-size: 0.88rem; }
+        .specs-list li:last-child { border-bottom: none; }
+        .specs-list li strong { color: rgba(255,255,255,0.8); min-width: 110px; display: inline-block; }
+
+        /* ── Related Products section ─────────────────────── */
+        .related-section {
+            padding: 4rem 2rem;
+            max-width: 1300px;
+            margin: 0 auto;
+        }
+        .related-section h2 {
+            font-size: 1.8rem;
+            font-weight: 900;
+            color: #fff;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 2rem;
+        }
+        .related-section h2 span { color: #ffd700; }
+        #related-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+            gap: 1.5rem;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- Loading Screen -->
+    <div id="loader" class="loader-overlay">
+        <div class="loader-content">
+            <img src="logo.png?v=3" alt="Loading" class="loader-icon" style="width:50px; height:auto; border-radius: 50%;">
+            <div class="loader-text">Loading the Verse...</div>
+        </div>
+    </div>
+
+        <!-- Navigation -->
+    <header class="navbar">
+        <div class="nav-container">
+            <a href="index.html" class="brand">
+                <img src="logo.png?v=3" alt="FitVerse Logo" class="brand-logo">
+                <span class="brand-wordmark">FitVerse</span>
+            </a>
+
+            <nav class="nav-links golds-nav-links">
+                <a href="index.html">HOME</a>
+                <span class="nav-divider">|</span>
+                <a href="shop.html">SHOP</a>
+                <span class="nav-divider">|</span>
+                <a href="categories.html">CATEGORIES</a>
+                <span class="nav-divider">|</span>
+                <a href="bundles.html">BUNDLES</a>
+                <span class="nav-divider">|</span>
+                <a href="about.html">ABOUT US</a>
+            </nav>
+
+            <div class="nav-actions golds-nav-actions">
+                <button aria-label="Wishlist" class="icon-btn wishlist-toggle">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path>
+                    </svg>
+                    <span class="wishlist-badge" style="display:none;">0</span>
+                </button>
+                
+                <button aria-label="Cart" class="icon-btn cart-toggle">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <circle cx="9" cy="21" r="1"></circle>
+                        <circle cx="20" cy="21" r="1"></circle>
+                        <path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path>
+                    </svg>
+                    <span class="cart-badge" style="display:none;">0</span>
+                </button>
+                <a href="login.html" class="golds-signin-btn">SIGN IN</a>
+                <button aria-label="Toggle Navigation" class="mobile-menu-toggle" onclick="window.toggleMobileMenu(event)">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg>
+                </button>
+            </div>
+        </div>
+
+        <!-- Mobile Menu Panel -->
+        <div class="mobile-menu">
+            <a href="index.html" class="mobile-link">Home</a>
+            <a href="shop.html" class="mobile-link">Shop</a>
+            <a href="categories.html" class="mobile-link">Categories</a>
+            <a href="bundles.html" class="mobile-link">Bundles</a>
+            <a href="about.html" class="mobile-link">About Us</a>
+            <a href="login.html" class="golds-signin-btn mobile-join">SIGN IN</a>
+        </div>
+    </header>
+
+    <!-- ── Main Product Content ──────────────────────────── -->
+    <main>
+        <div class="product-page-wrapper">
+            <div id="product-container" class="product-container">
+                <!-- Injected by product-app.js?v=440 -->
+                <div style="grid-column: 1/-1; text-align:center; padding: 5rem 1rem; color: rgba(255,255,255,0.3);">
+                    <i class="fas fa-spinner fa-spin" style="font-size: 2rem; margin-bottom: 1rem; display: block;"></i>
+                    Loading product...
+                </div>
+            </div>
+        </div>
+
+        <!-- Related Products -->
+        <section class="related-section">
+            <h2>YOU MAY ALSO <span>LIKE</span></h2>
+            <div id="related-grid">
+                <!-- Injected by product-app.js?v=440 -->
+            </div>
+        </section>
+    </main>
+
+                        <!-- Professional Footer -->
+        <footer class="cfooter">
+        <div class="cfooter-container">
+            <!-- Col 1: Brand -->
+            <div class="cfooter-col cfooter-brand-col">
+                <a href="index.html" class="cfooter-logo-link">
+                    <img src="logo.png?v=3" alt="FitVerse" class="cfooter-logo-img">
+                    <span class="cfooter-logo-text">FitVerse</span>
+                </a>
+                <p class="cfooter-brand-desc">
+                    Equip Your Journey with premium fitness gear engineered for peak performance and commercial durability.
+                </p>
+            </div>
+
+            <!-- Col 2: Shop Gear -->
+            <div class="cfooter-col">
+                <h4 class="cfooter-heading">SHOP GEAR</h4>
+                <ul class="cfooter-links">
+                    <li><a href="shop.html">Strength</a></li>
+                    <li><a href="shop.html">Cardio Equipment</a></li>
+                    <li><a href="categories.html">Categories</a></li>
+                    <li><a href="bundles.html">Bundles</a></li>
+                </ul>
+            </div>
+
+            <!-- Col 3: Company -->
+            <div class="cfooter-col">
+                <h4 class="cfooter-heading">COMPANY</h4>
+                <ul class="cfooter-links">
+                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="reviews.html">Reviews</a></li>
+                    <li><a href="careers.html">Careers</a></li>
+                    <li><a href="javascript:void(0)" onclick="openPressModal()">Press</a></li>
+                </ul>
+            </div>
+
+            <!-- Col 4: Customer Service -->
+            <div class="cfooter-col">
+                <h4 class="cfooter-heading">CUSTOMER SERVICE</h4>
+                <ul class="cfooter-links">
+                    <li><a href="javascript:void(0)" onclick="openHelpModal()">Help Center</a></li>
+                    <li><a href="javascript:void(0)" onclick="openShippingModal()">Shipping Policy</a></li>
+                    <li><a href="returns.html">Returns & Refunds</a></li>
+                    <li><a href="contact.html">Contact Us</a></li>
+                </ul>
+            </div>
+
+            <!-- Col 5: Newsletter -->
+            <div class="cfooter-col cfooter-newsletter-col">
+                <h4 class="cfooter-heading">NEWSLETTER</h4>
+                <p class="cfooter-newsletter-desc">Subscribe for VIP gear drops & discounts.</p>
+                <form onsubmit="event.preventDefault(); if(window.auth) auth.showToast('Thank you for subscribing!', 'success');" class="cfooter-form">
+                    <input type="email" placeholder="Enter your email" required class="cfooter-input">
+                    <button type="submit" class="cfooter-btn" aria-label="Subscribe"><i class="fas fa-arrow-right"></i></button>
+                </form>
+            </div>
+        </div>
+
+        <!-- Bottom Bar -->
+        <div class="cfooter-bottom">
+            <p class="cfooter-copy">&copy; 2026 FitVerse Inc. All rights reserved.</p>
+            <div class="cfooter-legal-links">
+                <a href="privacy.html">Privacy Policy</a>
+                <a href="terms.html">Terms of Service</a>
+                <a href="returns.html">Returns and refunds</a>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Cart Drawer -->
+        <!-- Compact Floating Search Bar -->
+    <div id="search-modal" style="display: none;">
+        <div>
+            <div class="search-bar-inner">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#ffd700" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+                <input type="text" id="search-input-modal" placeholder="Search gear, categories, bundles..." autocomplete="off">
+                <button id="search-submit" class="search-submit-btn">Search</button>
+                <button class="close-search-btn" aria-label="Close search">&times;</button>
+            </div>
+            <div class="search-quick-tags">
+                <span>Popular:</span>
+                <a href="shop.html?category=Strength">Strength</a>
+                <a href="shop.html?category=Cardio">Cardio</a>
+                <a href="shop.html?category=Combat">Combat</a>
+                <a href="shop.html?category=Home Gym">Home Gym</a>
+                <a href="bundles.html">Bundles</a>
+            </div>
+        </div>
+    </div>
+
+    <div id="cart-overlay" class="overlay cart-overlay-bg">
+        <div class="cart-drawer">
+            <div class="cart-header">
+                <h2>Your Cart (<span id="cart-count-title">0</span>)</h2>
+                <button class="close-btn cart-close-btn" aria-label="Close Cart">✕</button>
+            </div>
+            <div id="cart-items" class="cart-items"><!-- injected --></div>
+            <div class="cart-footer">
+                <div class="cart-subtotal">
+                    <span>Subtotal</span>
+                    <span id="cart-total-price">₹0.00</span>
+                </div>
+                <a href="checkout.html" id="checkout-btn" class="btn btn-primary btn-block" style="width: 100%; text-align: center; display: block; background: #ffd700; color: #000; font-weight: 800; padding: 0.85rem; border-radius: 8px; text-decoration: none; text-transform: uppercase;">Checkout</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Wishlist Drawer -->
+    <div id="wishlist-overlay" class="overlay wishlist-overlay-bg">
+        <div class="cart-drawer" style="background: #1a1a1c; color: #fff;">
+            <div class="cart-header" style="display:flex; justify-content:space-between; align-items:center; border-bottom:1px solid rgba(255,255,255,0.1); padding-bottom:1rem;">
+                <h2 style="color:#fff; margin:0;">Your Wishlist (<span id="wishlist-count-title">0</span>)</h2>
+                <button class="close-btn wishlist-close-btn" aria-label="Close Wishlist" style="background:none; border:none; color:#fff; font-size:2rem; cursor:pointer;">&times;</button>
+            </div>
+            <div id="wishlist-items" class="cart-items" style="flex:1; overflow-y:auto; padding:1rem 0;">
+                <p style="color:rgba(255,255,255,0.5); text-align:center; margin-top:2rem;">Your wishlist is currently empty.</p>
+            </div>
+            <div class="cart-footer" style="border-top:1px solid rgba(255,255,255,0.1); padding-top:1rem;">
+                <a href="shop.html" class="btn btn-primary" style="width:100%; text-align:center;">Continue Shopping</a>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <!-- Toast Notifications -->
+    <div id="toast-container" class="toast-container"></div>
+
+    <!-- Back to Top -->
+    <button id="back-to-top" class="back-to-top icon-btn" aria-label="Back to top">↑</button>
+
+    <!-- Scripts (order matters: data → shared logic → page logic) -->
+    <script src="products.js?v=440"></script>
+    <script src="app.js?v=440"></script>
+    <script src="product-app.js?v=440"></script>
+    <script src="auth.js?v=440"></script>
+</body>
+</html>

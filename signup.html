@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FitVerse | Sign Up</title>
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="logo.png?v=3">
+    <link rel="apple-touch-icon" href="logo.png?v=3">
+    <meta name="description" content="Create your FitVerse account to access premium equipment, manage orders, and track your fitness journey.">
+    
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Poppins:wght@300;400;500;600;700;800&family=Playfair+Display:ital,wght@1,400;1,500;1,600&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="styles.css?v=440">
+</head>
+<body class="login-body">
+        <!-- Navigation -->
+    <header class="navbar">
+        <div class="nav-container">
+            <a href="index.html" class="brand">
+                <img src="logo.png?v=3" alt="FitVerse Logo" class="brand-logo">
+                <span class="brand-wordmark">FitVerse</span>
+            </a>
+
+            <nav class="nav-links golds-nav-links">
+                <a href="index.html">HOME</a>
+                <span class="nav-divider">|</span>
+                <a href="shop.html">SHOP</a>
+                <span class="nav-divider">|</span>
+                <a href="categories.html">CATEGORIES</a>
+                <span class="nav-divider">|</span>
+                <a href="bundles.html">BUNDLES</a>
+                <span class="nav-divider">|</span>
+                <a href="about.html">ABOUT US</a>
+            </nav>
+
+            <div class="nav-actions golds-nav-actions">
+                <button aria-label="Wishlist" class="icon-btn wishlist-toggle">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path>
+                    </svg>
+                    <span class="wishlist-badge" style="display:none;">0</span>
+                </button>
+               
+                <button aria-label="Cart" class="icon-btn cart-toggle">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <circle cx="9" cy="21" r="1"></circle>
+                        <circle cx="20" cy="21" r="1"></circle>
+                        <path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path>
+                    </svg>
+                    <span class="cart-badge" style="display:none;">0</span>
+                </button>
+                <a href="login.html" class="golds-signin-btn">SIGN IN</a>
+                <button aria-label="Toggle Navigation" class="mobile-menu-toggle" onclick="window.toggleMobileMenu(event)">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg>
+                </button>
+            </div>
+        </div>
+
+        <!-- Mobile Menu Panel -->
+        <div class="mobile-menu">
+            <a href="index.html" class="mobile-link">Home</a>
+            <a href="shop.html" class="mobile-link">Shop</a>
+            <a href="categories.html" class="mobile-link">Categories</a>
+            <a href="bundles.html" class="mobile-link">Bundles</a>
+            <a href="about.html" class="mobile-link">About Us</a>
+            <a href="login.html" class="golds-signin-btn mobile-join">SIGN IN</a>
+        </div>
+    </header>
+
+    
+    <div class="login-layout" style="padding-top: calc(var(--nav-height) + 3rem); padding-bottom: 4rem; min-height: 100vh; background: url('images/login-bg.png?v=9') center/cover no-repeat fixed; display: flex; justify-content: center; align-items: center;">
+        
+        <div class="login-form-container" style="width: 100%; max-width: 480px; padding: 1rem; z-index: 10;">
+            <div class="login-glass-card login-animate" style="background: rgba(10, 15, 24, 0.92) !important; backdrop-filter: blur(24px) !important; -webkit-backdrop-filter: blur(24px) !important; border: 1px solid rgba(255, 215, 0, 0.35) !important; border-radius: 24px !important; padding: 3rem 2.2rem !important; box-shadow: 0 25px 60px rgba(0, 0, 0, 0.85), 0 0 35px rgba(255, 215, 0, 0.15) !important;">
+                
+                <!-- Logo -->
+                <a href="index.html" class="login-brand" style="display: flex; align-items: center; justify-content: center; margin-bottom: 1.5rem; text-decoration: none;">
+                    <img src="logo.png?v=2" alt="FitVerse Logo" class="brand-logo login-logo-icon" style="height: 48px; width: auto; object-fit: contain;">
+                    <span class="brand-wordmark login-wordmark fitverse-brand-text" style="margin-left: 0.75rem; color: #FFD700; font-weight: bold; font-size: 1.8rem;">FitVerse</span>
+                </a>
+                
+                <div class="login-header" style="text-align: center; margin-bottom: 1.8rem;">
+                    <h2 style="font-size: 1.8rem; color: #fff; margin-bottom: 0.4rem; text-transform: uppercase; letter-spacing: 1px; font-weight: 800;">Join FitVerse</h2>
+                    <p style="color: rgba(255,255,255,0.7); font-size: 0.9rem;">Create an account to track orders & save gear</p>
+                </div>
+                
+                <form id="loginForm" class="login-form">
+                    
+                    <div class="minimal-input-group" style="position: relative; width: 100%; margin-bottom: 1.3rem;">
+                        <i class="fas fa-user minimal-icon" style="position: absolute; left: 1.2rem; top: 50%; transform: translateY(-50%); color: #FFD700; font-size: 1.1rem; z-index: 5; pointer-events: none;"></i>
+                        <input type="text" id="fullname" class="minimal-input" required placeholder="Full Name" style="width: 100%; background: rgba(255, 255, 255, 0.08); border: 1px solid rgba(255, 255, 255, 0.2); border-radius: 12px; color: #ffffff; font-size: 1rem; padding: 1rem 1.2rem 1rem 3.2rem; outline: none; box-sizing: border-box;">
+                    </div>
+                    
+                    <div class="minimal-input-group" style="position: relative; width: 100%; margin-bottom: 1.3rem;">
+                        <i class="fas fa-envelope minimal-icon" style="position: absolute; left: 1.2rem; top: 50%; transform: translateY(-50%); color: #FFD700; font-size: 1.1rem; z-index: 5; pointer-events: none;"></i>
+                        <input type="email" id="email" class="minimal-input" required placeholder="Email Address" style="width: 100%; background: rgba(255, 255, 255, 0.08); border: 1px solid rgba(255, 255, 255, 0.2); border-radius: 12px; color: #ffffff; font-size: 1rem; padding: 1rem 1.2rem 1rem 3.2rem; outline: none; box-sizing: border-box;">
+                    </div>
+                    
+                    <div class="minimal-input-group" style="position: relative; width: 100%; margin-bottom: 1.3rem;">
+                        <i class="fas fa-phone minimal-icon" style="position: absolute; left: 1.2rem; top: 50%; transform: translateY(-50%); color: #FFD700; font-size: 1.1rem; z-index: 5; pointer-events: none;"></i>
+                        <input type="tel" id="phone" class="minimal-input" required placeholder="Phone Number" style="width: 100%; background: rgba(255, 255, 255, 0.08); border: 1px solid rgba(255, 255, 255, 0.2); border-radius: 12px; color: #ffffff; font-size: 1rem; padding: 1rem 1.2rem 1rem 3.2rem; outline: none; box-sizing: border-box;">
+                    </div>
+                    
+                    <div class="minimal-input-group" style="position: relative; width: 100%; margin-bottom: 1.3rem;">
+                        <i class="fas fa-lock minimal-icon" style="position: absolute; left: 1.2rem; top: 50%; transform: translateY(-50%); color: #FFD700; font-size: 1.1rem; z-index: 5; pointer-events: none;"></i>
+                        <input type="password" id="password" class="minimal-input" required placeholder="Create Password" style="width: 100%; background: rgba(255, 255, 255, 0.08); border: 1px solid rgba(255, 255, 255, 0.2); border-radius: 12px; color: #ffffff; font-size: 1rem; padding: 1rem 3.2rem 1rem 3.2rem; outline: none; box-sizing: border-box;">
+                        <button type="button" class="password-toggle" aria-label="Toggle password visibility" style="position: absolute; right: 1.2rem; top: 50%; transform: translateY(-50%); background: none; border: none; color: rgba(255,255,255,0.6); cursor: pointer; font-size: 1.1rem; z-index: 5;">
+                            <i class="fas fa-eye"></i>
+                        </button>
+                    </div>
+
+                    <div class="minimal-input-group" style="position: relative; width: 100%; margin-bottom: 1.3rem;">
+                        <i class="fas fa-lock minimal-icon" style="position: absolute; left: 1.2rem; top: 50%; transform: translateY(-50%); color: #FFD700; font-size: 1.1rem; z-index: 5; pointer-events: none;"></i>
+                        <input type="password" id="confirm_password" class="minimal-input" required placeholder="Confirm Password" style="width: 100%; background: rgba(255, 255, 255, 0.08); border: 1px solid rgba(255, 255, 255, 0.2); border-radius: 12px; color: #ffffff; font-size: 1rem; padding: 1rem 3.2rem 1rem 3.2rem; outline: none; box-sizing: border-box;">
+                        <button type="button" class="password-toggle confirm-toggle" aria-label="Toggle confirm password visibility" style="position: absolute; right: 1.2rem; top: 50%; transform: translateY(-50%); background: none; border: none; color: rgba(255,255,255,0.6); cursor: pointer; font-size: 1.1rem; z-index: 5;">
+                            <i class="fas fa-eye"></i>
+                        </button>
+                    </div>
+                    
+                    <div class="login-options" style="margin-bottom: 1.6rem; color: rgba(255,255,255,0.9); font-size: 0.9rem;">
+                        <label class="custom-checkbox" style="display: inline-flex; align-items: center; cursor: pointer; gap: 10px; user-select: none;">
+                            <input type="checkbox" id="terms" checked required style="width: 20px; height: 20px; accent-color: #FFD700; cursor: pointer; opacity: 1; position: static; margin: 0;">
+                            <span>I agree to the <a href="#" style="color: #FFD700; text-decoration: underline;">Terms & Conditions</a></span>
+                        </label>
+                    </div>
+                    <button type="submit" class="btn login-btn premium-btn" style="width: 100%; background: #FFD700; color: #000000; font-weight: 900; padding: 0.95rem 1.5rem; border-radius: 10px; font-size: 1rem; border: none; cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 10px; text-transform: uppercase; letter-spacing: 1px; box-shadow: 0 0 20px rgba(255, 215, 0, 0.35); transition: all 0.3s ease;">
+                        <span>Sign Up</span>
+                        <i class="fas fa-arrow-right"></i>
+                    </button>
+                    
+                </form>
+                
+                <div class="login-footer" style="text-align: center; margin-top: 1.5rem; color: rgba(255,255,255,0.7); font-size: 0.9rem;">
+                    <p>Already have an account? <a href="login.html" class="signup-link" style="color: #FFD700; font-weight: bold; text-decoration: underline;">Sign In</a></p>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js?v=440"></script>
+    <script src="auth.js"></script>
+    <script>
+        // Password toggle functionality
+        document.querySelectorAll('.password-toggle').forEach(btn => {
+            btn.addEventListener('click', function() {
+                const input = this.previousElementSibling;
+                const icon = this.querySelector('i');
+                
+                if (input.type === 'password') {
+                    input.type = 'text';
+                    icon.classList.remove('fa-eye');
+                    icon.classList.add('fa-eye-slash');
+                } else {
+                    input.type = 'password';
+                    icon.classList.remove('fa-eye-slash');
+                    icon.classList.add('fa-eye');
+                }
+            });
+        });
+
+        // Form submission logic integrated with Auth
+        const signupForm = document.querySelector('.login-form');
+        if(signupForm) {
+            signupForm.addEventListener('submit', (e) => {
+                e.preventDefault();
+                
+                // Find inputs by placeholder or type since IDs might vary
+                const nameInput = document.querySelector('input[placeholder="Full Name"]') || document.querySelector('input[type="text"]');
+                const emailInput = document.querySelector('input[type="email"]');
+                const phoneInput = document.getElementById('phone') || {value: ''};
+                
+                // Grab by explicit IDs
+                const password = document.getElementById('password').value;
+                const confirmPassword = document.getElementById('confirm_password').value;
+                
+                if (password !== confirmPassword) {
+                    auth.showToast("Passwords do not match.", "error");
+                    return;
+                }
+                
+                const btn = e.target.querySelector('button[type="submit"]');
+                const originalText = btn.innerHTML;
+                btn.innerHTML = '<i class="fas fa-circle-notch fa-spin"></i> Creating...';
+                btn.style.opacity = '0.8';
+
+                setTimeout(() => {
+                    const success = auth.register(nameInput.value, emailInput.value, phoneInput.value, password);
+                    if (!success) {
+                        btn.innerHTML = originalText;
+                        btn.style.opacity = '1';
+                    }
+                }, 800);
+            });
+        }
+    </script>
+
+    <!-- Cart Overlay -->
+        <!-- Compact Floating Search Bar -->
+    <div id="search-modal" style="display: none;">
+        <div>
+            <div class="search-bar-inner">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#ffd700" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+                <input type="text" id="search-input-modal" placeholder="Search gear, categories, bundles..." autocomplete="off">
+                <button id="search-submit" class="search-submit-btn">Search</button>
+                <button class="close-search-btn" aria-label="Close search">&times;</button>
+            </div>
+            <div class="search-quick-tags">
+                <span>Popular:</span>
+                <a href="shop.html?category=Strength">Strength</a>
+                <a href="shop.html?category=Cardio">Cardio</a>
+                <a href="shop.html?category=Combat">Combat</a>
+                <a href="shop.html?category=Home Gym">Home Gym</a>
+                <a href="bundles.html">Bundles</a>
+            </div>
+        </div>
+    </div>
+
+    <div id="cart-overlay" class="overlay cart-overlay-bg">
+        <div class="cart-drawer">
+            <div class="cart-header" style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.1); padding-bottom: 1rem;">
+                <h2 style="color: #fff; margin: 0;">Your Cart (<span id="cart-count-title">0</span>)</h2>
+                <button class="close-btn cart-close-btn" aria-label="Close Cart" style="background: none; border: none; color: #fff; font-size: 2rem; cursor: pointer;">&times;</button>
+            </div>
+            <div id="cart-items" class="cart-items" style="flex: 1; overflow-y: auto; padding: 1rem 0;">
+                <p style="color: rgba(255,255,255,0.5); text-align: center; margin-top: 2rem;">Your cart is empty.</p>
+            </div>
+            <div class="cart-footer" style="border-top: 1px solid rgba(255,255,255,0.1); padding-top: 1rem;">
+                <div class="cart-subtotal" style="display: flex; justify-content: space-between; color: #fff; font-size: 1.2rem; font-weight: bold; margin-bottom: 1rem;">
+                    <span>Subtotal:</span>
+                    <span id="cart-total-price">$0.00</span>
+                </div>
+                <a href="checkout.html" class="btn btn-primary" style="width: 100%; text-align: center;">Checkout</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Wishlist Modal -->
+    <div id="wishlist-overlay" class="overlay wishlist-overlay-bg">
+        <div class="cart-drawer" style="background: #1a1a1c; color: #fff;">
+            <div class="cart-header" style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.1); padding-bottom: 1rem;">
+                <h2 style="color: #fff; margin: 0;">Your Wishlist (<span id="wishlist-count-title">0</span>)</h2>
+                <button class="close-btn wishlist-close-btn" aria-label="Close Wishlist" style="background: none; border: none; color: #fff; font-size: 2rem; cursor: pointer;">&times;</button>
+            </div>
+            <div id="wishlist-items" class="cart-items" style="flex: 1; overflow-y: auto; padding: 1rem 0;">
+                <p style="color: rgba(255,255,255,0.5); text-align: center; margin-top: 2rem;">Your wishlist is currently empty.</p>
+            </div>
+            <div class="cart-footer" style="border-top: 1px solid rgba(255,255,255,0.1); padding-top: 1rem;">
+                <a href="shop.html" class="btn btn-primary" style="width: 100%; text-align: center;">Continue Shopping</a>
+            </div>
+        </div>
+    </div>
+
+    
+
+
+    
+    </div>
+
+    <script src="products.js?v=440"></script>
+</body>
+</html>
+
+

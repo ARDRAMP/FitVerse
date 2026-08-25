@@ -1,0 +1,1426 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FitVerse | Equip Your Journey</title>
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="logo.png?v=3">
+    <link rel="apple-touch-icon" href="logo.png?v=3">
+    <meta name="description"
+        content="FitVerse provides premium sports and fitness equipment. Gear up for your journey with barbells, cardio machines, and more.">
+
+    <!-- Google Fonts: Poppins, Inter, Playfair Display, JetBrains Mono -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Poppins:wght@300;400;500;600;700;800&family=Playfair+Display:ital,wght@1,400;1,500;1,600&family=JetBrains+Mono:wght@400;500;700&display=swap"
+        rel="stylesheet">
+
+    <link rel="stylesheet" href="styles.css?v=440">
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+
+</head>
+
+<body>
+    <!-- Initial Loading Screen -->
+    <div id="loader" class="loader-overlay">
+        <div class="loader-content">
+            <img src="logo.png?v=3" alt="Loading" class="loader-icon"
+                style="width:50px; height:auto; border-radius: 50%;">
+            <div class="loader-text">Loading the Verse...</div>
+        </div>
+    </div>
+    <script>
+        window.addEventListener('load', function() {
+            var loader = document.getElementById('loader');
+            if (loader) {
+                loader.classList.add('fade-out');
+                setTimeout(function() { loader.style.display = 'none'; }, 500);
+            }
+        });
+        setTimeout(function() {
+            var loader = document.getElementById('loader');
+            if (loader && !loader.classList.contains('fade-out')) {
+                loader.classList.add('fade-out');
+                setTimeout(function() { loader.style.display = 'none'; }, 500);
+            }
+        }, 1200);
+    </script>
+
+        <!-- Navigation -->
+    <header class="navbar">
+        <div class="nav-container">
+            <a href="index.html" class="brand">
+                <img src="logo.png?v=3" alt="FitVerse Logo" class="brand-logo">
+                <span class="brand-wordmark">FitVerse</span>
+            </a>
+
+            <nav class="nav-links golds-nav-links">
+                <a href="index.html">HOME</a>
+                <span class="nav-divider">|</span>
+                <a href="shop.html">SHOP</a>
+                <span class="nav-divider">|</span>
+                <a href="categories.html">CATEGORIES</a>
+                <span class="nav-divider">|</span>
+                <a href="bundles.html">BUNDLES</a>
+                <span class="nav-divider">|</span>
+                <a href="about.html">ABOUT US</a>
+            </nav>
+
+            <div class="nav-actions golds-nav-actions">
+                <button aria-label="Wishlist" class="icon-btn wishlist-toggle">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path>
+                    </svg>
+                    <span class="wishlist-badge" style="display:none;">0</span>
+                </button>
+                
+                <button aria-label="Cart" class="icon-btn cart-toggle">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <circle cx="9" cy="21" r="1"></circle>
+                        <circle cx="20" cy="21" r="1"></circle>
+                        <path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path>
+                    </svg>
+                    <span class="cart-badge" style="display:none;">0</span>
+                </button>
+                <a href="login.html" class="golds-signin-btn">SIGN IN</a>
+                <button aria-label="Toggle Navigation" class="mobile-menu-toggle" onclick="window.toggleMobileMenu(event)">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg>
+                </button>
+            </div>
+        </div>
+
+        <!-- Mobile Menu Panel -->
+        <div class="mobile-menu">
+            <a href="index.html" class="mobile-link">Home</a>
+            <a href="shop.html" class="mobile-link">Shop</a>
+            <a href="categories.html" class="mobile-link">Categories</a>
+            <a href="bundles.html" class="mobile-link">Bundles</a>
+            <a href="about.html" class="mobile-link">About Us</a>
+            <a href="login.html" class="golds-signin-btn mobile-join">SIGN IN</a>
+        </div>
+    </header>
+
+    <main>
+                <!-- Elite Pro Performance Hero Section -->
+        <section class="pro-hero-section">
+            <div class="pro-hero-bg-glow glow-left"></div>
+            <div class="pro-hero-bg-glow glow-right"></div>
+            <canvas id="hero-particles" class="pro-hero-particles"></canvas>
+
+            <div class="pro-hero-container">
+                
+                <!-- Left Column: Command & Value Hub -->
+                <div class="pro-hero-left">
+                    
+                    <!-- Beacon Pill -->
+                    <div class="pro-eyebrow-pill" id="hero-pill-text">
+                        <span class="pro-pulse-dot"></span>
+                        <span>2026 COMMERCIAL SERIES &bull; ELITE PERFORMANCE</span>
+                    </div>
+
+                    <!-- Monumental Headline -->
+                    <h1 class="pro-hero-title" id="hero-main-heading">
+                        ENGINEERED FOR<br>
+                        <span class="pro-gold-gradient">SUPREMACY.</span><br>
+                        <span class="pro-title-sub">BUILT FOR CHAMPIONS.</span>
+                    </h1>
+
+                    <!-- Punchy Description -->
+                    <p class="pro-hero-desc" id="hero-main-desc">
+                        Heavy 11-gauge structural steel power racks, calibrated competition barbells, and precision conditioning systems engineered for elite athletes and commercial facilities.
+                    </p>
+
+                    <!-- Action CTAs -->
+                    <div class="pro-hero-ctas">
+                        <a href="shop.html" class="pro-btn-gold" id="hero-primary-cta">
+                            <span id="hero-primary-cta-text">EXPLORE COLLECTION</span>
+                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+                        </a>
+                        <a href="bundles.html" class="pro-btn-glass">
+                            <span>CURATED BUNDLES</span>
+                            <span class="pro-badge-save">SAVE 25%</span>
+                        </a>
+                    </div>
+
+                    <!-- Trust Micro-Badges -->
+                    <div class="pro-trust-strip">
+                        <div class="pro-trust-item">
+                            <span class="pro-trust-icon">⭐</span>
+                            <div class="pro-trust-text">
+                                <strong>4.9 / 5.0 Rating</strong>
+                                <small>50,000+ Verified Athletes</small>
+                            </div>
+                        </div>
+                        <div class="pro-trust-divider"></div>
+                        <div class="pro-trust-item">
+                            <span class="pro-trust-icon">🛡️</span>
+                            <div class="pro-trust-text">
+                                <strong>10-Year Warranty</strong>
+                                <small>Commercial Frame Guarantee</small>
+                            </div>
+                        </div>
+                        <div class="pro-trust-divider"></div>
+                        <div class="pro-trust-item">
+                            <span class="pro-trust-icon">🚚</span>
+                            <div class="pro-trust-text">
+                                <strong>Pan-India Setup</strong>
+                                <small>White Glove Delivery</small>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <!-- Right Column: Visual Stage Showcase -->
+                <div class="pro-hero-right">
+                    
+                    <div class="pro-stage-card">
+                        <!-- Background Image Layer -->
+                        <div class="pro-stage-media" id="pro-hero-media" style="background-image: url('images/hero.png');">
+                            <div class="pro-stage-overlay"></div>
+                        </div>
+
+                        <!-- Top Floating Spec Badge -->
+                        <div class="pro-float-badge top-right">
+                            <span class="badge-icon">⚡</span>
+                            <div class="badge-content">
+                                <span class="badge-title" id="hero-badge-title">1,000 KG TESTED</span>
+                                <span class="badge-sub" id="hero-badge-sub">11-Gauge Structural Steel</span>
+                            </div>
+                        </div>
+
+                        <!-- Bottom Floating Spotlight Card -->
+                        <div class="pro-spotlight-card">
+                            <img src="images/power_rack_schematic.jpg" alt="Pro Power Rack" id="hero-spotlight-img" class="spotlight-thumb" onerror="this.src='images/strength.png'">
+                            <div class="spotlight-info">
+                                <div class="spotlight-tag">FEATURED GEAR</div>
+                                <div class="spotlight-name" id="hero-spotlight-name">Pro Series Power Rack V2</div>
+                                <div class="spotlight-pricing">
+                                    <span class="current-price" id="hero-spotlight-price">₹49,999</span>
+                                    <span class="original-price" id="hero-spotlight-orig">₹59,999</span>
+                                </div>
+                            </div>
+                            <a href="shop.html?cat=Strength" id="hero-spotlight-link" class="spotlight-cta" aria-label="View gear">➔</a>
+                        </div>
+
+                        <!-- Slide Switcher Selector Tabs (Interactive) -->
+                        <div class="pro-slide-nav">
+                            <button class="pro-slide-btn active" id="pro-tab-0" onclick="switchHeroSlide(0)" title="Strength Series">
+                                <span>01</span> STRENGTH
+                            </button>
+                            <button class="pro-slide-btn" id="pro-tab-1" onclick="switchHeroSlide(1)" title="Cardio & HIIT">
+                                <span>02</span> CARDIO
+                            </button>
+                            <button class="pro-slide-btn" id="pro-tab-2" onclick="switchHeroSlide(2)" title="Full Gym Suites">
+                                <span>03</span> BUNDLES
+                            </button>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <!-- Full-Width Bottom Metric Pillars Ribbon -->
+            <div class="pro-metric-ribbon">
+                <div class="pro-metric-grid">
+                    <div class="pro-metric-box">
+                        <span class="metric-icon">🏆</span>
+                        <div class="metric-info">
+                            <h4>100% COMMERCIAL GRADE</h4>
+                            <p>Engineered for high-intensity commercial gym wear</p>
+                        </div>
+                    </div>
+                    <div class="pro-metric-box">
+                        <span class="metric-icon">🛡️</span>
+                        <div class="metric-info">
+                            <h4>10-YEAR LIFETIME FRAME</h4>
+                            <p>Unmatched structural warranty protection</p>
+                        </div>
+                    </div>
+                    <div class="pro-metric-box">
+                        <span class="metric-icon">📦</span>
+                        <div class="metric-info">
+                            <h4>COMPLETE GYM BUNDLES</h4>
+                            <p>Save up to 25% on full curated packages</p>
+                        </div>
+                    </div>
+                    <div class="pro-metric-box">
+                        <span class="metric-icon">⚡</span>
+                        <div class="metric-info">
+                            <h4>WHITE-GLOVE ASSEMBLY</h4>
+                            <p>Delivered, unboxed, and installed nationwide</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </section>
+
+        <!-- Shop by Category (10 Round Categories) -->
+        <section class="scroll-reveal" style="padding: 2.2rem 2rem 2.6rem; background: #080d15;">
+            <div style="text-align: left; max-width: 1200px; margin: 0 auto 1.2rem; display: flex; flex-direction: column; align-items: flex-start;">
+                <span style="color: #ffd700; font-family: var(--font-mono); font-weight: bold; letter-spacing: 2px; font-size: 0.85rem; text-transform: uppercase; text-align: left;">EXPLORE COLLECTIONS</span>
+                <h2 style="font-size: clamp(1.3rem, 4vw, 2.2rem); color: #ffffff; text-transform: uppercase; letter-spacing: 1.5px; margin-top: 0.25rem; margin-bottom: 0; text-align: left;">SHOP BY CATEGORY</h2>
+            </div>
+            <!-- Category Carousel Wrapper with Arrow Buttons -->
+            <div id="cat-carousel-wrapper" style="position: relative; max-width: 1200px; margin: 0 auto;">
+
+                <!-- LEFT arrow -->
+                <button id="cat-prev-btn" aria-label="Previous categories" onclick="document.getElementById('cat-scroll-row').scrollBy({left:-310,behavior:'smooth'})" style="position: absolute; left: -22px; top: 50%; transform: translateY(-60%); z-index: 10; width: 52px; height: 52px; border-radius: 50%; background: linear-gradient(135deg,#ffd700,#e6a800); border: none; cursor: pointer; box-shadow: 0 6px 20px rgba(255,215,0,0.45); display: flex; align-items: center; justify-content: center; transition: transform 0.2s ease, box-shadow 0.2s ease;" onmouseover="this.style.transform='translateY(-60%) scale(1.1)';this.style.boxShadow='0 8px 28px rgba(255,215,0,0.6)'" onmouseout="this.style.transform='translateY(-60%) scale(1)';this.style.boxShadow='0 6px 20px rgba(255,215,0,0.45)'">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"></polyline></svg>
+                </button>
+
+                <!-- Scrollable row -->
+                <div id="cat-scroll-row" class="circular-categories" style="display: flex; flex-wrap: nowrap; overflow-x: auto; scroll-snap-type: x mandatory; gap: 2.5rem; padding: 0.5rem 1rem 1rem; -webkit-overflow-scrolling: touch; scrollbar-width: none;">
+                    <a href="shop.html?cat=Strength" class="cat-circle-wrap" style="scroll-snap-align: start;">
+                        <div class="cat-circle" style="background-image: url('images/strength.png');"></div>
+                        <span class="cat-title">Strength</span>
+                    </a>
+                    <a href="shop.html?cat=Cardio" class="cat-circle-wrap" style="scroll-snap-align: start;">
+                        <div class="cat-circle" style="background-image: url('images/cardio.png');"></div>
+                        <span class="cat-title">Cardio</span>
+                    </a>
+                    <a href="shop.html?cat=Combat" class="cat-circle-wrap" style="scroll-snap-align: start;">
+                        <div class="cat-circle" style="background-image: url('images/combat.png');"></div>
+                        <span class="cat-title">Combat</span>
+                    </a>
+                    <a href="shop.html?cat=Recovery" class="cat-circle-wrap" style="scroll-snap-align: start;">
+                        <div class="cat-circle" style="background-image: url('images/recovery.png');"></div>
+                        <span class="cat-title">Recovery</span>
+                    </a>
+                    <a href="shop.html?cat=Accessories" class="cat-circle-wrap" style="scroll-snap-align: start;">
+                        <div class="cat-circle" style="background-image: url('images/accessories.png');"></div>
+                        <span class="cat-title">Accessories</span>
+                    </a>
+                    <a href="shop.html?cat=Apparel" class="cat-circle-wrap" style="scroll-snap-align: start;">
+                        <div class="cat-circle" style="background-image: url('images/apparel.png');"></div>
+                        <span class="cat-title">Apparel</span>
+                    </a>
+                    <a href="shop.html?cat=Fit%20Tech" class="cat-circle-wrap" style="scroll-snap-align: start;">
+                        <div class="cat-circle" style="background-image: url('images/tech.png');"></div>
+                        <span class="cat-title">Fit Tech</span>
+                    </a>
+                    <a href="shop.html?cat=Supplements" class="cat-circle-wrap" style="scroll-snap-align: start;">
+                        <div class="cat-circle" style="background-image: url('images/supplements.png');"></div>
+                        <span class="cat-title">Supplements</span>
+                    </a>
+                    <a href="shop.html?cat=Yoga" class="cat-circle-wrap" style="scroll-snap-align: start;">
+                        <div class="cat-circle" style="background-image: url('images/yoga.png');"></div>
+                        <span class="cat-title">Yoga</span>
+                    </a>
+                    <a href="shop.html?cat=Home%20Gym" class="cat-circle-wrap" style="scroll-snap-align: start;">
+                        <div class="cat-circle" style="background-image: url('images/home_gym.png');"></div>
+                        <span class="cat-title">Home Gym</span>
+                    </a>
+                </div>
+
+                <!-- RIGHT arrow -->
+                <button id="cat-next-btn" aria-label="Next categories" onclick="document.getElementById('cat-scroll-row').scrollBy({left:310,behavior:'smooth'})" style="position: absolute; right: -22px; top: 50%; transform: translateY(-60%); z-index: 10; width: 52px; height: 52px; border-radius: 50%; background: linear-gradient(135deg,#ffd700,#e6a800); border: none; cursor: pointer; box-shadow: 0 6px 20px rgba(255,215,0,0.45); display: flex; align-items: center; justify-content: center; transition: transform 0.2s ease, box-shadow 0.2s ease;" onmouseover="this.style.transform='translateY(-60%) scale(1.1)';this.style.boxShadow='0 8px 28px rgba(255,215,0,0.6)'" onmouseout="this.style.transform='translateY(-60%) scale(1)';this.style.boxShadow='0 6px 20px rgba(255,215,0,0.45)'">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"></polyline></svg>
+                </button>
+
+            </div>
+        </section>
+
+        <!-- Featured Collections Grid (4 Large Category-Style Enabled Cards) -->
+        <section class="promo-grid-section scroll-reveal" style="background: #080d15; padding: 1.5rem 0 3.5rem;">
+            <div class="promo-grid">
+                <a href="shop.html?cat=Strength" class="promo-box" style="background-image: url('images/strength.png');">
+                    <div class="promo-content">
+                        <h3>HEAVY LIFTING</h3>
+                        <span class="btn btn-gold glow-btn">SHOP STRENGTH &rarr;</span>
+                    </div>
+                </a>
+                <a href="shop.html?cat=Cardio" class="promo-box" style="background-image: url('images/cardio.png');">
+                    <div class="promo-content">
+                        <h3>CARDIO KINGS</h3>
+                        <span class="btn btn-gold glow-btn">SHOP CARDIO &rarr;</span>
+                    </div>
+                </a>
+                <a href="shop.html?cat=Yoga" class="promo-box" style="background-image: url('images/yoga.png');">
+                    <div class="promo-content">
+                        <h3>ZEN YOGA</h3>
+                        <span class="btn btn-gold glow-btn">SHOP YOGA &rarr;</span>
+                    </div>
+                </a>
+                <a href="shop.html?cat=Combat" class="promo-box" style="background-image: url('images/combat.png');">
+                    <div class="promo-content">
+                        <h3>COMBAT ELITE</h3>
+                        <span class="btn btn-gold glow-btn">SHOP COMBAT &rarr;</span>
+                    </div>
+                </a>
+            </div>
+        </section>
+
+        <!-- Trending & Featured Gear -->
+        <section class="fresh-finds scroll-reveal" style="padding: 4rem 2rem; background: var(--navy-black);">
+            <div class="ecommerce-header" style="text-align: center; margin-bottom: 3rem; display: flex; justify-content: space-between; align-items: center; max-width: 1200px; margin: 0 auto 2.5rem;">
+                <h2 style="font-size: clamp(1.3rem, 4vw, 2.2rem); font-family: var(--font-body); color: #fff; text-transform: uppercase; letter-spacing: 1px;">Fresh Finds</h2>
+                <a href="shop.html" class="view-all-link" style="color: #ffd700; text-decoration: none; font-weight: bold; letter-spacing: 1px;">VIEW ALL &rarr;</a>
+            </div>
+            
+            <div id="product-grid" class="product-grid">
+                <!-- Rendered dynamically by app.js?v=440 -->
+            </div>
+        </section>
+
+        <!-- Why Athletes Choose FitVerse (Brand Pillars) -->
+        <section id="why-us" class="why-us-section scroll-reveal">
+            <!-- Background Glow Elements -->
+            <div style="position: absolute; top: -100px; left: 50%; transform: translateX(-50%); width: 600px; height: 300px; background: radial-gradient(circle, rgba(255,215,0,0.06) 0%, rgba(0,0,0,0) 70%); pointer-events: none;"></div>
+
+            <div style="text-align: center; max-width: 1200px; margin: 0 auto 3rem; position: relative; z-index: 2;">
+                <span style="color: #ffd700; font-family: var(--font-mono); text-transform: uppercase; font-weight: 800; letter-spacing: 2px; font-size: 0.8rem; background: rgba(255,215,0,0.1); border: 1px solid rgba(255,215,0,0.3); padding: 0.4rem 1.25rem; border-radius: 50px; box-shadow: 0 0 15px rgba(255,215,0,0.15); display: inline-block;">★ THE FITVERSE GUARANTEE ★</span>
+                <h2 style="font-size: clamp(1.4rem, 4.5vw, 2.5rem); color: #ffffff; text-transform: uppercase; letter-spacing: 2px; margin-top: 1.25rem; font-weight: 900;">WHY ATHLETES CHOOSE FITVERSE</h2>
+                <p style="color: #94a3b8; max-width: 680px; margin: 0.85rem auto 0; font-size: 1rem; line-height: 1.6;">Engineered without compromises. Designed for extreme durability, peak performance, and professional training facilities.</p>
+            </div>
+
+            <div class="why-us-grid">
+                
+                <!-- Left: Interactive Hotspot Image Container -->
+                <div class="hotspot-container">
+                    <img src="images/home_gym.png" alt="FitVerse Custom Gym Build Sanctuary" class="hotspot-img">
+                    <div style="position: absolute; inset: 0; background: linear-gradient(180deg, rgba(0,0,0,0.1) 0%, rgba(0,0,0,0.4) 100%); pointer-events: none;"></div>
+                    
+                    <!-- Hotspot 1: Squat Rack Uprights -->
+                    <div class="hotspot-dot" style="top: 32%; left: 34%; cursor: pointer;">
+                        <span style="font-size: 0.8rem; font-weight: 800; color: #000; z-index: 12; position: relative;">1</span>
+                        <div class="hotspot-tooltip">
+                            <div class="hotspot-title" style="color: #FFD700; font-weight: 800; font-size: 0.95rem; margin-bottom: 0.35rem; text-transform: uppercase;">11-Gauge Structural Uprights</div>
+                            <div class="hotspot-desc" style="color: #cbd5e1; font-size: 0.82rem; line-height: 1.45; margin-bottom: 0.5rem;">Massive 3x3" structural carbon steel column uprights built to handle extreme strength training loads with zero shake.</div>
+                            <div class="hotspot-quote" style="color: #FFD700; font-size: 0.78rem; font-style: italic; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 0.4rem;">"★ ★ ★ ★ ★ 'Rock solid columns, doesn't budge even at 220kg.' — Rahul S."</div>
+                        </div>
+                    </div>
+
+                    <!-- Hotspot 2: Barbell -->
+                    <div class="hotspot-dot" style="top: 50%; left: 52%; cursor: pointer;">
+                        <span style="font-size: 0.8rem; font-weight: 800; color: #000; z-index: 12; position: relative;">2</span>
+                        <div class="hotspot-tooltip">
+                            <div class="hotspot-title" style="color: #FFD700; font-weight: 800; font-size: 0.95rem; margin-bottom: 0.35rem; text-transform: uppercase;">220K PSI Olympic Barbell</div>
+                            <div class="hotspot-desc" style="color: #cbd5e1; font-size: 0.82rem; line-height: 1.45; margin-bottom: 0.5rem;">Hard chrome finished shaft featuring professional dual knurling marks, 1500lb limit, and needle bearings for smooth spin.</div>
+                            <div class="hotspot-quote" style="color: #FFD700; font-size: 0.78rem; font-style: italic; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 0.4rem;">"★ ★ ★ ★ ★ 'The sleeve rotation and whip is commercial grade.' — Priya N."</div>
+                        </div>
+                    </div>
+
+                    <!-- Hotspot 3: Bumper Plates -->
+                    <div class="hotspot-dot" style="top: 72%; left: 74%; cursor: pointer;">
+                        <span style="font-size: 0.8rem; font-weight: 800; color: #000; z-index: 12; position: relative;">3</span>
+                        <div class="hotspot-tooltip">
+                            <div class="hotspot-title" style="color: #FFD700; font-weight: 800; font-size: 0.95rem; margin-bottom: 0.35rem; text-transform: uppercase;">Virgin Rubber Bumper Plates</div>
+                            <div class="hotspot-desc" style="color: #cbd5e1; font-size: 0.82rem; line-height: 1.45; margin-bottom: 0.5rem;">Heavy-duty, calibrated virgin rubber bumper plates with steel inserts, engineered for minimal bounce on drops.</div>
+                            <div class="hotspot-quote" style="color: #FFD700; font-size: 0.78rem; font-style: italic; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 0.4rem;">"★ ★ ★ ★ ★ 'Very quiet on drops, zero odor, steel collar is perfect.' — Vikram M."</div>
+                        </div>
+                    </div>
+
+                    <!-- Hotspot 4: Adjustable Bench -->
+                    <div class="hotspot-dot" style="top: 82%; left: 46%; cursor: pointer;">
+                        <span style="font-size: 0.8rem; font-weight: 800; color: #000; z-index: 12; position: relative;">4</span>
+                        <div class="hotspot-tooltip">
+                            <div class="hotspot-title" style="color: #FFD700; font-weight: 800; font-size: 0.95rem; margin-bottom: 0.35rem; text-transform: uppercase;">450kg Commercial Bench</div>
+                            <div class="hotspot-desc" style="color: #cbd5e1; font-size: 0.82rem; line-height: 1.45; margin-bottom: 0.5rem;">Commercial adjustable utility bench lined with high-density sweatproof padding and secure lock mechanism.</div>
+                            <div class="hotspot-quote" style="color: #FFD700; font-size: 0.78rem; font-style: italic; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 0.4rem;">"★ ★ ★ ★ ★ 'Super stable padding, easy adjustment handle.' — Kabir S."</div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <!-- Right: Real Build Details -->
+                <div class="why-us-details">
+                    
+                    <div style="border-bottom: 1px solid rgba(255, 255, 255, 0.08); padding-bottom: 1rem; margin-bottom: 0.3rem;">
+                        <span style="color: #ffd700; font-family: var(--font-mono); font-size: 0.75rem; font-weight: 800; letter-spacing: 2px; text-transform: uppercase; background: rgba(255,215,0,0.1); border: 1px solid rgba(255,215,0,0.25); padding: 0.3rem 0.75rem; border-radius: 20px; display: inline-block;">INTERACTIVE OVERVIEW</span>
+                        <h3 style="font-size: clamp(1.2rem, 3.5vw, 1.8rem); color: #fff; font-weight: 900; margin-top: 0.7rem; text-transform: uppercase; letter-spacing: 1px;">The Sanctuary Spec Sheet</h3>
+                        <p style="color: #94a3b8; font-size: 0.9rem; line-height: 1.55; margin-top: 0.4rem;">Tap or hover on numbered hotspots on the gym build diagram to inspect component specs and real athlete reviews.</p>
+                    </div>
+
+                    <!-- Spec Item 1 -->
+                    <div class="why-us-spec-card">
+                        <span style="font-family: var(--font-mono); font-size: 0.9rem; color: #ffd700; font-weight: 900; background: rgba(255,215,0,0.15); border: 1px solid var(--gold-primary); width: 32px; height: 32px; border-radius: 8px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;">1</span>
+                        <div>
+                            <h4 style="font-size: 0.95rem; color: #fff; font-weight: 800; margin-bottom: 0.2rem; text-transform: uppercase;">Commercial-Grade Uprights</h4>
+                            <p style="color: #94a3b8; font-size: 0.82rem; line-height: 1.45; margin: 0;">Heavy carbon 11-gauge structural steel columns with laser-cut hole matrices.</p>
+                        </div>
+                    </div>
+
+                    <!-- Spec Item 2 -->
+                    <div class="why-us-spec-card">
+                        <span style="font-family: var(--font-mono); font-size: 0.9rem; color: #ffd700; font-weight: 900; background: rgba(255,215,0,0.15); border: 1px solid var(--gold-primary); width: 32px; height: 32px; border-radius: 8px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;">2</span>
+                        <div>
+                            <h4 style="font-size: 0.95rem; color: #fff; font-weight: 800; margin-bottom: 0.2rem; text-transform: uppercase;">220K PSI Olympic Barbell</h4>
+                            <p style="color: #94a3b8; font-size: 0.82rem; line-height: 1.45; margin: 0;">Premium shaft with needle bearings, precision dual knurlings, and 1,500 lbs load capacity.</p>
+                        </div>
+                    </div>
+
+                    <!-- Spec Item 3 -->
+                    <div class="why-us-spec-card">
+                        <span style="font-family: var(--font-mono); font-size: 0.9rem; color: #ffd700; font-weight: 900; background: rgba(255,215,0,0.15); border: 1px solid var(--gold-primary); width: 32px; height: 32px; border-radius: 8px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;">3</span>
+                        <div>
+                            <h4 style="font-size: 0.95rem; color: #fff; font-weight: 800; margin-bottom: 0.2rem; text-transform: uppercase;">Virgin Rubber Bumper Plates</h4>
+                            <p style="color: #94a3b8; font-size: 0.82rem; line-height: 1.45; margin: 0;">Low-bounce virgin rubber compound with secure calibrated stainless steel inner collars.</p>
+                        </div>
+                    </div>
+
+                    <!-- Spec Item 4 -->
+                    <div class="why-us-spec-card">
+                        <span style="font-family: var(--font-mono); font-size: 0.9rem; color: #ffd700; font-weight: 900; background: rgba(255,215,0,0.15); border: 1px solid var(--gold-primary); width: 32px; height: 32px; border-radius: 8px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;">4</span>
+                        <div>
+                            <h4 style="font-size: 0.95rem; color: #fff; font-weight: 800; margin-bottom: 0.2rem; text-transform: uppercase;">450kg Commercial Bench</h4>
+                            <p style="color: #94a3b8; font-size: 0.82rem; line-height: 1.45; margin: 0;">Multi-angle utility bench with sweatproof high-density padding and transport wheels.</p>
+                        </div>
+                    </div>
+
+                    <a href="bundles.html" class="btn btn-gold glow-btn" style="margin-top: 0.5rem; text-align: center; font-weight: 800; letter-spacing: 1px; width: 100%; box-sizing: border-box;">EXPLORE CUSTOM STUDIO PACKAGES &rarr;</a>
+
+                </div>
+
+            </div>
+        </section>
+          <!-- Custom Gym Bundles & Studio Packages Section -->
+        <section id="bundles" class="programs-section scroll-reveal" style="padding: 4rem 2rem; background: #0b111a;">
+            <div class="ecommerce-header" style="display: flex; justify-content: space-between; align-items: flex-end; max-width: 1200px; margin: 0 auto 2.5rem; flex-wrap: wrap; gap: 1rem;">
+                <div>
+                    <span style="color: #ffd700; font-family: var(--font-mono); text-transform: uppercase; font-weight: bold; letter-spacing: 1.5px; font-size: 0.85rem;">BUILD YOUR SANCTUARY</span>
+                    <h2 style="font-size: clamp(1.3rem, 4vw, 2rem); color: #fff; margin-top: 0.3rem; text-transform: uppercase; letter-spacing: 1px;">CUSTOM GYM BUNDLES</h2>
+                </div>
+                <a href="bundles.html" class="btn btn-gold" style="font-size: 0.8rem; font-weight: bold; letter-spacing: 1px; padding: 0.6rem 1.2rem;">BROWSE ALL BUNDLES &rarr;</a>
+            </div>
+            
+            <div class="programs-grid" style="max-width: 1280px; margin: 0 auto; display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem;">
+                <!-- Bundle 1: Home Garage Gym -->
+                <div class="program-card" style="background: #0f1622; border: 1px solid rgba(255,215,0,0.2); border-radius: 18px; overflow: hidden; display: flex; flex-direction: column; transition: transform 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;">
+                    <div style="height: 200px; background: url('images/home_gym.png') center/cover no-repeat; position: relative;">
+                        <span style="position: absolute; top: 0.85rem; left: 0.85rem; background: #ffd700; color: #000; font-size: 0.72rem; font-weight: 800; padding: 0.25rem 0.75rem; border-radius: 12px; text-transform: uppercase; box-shadow: 0 2px 8px rgba(0,0,0,0.4); letter-spacing: 0.5px;">HOME SANCTUARY</span>
+                    </div>
+                    <div style="padding: 1.5rem; flex: 1; display: flex; flex-direction: column;">
+                        <h3 style="font-size: 1.25rem; color: #fff; margin-bottom: 0.45rem; font-weight: 800; letter-spacing: 0.5px;">GARAGE STRENGTH BUNDLE</h3>
+                        <p style="color: #94a3b8; font-size: 0.86rem; line-height: 1.45; margin-bottom: 1.25rem;">Turn 100 sq.ft into a pro strength training setup with zero compromises.</p>
+                        
+                        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.45rem; margin-bottom: 1.5rem;">
+                            <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.06); padding: 0.45rem 0.65rem; border-radius: 6px; font-size: 0.76rem; color: #cbd5e1; display: flex; align-items: center; gap: 0.45rem;"><span style="color: #ffd700; font-weight: bold;">✓</span> 7ft Power Barbell</div>
+                            <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.06); padding: 0.45rem 0.65rem; border-radius: 6px; font-size: 0.76rem; color: #cbd5e1; display: flex; align-items: center; gap: 0.45rem;"><span style="color: #ffd700; font-weight: bold;">✓</span> Squat &amp; Bench Rack</div>
+                            <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.06); padding: 0.45rem 0.65rem; border-radius: 6px; font-size: 0.76rem; color: #cbd5e1; display: flex; align-items: center; gap: 0.45rem;"><span style="color: #ffd700; font-weight: bold;">✓</span> 100kg Plates</div>
+                            <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.06); padding: 0.45rem 0.65rem; border-radius: 6px; font-size: 0.76rem; color: #cbd5e1; display: flex; align-items: center; gap: 0.45rem;"><span style="color: #ffd700; font-weight: bold;">✓</span> Utility Bench</div>
+                        </div>
+                        
+                        <div style="margin-top: auto; display: flex; justify-content: space-between; align-items: center; border-top: 1px solid rgba(255,255,255,0.08); padding-top: 1.25rem;">
+                            <div>
+                                <span style="color: #64748b; font-size: 0.8rem; text-decoration: line-through; display: block;">₹59,999</span>
+                                <div style="color: #ffd700; font-weight: 900; font-size: 1.35rem; font-family: var(--font-mono, monospace);">₹49,999</div>
+                            </div>
+                            <button onclick="openBundleModal('garage-strength')" class="btn btn-gold glow-btn" style="font-size: 0.8rem; padding: 0.55rem 1.15rem; font-weight: 800; border-radius: 50px;">VIEW BUNDLE</button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Bundle 2: Commercial Suite -->
+                <div class="program-card" style="background: #0f1622; border: 1px solid rgba(255,215,0,0.35); border-radius: 18px; overflow: hidden; display: flex; flex-direction: column; position: relative; transition: transform 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;">
+                    <div style="height: 200px; background: url('images/strength.png') center/cover no-repeat; position: relative;">
+                        <span style="position: absolute; top: 0.85rem; left: 0.85rem; background: #ffd700; color: #000; font-size: 0.72rem; font-weight: 800; padding: 0.25rem 0.75rem; border-radius: 12px; text-transform: uppercase; box-shadow: 0 2px 8px rgba(0,0,0,0.4); letter-spacing: 0.5px;">MOST POPULAR</span>
+                    </div>
+                    <div style="padding: 1.5rem; flex: 1; display: flex; flex-direction: column;">
+                        <h3 style="font-size: 1.25rem; color: #fff; margin-bottom: 0.45rem; font-weight: 800; letter-spacing: 0.5px;">PRO PERFORMANCE SUITE</h3>
+                        <p style="color: #94a3b8; font-size: 0.86rem; line-height: 1.45; margin-bottom: 1.25rem;">Dual cable crossover &amp; calibrated steel setup for studios.</p>
+                        
+                        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.45rem; margin-bottom: 1.5rem;">
+                            <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.06); padding: 0.45rem 0.65rem; border-radius: 6px; font-size: 0.76rem; color: #cbd5e1; display: flex; align-items: center; gap: 0.45rem;"><span style="color: #ffd700; font-weight: bold;">✓</span> Dual Cable Rig</div>
+                            <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.06); padding: 0.45rem 0.65rem; border-radius: 6px; font-size: 0.76rem; color: #cbd5e1; display: flex; align-items: center; gap: 0.45rem;"><span style="color: #ffd700; font-weight: bold;">✓</span> 150kg Steel Set</div>
+                            <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.06); padding: 0.45rem 0.65rem; border-radius: 6px; font-size: 0.76rem; color: #cbd5e1; display: flex; align-items: center; gap: 0.45rem;"><span style="color: #ffd700; font-weight: bold;">✓</span> Dumbbell Rack</div>
+                            <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.06); padding: 0.45rem 0.65rem; border-radius: 6px; font-size: 0.76rem; color: #cbd5e1; display: flex; align-items: center; gap: 0.45rem;"><span style="color: #ffd700; font-weight: bold;">✓</span> Air Fan Bike</div>
+                        </div>
+                        
+                        <div style="margin-top: auto; display: flex; justify-content: space-between; align-items: center; border-top: 1px solid rgba(255,255,255,0.08); padding-top: 1.25rem;">
+                            <div>
+                                <span style="color: #64748b; font-size: 0.8rem; text-decoration: line-through; display: block;">₹1,49,999</span>
+                                <div style="color: #ffd700; font-weight: 900; font-size: 1.35rem; font-family: var(--font-mono, monospace);">₹1,24,999</div>
+                            </div>
+                            <button onclick="openBundleModal('pro-performance')" class="btn btn-gold glow-btn" style="font-size: 0.8rem; padding: 0.55rem 1.15rem; font-weight: 800; border-radius: 50px;">VIEW BUNDLE</button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Bundle 3: Cardio & Recovery Loft -->
+                <div class="program-card" style="background: #0f1622; border: 1px solid rgba(255,215,0,0.2); border-radius: 18px; overflow: hidden; display: flex; flex-direction: column; transition: transform 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;">
+                    <div style="height: 200px; background: url('images/recovery.png') center/cover no-repeat; position: relative;">
+                        <span style="position: absolute; top: 0.85rem; left: 0.85rem; background: #ffd700; color: #000; font-size: 0.72rem; font-weight: 800; padding: 0.25rem 0.75rem; border-radius: 12px; text-transform: uppercase; box-shadow: 0 2px 8px rgba(0,0,0,0.4); letter-spacing: 0.5px;">ENDURANCE &amp; RECOVERY</span>
+                    </div>
+                    <div style="padding: 1.5rem; flex: 1; display: flex; flex-direction: column;">
+                        <h3 style="font-size: 1.25rem; color: #fff; margin-bottom: 0.45rem; font-weight: 800; letter-spacing: 0.5px;">CARDIO &amp; RECOVERY LOFT</h3>
+                        <p style="color: #94a3b8; font-size: 0.86rem; line-height: 1.45; margin-bottom: 1.25rem;">Conditioning &amp; deep tissue active muscle recovery equipment.</p>
+                        
+                        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.45rem; margin-bottom: 1.5rem;">
+                            <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.06); padding: 0.45rem 0.65rem; border-radius: 6px; font-size: 0.76rem; color: #cbd5e1; display: flex; align-items: center; gap: 0.45rem;"><span style="color: #ffd700; font-weight: bold;">✓</span> Water Rower</div>
+                            <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.06); padding: 0.45rem 0.65rem; border-radius: 6px; font-size: 0.76rem; color: #cbd5e1; display: flex; align-items: center; gap: 0.45rem;"><span style="color: #ffd700; font-weight: bold;">✓</span> Massage Gun</div>
+                            <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.06); padding: 0.45rem 0.65rem; border-radius: 6px; font-size: 0.76rem; color: #cbd5e1; display: flex; align-items: center; gap: 0.45rem;"><span style="color: #ffd700; font-weight: bold;">✓</span> TPE Yoga Mat</div>
+                            <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.06); padding: 0.45rem 0.65rem; border-radius: 6px; font-size: 0.76rem; color: #cbd5e1; display: flex; align-items: center; gap: 0.45rem;"><span style="color: #ffd700; font-weight: bold;">✓</span> Mobility Bands</div>
+                        </div>
+                        
+                        <div style="margin-top: auto; display: flex; justify-content: space-between; align-items: center; border-top: 1px solid rgba(255,255,255,0.08); padding-top: 1.25rem;">
+                            <div>
+                                <span style="color: #64748b; font-size: 0.8rem; text-decoration: line-through; display: block;">₹49,999</span>
+                                <div style="color: #ffd700; font-weight: 900; font-size: 1.35rem; font-family: var(--font-mono, monospace);">₹39,999</div>
+                            </div>
+                            <button onclick="openBundleModal('cardio-recovery')" class="btn btn-gold glow-btn" style="font-size: 0.8rem; padding: 0.55rem 1.15rem; font-weight: 800; border-radius: 50px;">VIEW BUNDLE</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Athlete Reviews & Testimonials Section -->
+        <section class="reviews-section scroll-reveal" style="padding: 5rem 2rem; background: #060a10;">
+            <div class="ecommerce-header" style="text-align: left; max-width: 1200px; margin: 0 auto 3.5rem; display: flex; flex-direction: column; align-items: flex-start; justify-content: flex-start;">
+                <span style="color: #ffd700; font-family: var(--font-mono); font-size: 1.1rem; margin-bottom: 0.5rem;">★ ★ ★ ★ ★ &nbsp; 4.9/5 RATED BY 12,000+ ATHLETES</span>
+                <h2 style="font-size: clamp(1.35rem, 4.2vw, 2.4rem); color: #fff; text-transform: uppercase; letter-spacing: 1px;">WHAT OUR COMMUNITY SAYS</h2>
+            </div>
+            
+            <div style="max-width: 1200px; margin: 0 auto; display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem;">
+                <div class="review-card" data-review-dir="left" style="background: #0f1622; border: 1px solid rgba(255,255,255,0.08); border-radius: 16px; padding: 2rem;">
+                    <div style="color: #ffd700; font-size: 1.2rem; margin-bottom: 1rem;">★ ★ ★ ★ ★</div>
+                    <p style="color: #cbd5e1; font-style: italic; line-height: 1.6; margin-bottom: 1.5rem;">"The Olympic Barbell and bumper plates are absolute beast quality. Zero wobble on heavy 220kg deadlifts. Fast shipping to Bangalore too!"</p>
+                    <div style="display: flex; align-items: center; gap: 1rem;">
+                        <div style="width: 42px; height: 42px; border-radius: 50%; background: #ffd700; color: #000; display: flex; align-items: center; justify-content: center; font-weight: bold;">R</div>
+                        <div>
+                            <div style="color: #fff; font-weight: bold; font-size: 0.95rem;">Rahul Sharma</div>
+                            <div style="color: #64748b; font-size: 0.8rem;">Verified Powerlifter</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="review-card" data-review-dir="right" style="background: #0f1622; border: 1px solid rgba(255,255,255,0.08); border-radius: 16px; padding: 2rem;">
+                    <div style="color: #ffd700; font-size: 1.2rem; margin-bottom: 1rem;">★ ★ ★ ★ ★</div>
+                    <p style="color: #cbd5e1; font-style: italic; line-height: 1.6; margin-bottom: 1.5rem;">"Equipped our entire cross-training studio with FitVerse rigs and cardio rowers. The build quality rivals imported brands at half the price."</p>
+                    <div style="display: flex; align-items: center; gap: 1rem;">
+                        <div style="width: 42px; height: 42px; border-radius: 50%; background: #ffd700; color: #000; display: flex; align-items: center; justify-content: center; font-weight: bold;">P</div>
+                        <div>
+                            <div style="color: #fff; font-weight: bold; font-size: 0.95rem;">Priya Nair</div>
+                            <div style="color: #64748b; font-size: 0.8rem;">Gym Owner &amp; Coach</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="review-card" data-review-dir="left" style="background: #0f1622; border: 1px solid rgba(255,255,255,0.08); border-radius: 16px; padding: 2rem;">
+                    <div style="color: #ffd700; font-size: 1.2rem; margin-bottom: 1rem;">★ ★ ★ ★ ★</div>
+                    <p style="color: #cbd5e1; font-style: italic; line-height: 1.6; margin-bottom: 1.5rem;">"The massage gun and compression sleeves saved my recovery during marathon prep. Customer support answered all my setup questions instantly."</p>
+                    <div style="display: flex; align-items: center; gap: 1rem;">
+                        <div style="width: 42px; height: 42px; border-radius: 50%; background: #ffd700; color: #000; display: flex; align-items: center; justify-content: center; font-weight: bold;">A</div>
+                        <div>
+                            <div style="color: #fff; font-weight: bold; font-size: 0.95rem;">Arjun Mehta</div>
+                            <div style="color: #64748b; font-size: 0.8rem;">Marathon Runner</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+
+        <!-- ═══════════════════════════════════════════════════════════
+             BANNER — YOUR GYM. YOUR RULES. (Full Glassmorphic Card)
+        ═══════════════════════════════════════════════════════════ -->
+        <!-- ═══════════════════════════════════════════════════════════
+             BANNER — YOUR GYM. YOUR RULES. (Seamless No-Border Banner)
+        ═══════════════════════════════════════════════════════════ -->
+        <section class="tg-banner-section" id="tg-banner-2">
+
+            <!-- Clean static background gym image with dark overlay -->
+            <div class="tg-banner-bg-wrapper"></div>
+            <div class="tg-banner-overlay"></div>
+
+            <!-- Content Container -->
+            <div class="tg-banner-content">
+
+                <!-- Badge tags row -->
+                <div class="tg-banner-badges">
+                    <span class="tg-badge-gold">
+                        <svg width="12" height="12" viewBox="0 0 24 24" fill="#ffd700"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
+                        ATHLETE EDITION
+                    </span>
+                    <span class="tg-badge-glass">
+                        CUSTOM GYM BUNDLES
+                    </span>
+                </div>
+
+                <!-- Main Headline -->
+                <h2 class="tg-banner-title">
+                     YOUR GYM, <span class="tg-title-gold">YOUR RULES</span>
+                </h2>
+
+                <!-- Bottom row: Description + CTA -->
+                <div class="tg-banner-bottom-row">
+                    <div class="tg-banner-accent-line"></div>
+                    <p class="tg-banner-desc">
+                        Build your perfect training sanctuary — curated home gym bundles, delivered and installed. Guaranteed.
+                    </p>
+                    <div class="tg-banner-cta-block">
+                        <a href="bundles.html" class="tg-banner-btn">
+                            DISCOVER BUNDLES
+                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+                        </a>
+                        <span class="tg-banner-guarantee">
+                            FREE DELIVERY · LIFETIME WARRANTY
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- ═══════════════════════════════════════════
+             BRAND MARQUEE TICKER (Glowing Golden Badges)
+        ═══════════════════════════════════════════ -->
+        <section style="padding: 3rem 0; background: #060a10; position: relative; z-index: 10; border: none;">
+
+            <!-- Container -->
+            <div style="margin: 0 auto; width: 100%; background: transparent;">
+
+                <!-- Header row -->
+                <div style="display: flex; align-items: center; justify-content: center; gap: 1.25rem; padding: 0 2rem 1.8rem;">
+                    <div style="height: 1px; width: 60px; background: linear-gradient(90deg, transparent, #ffd700);"></div>
+                    <span style="color: #ffffff; font-size: 0.85rem; font-weight: 800; letter-spacing: 4px; text-transform: uppercase; font-family: var(--font-mono); text-shadow: 0 2px 10px rgba(0,0,0,0.5);">
+                        TRUSTED BY LEADING <span style="color: #ffd700;">ATHLETIC &amp; FITNESS BRANDS</span>
+                    </span>
+                    <div style="height: 1px; width: 60px; background: linear-gradient(90deg, #ffd700, transparent);"></div>
+                </div>
+
+                <!-- Marquee ticker -->
+                <div class="brand-marquee-wrapper" style="overflow: hidden; padding: 1rem 0; position: relative;">
+
+                    <!-- Left/right fade masks -->
+                    <div style="position: absolute; left: 0; top: 0; bottom: 0; width: 140px; background: linear-gradient(to right, #060a10 0%, transparent 100%); z-index: 2; pointer-events: none;"></div>
+                    <div style="position: absolute; right: 0; top: 0; bottom: 0; width: 140px; background: linear-gradient(to left, #060a10 0%, transparent 100%); z-index: 2; pointer-events: none;"></div>
+
+                    <div class="brand-marquee-track" style="display: flex; align-items: center; gap: 1.2rem; width: max-content; animation: brandScroll 32s linear infinite;"
+                         onmouseenter="this.style.animationPlayState='paused'"
+                         onmouseleave="this.style.animationPlayState='running'">
+
+                        <!-- Set 1 -->
+                        <div class="bml-badge"><span class="bml-txt" style="font-weight: 900; letter-spacing: 3px;">NIKE</span></div><span class="bml-star">✦</span>
+                        <div class="bml-badge"><span class="bml-txt" style="font-style: italic; font-weight: 800;">ADIDAS</span></div><span class="bml-star">✦</span>
+                        <div class="bml-badge"><span class="bml-txt" style="font-weight: 800;">UNDER ARMOUR</span></div><span class="bml-star">✦</span>
+                        <div class="bml-badge gold-highlight"><span class="bml-txt" style="font-weight: 900; letter-spacing: 3px;">ROGUE</span></div><span class="bml-star">✦</span>
+                        <div class="bml-badge"><span class="bml-txt" style="font-weight: 400; letter-spacing: 6px;">ELEIKO</span></div><span class="bml-star">✦</span>
+                        <div class="bml-badge"><span class="bml-txt" style="font-weight: 900;">PUMA</span></div><span class="bml-star">✦</span>
+                        <div class="bml-badge"><span class="bml-txt" style="font-weight: 800; letter-spacing: 2px;">TECHNOGYM</span></div><span class="bml-star">✦</span>
+                        <div class="bml-badge"><span class="bml-txt" style="font-weight: 500; letter-spacing: 3px;">LIFE FITNESS</span></div><span class="bml-star">✦</span>
+                        <div class="bml-badge"><span class="bml-txt" style="font-weight: 900;">BOWFLEX</span></div><span class="bml-star">✦</span>
+                        <div class="bml-badge gold-highlight"><span class="bml-txt" style="font-weight: 900;">HAMMER STRENGTH</span></div><span class="bml-star">✦</span>
+                        <div class="bml-badge"><span class="bml-txt" style="font-weight: 700; letter-spacing: 2px;">PRECOR</span></div><span class="bml-star">✦</span>
+                        <div class="bml-badge"><span class="bml-txt" style="font-style: italic; font-weight: 800;">REEBOK</span></div><span class="bml-star">✦</span>
+                        <div class="bml-badge"><span class="bml-txt" style="font-weight: 800; letter-spacing: 3px;">GARMIN</span></div><span class="bml-star">✦</span>
+                        <div class="bml-badge"><span class="bml-txt" style="font-weight: 900; letter-spacing: 3px;">POLAR</span></div><span class="bml-star">✦</span>
+                        <div class="bml-badge"><span class="bml-txt" style="font-weight: 800;">CONCEPT2</span></div><span class="bml-star">✦</span>
+                        <div class="bml-badge gold-highlight"><span class="bml-txt" style="font-weight: 900; letter-spacing: 3px;">TITAN FITNESS</span></div><span class="bml-star">✦</span>
+
+                        <!-- Set 2 (seamless duplicate) -->
+                        <div class="bml-badge"><span class="bml-txt" style="font-weight: 900; letter-spacing: 3px;">NIKE</span></div><span class="bml-star">✦</span>
+                        <div class="bml-badge"><span class="bml-txt" style="font-style: italic; font-weight: 800;">ADIDAS</span></div><span class="bml-star">✦</span>
+                        <div class="bml-badge"><span class="bml-txt" style="font-weight: 800;">UNDER ARMOUR</span></div><span class="bml-star">✦</span>
+                        <div class="bml-badge gold-highlight"><span class="bml-txt" style="font-weight: 900; letter-spacing: 3px;">ROGUE</span></div><span class="bml-star">✦</span>
+                        <div class="bml-badge"><span class="bml-txt" style="font-weight: 400; letter-spacing: 6px;">ELEIKO</span></div><span class="bml-star">✦</span>
+                        <div class="bml-badge"><span class="bml-txt" style="font-weight: 900;">PUMA</span></div><span class="bml-star">✦</span>
+                        <div class="bml-badge"><span class="bml-txt" style="font-weight: 800; letter-spacing: 2px;">TECHNOGYM</span></div><span class="bml-star">✦</span>
+                        <div class="bml-badge"><span class="bml-txt" style="font-weight: 500; letter-spacing: 3px;">LIFE FITNESS</span></div><span class="bml-star">✦</span>
+                        <div class="bml-badge"><span class="bml-txt" style="font-weight: 900;">BOWFLEX</span></div><span class="bml-star">✦</span>
+                        <div class="bml-badge gold-highlight"><span class="bml-txt" style="font-weight: 900;">HAMMER STRENGTH</span></div><span class="bml-star">✦</span>
+                        <div class="bml-badge"><span class="bml-txt" style="font-weight: 700; letter-spacing: 2px;">PRECOR</span></div><span class="bml-star">✦</span>
+                        <div class="bml-badge"><span class="bml-txt" style="font-style: italic; font-weight: 800;">REEBOK</span></div><span class="bml-star">✦</span>
+                        <div class="bml-badge"><span class="bml-txt" style="font-weight: 800; letter-spacing: 3px;">GARMIN</span></div><span class="bml-star">✦</span>
+                        <div class="bml-badge"><span class="bml-txt" style="font-weight: 900; letter-spacing: 3px;">POLAR</span></div><span class="bml-star">✦</span>
+                        <div class="bml-badge"><span class="bml-txt" style="font-weight: 800;">CONCEPT2</span></div><span class="bml-star">✦</span>
+                        <div class="bml-badge gold-highlight"><span class="bml-txt" style="font-weight: 900; letter-spacing: 3px;">TITAN FITNESS</span></div><span class="bml-star">✦</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <style>
+        .bml-badge {
+            background: rgba(255, 255, 255, 0.04);
+            border: none;
+            padding: 0.6rem 1.6rem;
+            border-radius: 50px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.25);
+        }
+        .bml-badge.gold-highlight {
+            background: rgba(255, 215, 0, 0.08);
+        }
+        .bml-badge:hover {
+            background: rgba(255, 215, 0, 0.16);
+            transform: translateY(-3px) scale(1.04);
+            box-shadow: 0 8px 25px rgba(255, 215, 0, 0.25);
+        }
+        .bml-txt {
+            color: #ffd700;
+            font-size: 1.15rem;
+            text-transform: uppercase;
+            white-space: nowrap;
+            cursor: default;
+            text-shadow: 0 0 10px rgba(255, 215, 0, 0.3);
+        }
+        .bml-badge:hover .bml-txt {
+            color: #ffffff !important;
+            text-shadow: 0 0 16px rgba(255, 255, 255, 0.8);
+        }
+        .bml-star {
+            color: #ffd700;
+            font-size: 0.85rem;
+            opacity: 0.5;
+            flex-shrink: 0;
+            text-shadow: 0 0 8px rgba(255, 215, 0, 0.5);
+        }
+        .why-us-grid {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: 1fr 1.1fr;
+            gap: 4rem;
+            position: relative;
+            z-index: 2;
+            align-items: center;
+        }
+        @media (max-width: 900px) {
+            .why-us-grid {
+                grid-template-columns: 1fr !important;
+                gap: 2.2rem !important;
+                width: 100% !important;
+            }
+        }
+        @keyframes brandScroll {
+            0%   { transform: translateX(0); }
+            100% { transform: translateX(-50%); }
+        }
+
+        /* Interactive Hotspots */
+        .hotspot-container {
+            position: relative;
+            width: 100%;
+            border-radius: 20px;
+            overflow: hidden;
+            border: 1px solid rgba(255, 215, 0, 0.15);
+            background: #0d131f;
+            box-shadow: 0 25px 60px rgba(0,0,0,0.6);
+        }
+        .hotspot-img {
+            width: 100%;
+            height: auto;
+            display: block;
+            filter: brightness(0.85) contrast(1.05);
+            transition: filter 0.3s;
+        }
+        .hotspot-container:hover .hotspot-img {
+            filter: brightness(0.75) contrast(1.05);
+        }
+        .hotspot-dot {
+            position: absolute;
+            width: 28px;
+            height: 28px;
+            background: #ffd700;
+            border-radius: 50%;
+            cursor: pointer;
+            z-index: 10;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 0 15px rgba(255, 215, 0, 0.8);
+            transition: transform 0.25s cubic-bezier(0.175, 0.885, 0.32, 1.275), background-color 0.2s;
+        }
+        .hotspot-dot::after {
+            content: '';
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            border-radius: 50%;
+            background: #ffd700;
+            opacity: 0.6;
+            animation: hotspotPulse 2s infinite ease-out;
+        }
+        .hotspot-dot:hover {
+            transform: scale(1.3);
+            background: #fff;
+        }
+        @keyframes hotspotPulse {
+            0% { transform: scale(1); opacity: 0.6; }
+            100% { transform: scale(2.2); opacity: 0; }
+        }
+        .hotspot-tooltip {
+            position: absolute;
+            bottom: calc(100% + 14px);
+            left: 50%;
+            transform: translateX(-50%) translateY(10px);
+            width: 290px;
+            background: rgba(13, 20, 34, 0.97);
+            border: 1px solid rgba(255, 215, 0, 0.35);
+            border-radius: 12px;
+            padding: 1.25rem;
+            color: #fff;
+            box-shadow: 0 15px 35px rgba(0,0,0,0.7);
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.3s, transform 0.3s;
+            z-index: 20;
+            backdrop-filter: blur(10px);
+            text-align: left;
+        }
+        .hotspot-tooltip::after {
+            content: '';
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            transform: translateX(-50%);
+            border-width: 7px;
+            border-style: solid;
+            border-color: rgba(255, 215, 0, 0.35) transparent transparent transparent;
+        }
+        .hotspot-dot:hover .hotspot-tooltip {
+            opacity: 1;
+            transform: translateX(-50%) translateY(0);
+            pointer-events: auto;
+        }
+        .hotspot-title {
+            font-size: 0.95rem;
+            font-weight: 800;
+            color: #ffd700;
+            margin-bottom: 0.4rem;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        .hotspot-desc {
+            font-size: 0.82rem;
+            color: rgba(255,255,255,0.7);
+            line-height: 1.55;
+            margin-bottom: 0.6rem;
+        }
+        .hotspot-quote {
+            font-size: 0.76rem;
+            font-style: italic;
+            color: #fff;
+            border-top: 1px solid rgba(255,255,255,0.08);
+            padding-top: 0.5rem;
+        }
+        </style>
+
+
+
+
+
+
+
+
+        <!-- IntersectionObserver + hover zoom script for banners -->
+        <script>
+        (function() {
+            // Scroll-triggered fade-in
+            const bannerOpts = { threshold: 0.15 };
+            const bannerObserver = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add('tg-banner-visible');
+                        bannerObserver.unobserve(entry.target);
+                    }
+                });
+            }, bannerOpts);
+            document.querySelectorAll('.tg-banner-section').forEach(s => bannerObserver.observe(s));
+
+            // Hover zoom on image layer
+            document.querySelectorAll('.tg-banner-section').forEach(section => {
+                const img = section.querySelector('.tg-banner-img');
+                if (img) {
+                    section.addEventListener('mouseenter', () => { img.style.transform = 'scale(1.05)'; });
+                    section.addEventListener('mouseleave', () => { img.style.transform = 'scale(1)'; });
+                }
+            });
+        })();
+        </script>
+
+        <!-- Newsletter Subscription Section -->
+
+        <section class="newsletter-section scroll-reveal">
+            <div class="newsletter-content">
+                <div style="margin-bottom: 0.75rem;">
+                    <span style="color: #ffd700; font-family: 'JetBrains Mono', monospace; font-size: 0.8rem; font-weight: 800; letter-spacing: 2px; text-transform: uppercase;">JOIN THE ELITE &bull; VIP ACCESS</span>
+                </div>
+                <h2>JOIN THE <span style="color: #ffd700; text-shadow: 0 0 25px rgba(255,215,0,0.5);">FITVERSE CLUB</span></h2>
+                <p class="newsletter-subtext">Subscribe to unlock <strong style="color: #ffd700;">₹500 off</strong> your first equipment order, early access to limited drops, and pro training guides.</p>
+                <form class="newsletter-form" onsubmit="event.preventDefault(); var email = this.querySelector('input').value.trim(); if(email) { showToast('🎉 Welcome to VIP Club! Use code: FITVERSE500', 'success'); document.getElementById('newsletter-success-msg').style.display='block'; this.reset(); }">
+                    <div class="newsletter-input-wrapper">
+                        <input type="email" placeholder="Enter your email address..." required autocomplete="email">
+                        <button type="submit" class="newsletter-submit-btn">JOIN NOW</button>
+                    </div>
+                </form>
+                <div id="newsletter-success-msg" style="display: none; margin-top: 1.25rem; background: rgba(255, 215, 0, 0.1); border: 1px solid rgba(255, 215, 0, 0.4); border-radius: 12px; padding: 0.85rem 1.25rem; color: #ffd700; font-weight: 700; font-size: 0.9rem;">
+                    🎉 VIP Activated! Your ₹500 discount code is: <span style="background: #ffd700; color: #000; padding: 2px 8px; border-radius: 6px; font-weight: 900; font-family: monospace;">FITVERSE500</span>
+                </div>
+                <div class="newsletter-trust-badges">
+                    <span><span style="color: #ffd700;">✓</span> Instant ₹500 Discount</span>
+                    <span><span style="color: #ffd700;">✓</span> VIP Drop Alerts</span>
+                    <span><span style="color: #ffd700;">✓</span> No Spam Guarantee</span>
+                </div>
+            </div>
+        </section>
+    </main>
+
+                        <!-- Professional Footer -->
+        <footer class="cfooter">
+        <div class="cfooter-container">
+            <!-- Col 1: Brand -->
+            <div class="cfooter-col cfooter-brand-col">
+                <a href="index.html" class="cfooter-logo-link">
+                    <img src="logo.png?v=3" alt="FitVerse" class="cfooter-logo-img">
+                    <span class="cfooter-logo-text">FitVerse</span>
+                </a>
+                <p class="cfooter-brand-desc">
+                    Equip Your Journey with premium fitness gear engineered for peak performance and commercial durability.
+                </p>
+            </div>
+
+            <!-- Col 2: Shop Gear -->
+            <div class="cfooter-col">
+                <h4 class="cfooter-heading">SHOP GEAR</h4>
+                <ul class="cfooter-links">
+                    <li><a href="shop.html">Strength</a></li>
+                    <li><a href="shop.html">Cardio Equipment</a></li>
+                    <li><a href="categories.html">Categories</a></li>
+                    <li><a href="bundles.html">Bundles</a></li>
+                </ul>
+            </div>
+
+            <!-- Col 3: Company -->
+            <div class="cfooter-col">
+                <h4 class="cfooter-heading">COMPANY</h4>
+                <ul class="cfooter-links">
+                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="reviews.html">Reviews</a></li>
+                    <li><a href="careers.html">Careers</a></li>
+                    <li><a href="javascript:void(0)" onclick="openPressModal()">Press</a></li>
+                </ul>
+            </div>
+
+            <!-- Col 4: Customer Service -->
+            <div class="cfooter-col">
+                <h4 class="cfooter-heading">CUSTOMER SERVICE</h4>
+                <ul class="cfooter-links">
+                    <li><a href="javascript:void(0)" onclick="openHelpModal()">Help Center</a></li>
+                    <li><a href="javascript:void(0)" onclick="openShippingModal()">Shipping Policy</a></li>
+                    <li><a href="returns.html">Returns & Refunds</a></li>
+                    <li><a href="contact.html">Contact Us</a></li>
+                </ul>
+            </div>
+
+            <!-- Col 5: Newsletter -->
+            <div class="cfooter-col cfooter-newsletter-col">
+                <h4 class="cfooter-heading">NEWSLETTER</h4>
+                <p class="cfooter-newsletter-desc">Subscribe for VIP gear drops & discounts.</p>
+                <form onsubmit="event.preventDefault(); if(window.auth) auth.showToast('Thank you for subscribing!', 'success');" class="cfooter-form">
+                    <input type="email" placeholder="Enter your email" required class="cfooter-input">
+                    <button type="submit" class="cfooter-btn" aria-label="Subscribe"><i class="fas fa-arrow-right"></i></button>
+                </form>
+            </div>
+        </div>
+
+        <!-- Bottom Bar -->
+        <div class="cfooter-bottom">
+            <p class="cfooter-copy">&copy; 2026 FitVerse Inc. All rights reserved.</p>
+            <div class="cfooter-legal-links">
+                <a href="privacy.html">Privacy Policy</a>
+                <a href="terms.html">Terms of Service</a>
+                <a href="returns.html">Returns and refunds</a>
+            </div>
+        </div>
+    </footer>
+    <!-- Overlays & Drawers -->
+
+    
+    </div>
+
+    <!-- Cart Drawer -->
+        <!-- Compact Floating Search Bar -->
+    <div id="search-modal" style="display: none;">
+        <div>
+            <!-- <div class="search-bar-inner">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#ffd700" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+                <input type="text" id="search-input-modal" placeholder="Search gear, categories, bundles..." autocomplete="off">
+                <button id="search-submit" class="search-submit-btn">Search</button>
+                <button class="close-search-btn" aria-label="Close search">&times;</button>
+            </div> -->
+            <div class="search-quick-tags">
+                <span>Popular:</span>
+                <a href="shop.html?category=Strength">Strength</a>
+                <a href="shop.html?category=Cardio">Cardio</a>
+                <a href="shop.html?category=Combat">Combat</a>
+                <a href="shop.html?category=Home Gym">Home Gym</a>
+                <a href="bundles.html">Bundles</a>
+            </div>
+        </div>
+    </div>
+
+    <div id="cart-overlay" class="overlay cart-overlay-bg">
+        <div class="cart-drawer" style="background: #0f1622; color: #fff;">
+            <div class="cart-header">
+                <h2>Your Cart (<span id="cart-count-title">0</span>)</h2>
+                <button class="close-btn cart-close-btn" aria-label="Close Cart">✕</button>
+            </div>
+            
+            <div id="cart-items" class="cart-items">
+                <!-- Cart items injected via JS -->
+            </div>
+            
+            <div class="cart-footer">
+                <div class="cart-subtotal">
+                    <span>Subtotal</span>
+                    <span id="cart-total-price">₹0.00</span>
+                </div>
+                <a href="checkout.html" id="checkout-btn" class="btn btn-primary btn-block" style="width: 100%; text-align: center; display: block; background: #ffd700; color: #000; font-weight: 800; padding: 0.85rem; border-radius: 8px; text-decoration: none; text-transform: uppercase;">Checkout</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Wishlist Modal -->
+    <div id="wishlist-overlay" class="overlay wishlist-overlay-bg">
+        <div class="cart-drawer" style="background: #1a1a1c; color: #fff;">
+            <div class="cart-header" style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.1); padding-bottom: 1rem;">
+                <h2 style="color: #fff; margin: 0;">Your Wishlist (<span id="wishlist-count-title">0</span>)</h2>
+                <button class="close-btn wishlist-close-btn" aria-label="Close Wishlist" style="background: none; border: none; color: #fff; font-size: 2rem; cursor: pointer;">&times;</button>
+            </div>
+            <div id="wishlist-items" class="cart-items" style="flex: 1; overflow-y: auto; padding: 1rem 0;">
+                <p style="color: rgba(255,255,255,0.5); text-align: center; margin-top: 2rem;">Your wishlist is currently empty.</p>
+            </div>
+            <div class="cart-footer" style="border-top: 1px solid rgba(255,255,255,0.1); padding-top: 1rem;">
+                <a href="shop.html" class="btn btn-primary" style="width: 100%; text-align: center;">Continue Shopping</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Toast Notification -->
+    <div id="toast-container" class="toast-container"></div>
+
+    <!-- Back to Top -->
+    <button id="back-to-top" class="back-to-top icon-btn" aria-label="Back to top">↑</button>
+
+    <script>
+        const slider = document.querySelector('.circular-categories');
+        let isDown = false;
+        let startX;
+        let scrollLeft;
+
+        slider.addEventListener('mousedown', (e) => {
+            isDown = true;
+            slider.style.cursor = 'grabbing';
+            startX = e.pageX - slider.offsetLeft;
+            scrollLeft = slider.scrollLeft;
+        });
+        slider.addEventListener('mouseleave', () => {
+            isDown = false;
+            slider.style.cursor = 'grab';
+        });
+        slider.addEventListener('mouseup', () => {
+            isDown = false;
+            slider.style.cursor = 'grab';
+        });
+        slider.addEventListener('mousemove', (e) => {
+            if (!isDown) return;
+            e.preventDefault();
+            const x = e.pageX - slider.offsetLeft;
+            const walk = (x - startX) * 2; // Scroll-fast
+            slider.scrollLeft = scrollLeft - walk;
+        });
+        slider.style.cursor = 'grab';
+    </script>
+
+    <script src="products.js?v=440"></script>
+    <script src="app.js?v=440"></script>
+
+    <!-- ═══════════════════════════════════════════════════════════
+         FITVERSE HOMEPAGE ANIMATIONS
+    ═══════════════════════════════════════════════════════════ -->
+    <script>
+    (function() {
+        'use strict';
+
+        /* ── 1. Navbar Scroll Glassmorphism ────────────────────── */
+        const navbar = document.querySelector('.navbar');
+        if (navbar) {
+            window.addEventListener('scroll', function() {
+                navbar.classList.toggle('navbar-scrolled', window.scrollY > 80);
+            }, { passive: true });
+        }
+
+        /* ── 2. Upgraded IntersectionObserver for scroll-reveal ── */
+        const revealObs = new IntersectionObserver(function(entries) {
+            entries.forEach(function(entry) {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('revealed');
+                    revealObs.unobserve(entry.target);
+                }
+            });
+        }, { threshold: 0.12 });
+        document.querySelectorAll('.scroll-reveal').forEach(function(el) {
+            revealObs.observe(el);
+        });
+
+        /* ── 3. Category circles stagger ──────────────────────── */
+        const catObs = new IntersectionObserver(function(entries) {
+            entries.forEach(function(entry) {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('cat-revealed');
+                    catObs.unobserve(entry.target);
+                }
+            });
+        }, { threshold: 0.2 });
+        document.querySelectorAll('.cat-circle-wrap').forEach(function(el) {
+            catObs.observe(el);
+        });
+
+        /* ── 4. Review cards slide-in from sides ───────────────── */
+        const reviewObs = new IntersectionObserver(function(entries) {
+            entries.forEach(function(entry) {
+                if (entry.isIntersecting) {
+                    var dir = entry.target.dataset.reviewDir || 'left';
+                    entry.target.classList.add('review-revealed-' + dir);
+                    reviewObs.unobserve(entry.target);
+                }
+            });
+        }, { threshold: 0.15 });
+        document.querySelectorAll('.review-card').forEach(function(el) {
+            reviewObs.observe(el);
+        });
+
+        /* ── 5. Button ripple ──────────────────────────────────── */
+        document.addEventListener('click', function(e) {
+            var btn = e.target.closest('.btn, .btn-gold, .btn-primary');
+            if (!btn) return;
+            var ripple = document.createElement('span');
+            ripple.className = 'btn-ripple';
+            var rect = btn.getBoundingClientRect();
+            var size = Math.max(rect.width, rect.height);
+            ripple.style.cssText = 'width:' + size + 'px;height:' + size + 'px;' +
+                'left:' + (e.clientX - rect.left - size/2) + 'px;' +
+                'top:' + (e.clientY - rect.top - size/2) + 'px;';
+            btn.appendChild(ripple);
+            setTimeout(function() { ripple.remove(); }, 620);
+        });
+
+        /* ── 6. Promo box 3D mouse-tilt ───────────────────────── */
+        document.querySelectorAll('.promo-box').forEach(function(box) {
+            box.addEventListener('mousemove', function(e) {
+                var rect = box.getBoundingClientRect();
+                var cx = rect.left + rect.width  / 2;
+                var cy = rect.top  + rect.height / 2;
+                var dx = (e.clientX - cx) / (rect.width  / 2);
+                var dy = (e.clientY - cy) / (rect.height / 2);
+                box.style.transform = 'perspective(700px) rotateY(' + (dx * 5) + 'deg) rotateX(' + (-dy * 4) + 'deg) scale(1.02)';
+            });
+            box.addEventListener('mouseleave', function() {
+                box.style.transform = '';
+            });
+        });
+
+        /* ── 7. Gym banner heading char-split animation ────────── */
+        function splitChars(el) {
+            if (!el || el.dataset.charSplit) return;
+            el.dataset.charSplit = '1';
+            var html = '';
+            var delay = 0;
+            var text = el.textContent;
+            el.classList.add('char-split');
+            el.innerHTML = '';
+            // Wrap each visible char; preserve whitespace
+            for (var i = 0; i < text.length; i++) {
+                if (text[i] === ' ') {
+                    html += ' ';
+                } else {
+                    html += '<span class="char" style="animation-delay:' + delay.toFixed(2) + 's">' + text[i] + '</span>';
+                    delay += 0.038;
+                }
+            }
+            el.innerHTML = html;
+        }
+        // Apply to gym banner heading when it enters viewport
+        var bannerH2 = document.querySelector('.tg-banner-content h2');
+        if (bannerH2) {
+            var bannerObs = new IntersectionObserver(function(entries) {
+                entries.forEach(function(entry) {
+                    if (entry.isIntersecting) {
+                        splitChars(bannerH2);
+                        bannerObs.unobserve(entry.target);
+                    }
+                });
+            }, { threshold: 0.4 });
+            bannerObs.observe(bannerH2);
+        }
+
+        /* ── 8. Hero particle canvas ───────────────────────────── */
+        var canvas = document.getElementById('hero-particles');
+        if (canvas) {
+            var ctx = canvas.getContext('2d');
+            var particles = [];
+            function resizeCanvas() {
+                canvas.width  = canvas.offsetWidth;
+                canvas.height = canvas.offsetHeight;
+            }
+            resizeCanvas();
+            window.addEventListener('resize', resizeCanvas, { passive: true });
+
+            for (var i = 0; i < 28; i++) {
+                particles.push({
+                    x:  Math.random() * canvas.width,
+                    y:  Math.random() * canvas.height,
+                    r:  Math.random() * 2.5 + 0.5,
+                    dx: (Math.random() - 0.5) * 0.35,
+                    dy: (Math.random() - 0.5) * 0.35,
+                    a:  Math.random() * 0.55 + 0.1
+                });
+            }
+
+            function drawParticles() {
+                ctx.clearRect(0, 0, canvas.width, canvas.height);
+                particles.forEach(function(p) {
+                    ctx.beginPath();
+                    ctx.arc(p.x, p.y, p.r, 0, Math.PI * 2);
+                    ctx.fillStyle = 'rgba(255,215,0,' + p.a + ')';
+                    ctx.fill();
+                    p.x += p.dx;
+                    p.y += p.dy;
+                    if (p.x < 0 || p.x > canvas.width)  p.dx *= -1;
+                    if (p.y < 0 || p.y > canvas.height) p.dy *= -1;
+                });
+                requestAnimationFrame(drawParticles);
+            }
+            drawParticles();
+        }
+
+        /* ── 9. Interactive Pro Hero Slider & Switcher ── */
+        var heroSlidesData = [
+            {
+                pill: '2026 COMMERCIAL SERIES • ELITE PERFORMANCE',
+                title: 'ENGINEERED FOR<br><span class="pro-gold-gradient">SUPREMACY.</span><br><span class="pro-title-sub">BUILT FOR CHAMPIONS.</span>',
+                desc: 'Heavy 11-gauge structural steel power racks, calibrated competition barbells, and precision conditioning systems engineered for elite athletes and commercial facilities.',
+                image: 'images/hero.png',
+                badgeTitle: '1,000 KG TESTED',
+                badgeSub: '11-Gauge Structural Steel',
+                spotlightName: 'Pro Series Power Rack V2',
+                spotlightPrice: '₹49,999',
+                spotlightOrig: '₹59,999',
+                spotlightImg: 'images/power_rack_schematic.jpg',
+                spotlightLink: 'shop.html?cat=Strength',
+                primaryCtaText: 'EXPLORE COLLECTION',
+                primaryCtaLink: 'shop.html?cat=Strength'
+            },
+            {
+                pill: 'HIIT & ENDURANCE • SMART CONDITIONING',
+                title: 'CONQUER EVERY<br><span class="pro-gold-gradient">HORIZON.</span><br><span class="pro-title-sub">ENDLESS ENDURANCE.</span>',
+                desc: 'Zero-motor curved treadmills, magnetic resistance air rowers, and precision smart trainers engineered for relentless athlete conditioning and aerobic capacity.',
+                image: 'images/hero_gym_curl.jpg',
+                badgeTitle: 'MAGNETIC + AIR',
+                badgeSub: 'Zero-Motor Frictionless',
+                spotlightName: 'Apex Commercial Curved Runner',
+                spotlightPrice: '₹89,999',
+                spotlightOrig: '₹1,09,999',
+                spotlightImg: 'images/cardio.png',
+                spotlightLink: 'shop.html?cat=Cardio',
+                primaryCtaText: 'SHOP CARDIO GEAR',
+                primaryCtaLink: 'shop.html?cat=Cardio'
+            },
+            {
+                pill: 'CURATED PACKAGES • TURNKEY GYMS',
+                title: 'COMPLETE SUITES.<br><span class="pro-gold-gradient">ZERO COMPROMISE.</span><br><span class="pro-title-sub">SAVE UP TO 25%.</span>',
+                desc: 'Turnkey strength suites with commercial power racks, Olympic bumper plates, calibrated bars, and dumbbell sets all bundled together at massive savings.',
+                image: 'images/cinematic_hero.png',
+                badgeTitle: 'TURNKEY SETUP',
+                badgeSub: 'Save Up To ₹35,000',
+                spotlightName: 'Ultimate Beast Power Suite',
+                spotlightPrice: '₹1,49,999',
+                spotlightOrig: '₹1,85,000',
+                spotlightImg: 'images/home_gym.png',
+                spotlightLink: 'bundles.html',
+                primaryCtaText: 'EXPLORE ALL BUNDLES',
+                primaryCtaLink: 'bundles.html'
+            }
+        ];
+
+        var activeHeroIdx = 0;
+        var heroAutoTimer = null;
+
+        window.switchHeroSlide = function(idx) {
+            if (idx < 0 || idx >= heroSlidesData.length) return;
+            activeHeroIdx = idx;
+            var data = heroSlidesData[idx];
+
+            // Update Tab Buttons
+            for (var i = 0; i < heroSlidesData.length; i++) {
+                var btn = document.getElementById('pro-tab-' + i);
+                if (btn) {
+                    if (i === idx) btn.classList.add('active');
+                    else btn.classList.remove('active');
+                }
+            }
+
+            // Update Left Column with smooth transitions
+            var pill = document.getElementById('hero-pill-text');
+            var heading = document.getElementById('hero-main-heading');
+            var desc = document.getElementById('hero-main-desc');
+            var primaryCta = document.getElementById('hero-primary-cta');
+            var primaryCtaText = document.getElementById('hero-primary-cta-text');
+
+            if (pill) pill.innerHTML = '<span class="pro-pulse-dot"></span><span>' + data.pill + '</span>';
+            if (heading) heading.innerHTML = data.title;
+            if (desc) desc.textContent = data.desc;
+            if (primaryCta) primaryCta.href = data.primaryCtaLink;
+            if (primaryCtaText) primaryCtaText.textContent = data.primaryCtaText;
+
+            // Update Right Media & Cards
+            var media = document.getElementById('pro-hero-media');
+            if (media) {
+                media.style.opacity = '0.5';
+                setTimeout(function() {
+                    media.style.backgroundImage = "url('" + data.image + "')";
+                    media.style.opacity = '1';
+                }, 150);
+            }
+
+            var badgeTitle = document.getElementById('hero-badge-title');
+            var badgeSub = document.getElementById('hero-badge-sub');
+            if (badgeTitle) badgeTitle.textContent = data.badgeTitle;
+            if (badgeSub) badgeSub.textContent = data.badgeSub;
+
+            var spotImg = document.getElementById('hero-spotlight-img');
+            var spotName = document.getElementById('hero-spotlight-name');
+            var spotPrice = document.getElementById('hero-spotlight-price');
+            var spotOrig = document.getElementById('hero-spotlight-orig');
+            var spotLink = document.getElementById('hero-spotlight-link');
+
+            if (spotImg) spotImg.src = data.spotlightImg;
+            if (spotName) spotName.textContent = data.spotlightName;
+            if (spotPrice) spotPrice.textContent = data.spotlightPrice;
+            if (spotOrig) spotOrig.textContent = data.spotlightOrig;
+            if (spotLink) spotLink.href = data.spotlightLink;
+
+            resetHeroTimer();
+        };
+
+        function resetHeroTimer() {
+            if (heroAutoTimer) clearInterval(heroAutoTimer);
+            heroAutoTimer = setInterval(function() {
+                var next = (activeHeroIdx + 1) % heroSlidesData.length;
+                window.switchHeroSlide(next);
+            }, 6500);
+        }
+
+        resetHeroTimer();
+
+    })();
+    </script>
+
+
+    <script src="auth.js?v=440"></script>
+</body>
+</html>

@@ -1,0 +1,510 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FitVerse | Custom Gym Bundles</title>
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="logo.png?v=3">
+    <link rel="apple-touch-icon" href="logo.png?v=3">
+    <meta name="description" content="Explore complete multi-equipment custom gym bundles for home sanctuaries, endurance lofts, and commercial studios.">
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Poppins:wght@300;400;500;600;700;800&family=Playfair+Display:ital,wght@1,400;1,500;1,600&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="styles.css?v=440">
+    <style>
+        .programs-grid {
+            display: grid !important;
+            grid-template-columns: repeat(3, 1fr) !important;
+            gap: 2rem !important;
+            max-width: 1280px !important;
+            margin: 0 auto !important;
+        }
+
+        @media (max-width: 1080px) {
+            .programs-grid {
+                grid-template-columns: repeat(2, 1fr) !important;
+                gap: 1.5rem !important;
+            }
+        }
+
+        @media (max-width: 640px) {
+            .programs-grid {
+                grid-template-columns: 1fr !important;
+                gap: 1.25rem !important;
+            }
+        }
+
+        .program-card {
+            background: #090f19 !important;
+            border: 1px solid rgba(255, 215, 0, 0.2) !important;
+            border-radius: 18px !important;
+            overflow: hidden !important;
+            display: flex !important;
+            flex-direction: column !important;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5) !important;
+            transition: all 0.35s cubic-bezier(0.16, 1, 0.3, 1) !important;
+        }
+
+        .program-card:hover {
+            transform: translateY(-8px) !important;
+            border-color: #ffd700 !important;
+            box-shadow: 0 18px 45px rgba(0, 0, 0, 0.7), 0 0 25px rgba(255, 215, 0, 0.25) !important;
+        }
+    </style>
+</head>
+<body>
+    <!-- Initial Loading Screen -->
+    <div id="loader" class="loader-overlay">
+        <div class="loader-content">
+            <img src="logo.png?v=3" alt="Loading" class="loader-icon" style="width:50px; height:auto; border-radius: 50%;">
+            <div class="loader-text">Loading the Verse...</div>
+        </div>
+    </div>
+
+    <!-- Toast Notifications Container -->
+    <div id="toast-container" style="position: fixed; bottom: 2rem; right: 2rem; z-index: 9999; display: flex; flex-direction: column; gap: 0.75rem;"></div>
+
+        <!-- Navigation -->
+    <header class="navbar">
+        <div class="nav-container">
+            <a href="index.html" class="brand">
+                <img src="logo.png?v=3" alt="FitVerse Logo" class="brand-logo">
+                <span class="brand-wordmark">FitVerse</span>
+            </a>
+
+            <nav class="nav-links golds-nav-links">
+                <a href="index.html">HOME</a>
+                <span class="nav-divider">|</span>
+                <a href="shop.html">SHOP</a>
+                <span class="nav-divider">|</span>
+                <a href="categories.html">CATEGORIES</a>
+                <span class="nav-divider">|</span>
+                <a href="bundles.html">BUNDLES</a>
+                <span class="nav-divider">|</span>
+                <a href="about.html">ABOUT US</a>
+            </nav>
+
+            <div class="nav-actions golds-nav-actions">
+                <button aria-label="Wishlist" class="icon-btn wishlist-toggle">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path>
+                    </svg>
+                    <span class="wishlist-badge" style="display:none;">0</span>
+                </button>
+                
+                <button aria-label="Cart" class="icon-btn cart-toggle">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <circle cx="9" cy="21" r="1"></circle>
+                        <circle cx="20" cy="21" r="1"></circle>
+                        <path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path>
+                    </svg>
+                    <span class="cart-badge" style="display:none;">0</span>
+                </button>
+                <a href="login.html" class="golds-signin-btn">SIGN IN</a>
+                <button aria-label="Toggle Navigation" class="mobile-menu-toggle" onclick="window.toggleMobileMenu(event)">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg>
+                </button>
+            </div>
+        </div>
+
+        <!-- Mobile Menu Panel -->
+        <div class="mobile-menu">
+            <a href="index.html" class="mobile-link">Home</a>
+            <a href="shop.html" class="mobile-link">Shop</a>
+            <a href="categories.html" class="mobile-link">Categories</a>
+            <a href="bundles.html" class="mobile-link">Bundles</a>
+            <a href="about.html" class="mobile-link">About Us</a>
+            <a href="login.html" class="golds-signin-btn mobile-join">SIGN IN</a>
+        </div>
+    </header>
+
+    <main class="programs-page-wrapper" style="padding-top: 80px; background-color: #060a10; min-height: 100vh;">
+        
+        <!-- Luxury Black & Gold Bundles Hero -->
+        <div class="cat-page-hero" style="position: relative; width: 100%; padding: 4.5rem 1.5rem 4rem; background: radial-gradient(circle at 50% 30%, rgba(255, 215, 0, 0.08) 0%, rgba(7, 12, 20, 0.94) 70%, #060a10 100%), url('images/category_hero_bg.jpg') center 25%/cover no-repeat; text-align: center; border-bottom: 1px solid rgba(255, 215, 0, 0.15); overflow: hidden;">
+            
+            <!-- Subtle Gold Light Beam Accent -->
+            <div style="position: absolute; top: 0; left: 50%; transform: translateX(-50%); width: 60%; height: 1px; background: linear-gradient(90deg, transparent, #ffd700, transparent); opacity: 0.6;"></div>
+
+            <div class="cat-hero-content" style="max-width: 850px; margin: 0 auto; position: relative; z-index: 2;">
+                
+                <!-- Kicker Pill Badge -->
+                <div class="shop-kicker-badge" style="display: inline-flex; align-items: center; gap: 8px; background: rgba(255, 215, 0, 0.08); border: 1px solid rgba(255, 215, 0, 0.3); border-radius: 50px; padding: 0.35rem 1.25rem; margin-bottom: 1.1rem; box-shadow: 0 0 15px rgba(255, 215, 0, 0.12);">
+                    <span style="width: 7px; height: 7px; border-radius: 50%; background: #ffd700; box-shadow: 0 0 8px #ffd700;"></span>
+                    <span style="font-family: 'JetBrains Mono', monospace; font-size: 0.76rem; font-weight: 800; color: #ffd700; letter-spacing: 2.5px; text-transform: uppercase;">CURATED SUITES &bull; UP TO 30% SAVINGS</span>
+                </div>
+
+                <!-- Clean Monumental Title -->
+                <h1 class="cat-hero-title" style="font-family: 'Poppins', sans-serif; font-size: clamp(2.2rem, 5.2vw, 3.8rem); font-weight: 900; color: #ffffff; letter-spacing: 3.5px; text-transform: uppercase; margin: 0 0 0.9rem; line-height: 1.1; text-shadow: 0 4px 30px rgba(0, 0, 0, 0.95);">
+                    CUSTOM GYM <span style="color: #ffd700; text-shadow: 0 0 35px rgba(255, 215, 0, 0.65), 0 2px 10px rgba(0,0,0,0.9);">BUNDLES</span>
+                </h1>
+                
+                <!-- Subtitle -->
+                <p class="cat-hero-subtitle" style="font-size: 1.08rem; color: #cbd5e1; font-weight: 400; max-width: 660px; margin: 0 auto 1.2rem; line-height: 1.65; text-shadow: 0 2px 10px rgba(0,0,0,0.8);">
+                    Complete equipment packages engineered for home sanctuaries, endurance lofts, and commercial studios with bundled savings.
+                </p>
+
+                <!-- Minimalist Breadcrumbs -->
+                <div class="cat-breadcrumbs" style="font-family: 'JetBrains Mono', monospace; font-size: 0.78rem; font-weight: 700; color: #64748b; text-transform: uppercase; letter-spacing: 2.5px; display: flex; align-items: center; justify-content: center; gap: 0.6rem;">
+                    <a href="index.html" style="color: #94a3b8; text-decoration: none; transition: color 0.2s;" onmouseover="this.style.color='#FFD700'" onmouseout="this.style.color='#94a3b8'">HOME</a>
+                    <span style="color: #ffd700; opacity: 0.5;">/</span>
+                    <span style="color: #ffd700; font-weight: 800;">BUNDLES</span>
+                </div>
+
+            </div>
+        </div>
+
+        <!-- 6 Bundle Packages Section -->
+        <section class="programs-section" style="padding: 4rem 1.5rem 6rem; background: #060a10;">
+            <div style="text-align: left; max-width: 1280px; margin: 0 auto 2.5rem; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem;">
+                <div>
+                    <span style="color: #ffd700; font-family: 'JetBrains Mono', monospace; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 2px; font-weight: 800;">SPECIAL EQUIPMENT SUITES</span>
+                    <h2 style="font-size: 2rem; color: #fff; text-transform: uppercase; letter-spacing: 1px; margin-top: 0.2rem; font-weight: 900;">EXPLORE ALL BUNDLES & SAVINGS</h2>
+                </div>
+                <span style="color: #64748b; font-size: 0.85rem; font-weight: 600;">6 Curated Gym Packages</span>
+            </div>
+
+            <div class="programs-grid" style="max-width: 1280px; margin: 0 auto; display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem;">
+                
+                <!-- Bundle 1: Garage Strength -->
+                <div class="program-card" style="background: #0f1622; border: 1px solid rgba(255,215,0,0.2); border-radius: 18px; overflow: hidden; display: flex; flex-direction: column; transition: transform 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;">
+                    <div style="height: 200px; background: url('images/home_gym.png') center/cover no-repeat; position: relative;">
+                        <span style="position: absolute; top: 0.85rem; left: 0.85rem; background: #ffd700; color: #000; font-size: 0.72rem; font-weight: 800; padding: 0.25rem 0.75rem; border-radius: 12px; text-transform: uppercase; box-shadow: 0 2px 8px rgba(0,0,0,0.4); letter-spacing: 0.5px;">HOME SANCTUARY</span>
+                    </div>
+                    <div style="padding: 1.5rem; flex: 1; display: flex; flex-direction: column;">
+                        <h3 style="font-size: 1.3rem; color: #fff; margin-bottom: 0.45rem; font-weight: 800; letter-spacing: 0.5px;">GARAGE STRENGTH BUNDLE</h3>
+                        <p style="color: #94a3b8; font-size: 0.86rem; line-height: 1.45; margin-bottom: 1.25rem;">Turn 100 sq.ft into a pro strength training setup with zero compromises.</p>
+                        
+                        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.45rem; margin-bottom: 1.5rem;">
+                            <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.06); padding: 0.45rem 0.65rem; border-radius: 6px; font-size: 0.76rem; color: #cbd5e1; display: flex; align-items: center; gap: 0.45rem;"><span style="color: #ffd700; font-weight: bold;">✓</span> 7ft Power Barbell</div>
+                            <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.06); padding: 0.45rem 0.65rem; border-radius: 6px; font-size: 0.76rem; color: #cbd5e1; display: flex; align-items: center; gap: 0.45rem;"><span style="color: #ffd700; font-weight: bold;">✓</span> Squat &amp; Bench Rack</div>
+                            <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.06); padding: 0.45rem 0.65rem; border-radius: 6px; font-size: 0.76rem; color: #cbd5e1; display: flex; align-items: center; gap: 0.45rem;"><span style="color: #ffd700; font-weight: bold;">✓</span> 100kg Plates</div>
+                            <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.06); padding: 0.45rem 0.65rem; border-radius: 6px; font-size: 0.76rem; color: #cbd5e1; display: flex; align-items: center; gap: 0.45rem;"><span style="color: #ffd700; font-weight: bold;">✓</span> Utility Bench</div>
+                        </div>
+                        
+                        <div style="margin-top: auto; display: flex; justify-content: space-between; align-items: center; border-top: 1px solid rgba(255,255,255,0.08); padding-top: 1.25rem;">
+                            <div>
+                                <span style="color: #64748b; font-size: 0.8rem; text-decoration: line-through; display: block;">₹59,999</span>
+                                <div style="color: #ffd700; font-weight: 900; font-size: 1.35rem; font-family: var(--font-mono, monospace);">₹49,999</div>
+                            </div>
+                            <button onclick="openBundleModal('garage-strength')" class="btn btn-gold glow-btn" style="font-size: 0.8rem; padding: 0.55rem 1.15rem; font-weight: 800; border-radius: 50px;">VIEW BUNDLE</button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Bundle 2: Pro Performance Suite -->
+                <div class="program-card" style="background: #0f1622; border: 1px solid rgba(255,215,0,0.35); border-radius: 18px; overflow: hidden; display: flex; flex-direction: column; transition: transform 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;">
+                    <div style="height: 200px; background: url('images/strength.png') center/cover no-repeat; position: relative;">
+                        <span style="position: absolute; top: 0.85rem; left: 0.85rem; background: #ffd700; color: #000; font-size: 0.72rem; font-weight: 800; padding: 0.25rem 0.75rem; border-radius: 12px; text-transform: uppercase; box-shadow: 0 2px 8px rgba(0,0,0,0.4); letter-spacing: 0.5px;">MOST POPULAR</span>
+                    </div>
+                    <div style="padding: 1.5rem; flex: 1; display: flex; flex-direction: column;">
+                        <h3 style="font-size: 1.3rem; color: #fff; margin-bottom: 0.45rem; font-weight: 800; letter-spacing: 0.5px;">PRO PERFORMANCE SUITE</h3>
+                        <p style="color: #94a3b8; font-size: 0.86rem; line-height: 1.45; margin-bottom: 1.25rem;">Dual cable crossover &amp; calibrated steel setup for training studios.</p>
+                        
+                        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.45rem; margin-bottom: 1.5rem;">
+                            <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.06); padding: 0.45rem 0.65rem; border-radius: 6px; font-size: 0.76rem; color: #cbd5e1; display: flex; align-items: center; gap: 0.45rem;"><span style="color: #ffd700; font-weight: bold;">✓</span> Dual Cable Rig</div>
+                            <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.06); padding: 0.45rem 0.65rem; border-radius: 6px; font-size: 0.76rem; color: #cbd5e1; display: flex; align-items: center; gap: 0.45rem;"><span style="color: #ffd700; font-weight: bold;">✓</span> 150kg Steel Set</div>
+                            <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.06); padding: 0.45rem 0.65rem; border-radius: 6px; font-size: 0.76rem; color: #cbd5e1; display: flex; align-items: center; gap: 0.45rem;"><span style="color: #ffd700; font-weight: bold;">✓</span> Dumbbell Rack</div>
+                            <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.06); padding: 0.45rem 0.65rem; border-radius: 6px; font-size: 0.76rem; color: #cbd5e1; display: flex; align-items: center; gap: 0.45rem;"><span style="color: #ffd700; font-weight: bold;">✓</span> Air Fan Bike</div>
+                        </div>
+                        
+                        <div style="margin-top: auto; display: flex; justify-content: space-between; align-items: center; border-top: 1px solid rgba(255,255,255,0.08); padding-top: 1.25rem;">
+                            <div>
+                                <span style="color: #64748b; font-size: 0.8rem; text-decoration: line-through; display: block;">₹1,49,999</span>
+                                <div style="color: #ffd700; font-weight: 900; font-size: 1.35rem; font-family: var(--font-mono, monospace);">₹1,24,999</div>
+                            </div>
+                            <button onclick="openBundleModal('pro-performance')" class="btn btn-gold glow-btn" style="font-size: 0.8rem; padding: 0.55rem 1.15rem; font-weight: 800; border-radius: 50px;">VIEW BUNDLE</button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Bundle 3: Cardio & Recovery Loft -->
+                <div class="program-card" style="background: #0f1622; border: 1px solid rgba(255,215,0,0.2); border-radius: 18px; overflow: hidden; display: flex; flex-direction: column; transition: transform 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;">
+                    <div style="height: 200px; background: url('images/recovery.png') center/cover no-repeat; position: relative;">
+                        <span style="position: absolute; top: 0.85rem; left: 0.85rem; background: #ffd700; color: #000; font-size: 0.72rem; font-weight: 800; padding: 0.25rem 0.75rem; border-radius: 12px; text-transform: uppercase; box-shadow: 0 2px 8px rgba(0,0,0,0.4); letter-spacing: 0.5px;">ENDURANCE &amp; RECOVERY</span>
+                    </div>
+                    <div style="padding: 1.5rem; flex: 1; display: flex; flex-direction: column;">
+                        <h3 style="font-size: 1.3rem; color: #fff; margin-bottom: 0.45rem; font-weight: 800; letter-spacing: 0.5px;">CARDIO &amp; RECOVERY LOFT</h3>
+                        <p style="color: #94a3b8; font-size: 0.86rem; line-height: 1.45; margin-bottom: 1.25rem;">Conditioning &amp; deep tissue active muscle recovery equipment.</p>
+                        
+                        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.45rem; margin-bottom: 1.5rem;">
+                            <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.06); padding: 0.45rem 0.65rem; border-radius: 6px; font-size: 0.76rem; color: #cbd5e1; display: flex; align-items: center; gap: 0.45rem;"><span style="color: #ffd700; font-weight: bold;">✓</span> Water Rower</div>
+                            <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.06); padding: 0.45rem 0.65rem; border-radius: 6px; font-size: 0.76rem; color: #cbd5e1; display: flex; align-items: center; gap: 0.45rem;"><span style="color: #ffd700; font-weight: bold;">✓</span> Massage Gun</div>
+                            <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.06); padding: 0.45rem 0.65rem; border-radius: 6px; font-size: 0.76rem; color: #cbd5e1; display: flex; align-items: center; gap: 0.45rem;"><span style="color: #ffd700; font-weight: bold;">✓</span> TPE Yoga Mat</div>
+                            <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.06); padding: 0.45rem 0.65rem; border-radius: 6px; font-size: 0.76rem; color: #cbd5e1; display: flex; align-items: center; gap: 0.45rem;"><span style="color: #ffd700; font-weight: bold;">✓</span> Mobility Bands</div>
+                        </div>
+                        
+                        <div style="margin-top: auto; display: flex; justify-content: space-between; align-items: center; border-top: 1px solid rgba(255,255,255,0.08); padding-top: 1.25rem;">
+                            <div>
+                                <span style="color: #64748b; font-size: 0.8rem; text-decoration: line-through; display: block;">₹49,999</span>
+                                <div style="color: #ffd700; font-weight: 900; font-size: 1.35rem; font-family: var(--font-mono, monospace);">₹39,999</div>
+                            </div>
+                            <button onclick="openBundleModal('cardio-recovery')" class="btn btn-gold glow-btn" style="font-size: 0.8rem; padding: 0.55rem 1.15rem; font-weight: 800; border-radius: 50px;">VIEW BUNDLE</button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Bundle 4: MMA & Combat Striking Rig -->
+                <div class="program-card" style="background: #0f1622; border: 1px solid rgba(255,215,0,0.2); border-radius: 18px; overflow: hidden; display: flex; flex-direction: column; transition: transform 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;">
+                    <div style="height: 200px; background: url('images/combat.png') center/cover no-repeat; position: relative;">
+                        <span style="position: absolute; top: 0.85rem; left: 0.85rem; background: #ffd700; color: #000; font-size: 0.72rem; font-weight: 800; padding: 0.25rem 0.75rem; border-radius: 12px; text-transform: uppercase; box-shadow: 0 2px 8px rgba(0,0,0,0.4); letter-spacing: 0.5px;">COMBAT ELITE</span>
+                    </div>
+                    <div style="padding: 1.5rem; flex: 1; display: flex; flex-direction: column;">
+                        <h3 style="font-size: 1.3rem; color: #fff; margin-bottom: 0.45rem; font-weight: 800; letter-spacing: 0.5px;">MMA &amp; COMBAT STRIKING RIG</h3>
+                        <p style="color: #94a3b8; font-size: 0.86rem; line-height: 1.45; margin-bottom: 1.25rem;">Complete heavy bag, boxing mitts &amp; agility conditioning suite.</p>
+                        
+                        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.45rem; margin-bottom: 1.5rem;">
+                            <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.06); padding: 0.45rem 0.65rem; border-radius: 6px; font-size: 0.76rem; color: #cbd5e1; display: flex; align-items: center; gap: 0.45rem;"><span style="color: #ffd700; font-weight: bold;">✓</span> 6ft Heavy Bag</div>
+                            <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.06); padding: 0.45rem 0.65rem; border-radius: 6px; font-size: 0.76rem; color: #cbd5e1; display: flex; align-items: center; gap: 0.45rem;"><span style="color: #ffd700; font-weight: bold;">✓</span> 16oz Sparring Gloves</div>
+                            <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.06); padding: 0.45rem 0.65rem; border-radius: 6px; font-size: 0.76rem; color: #cbd5e1; display: flex; align-items: center; gap: 0.45rem;"><span style="color: #ffd700; font-weight: bold;">✓</span> Thai Target Pads</div>
+                            <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.06); padding: 0.45rem 0.65rem; border-radius: 6px; font-size: 0.76rem; color: #cbd5e1; display: flex; align-items: center; gap: 0.45rem;"><span style="color: #ffd700; font-weight: bold;">✓</span> Hand Wraps &amp; Rope</div>
+                        </div>
+                        
+                        <div style="margin-top: auto; display: flex; justify-content: space-between; align-items: center; border-top: 1px solid rgba(255,255,255,0.08); padding-top: 1.25rem;">
+                            <div>
+                                <span style="color: #64748b; font-size: 0.8rem; text-decoration: line-through; display: block;">₹39,999</span>
+                                <div style="color: #ffd700; font-weight: 900; font-size: 1.35rem; font-family: var(--font-mono, monospace);">₹29,999</div>
+                            </div>
+                            <button onclick="openBundleModal('mma-combat')" class="btn btn-gold glow-btn" style="font-size: 0.8rem; padding: 0.55rem 1.15rem; font-weight: 800; border-radius: 50px;">VIEW BUNDLE</button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Bundle 5: Zen Yoga & Pilates Sanctuary -->
+                <div class="program-card" style="background: #0f1622; border: 1px solid rgba(255,215,0,0.2); border-radius: 18px; overflow: hidden; display: flex; flex-direction: column; transition: transform 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;">
+                    <div style="height: 200px; background: url('images/yoga.png') center/cover no-repeat; position: relative;">
+                        <span style="position: absolute; top: 0.85rem; left: 0.85rem; background: #ffd700; color: #000; font-size: 0.72rem; font-weight: 800; padding: 0.25rem 0.75rem; border-radius: 12px; text-transform: uppercase; box-shadow: 0 2px 8px rgba(0,0,0,0.4); letter-spacing: 0.5px;">MIND &amp; BODY</span>
+                    </div>
+                    <div style="padding: 1.5rem; flex: 1; display: flex; flex-direction: column;">
+                        <h3 style="font-size: 1.3rem; color: #fff; margin-bottom: 0.45rem; font-weight: 800; letter-spacing: 0.5px;">ZEN YOGA &amp; PILATES SANCTUARY</h3>
+                        <p style="color: #94a3b8; font-size: 0.86rem; line-height: 1.45; margin-bottom: 1.25rem;">Serene home studio package with organic cork mat &amp; pilates ring.</p>
+                        
+                        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.45rem; margin-bottom: 1.5rem;">
+                            <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.06); padding: 0.45rem 0.65rem; border-radius: 6px; font-size: 0.76rem; color: #cbd5e1; display: flex; align-items: center; gap: 0.45rem;"><span style="color: #ffd700; font-weight: bold;">✓</span> Organic Cork Mat</div>
+                            <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.06); padding: 0.45rem 0.65rem; border-radius: 6px; font-size: 0.76rem; color: #cbd5e1; display: flex; align-items: center; gap: 0.45rem;"><span style="color: #ffd700; font-weight: bold;">✓</span> Pilates Ring</div>
+                            <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.06); padding: 0.45rem 0.65rem; border-radius: 6px; font-size: 0.76rem; color: #cbd5e1; display: flex; align-items: center; gap: 0.45rem;"><span style="color: #ffd700; font-weight: bold;">✓</span> EVA Foam Blocks</div>
+                            <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.06); padding: 0.45rem 0.65rem; border-radius: 6px; font-size: 0.76rem; color: #cbd5e1; display: flex; align-items: center; gap: 0.45rem;"><span style="color: #ffd700; font-weight: bold;">✓</span> Roller &amp; Strap</div>
+                        </div>
+                        
+                        <div style="margin-top: auto; display: flex; justify-content: space-between; align-items: center; border-top: 1px solid rgba(255,255,255,0.08); padding-top: 1.25rem;">
+                            <div>
+                                <span style="color: #64748b; font-size: 0.8rem; text-decoration: line-through; display: block;">₹24,999</span>
+                                <div style="color: #ffd700; font-weight: 900; font-size: 1.35rem; font-family: var(--font-mono, monospace);">₹19,999</div>
+                            </div>
+                            <button onclick="openBundleModal('zen-yoga')" class="btn btn-gold glow-btn" style="font-size: 0.8rem; padding: 0.55rem 1.15rem; font-weight: 800; border-radius: 50px;">VIEW BUNDLE</button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Bundle 6: Women's Fit Studio Bundle -->
+                <div class="program-card" style="background: #0f1622; border: 1px solid rgba(255,215,0,0.35); border-radius: 18px; overflow: hidden; display: flex; flex-direction: column; position: relative; transition: transform 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;">
+                    <div style="height: 200px; background: url('images/apparel.png') center/cover no-repeat; position: relative;">
+                        <span style="position: absolute; top: 0.85rem; left: 0.85rem; background: linear-gradient(135deg, #ffd700, #ff9900); color: #000; font-size: 0.72rem; font-weight: 800; padding: 0.25rem 0.75rem; border-radius: 12px; text-transform: uppercase; box-shadow: 0 2px 8px rgba(255,215,0,0.4); letter-spacing: 0.5px;">✦ NEW DROP</span>
+                    </div>
+                    <div style="padding: 1.5rem; flex: 1; display: flex; flex-direction: column;">
+                        <h3 style="font-size: 1.3rem; color: #fff; margin-bottom: 0.45rem; font-weight: 800; letter-spacing: 0.5px;">WOMEN'S FIT STUDIO BUNDLE</h3>
+                        <p style="color: #94a3b8; font-size: 0.86rem; line-height: 1.45; margin-bottom: 1.25rem;">Resistance sculpting, core conditioning &amp; toning circuits for complete home studios.</p>
+
+                        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.45rem; margin-bottom: 1.5rem;">
+                            <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.06); padding: 0.45rem 0.65rem; border-radius: 6px; font-size: 0.76rem; color: #cbd5e1; display: flex; align-items: center; gap: 0.45rem;"><span style="color: #ffd700; font-weight: bold;">✓</span> Resistance Band Set</div>
+                            <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.06); padding: 0.45rem 0.65rem; border-radius: 6px; font-size: 0.76rem; color: #cbd5e1; display: flex; align-items: center; gap: 0.45rem;"><span style="color: #ffd700; font-weight: bold;">✓</span> Adjustable Dumbbells</div>
+                            <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.06); padding: 0.45rem 0.65rem; border-radius: 6px; font-size: 0.76rem; color: #cbd5e1; display: flex; align-items: center; gap: 0.45rem;"><span style="color: #ffd700; font-weight: bold;">✓</span> Pilates Ring + Strap</div>
+                            <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.06); padding: 0.45rem 0.65rem; border-radius: 6px; font-size: 0.76rem; color: #cbd5e1; display: flex; align-items: center; gap: 0.45rem;"><span style="color: #ffd700; font-weight: bold;">✓</span> TRX Suspension Kit</div>
+                        </div>
+
+                        <div style="margin-top: auto; display: flex; justify-content: space-between; align-items: center; border-top: 1px solid rgba(255,255,255,0.08); padding-top: 1.25rem;">
+                            <div>
+                                <span style="color: #64748b; font-size: 0.8rem; text-decoration: line-through; display: block;">₹34,999</span>
+                                <div style="color: #ffd700; font-weight: 900; font-size: 1.35rem; font-family: var(--font-mono, monospace);">₹27,499</div>
+                            </div>
+                            <button onclick="openBundleModal('womens-fit-studio')" class="btn btn-gold glow-btn" style="font-size: 0.8rem; padding: 0.55rem 1.15rem; font-weight: 800; border-radius: 50px;">VIEW BUNDLE</button>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
+    </main>
+
+    <footer class="cfooter">
+        <div class="cfooter-container">
+            <!-- Col 1: Brand -->
+            <div class="cfooter-col cfooter-brand-col">
+                <a href="index.html" class="cfooter-logo-link">
+                    <img src="logo.png?v=3" alt="FitVerse" class="cfooter-logo-img">
+                    <span class="cfooter-logo-text">FitVerse</span>
+                </a>
+                <p class="cfooter-brand-desc">
+                    Equip Your Journey with premium fitness gear engineered for peak performance and commercial durability.
+                </p>
+            </div>
+
+            <!-- Col 2: Shop Gear -->
+            <div class="cfooter-col">
+                <h4 class="cfooter-heading">SHOP GEAR</h4>
+                <ul class="cfooter-links">
+                    <li><a href="shop.html">Strength</a></li>
+                    <li><a href="shop.html">Cardio Equipment</a></li>
+                    <li><a href="categories.html">Categories</a></li>
+                    <li><a href="bundles.html">Bundles</a></li>
+                </ul>
+            </div>
+
+            <!-- Col 3: Company -->
+            <div class="cfooter-col">
+                <h4 class="cfooter-heading">COMPANY</h4>
+                <ul class="cfooter-links">
+                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="reviews.html">Reviews</a></li>
+                    <li><a href="careers.html">Careers</a></li>
+                    <li><a href="javascript:void(0)" onclick="openPressModal()">Press</a></li>
+                </ul>
+            </div>
+
+            <!-- Col 4: Customer Service -->
+            <div class="cfooter-col">
+                <h4 class="cfooter-heading">CUSTOMER SERVICE</h4>
+                <ul class="cfooter-links">
+                    <li><a href="javascript:void(0)" onclick="openHelpModal()">Help Center</a></li>
+                    <li><a href="javascript:void(0)" onclick="openShippingModal()">Shipping Policy</a></li>
+                    <li><a href="returns.html">Returns & Refunds</a></li>
+                    <li><a href="contact.html">Contact Us</a></li>
+                </ul>
+            </div>
+
+            <!-- Col 5: Newsletter -->
+            <div class="cfooter-col cfooter-newsletter-col">
+                <h4 class="cfooter-heading">NEWSLETTER</h4>
+                <p class="cfooter-newsletter-desc">Subscribe for VIP gear drops & discounts.</p>
+                <form onsubmit="event.preventDefault(); if(window.auth) auth.showToast('Thank you for subscribing!', 'success');" class="cfooter-form">
+                    <input type="email" placeholder="Enter your email" required class="cfooter-input">
+                    <button type="submit" class="cfooter-btn" aria-label="Subscribe"><i class="fas fa-arrow-right"></i></button>
+                </form>
+            </div>
+        </div>
+
+        <!-- Bottom Bar -->
+        <div class="cfooter-bottom">
+            <p class="cfooter-copy">&copy; 2026 FitVerse Inc. All rights reserved.</p>
+            <div class="cfooter-legal-links">
+                <a href="privacy.html">Privacy Policy</a>
+                <a href="terms.html">Terms of Service</a>
+                <a href="returns.html">Returns and refunds</a>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Footer-Professional Footer -->
+     
+   
+    <!-- Cart Overlay -->
+        <!-- Compact Floating Search Bar -->
+    <div id="search-modal" style="display: none;">
+        <div>
+            <div class="search-bar-inner">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#ffd700" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+                <input type="text" id="search-input-modal" placeholder="Search gear, categories, bundles..." autocomplete="off">
+                <button id="search-submit" class="search-submit-btn">Search</button>
+                <button class="close-search-btn" aria-label="Close search">&times;</button>
+            </div>
+            <div class="search-quick-tags">
+                <span>Popular:</span>
+                <a href="shop.html?category=Strength">Strength</a>
+                <a href="shop.html?category=Cardio">Cardio</a>
+                <a href="shop.html?category=Combat">Combat</a>
+                <a href="shop.html?category=Home Gym">Home Gym</a>
+                <a href="bundles.html">Bundles</a>
+            </div>
+        </div>
+    </div>
+
+    <div id="cart-overlay" class="overlay cart-overlay-bg">
+        <div class="cart-drawer">
+            <div class="cart-header" style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.1); padding-bottom: 1rem;">
+                <h2 style="color: #fff; margin: 0;">Your Cart (<span id="cart-count-title">0</span>)</h2>
+                <button class="close-btn cart-close-btn" aria-label="Close Cart" style="background: none; border: none; color: #fff; font-size: 2rem; cursor: pointer;">&times;</button>
+            </div>
+            <div id="cart-items" class="cart-items" style="flex: 1; overflow-y: auto; padding: 1rem 0;">
+                <p style="color: rgba(255,255,255,0.5); text-align: center; margin-top: 2rem;">Your cart is empty.</p>
+            </div>
+            <div class="cart-footer" style="border-top: 1px solid rgba(255,255,255,0.1); padding-top: 1rem;">
+                <div class="cart-subtotal" style="display: flex; justify-content: space-between; color: #fff; font-size: 1.2rem; font-weight: bold; margin-bottom: 1rem;">
+                    <span>Subtotal:</span>
+                    <span id="cart-total-price">₹0.00</span>
+                </div>
+                <a href="checkout.html" class="btn btn-primary" style="width: 100%; text-align: center;">Checkout</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Wishlist Modal -->
+    <div id="wishlist-overlay" class="overlay wishlist-overlay-bg">
+        <div class="cart-drawer" style="background: #1a1a1c; color: #fff;">
+            <div class="cart-header" style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.1); padding-bottom: 1rem;">
+                <h2 style="color: #fff; margin: 0;">Your Wishlist (<span id="wishlist-count-title">0</span>)</h2>
+                <button class="close-btn wishlist-close-btn" aria-label="Close Wishlist" style="background: none; border: none; color: #fff; font-size: 2rem; cursor: pointer;">&times;</button>
+            </div>
+            <div id="wishlist-items" class="cart-items" style="flex: 1; overflow-y: auto; padding: 1rem 0;">
+                <p style="color: rgba(255,255,255,0.5); text-align: center; margin-top: 2rem;">Your wishlist is currently empty.</p>
+            </div>
+            <div class="cart-footer" style="border-top: 1px solid rgba(255,255,255,0.1); padding-top: 1rem;">
+                <a href="shop.html" class="btn btn-primary" style="width: 100%; text-align: center;">Continue Shopping</a>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <!-- Interactive Bundle Modal Popup -->
+    <div id="bundle-modal" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.85); backdrop-filter: blur(8px); z-index: 3000; justify-content: center; align-items: center; padding: 1.5rem;">
+        <div style="background: #0f1622; border: 1px solid rgba(255,215,0,0.3); border-radius: 20px; width: 100%; max-width: 650px; max-height: 90vh; overflow-y: auto; position: relative; box-shadow: 0 25px 50px rgba(0,0,0,0.9);">
+            <button onclick="closeBundleModal()" style="position: absolute; top: 1rem; right: 1.25rem; background: rgba(0,0,0,0.6); border: 1px solid rgba(255,255,255,0.2); color: #fff; width: 36px; height: 36px; border-radius: 50%; font-size: 1.5rem; cursor: pointer; display: flex; align-items: center; justify-content: center; z-index: 10;">&times;</button>
+            
+            <div id="bundle-modal-header" style="height: 180px; background-size: cover; background-position: center; position: relative; border-radius: 20px 20px 0 0;">
+                <span id="bundle-modal-badge" style="position: absolute; bottom: 1rem; left: 1.5rem; background: #ffd700; color: #000; font-size: 0.75rem; font-weight: 900; padding: 0.3rem 0.8rem; border-radius: 12px; text-transform: uppercase;"></span>
+            </div>
+
+            <div style="padding: 2rem;">
+                <h2 id="bundle-modal-title" style="color: #fff; font-size: 1.8rem; margin-bottom: 0.5rem;"></h2>
+                <p id="bundle-modal-desc" style="color: #94a3b8; font-size: 0.95rem; line-height: 1.5; margin-bottom: 1.5rem;"></p>
+
+                <h4 style="color: #ffd700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px; margin-bottom: 1rem; border-bottom: 1px solid rgba(255,255,255,0.08); padding-bottom: 0.5rem;">INCLUDED EQUIPMENT SPECIFICATIONS</h4>
+                
+                <div id="bundle-modal-items" style="display: flex; flex-direction: column; gap: 0.75rem; margin-bottom: 1.75rem;"></div>
+
+                <div style="background: rgba(255,215,0,0.05); border: 1px dashed rgba(255,215,0,0.3); padding: 1rem 1.25rem; border-radius: 12px; margin-bottom: 1.75rem;">
+                    <div id="bundle-modal-warranty" style="color: #cbd5e1; font-size: 0.85rem; display: flex; align-items: center; gap: 0.5rem;">
+                        <span>🛡️</span> <span id="bundle-modal-warranty-text"></span>
+                    </div>
+                </div>
+
+                <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem; border-top: 1px solid rgba(255,255,255,0.1); padding-top: 1.5rem;">
+                    <div>
+                        <span style="color: #64748b; font-size: 0.85rem;">TOTAL PACKAGE VALUE: <span id="bundle-modal-orig-price" style="text-decoration: line-through;"></span></span>
+                        <div style="display: flex; align-items: center; gap: 0.75rem;">
+                            <span id="bundle-modal-price" style="color: #ffd700; font-weight: 900; font-size: 1.7rem; font-family: var(--font-mono);"></span>
+                            <span id="bundle-modal-savings" style="background: rgba(34,197,94,0.15); color: #4ade80; font-size: 0.75rem; font-weight: bold; padding: 0.2rem 0.6rem; border-radius: 8px;"></span>
+                        </div>
+                    </div>
+
+                    <button id="bundle-modal-add-btn" class="btn btn-gold glow-btn" style="padding: 0.9rem 1.8rem; font-weight: 800; font-size: 0.95rem;">ADD BUNDLE TO CART</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Script tags -->
+    <script src="products.js?v=440"></script>
+    <script src="app.js?v=440"></script>
+
+    
+    </div>
+
+    <script src="auth.js?v=440"></script>
+</body>
+</html>
