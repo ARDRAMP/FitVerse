@@ -16,7 +16,7 @@ let displayLimit = 8;
    Global Footer Modals: Press, Help Center, Shipping Policy
    ========================================================================== */
 
-window.openPressModal = function() {
+window.openPressModal = function () {
     let modal = document.getElementById('press-modal');
     if (!modal) {
         modal = document.createElement('div');
@@ -62,7 +62,7 @@ window.openPressModal = function() {
     modal.style.display = 'flex';
 };
 
-window.openHelpModal = function() {
+window.openHelpModal = function () {
     let modal = document.getElementById('help-modal');
     if (!modal) {
         modal = document.createElement('div');
@@ -98,9 +98,8 @@ window.openHelpModal = function() {
                     </details>
                 </div>
 
-                <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
-                    <a href="contact.html" class="btn btn-gold glow-btn" style="flex: 1; text-align: center; font-weight: bold; font-size: 0.88rem; text-decoration: none; padding: 0.75rem;">CONTACT SUPPORT →</a>
-                    <button onclick="if(window.auth) auth.showToast('Live support chat connected!', 'info'); else alert('Live chat connected!');" class="btn" style="background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.2); color: #fff; padding: 0.75rem 1.2rem; border-radius: 8px; font-weight: bold; cursor: pointer;">💬 START LIVE CHAT</button>
+                <div style="margin-top: 1.5rem; text-align: center;">
+                    <a href="contact.html" class="btn btn-gold glow-btn" style="display: block; width: 100%; text-align: center; font-weight: bold; font-size: 0.95rem; text-decoration: none; padding: 0.85rem 1.5rem; box-sizing: border-box; border-radius: 10px; color: #000000; background: linear-gradient(135deg, #ffd700, #ffaa00);">CONTACT US →</a>
                 </div>
             </div>
         `;
@@ -112,7 +111,7 @@ window.openHelpModal = function() {
     modal.style.display = 'flex';
 };
 
-window.openShippingModal = function() {
+window.openShippingModal = function () {
     let modal = document.getElementById('shipping-modal');
     if (!modal) {
         modal = document.createElement('div');
@@ -274,7 +273,7 @@ window.bundleData = {
     }
 };
 
-window.openBundleModal = function(bundleKey) {
+window.openBundleModal = function (bundleKey) {
     const bundle = window.bundleData[bundleKey];
     if (!bundle) return;
 
@@ -336,9 +335,9 @@ window.openBundleModal = function(bundleKey) {
     `).join('');
 
     const addBtn = document.getElementById('bundle-modal-add-btn');
-    addBtn.onclick = function() {
+    addBtn.onclick = function () {
         if (typeof addToCart === 'function') {
-            addToCart(9900 + Math.floor(Math.random()*100), bundle.title, bundle.price, bundle.image);
+            addToCart(9900 + Math.floor(Math.random() * 100), bundle.title, bundle.price, bundle.image);
         } else {
             showToast(bundle.title + ' added to cart!', 'success');
         }
@@ -348,7 +347,7 @@ window.openBundleModal = function(bundleKey) {
     modal.style.display = 'flex';
 };
 
-window.closeBundleModal = function() {
+window.closeBundleModal = function () {
     const modal = document.getElementById('bundle-modal');
     if (modal) modal.style.display = 'none';
 };
@@ -501,14 +500,14 @@ filterChips.forEach(chip => {
 });
 
 if (sortSelect) {
-    if(sortSelect) sortSelect.addEventListener('change', (e) => {
+    if (sortSelect) sortSelect.addEventListener('change', (e) => {
         currentSort = e.target.value;
         renderShop();
     });
 }
 
 if (loadMoreBtn) {
-    if(loadMoreBtn) loadMoreBtn.addEventListener('click', () => {
+    if (loadMoreBtn) loadMoreBtn.addEventListener('click', () => {
         displayLimit += 8;
         renderShop();
     });
@@ -903,7 +902,7 @@ window.wishlistToCart = function (id) {
 
 window.updateWishlistUI = function () {
     localStorage.setItem('fitverse_wishlist', JSON.stringify(Array.from(wishlist)));
-    
+
     // Update badge counts
     document.querySelectorAll('.wishlist-badge').forEach(badge => {
         badge.textContent = wishlist.size;
@@ -918,9 +917,9 @@ window.updateWishlistUI = function () {
 
     const wishlistItemsContainer = document.getElementById('wishlist-items');
     const wishlistCountTitle = document.getElementById('wishlist-count-title');
-    
+
     if (wishlistCountTitle) wishlistCountTitle.textContent = wishlist.size;
-    
+
     if (wishlist.size === 0) {
         if (wishlistItemsContainer) {
             wishlistItemsContainer.innerHTML = '<p style="color: rgba(255,255,255,0.5); text-align: center; margin-top: 2rem;">Your wishlist is currently empty.</p>';
@@ -971,7 +970,7 @@ window.updateWishlistUI = function () {
     });
 };
 
-window.showToast = function(message, type = 'success') {
+window.showToast = function (message, type = 'success') {
     let container = document.getElementById('toast-container');
     if (!container) {
         container = document.createElement('div');
@@ -1197,7 +1196,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const inputModal = document.getElementById('search-input-modal');
         if (inputModal) {
             inputModal.addEventListener('keyup', (e) => {
-                if(e.key === 'Enter') {
+                if (e.key === 'Enter') {
                     window.location.href = 'shop.html?search=' + e.target.value;
                 }
             });
@@ -1362,8 +1361,8 @@ function openBundleModal(bundleKey) {
 
     // Add to cart button handler
     const addBtn = document.getElementById('bundle-modal-add-btn');
-    addBtn.onclick = function() {
-        addToCart(9900 + Math.floor(Math.random()*100), bundle.title, bundle.price, bundle.image);
+    addBtn.onclick = function () {
+        addToCart(9900 + Math.floor(Math.random() * 100), bundle.title, bundle.price, bundle.image);
         closeBundleModal();
     };
 

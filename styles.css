@@ -3,9 +3,9 @@
    ========================================================================== */
 :root {
     /* Color Palette */
-    --navy-black: #071630;
-    --deep-navy: #0B2044;
-    --navy-700: #1B3F73;
+    --navy-black: #000000;
+    --deep-navy: #050505;
+    --navy-700: #0a0a0d;
     --teal-600: #0B8F84;
     --teal-400: #2FC5B6;
     --orange-600: #E9600D;
@@ -6062,4 +6062,42 @@ h2,
         font-size: 0.85rem !important;
         box-sizing: border-box !important;
     }
+}
+
+/* ==========================================================================
+   Pure Black Section Background Overrides (No Blue Tint)
+   ========================================================================== */
+.fresh-finds,
+.promo-grid-section,
+.why-us-section,
+.programs-section,
+.cat-grid-section,
+.ecommerce-section,
+section.scroll-reveal {
+    background: #000000 !important;
+}
+
+body, main {
+    background-color: #000000 !important;
+}
+
+/* Global Gold Buttons High Visibility Override */
+.btn-gold, button.btn-gold, a.btn-gold {
+    background: linear-gradient(135deg, #ffd700 0%, #e6a800 100%) !important;
+    color: #000000 !important;
+    font-weight: 800 !important;
+    border-radius: 10px !important;
+    border: none !important;
+    cursor: pointer !important;
+    box-shadow: 0 4px 18px rgba(255, 215, 0, 0.45) !important;
+    text-transform: uppercase !important;
+    letter-spacing: 1px !important;
+    transition: all 0.25s ease !important;
+}
+
+.btn-gold:hover, button.btn-gold:hover, a.btn-gold:hover {
+    transform: translateY(-2px) scale(1.02) !important;
+    box-shadow: 0 6px 25px rgba(255, 215, 0, 0.65) !important;
+    background: linear-gradient(135deg, #ffe033 0%, #ffd700 100%) !important;
+    color: #000000 !important;
 }

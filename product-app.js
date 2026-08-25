@@ -21,16 +21,16 @@
  * @returns {string}        – relative URL path served by the dev server
  */
 function productImagePath(id, slot) {
-    return `assets/images/products/${id}/${slot}.jpg?v=${Date.now()}`;
+    return `assets/images/products/${id}/${slot}.jpg`;
 }
 
 /**
- * Fallback placeholder URL (served by placehold.co).
+ * Fallback placeholder URL.
  * @param {string} category – product category label
  * @returns {string}
  */
 function placeholderFor(category, id) {
-    return id ? `assets/images/products/${id}/1.jpg` : `assets/images/products/1/main.jpg`;
+    return id ? `assets/images/products/${id}/main.jpg` : `assets/images/products/1/main.jpg`;
 }
 
 /**
@@ -41,13 +41,13 @@ function placeholderFor(category, id) {
  */
 function attachFallback(img, fallbackSrc) {
     img.onerror = function () {
-        // Prevent infinite loop if the fallback itself fails
         this.onerror = null;
         this.src = fallbackSrc;
     };
 }
 
 // ─── Page initialisation ─────────────────────────────────────────────────────
+
 
 document.addEventListener('DOMContentLoaded', () => {
     // Hide loader
@@ -274,20 +274,16 @@ function attachFallbacksToGallery(fallback) {
         };
     }
 
-    // Thumb strip images: If a thumbnail file fails to load, hide its thumbnail button so images don't repeat!
+    // Ensure all 4 thumbnail images (main, 1, 2, 3) remain visible with proper fallbacks
     document.querySelectorAll('#thumb-strip .premium-thumb img').forEach(img => {
         img.onerror = function () {
-            const thumbWrapper = this.closest('.premium-thumb');
-            if (thumbWrapper) {
-                thumbWrapper.remove();
-            }
-            const remainingThumbs = document.querySelectorAll('#thumb-strip .premium-thumb');
-            if (remainingThumbs.length <= 1) {
-                const strip = document.getElementById('thumb-strip');
-                if (strip) strip.style.display = 'none';
-            }
+            this.onerror = null;
+            this.src = fallback;
         };
     });
+    
+    const strip = document.getElementById('thumb-strip');
+    if (strip) strip.style.display = 'flex';
 }
 
 // ─── Not-found fallback ──────────────────────────────────────────────────────

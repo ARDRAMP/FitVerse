@@ -198,9 +198,8 @@ function initShopApp() {
             card.className = 'ec-product-card';
             card.dataset.id = product.id;
 
-            const timestamp = Date.now();
-            const primaryUploadedSrc = `assets/images/products/${product.id}/main.jpg?v=${timestamp}`;
-            const secondaryUploadedSrc = `assets/images/products/${product.id}/1.jpg?v=${timestamp}`;
+            const primaryUploadedSrc = `assets/images/products/${product.id}/main.jpg`;
+            const secondaryUploadedSrc = `assets/images/products/${product.id}/1.jpg`;
 
             card.innerHTML = `
                 <div class="product-badge">SALE</div>
