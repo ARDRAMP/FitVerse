@@ -380,9 +380,9 @@ Total Products: **700**
 | 334 | Genuine Leather Workout Gloves with Wrist Wraps |
 | 335 | Pull-Up Assistance Rubber Resistance Bands Set |
 | 336 | Professional Lever Powerlifting Belt (Custom Fit) |
-| 337 | Heavy Duty Chalk Ball in Drawstring Bag |
-| 338 | Spacious Gym Travel Duffel Bag with Shoe Pocket |
-| 339 | Neoprene Weightlifting Knee Sleeves 7mm Pair |
+| 337 | Speed Jump Rope with Mechanical Jump Counter |
+| 338 | Herschel Supply Co. Classic Barrel Gym Duffel Bag (Grey) |
+| 339 | Pure Magnesium Carbonate Gym Block Chalk Set |
 | 340 | Quick-Lock Nylon Lifting Belt for Cross Training |
 | 341 | Heavy Duty Steel Dip Belt with Chain Assembly |
 | 342 | Pro Aluminum Handle Speed Jump Rope |

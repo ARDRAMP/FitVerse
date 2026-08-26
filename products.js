@@ -360,6 +360,36 @@ var shopProducts = [
         "description": "Mueller Gymnastic & Weightlifting Chalk Box contains 8 individually wrapped 2 oz blocks (1 lb total) of 100% pure magnesium carbonate for maximum grip absorption during weightlifting, gymnastics, and rock climbing."
     },
     {
+        "id": 337,
+        "name": "Speed Jump Rope with Mechanical Jump Counter",
+        "category": "Accessories",
+        "price": 849.0,
+        "image": "assets/images/products/337/main.jpg",
+        "rating": 3.9,
+        "reviews": 209,
+        "description": "Speed Jump Rope features a mechanical revolution counter handle, comfortable non-slip foam grips, and a durable braided blue/green speed cord for cardio workouts and fitness training."
+    },
+    {
+        "id": 338,
+        "name": "Herschel Supply Co. Classic Barrel Gym Duffel Bag (Grey)",
+        "category": "Accessories",
+        "price": 3999.0,
+        "image": "assets/images/products/338/main.jpg",
+        "rating": 4.7,
+        "reviews": 284,
+        "description": "Herschel Supply Co. Classic Barrel Gym Duffel Bag features a premium grey heather woven fabric shell, signature striped fabric liner, dedicated side shoe compartment, and webbed carrying handles."
+    },
+    {
+        "id": 339,
+        "name": "Pure Magnesium Carbonate Gym Block Chalk Set",
+        "category": "Accessories",
+        "price": 1199.0,
+        "image": "assets/images/products/339/main.jpg",
+        "rating": 3.9,
+        "reviews": 223,
+        "description": "Pure Magnesium Carbonate Gym Block Chalk Set contains individually wrapped blocks of 100% pure magnesium carbonate to keep hands dry, absorb sweat, and enhance grip during heavy lifts, gymnastics, and climbing."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -5660,16 +5690,6 @@ var shopProducts = [
         "description": "The Spiky Trigger Point Massage Ball Set of 3 is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
-        "id": 337,
-        "name": "Heavy Duty Chalk Ball in Drawstring Bag",
-        "category": "Accessories",
-        "price": 849.0,
-        "image": "assets/images/products/337/main.jpg",
-        "rating": 3.9,
-        "reviews": 209,
-        "description": "The Heavy Duty Chalk Ball in Drawstring Bag is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
         "id": 407,
         "name": "Low-Impact Strappy Yoga & Gym Sports Bra",
         "category": "Apparel",
@@ -5760,16 +5780,6 @@ var shopProducts = [
         "description": "The Electric Heated Arm & Elbow Compression Wrap is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
-        "id": 338,
-        "name": "Spacious Gym Travel Duffel Bag with Shoe Pocket",
-        "category": "Accessories",
-        "price": 2039.0,
-        "image": "assets/images/products/338/main.jpg",
-        "rating": 4.7,
-        "reviews": 284,
-        "description": "The Spacious Gym Travel Duffel Bag with Shoe Pocket is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
         "id": 408,
         "name": "Minimalist Weightlifting Barefoot Shoes",
         "category": "Apparel",
@@ -5858,16 +5868,6 @@ var shopProducts = [
         "rating": 4.8,
         "reviews": 314,
         "description": "The Magnesium Bath Flakes for Post-Workout Recovery is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 339,
-        "name": "Neoprene Weightlifting Knee Sleeves 7mm Pair",
-        "category": "Accessories",
-        "price": 1729.0,
-        "image": "assets/images/products/339/main.jpg",
-        "rating": 3.9,
-        "reviews": 223,
-        "description": "The Neoprene Weightlifting Knee Sleeves 7mm Pair is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 409,
