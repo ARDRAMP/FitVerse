@@ -80,6 +80,16 @@ var shopProducts = [
         "description": "The Neoprene Wrist Support Guard Brace with Thumb Loop is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
+        "id": 636,
+        "name": "Quick-Select Adjustable Dumbbells Pair with Heavy-Duty Stand",
+        "category": "Home Gym",
+        "price": 3989.0,
+        "image": "assets/images/products/636/main.jpg",
+        "rating": 4.0,
+        "reviews": 30,
+        "description": "The Quick-Select Adjustable Dumbbells Pair with Heavy-Duty Stand is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -588,16 +598,6 @@ var shopProducts = [
         "rating": 4.7,
         "reviews": 477,
         "description": "The Lightweight Yoga Mat Carrying Sling Strap is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 636,
-        "name": "Interlocking High-Density Rubber Gym Floor Tiles (6-Pack)",
-        "category": "Home Gym",
-        "price": 3989.0,
-        "image": "assets/images/products/636/main.jpg",
-        "rating": 4.0,
-        "reviews": 30,
-        "description": "The Interlocking High-Density Rubber Gym Floor Tiles (6-Pack) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 7,

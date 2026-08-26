@@ -704,7 +704,7 @@ Total Products: **700**
 | 633 | Doorway Multi-Grip Pull-Up Bar Station |
 | 634 | Suspension Bodyweight Trainer Straps Kit |
 | 635 | Multi-Station Heavy Duty Power Tower |
-| 636 | Interlocking High-Density Rubber Gym Floor Tiles (6-Pack) |
+| 636 | Quick-Select Adjustable Dumbbells Pair with Heavy-Duty Stand |
 | 637 | Adjustable Dumbbells Set with Stand (5-70 lbs) |
 | 638 | Heavy Duty Wall-Mounted Pull-Up Bar |
 | 639 | Suspension Trainer Pro Kit with Door Anchor |
