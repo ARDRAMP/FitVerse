@@ -420,6 +420,16 @@ var shopProducts = [
         "description": "Therabody RecoveryAir JetBoots feature fully wireless pneumatic air compression therapy, integrated internal pumps, TruGrade technology gradient pressure, and fast 60-second flush cycles to accelerate athletic muscle recovery."
     },
     {
+        "id": 358,
+        "name": "Adidas Tiro Athletic Fleece Pullover Hoodie (Black/White)",
+        "category": "Apparel",
+        "price": 3999.0,
+        "image": "assets/images/products/358/main.jpg",
+        "rating": 4.5,
+        "reviews": 425,
+        "description": "Adidas Tiro Athletic Fleece Pullover Hoodie features a soft cotton-poly fleece blend, contrast white sleeve stripe panels, drawstring adjustable hood, ribbed cuffs, and iconic 3-bar logo for training and casual sportswear."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -1038,16 +1048,6 @@ var shopProducts = [
         "rating": 3.9,
         "reviews": 286,
         "description": "The Fabric Resistance Hip Circle Booty Bands (Set of 3) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 358,
-        "name": "Dry-Fit Compression Short Sleeve Shirt",
-        "category": "Apparel",
-        "price": 1759.0,
-        "image": "assets/images/products/358/main.jpg",
-        "rating": 4.5,
-        "reviews": 425,
-        "description": "The Dry-Fit Compression Short Sleeve Shirt is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 428,

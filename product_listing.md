@@ -406,7 +406,7 @@ Total Products: **700**
 | 355 | Tapered Sweat-Wicking Athletic Joggers |
 | 356 | Breathable Mesh Muscle Tank Top |
 | 357 | Seamless High-Support Gym Sports Bra |
-| 358 | Dry-Fit Compression Short Sleeve Shirt |
+| 358 | Adidas Tiro Athletic Fleece Pullover Hoodie (Black/White) |
 | 359 | Technical Training Shorts with Liner (7-Inch) |
 | 360 | Pro Weightlifting Shoes with Raised Heel & Midfoot Strap |
 | 361 | Ribbed Crop Top Workout Tank |
