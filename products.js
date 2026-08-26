@@ -241,13 +241,13 @@ var shopProducts = [
     },
     {
         "id": 283,
-        "name": "Elasticated Heavy-Duty Wrist Wraps (18-Inch Pair)",
+        "name": "Adjustable Speed Jump Rope with Foam Handles",
         "category": "Accessories",
         "price": 759.0,
         "image": "assets/images/products/283/main.jpg",
         "rating": 4.6,
         "reviews": 173,
-        "description": "The Elasticated Heavy-Duty Wrist Wraps (18-Inch Pair) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "The Adjustable Speed Jump Rope with Foam Handles is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 353,
