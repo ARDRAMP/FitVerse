@@ -108,7 +108,7 @@ Total Products: **700**
 | 77 | Stair Climber Stepper Machine with Ergonomic Handrails |
 | 78 | Self-Powered Curved Manual Treadmill |
 | 79 | Commercial Air Fan Exercise Bike with LCD Monitor |
-| 80 | Compact Under-Desk Walking Pad Treadmill |
+| 80 | Horizon Fitness Andes Folding Elliptical Cross Trainer |
 | 81 | Recumbent Exercise Bike with Padded Lumbar Support |
 | 82 | Commercial Grade Air Bike with Dual-Action Arms |
 | 83 | High-Intensity Interval Training Rower |
@@ -707,7 +707,7 @@ Total Products: **700**
 | 636 | Quick-Select Adjustable Dumbbells Pair with Heavy-Duty Stand |
 | 637 | Adjustable Dumbbells Set with Stand (5-70 lbs) |
 | 638 | Commercial Multi-Station Home Gym Machine |
-| 639 | Suspension Trainer Pro Kit with Door Anchor |
+| 639 | Commercial Dual-Stack Cable Crossover Functional Trainer |
 | 640 | Power Tower Dip Station with Captains Chair |
 | 641 | Heavy Duty Interlocking Rubber Gym Matting (1/2 Inch) |
 | 642 | Compact Foldable Incline Weight Bench |

@@ -490,6 +490,26 @@ var shopProducts = [
         "description": "Sweet Sweat Aluminum Handle Speed Jump Rope features 360-degree ball bearing rotation, textured knurled aluminum handles, and a tangle-free steel wire cable for double-unders and high-speed cardio training."
     },
     {
+        "id": 639,
+        "name": "Commercial Dual-Stack Cable Crossover Functional Trainer",
+        "category": "Home Gym",
+        "price": 84999.0,
+        "image": "assets/images/products/639/main.jpg",
+        "rating": 4.7,
+        "reviews": 40,
+        "description": "Commercial Dual-Stack Cable Crossover Functional Trainer features dual independent weight stacks, multi-position swivel pulleys, multi-grip chin-up bar, and heavy-duty steel construction for versatile isolation and compound strength training."
+    },
+    {
+        "id": 80,
+        "name": "Horizon Fitness Andes Folding Elliptical Cross Trainer",
+        "category": "Cardio",
+        "price": 54999.0,
+        "image": "assets/images/products/80/main.jpg",
+        "rating": 4.7,
+        "reviews": 195,
+        "description": "Horizon Fitness Andes Folding Elliptical Cross Trainer features smooth magnetic flywheel resistance, one-step hydraulic SixStar folding frame, ergonomic dynamic foot pedals, and smart workout display console."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -1178,26 +1198,6 @@ var shopProducts = [
         "rating": 4.8,
         "reviews": 120,
         "description": "The Adjustable Metal Buckle Yoga Strap (10 Feet) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 639,
-        "name": "Suspension Trainer Pro Kit with Door Anchor",
-        "category": "Home Gym",
-        "price": 2159.0,
-        "image": "assets/images/products/639/main.jpg",
-        "rating": 4.7,
-        "reviews": 40,
-        "description": "The Suspension Trainer Pro Kit with Door Anchor is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 80,
-        "name": "Compact Under-Desk Walking Pad Treadmill",
-        "category": "Cardio",
-        "price": 37199.0,
-        "image": "assets/images/products/80/main.jpg",
-        "rating": 4.7,
-        "reviews": 195,
-        "description": "The Compact Under-Desk Walking Pad Treadmill is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 150,
