@@ -367,9 +367,9 @@ Total Products: **700**
 | 321 | Rugged Strength & Fitness 2 oz Gym Chalk Block |
 | 322 | Mueller Sports Medicine Wrist & Thumb Stabilizer Brace |
 | 323 | Non-Slip Pastel Fabric Booty Resistance Bands Set (3-Pack) |
-| 324 | Insulated Stainless Steel Water Bottle (32oz) |
-| 325 | Weightlifting Wrist Wraps Pair (18-Inch Heavy Flex) |
-| 326 | Fabric Booty Bands Set for Glute Workouts |
+| 324 | Factory Weights Red Suede Lever Powerlifting Belt |
+| 325 | Digital Jump Rope with Calorie Counter & LCD Screen |
+| 326 | Water-Resistant Athletic Gym Duffel Bag (Black) |
 | 327 | Gym Chalk Block Single Pack |
 | 328 | Quick Release Lever Buckle Lifting Belt (13mm) |
 | 329 | Heavy Cotton Figure 8 Lifting Straps Pair |

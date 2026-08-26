@@ -280,6 +280,36 @@ var shopProducts = [
         "description": "Non-Slip Pastel Fabric Booty Resistance Bands Set includes Light, Medium, and Heavy resistance levels crafted from breathable elastic cotton fabric with internal latex grips to prevent rolling during hip, thigh, and glute activation workouts."
     },
     {
+        "id": 324,
+        "name": "Factory Weights Red Suede Lever Powerlifting Belt",
+        "category": "Accessories",
+        "price": 4299.0,
+        "image": "assets/images/products/324/main.jpg",
+        "rating": 4.9,
+        "reviews": 443,
+        "description": "Factory Weights Red Suede Lever Powerlifting Belt features premium genuine red suede leather, heavy-duty black quick-release steel lever lock mechanism, and internal lumbar padding for maximal core stability."
+    },
+    {
+        "id": 325,
+        "name": "Digital Jump Rope with Calorie Counter & LCD Screen",
+        "category": "Accessories",
+        "price": 799.0,
+        "image": "assets/images/products/325/main.jpg",
+        "rating": 4.3,
+        "reviews": 227,
+        "description": "Digital Jump Rope features an integrated LCD screen with jump counter, timer, and calorie calculator, paired with non-slip cushioned foam handles and adjustable PVC speed cable."
+    },
+    {
+        "id": 326,
+        "name": "Water-Resistant Athletic Gym Duffel Bag (Black)",
+        "category": "Accessories",
+        "price": 1529.0,
+        "image": "assets/images/products/326/main.jpg",
+        "rating": 3.9,
+        "reviews": 139,
+        "description": "Water-Resistant Athletic Gym Duffel Bag features a durable matte black water-repellent shell, roomy main compartment, side shoe/wet pocket, heavy-duty zippers, and padded adjustable shoulder strap."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -4360,16 +4390,6 @@ var shopProducts = [
         "description": "The Soft Density Foam Roller for Gentle Muscle Release is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
-        "id": 324,
-        "name": "Insulated Stainless Steel Water Bottle (32oz)",
-        "category": "Accessories",
-        "price": 1789.0,
-        "image": "assets/images/products/324/main.jpg",
-        "rating": 4.9,
-        "reviews": 443,
-        "description": "The Insulated Stainless Steel Water Bottle (32oz) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
         "id": 394,
         "name": "Tapered Athletic Sweatpants with Zipper Pockets",
         "category": "Apparel",
@@ -4460,16 +4480,6 @@ var shopProducts = [
         "description": "The Double Peanut Muscle Massage Ball for Spine is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
-        "id": 325,
-        "name": "Weightlifting Wrist Wraps Pair (18-Inch Heavy Flex)",
-        "category": "Accessories",
-        "price": 529.0,
-        "image": "assets/images/products/325/main.jpg",
-        "rating": 4.3,
-        "reviews": 227,
-        "description": "The Weightlifting Wrist Wraps Pair (18-Inch Heavy Flex) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
         "id": 395,
         "name": "Dry-Fit Compression Short Sleeve Rashguard",
         "category": "Apparel",
@@ -4558,16 +4568,6 @@ var shopProducts = [
         "rating": 3.9,
         "reviews": 243,
         "description": "The Portable Insulated Ice Bath Tub Container is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 326,
-        "name": "Fabric Booty Bands Set for Glute Workouts",
-        "category": "Accessories",
-        "price": 1529.0,
-        "image": "assets/images/products/326/main.jpg",
-        "rating": 3.9,
-        "reviews": 139,
-        "description": "The Fabric Booty Bands Set for Glute Workouts is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 396,
