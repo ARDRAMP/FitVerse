@@ -98,9 +98,7 @@ window.openHelpModal = function () {
                     </details>
                 </div>
 
-                <div style="margin-top: 1.5rem; text-align: center;">
-                    <a href="contact.html" class="btn btn-gold glow-btn" style="display: block; width: 100%; text-align: center; font-weight: bold; font-size: 0.95rem; text-decoration: none; padding: 0.85rem 1.5rem; box-sizing: border-box; border-radius: 10px; color: #000000; background: linear-gradient(135deg, #ffd700, #ffaa00);">CONTACT US →</a>
-                </div>
+                
             </div>
         `;
         modal.addEventListener('click', (e) => {

@@ -31,13 +31,13 @@ var shopProducts = [
     },
     {
         "id": 211,
-        "name": "Air Compression Leg Massager Recovery Boots",
+        "name": "QM.1 Sports Care Pre-Sports Warming Muscle Cream",
         "category": "Recovery",
         "price": 979.0,
         "image": "assets/images/products/211/main.jpg",
         "rating": 5.0,
         "reviews": 378,
-        "description": "The Air Compression Leg Massager Recovery Boots is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "The QM.1 Sports Care Pre-Sports Warming Muscle Cream is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 281,
@@ -81,13 +81,13 @@ var shopProducts = [
     },
     {
         "id": 561,
-        "name": "Eco-Friendly Non-Slip Alignment Yoga Mat (6mm)",
+        "name": "Organic Cotton Yoga Meditation Bolster Pillow",
         "category": "Yoga",
         "price": 2369.0,
         "image": "assets/images/products/561/main.jpg",
         "rating": 4.3,
         "reviews": 381,
-        "description": "The Eco-Friendly Non-Slip Alignment Yoga Mat (6mm) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "The Organic Cotton Yoga Meditation Bolster Pillow is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 631,
@@ -101,13 +101,13 @@ var shopProducts = [
     },
     {
         "id": 2,
-        "name": "Calibrated Steel Competition Bumper Plate (45 lbs)",
+        "name": "Quick-Select Adjustable Dumbbells Pair",
         "category": "Strength",
         "price": 16999.0,
         "image": "assets/images/products/2/main.jpg",
         "rating": 4.5,
         "reviews": 327,
-        "description": "The Calibrated Steel Competition Bumper Plate (45 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "The Quick-Select Adjustable Dumbbells Pair is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 72,
@@ -131,13 +131,13 @@ var shopProducts = [
     },
     {
         "id": 212,
-        "name": "High-Density Grid Foam Roller (18-Inch)",
+        "name": "Health Smart Natural Epsom Salt Sport Soak (Spearmint & Menthol)",
         "category": "Recovery",
         "price": 7699.0,
         "image": "assets/images/products/212/main.jpg",
         "rating": 4.0,
         "reviews": 221,
-        "description": "The High-Density Grid Foam Roller (18-Inch) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "The Health Smart Natural Epsom Salt Sport Soak (Spearmint & Menthol) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 282,
@@ -151,33 +151,33 @@ var shopProducts = [
     },
     {
         "id": 352,
-        "name": "High-Waisted Compression Workout Shorts (5-Inch)",
+        "name": "Lightweight Zip-Up Gym Track Jacket & Hoodie",
         "category": "Apparel",
         "price": 1669.0,
         "image": "assets/images/products/352/main.jpg",
         "rating": 4.8,
         "reviews": 304,
-        "description": "The High-Waisted Compression Workout Shorts (5-Inch) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "The Lightweight Zip-Up Gym Track Jacket & Hoodie is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 422,
-        "name": "Chest Strap Heart Rate Monitor Sensor (ANT+ & Bluetooth)",
+        "name": "Air Compression Leg Recovery Boots System",
         "category": "Fit Tech",
         "price": 3449.0,
         "image": "assets/images/products/422/main.jpg",
         "rating": 5.0,
         "reviews": 419,
-        "description": "The Chest Strap Heart Rate Monitor Sensor (ANT+ & Bluetooth) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "The Air Compression Leg Recovery Boots System is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 492,
-        "name": "High-Explosive Pre-Workout Powder (Sour Apple 30 Servings)",
+        "name": "Body Builder Super Multivitamin Once Daily (60 Tablets)",
         "category": "Supplements",
         "price": 1799.0,
         "image": "assets/images/products/492/main.jpg",
         "rating": 4.7,
         "reviews": 414,
-        "description": "The High-Explosive Pre-Workout Powder (Sour Apple 30 Servings) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "The Body Builder Super Multivitamin Once Daily (60 Tablets) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 562,
@@ -231,13 +231,13 @@ var shopProducts = [
     },
     {
         "id": 213,
-        "name": "Cold Plunge Cryotherapy Ice Bath Tub Container",
+        "name": "Gradient Athletic Compression Arm & Elbow Sleeve Pair",
         "category": "Recovery",
         "price": 25299.0,
         "image": "assets/images/products/213/main.jpg",
         "rating": 4.5,
         "reviews": 319,
-        "description": "The Cold Plunge Cryotherapy Ice Bath Tub Container is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "The Gradient Athletic Compression Arm & Elbow Sleeve Pair is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 283,
@@ -281,13 +281,13 @@ var shopProducts = [
     },
     {
         "id": 563,
-        "name": "Durable Cotton Yoga Stretching Strap (8 Feet)",
+        "name": "Purple Non-Slip Textured Alignment Yoga Mat (6mm)",
         "category": "Yoga",
         "price": 959.0,
         "image": "assets/images/products/563/main.jpg",
         "rating": 4.6,
         "reviews": 371,
-        "description": "The Durable Cotton Yoga Stretching Strap (8 Feet) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "The Purple Non-Slip Textured Alignment Yoga Mat (6mm) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 633,
@@ -331,23 +331,23 @@ var shopProducts = [
     },
     {
         "id": 214,
-        "name": "Gradient Athletic Leg Compression Sleeves Pair",
+        "name": "HOROW Portable Cold Plunge Cryotherapy Ice Bath Tub Container",
         "category": "Recovery",
         "price": 1429.0,
         "image": "assets/images/products/214/main.jpg",
         "rating": 5.0,
         "reviews": 362,
-        "description": "The Gradient Athletic Leg Compression Sleeves Pair is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "The HOROW Portable Cold Plunge Cryotherapy Ice Bath Tub Container is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 284,
-        "name": "Magnesium Carbonate Pure Gym Chalk Block (8-Pack)",
+        "name": "Speed Cable Jump Rope with Ball Bearings & Spare Cable",
         "category": "Accessories",
         "price": 539.0,
         "image": "assets/images/products/284/main.jpg",
         "rating": 4.2,
         "reviews": 435,
-        "description": "The Magnesium Carbonate Pure Gym Chalk Block (8-Pack) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "The Speed Cable Jump Rope with Ball Bearings & Spare Cable is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 354,
@@ -381,13 +381,13 @@ var shopProducts = [
     },
     {
         "id": 564,
-        "name": "Organic Cotton Meditation Bolster Pillow",
+        "name": "Durable Cotton Yoga Stretching Strap (with D-Ring Buckle)",
         "category": "Yoga",
         "price": 2229.0,
         "image": "assets/images/products/564/main.jpg",
         "rating": 4.5,
         "reviews": 194,
-        "description": "The Organic Cotton Meditation Bolster Pillow is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "The Durable Cotton Yoga Stretching Strap (with D-Ring Buckle) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 634,
@@ -431,33 +431,33 @@ var shopProducts = [
     },
     {
         "id": 215,
-        "name": "Recovery Epsom Salt Muscle Bath Soak (5 lbs)",
+        "name": "Beurer Deep Tissue Percussive Massage Gun with 6 Attachments",
         "category": "Recovery",
         "price": 3119.0,
         "image": "assets/images/products/215/main.jpg",
         "rating": 4.8,
         "reviews": 423,
-        "description": "The Recovery Epsom Salt Muscle Bath Soak (5 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "The Beurer Deep Tissue Percussive Massage Gun with 6 Attachments is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 285,
-        "name": "Speed Cable Jump Rope with Ball Bearings & Spare Cable",
+        "name": "Magnesium Carbonate Pure Gym Chalk Block (8-Pack)",
         "category": "Accessories",
         "price": 959.0,
         "image": "assets/images/products/285/main.jpg",
         "rating": 3.9,
         "reviews": 457,
-        "description": "The Speed Cable Jump Rope with Ball Bearings & Spare Cable is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "The Magnesium Carbonate Pure Gym Chalk Block (8-Pack) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 355,
-        "name": "Tapered Sweat-Wicking Athletic Joggers",
+        "name": "Breathable Mesh Muscle Tank Top",
         "category": "Apparel",
         "price": 1839.0,
         "image": "assets/images/products/355/main.jpg",
         "rating": 4.7,
         "reviews": 491,
-        "description": "The Tapered Sweat-Wicking Athletic Joggers is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "The Breathable Mesh Muscle Tank Top is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 425,
@@ -481,13 +481,13 @@ var shopProducts = [
     },
     {
         "id": 565,
-        "name": "Textured Cork Yoga Wheel for Back Extension",
+        "name": "Inflatable Wobble Balance Stability Cushion Disc",
         "category": "Yoga",
         "price": 749.0,
         "image": "assets/images/products/565/main.jpg",
         "rating": 4.3,
         "reviews": 119,
-        "description": "The Textured Cork Yoga Wheel for Back Extension is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "The Inflatable Wobble Balance Stability Cushion Disc is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 635,
@@ -551,13 +551,13 @@ var shopProducts = [
     },
     {
         "id": 356,
-        "name": "Breathable Mesh Muscle Tank Top",
+        "name": "Tapered Sweat-Wicking Athletic Joggers",
         "category": "Apparel",
         "price": 1629.0,
         "image": "assets/images/products/356/main.jpg",
         "rating": 4.1,
         "reviews": 430,
-        "description": "The Breathable Mesh Muscle Tank Top is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "The Tapered Sweat-Wicking Athletic Joggers is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 426,
@@ -601,13 +601,13 @@ var shopProducts = [
     },
     {
         "id": 7,
-        "name": "Zinc-Coated Olympic Hex Trap Bar",
+        "name": "Commercial Heavy-Duty Power Rack Squat Cage Station",
         "category": "Strength",
         "price": 15199.0,
         "image": "assets/images/products/7/main.jpg",
         "rating": 4.7,
         "reviews": 77,
-        "description": "The Zinc-Coated Olympic Hex Trap Bar is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "The Commercial Heavy-Duty Power Rack Squat Cage Station is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 77,
@@ -681,13 +681,13 @@ var shopProducts = [
     },
     {
         "id": 567,
-        "name": "Premium Natural Rubber Yoga Mat (5mm)",
+        "name": "High-Density EVA Foam Yoga Blocks (Set of 3)",
         "category": "Yoga",
         "price": 2699.0,
         "image": "assets/images/products/567/main.jpg",
         "rating": 4.3,
         "reviews": 385,
-        "description": "The Premium Natural Rubber Yoga Mat (5mm) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "The High-Density EVA Foam Yoga Blocks (Set of 3) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 637,
@@ -701,13 +701,13 @@ var shopProducts = [
     },
     {
         "id": 8,
-        "name": "Urethane Pro Dumbbell Set (5-50 lbs)",
+        "name": "Urethane Pro Dumbbell Set",
         "category": "Strength",
         "price": 32459.0,
         "image": "assets/images/products/8/main.jpg",
         "rating": 4.8,
         "reviews": 334,
-        "description": "The Urethane Pro Dumbbell Set (5-50 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "The Urethane Pro Dumbbell Set is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 78,
@@ -731,13 +731,13 @@ var shopProducts = [
     },
     {
         "id": 218,
-        "name": "Ergonomic Massage Ball for Trigger Point Release",
+        "name": "Ocean Essential Oil Epsom Salt Muscle Recovery Bath Soak Bag",
         "category": "Recovery",
         "price": 829.0,
         "image": "assets/images/products/218/main.jpg",
         "rating": 4.7,
         "reviews": 417,
-        "description": "The Ergonomic Massage Ball for Trigger Point Release is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "The Ocean Essential Oil Epsom Salt Muscle Recovery Bath Soak Bag is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 288,
@@ -801,13 +801,13 @@ var shopProducts = [
     },
     {
         "id": 9,
-        "name": "Steel Loadable Macebell (15 lbs)",
+        "name": "Black Powder-Coated Open Olympic Hex Trap Bar",
         "category": "Strength",
         "price": 1239.0,
         "image": "assets/images/products/9/main.jpg",
         "rating": 4.4,
         "reviews": 88,
-        "description": "The Steel Loadable Macebell (15 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "The Black Powder-Coated Open Olympic Hex Trap Bar is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 79,
@@ -941,13 +941,13 @@ var shopProducts = [
     },
     {
         "id": 290,
-        "name": "Stainless Steel Vacuum Insulated Gym Shaker Bottle (24oz)",
+        "name": "Tactical Gym Duffel & Yoga Mat Carrier Tote Bag",
         "category": "Accessories",
         "price": 1209.0,
         "image": "assets/images/products/290/main.jpg",
         "rating": 4.1,
         "reviews": 113,
-        "description": "The Stainless Steel Vacuum Insulated Gym Shaker Bottle (24oz) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "The Tactical Gym Duffel & Yoga Mat Carrier Tote Bag is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 360,
@@ -1641,13 +1641,13 @@ var shopProducts = [
     },
     {
         "id": 297,
-        "name": "Prong Steel Buckle Leather Lifting Belt (13mm)",
+        "name": "Magnesium Carbonate Pure Gym Chalk Block (8-Pack)",
         "category": "Accessories",
         "price": 4749.0,
         "image": "assets/images/products/297/main.jpg",
         "rating": 4.3,
         "reviews": 322,
-        "description": "The Prong Steel Buckle Leather Lifting Belt (13mm) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "The Magnesium Carbonate Pure Gym Chalk Block (8-Pack) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 367,
@@ -1841,13 +1841,13 @@ var shopProducts = [
     },
     {
         "id": 299,
-        "name": "Large Capacity Gym Duffel Bag with Water Bottle Holder",
+        "name": "Heavy-Duty Resistance Loop Bands Set (5 Resistance Levels)",
         "category": "Accessories",
         "price": 3179.0,
         "image": "assets/images/products/299/main.jpg",
         "rating": 4.0,
         "reviews": 56,
-        "description": "The Large Capacity Gym Duffel Bag with Water Bottle Holder is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "The Heavy-Duty Resistance Loop Bands Set (5 Resistance Levels) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 369,
@@ -2141,13 +2141,13 @@ var shopProducts = [
     },
     {
         "id": 302,
-        "name": "Tritan BPA-Free Leakproof Protein Shaker Bottle (28oz)",
+        "name": "Tactical Gym Duffel Bag with Shoe & Wet Compartment",
         "category": "Accessories",
         "price": 5249.0,
         "image": "assets/images/products/302/main.jpg",
         "rating": 4.5,
         "reviews": 211,
-        "description": "The Tritan BPA-Free Leakproof Protein Shaker Bottle (28oz) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "The Tactical Gym Duffel Bag with Shoe & Wet Compartment is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 372,
@@ -2241,13 +2241,13 @@ var shopProducts = [
     },
     {
         "id": 303,
-        "name": "Silicone Padded Gym Workout Gloves Pair",
+        "name": "Magnesium Carbonate Pure Gym Chalk Block (8-Pack)",
         "category": "Accessories",
         "price": 1479.0,
         "image": "assets/images/products/303/main.jpg",
         "rating": 4.7,
         "reviews": 372,
-        "description": "The Silicone Padded Gym Workout Gloves Pair is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "The Magnesium Carbonate Pure Gym Chalk Block (8-Pack) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 373,
@@ -2841,13 +2841,13 @@ var shopProducts = [
     },
     {
         "id": 309,
-        "name": "Neoprene Knee Sleeves 7mm Pair for Squats",
+        "name": "Smto Sports Liquid Grip Gym Chalk (250ml Bottle)",
         "category": "Accessories",
         "price": 1609.0,
         "image": "assets/images/products/309/main.jpg",
         "rating": 4.8,
         "reviews": 368,
-        "description": "The Neoprene Knee Sleeves 7mm Pair for Squats is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "The Smto Sports Liquid Grip Gym Chalk (250ml Bottle) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 379,
@@ -2941,13 +2941,13 @@ var shopProducts = [
     },
     {
         "id": 310,
-        "name": "Genuine Leather Contour Weightlifting Belt",
+        "name": "Neoprene Wrist & Ankle Support Guard Brace",
         "category": "Accessories",
         "price": 4269.0,
         "image": "assets/images/products/310/main.jpg",
         "rating": 4.4,
         "reviews": 34,
-        "description": "The Genuine Leather Contour Weightlifting Belt is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "The Neoprene Wrist & Ankle Support Guard Brace is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 380,
@@ -3241,13 +3241,13 @@ var shopProducts = [
     },
     {
         "id": 313,
-        "name": "Adjustable Leather Lifting Belt with Quick Release Lever",
+        "name": "Speed Cable Jump Rope with Ball Bearings & Anti-Slip Handles",
         "category": "Accessories",
         "price": 4549.0,
         "image": "assets/images/products/313/main.jpg",
         "rating": 4.4,
         "reviews": 403,
-        "description": "The Adjustable Leather Lifting Belt with Quick Release Lever is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "The Speed Cable Jump Rope with Ball Bearings & Anti-Slip Handles is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 383,
@@ -3341,13 +3341,13 @@ var shopProducts = [
     },
     {
         "id": 314,
-        "name": "Pro Speed Jump Rope with Anti-Slip Handles",
+        "name": "Tactical Gym Duffel & Sports Travel Bag",
         "category": "Accessories",
         "price": 689.0,
         "image": "assets/images/products/314/main.jpg",
         "rating": 4.7,
         "reviews": 92,
-        "description": "The Pro Speed Jump Rope with Anti-Slip Handles is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "The Tactical Gym Duffel & Sports Travel Bag is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 384,
@@ -3441,13 +3441,13 @@ var shopProducts = [
     },
     {
         "id": 315,
-        "name": "Stainless Steel Shaker Cup with Wire Mixer Ball",
+        "name": "BEAR GRIP Liquid Chalk Squeeze Tube (200ml)",
         "category": "Accessories",
         "price": 1459.0,
         "image": "assets/images/products/315/main.jpg",
         "rating": 4.8,
         "reviews": 419,
-        "description": "The Stainless Steel Shaker Cup with Wire Mixer Ball is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "The BEAR GRIP Liquid Chalk Squeeze Tube (200ml) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 385,
@@ -3541,13 +3541,13 @@ var shopProducts = [
     },
     {
         "id": 316,
-        "name": "Padded Gym Lifting Straps with Neoprene Support",
+        "name": "Ergonomic Wrist Support Guard Brace with Thumb Loop",
         "category": "Accessories",
         "price": 3659.0,
         "image": "assets/images/products/316/main.jpg",
         "rating": 4.3,
         "reviews": 371,
-        "description": "The Padded Gym Lifting Straps with Neoprene Support is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "The Ergonomic Wrist Support Guard Brace with Thumb Loop is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 386,

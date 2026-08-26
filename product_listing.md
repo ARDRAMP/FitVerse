@@ -475,7 +475,7 @@ Total Products: **700**
 | Product ID | Product Name |
 | --- | --- |
 | 421 | GPS Sports Smartwatch with Heart Rate Monitor |
-| 422 | Chest Strap Heart Rate Monitor Sensor (ANT+ & Bluetooth) |
+| 422 | Air Compression Leg Recovery Boots System |
 | 423 | Smart Body Fat & Composition Digital Scale |
 | 424 | Pneumatic Air Compression Leg Recovery Boots |
 | 425 | Continuous Pulse Oximeter & Oxygen Tracker |
@@ -550,7 +550,7 @@ Total Products: **700**
 | Product ID | Product Name |
 | --- | --- |
 | 491 | 100% Whey Protein Isolate Powder (Vanilla 5 lbs) |
-| 492 | High-Explosive Pre-Workout Powder (Sour Apple 30 Servings) |
+| 492 | Body Builder Super Multivitamin Once Daily (60 Tablets) |
 | 493 | Micronized Creatine Monohydrate Powder (500g Unflavored) |
 | 494 | Instantized BCAA 2:1:1 Energy Powder (Blue Raspberry 300g) |
 | 495 | Essential Athlete Daily Multivitamin Pack (60 Capsules) |
