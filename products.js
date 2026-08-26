@@ -200,6 +200,16 @@ var shopProducts = [
         "description": "York Fitness Heavy-Duty Resistance Loop Band is crafted from 100% natural latex to provide heavy tension assistance for pull-ups, powerlifting squats, mobility work, and strength conditioning."
     },
     {
+        "id": 295,
+        "name": "LivePro Premium Speed Jump Rope with Aluminum Handles",
+        "category": "Accessories",
+        "price": 2899.0,
+        "image": "assets/images/products/295/main.jpg",
+        "rating": 4.4,
+        "reviews": 44,
+        "description": "LivePro Premium Speed Jump Rope features lightweight knurled aluminum alloy handles, 360-degree high-speed ball bearing swivel, and adjustable coated steel wire cable for double-unders and cardio training."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -1458,16 +1468,6 @@ var shopProducts = [
         "rating": 4.1,
         "reviews": 371,
         "description": "The Portable Cold Therapy Ice Bath Tub with Cover is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 295,
-        "name": "Leather Weightlifting Gloves with Wrist Support",
-        "category": "Accessories",
-        "price": 2899.0,
-        "image": "assets/images/products/295/main.jpg",
-        "rating": 4.4,
-        "reviews": 44,
-        "description": "The Leather Weightlifting Gloves with Wrist Support is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 365,

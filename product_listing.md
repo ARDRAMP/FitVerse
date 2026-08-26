@@ -338,7 +338,7 @@ Total Products: **700**
 | 292 | Body Builder Super Multivitamin Once Daily (60 Tablets) |
 | 293 | York Fitness Heavy-Duty Powerlifting Resistance Loop Band |
 | 294 | Gym Chalk Powder Ball in Reusable Mesh Bag |
-| 295 | Leather Weightlifting Gloves with Wrist Support |
+| 295 | LivePro Premium Speed Jump Rope with Aluminum Handles |
 | 296 | Non-Slip Fabric Resistance Loop Band Set |
 | 297 | Prong Steel Buckle Leather Lifting Belt (13mm) |
 | 298 | Heavy Cotton Wrist Wraps with Thumb Loop (24-Inch) |
