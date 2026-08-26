@@ -1,0 +1,19 @@
+import json
+
+with open('products.js', 'r', encoding='utf-8') as f:
+    text = f.read()
+
+start = text.find('[')
+end = text.rfind(']')
+products = json.loads(text[start:end+1])
+
+target_ids = [422, 492, 283, 74, 284, 424, 495, 286]
+top_prods = [x for x in products if x['id'] in target_ids]
+other_prods = [x for x in products if x['id'] not in target_ids]
+
+new_products = top_prods + other_prods
+
+with open('products.js', 'w', encoding='utf-8') as f:
+    f.write('var shopProducts = ' + json.dumps(new_products, indent=4) + ';\n')
+
+print(f"Successfully placed {len(top_prods)} updated products at the very top of products.js!")

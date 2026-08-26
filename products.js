@@ -1,5 +1,85 @@
 var shopProducts = [
     {
+        "id": 422,
+        "name": "Air Compression Leg Recovery Boots System",
+        "category": "Fit Tech",
+        "price": 3449.0,
+        "image": "assets/images/products/422/main.jpg",
+        "rating": 5.0,
+        "reviews": 419,
+        "description": "The Air Compression Leg Recovery Boots System is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+    },
+    {
+        "id": 492,
+        "name": "Body Builder Super Multivitamin Once Daily (60 Tablets)",
+        "category": "Supplements",
+        "price": 1799.0,
+        "image": "assets/images/products/492/main.jpg",
+        "rating": 4.7,
+        "reviews": 414,
+        "description": "The Body Builder Super Multivitamin Once Daily (60 Tablets) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+    },
+    {
+        "id": 283,
+        "name": "Adjustable Speed Jump Rope with Foam Handles",
+        "category": "Accessories",
+        "price": 759.0,
+        "image": "assets/images/products/283/main.jpg",
+        "rating": 4.6,
+        "reviews": 173,
+        "description": "The Adjustable Speed Jump Rope with Foam Handles is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+    },
+    {
+        "id": 74,
+        "name": "Commercial Touchscreen Magnetic Elliptical Cross Trainer",
+        "category": "Cardio",
+        "price": 29799.0,
+        "image": "assets/images/products/74/main.jpg",
+        "rating": 4.9,
+        "reviews": 487,
+        "description": "The Commercial Touchscreen Magnetic Elliptical Cross Trainer is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+    },
+    {
+        "id": 284,
+        "name": "Heavy-Duty Athletic Gym Duffel Bag",
+        "category": "Accessories",
+        "price": 539.0,
+        "image": "assets/images/products/284/main.jpg",
+        "rating": 4.2,
+        "reviews": 435,
+        "description": "The Heavy-Duty Athletic Gym Duffel Bag is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+    },
+    {
+        "id": 424,
+        "name": "GPS Sports Smartwatch with ZoneSense VO2Max Tracker",
+        "category": "Fit Tech",
+        "price": 2829.0,
+        "image": "assets/images/products/424/main.jpg",
+        "rating": 4.8,
+        "reviews": 165,
+        "description": "The GPS Sports Smartwatch with ZoneSense VO2Max Tracker is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+    },
+    {
+        "id": 495,
+        "name": "Optimum Nutrition Gold Standard 100% Whey Protein (5 lbs / 74 Servings)",
+        "category": "Supplements",
+        "price": 6999.0,
+        "image": "assets/images/products/495/main.jpg",
+        "rating": 4.2,
+        "reviews": 219,
+        "description": "The Optimum Nutrition Gold Standard 100% Whey Protein (5 lbs / 74 Servings) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+    },
+    {
+        "id": 286,
+        "name": "Neoprene Wrist Support Guard Brace with Thumb Loop",
+        "category": "Accessories",
+        "price": 3559.0,
+        "image": "assets/images/products/286/main.jpg",
+        "rating": 4.3,
+        "reviews": 65,
+        "description": "The Neoprene Wrist Support Guard Brace with Thumb Loop is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -160,26 +240,6 @@ var shopProducts = [
         "description": "The Lightweight Zip-Up Gym Track Jacket & Hoodie is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
-        "id": 422,
-        "name": "Air Compression Leg Recovery Boots System",
-        "category": "Fit Tech",
-        "price": 3449.0,
-        "image": "assets/images/products/422/main.jpg",
-        "rating": 5.0,
-        "reviews": 419,
-        "description": "The Air Compression Leg Recovery Boots System is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 492,
-        "name": "Body Builder Super Multivitamin Once Daily (60 Tablets)",
-        "category": "Supplements",
-        "price": 1799.0,
-        "image": "assets/images/products/492/main.jpg",
-        "rating": 4.7,
-        "reviews": 414,
-        "description": "The Body Builder Super Multivitamin Once Daily (60 Tablets) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
         "id": 562,
         "name": "High-Density EVA Foam Yoga Blocks (Set of 2)",
         "category": "Yoga",
@@ -238,16 +298,6 @@ var shopProducts = [
         "rating": 4.5,
         "reviews": 319,
         "description": "The Gradient Athletic Compression Arm & Elbow Sleeve Pair is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 283,
-        "name": "Adjustable Speed Jump Rope with Foam Handles",
-        "category": "Accessories",
-        "price": 759.0,
-        "image": "assets/images/products/283/main.jpg",
-        "rating": 4.6,
-        "reviews": 173,
-        "description": "The Adjustable Speed Jump Rope with Foam Handles is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 353,
@@ -310,16 +360,6 @@ var shopProducts = [
         "description": "The Rubber Coated Hex Dumbbell (30 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
-        "id": 74,
-        "name": "Commercial Touchscreen Magnetic Elliptical Cross Trainer",
-        "category": "Cardio",
-        "price": 29799.0,
-        "image": "assets/images/products/74/main.jpg",
-        "rating": 4.9,
-        "reviews": 487,
-        "description": "The Commercial Touchscreen Magnetic Elliptical Cross Trainer is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
         "id": 144,
         "name": "Pro Guard Shin & Instep Protection Guards",
         "category": "Combat",
@@ -340,16 +380,6 @@ var shopProducts = [
         "description": "The HOROW Portable Cold Plunge Cryotherapy Ice Bath Tub Container is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
-        "id": 284,
-        "name": "Heavy-Duty Athletic Gym Duffel Bag",
-        "category": "Accessories",
-        "price": 539.0,
-        "image": "assets/images/products/284/main.jpg",
-        "rating": 4.2,
-        "reviews": 435,
-        "description": "The Heavy-Duty Athletic Gym Duffel Bag is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
         "id": 354,
         "name": "Leather Olympic Weightlifting Shoes with Raised Heel",
         "category": "Apparel",
@@ -358,16 +388,6 @@ var shopProducts = [
         "rating": 4.3,
         "reviews": 378,
         "description": "The Leather Olympic Weightlifting Shoes with Raised Heel is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 424,
-        "name": "GPS Sports Smartwatch with ZoneSense VO2Max Tracker",
-        "category": "Fit Tech",
-        "price": 2829.0,
-        "image": "assets/images/products/424/main.jpg",
-        "rating": 4.8,
-        "reviews": 165,
-        "description": "The GPS Sports Smartwatch with ZoneSense VO2Max Tracker is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 494,
@@ -470,16 +490,6 @@ var shopProducts = [
         "description": "The Continuous Pulse Oximeter & Oxygen Tracker is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
-        "id": 495,
-        "name": "Optimum Nutrition Gold Standard 100% Whey Protein (5 lbs / 74 Servings)",
-        "category": "Supplements",
-        "price": 6999.0,
-        "image": "assets/images/products/495/main.jpg",
-        "rating": 4.2,
-        "reviews": 219,
-        "description": "The Optimum Nutrition Gold Standard 100% Whey Protein (5 lbs / 74 Servings) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
         "id": 565,
         "name": "Inflatable Wobble Balance Stability Cushion Disc",
         "category": "Yoga",
@@ -538,16 +548,6 @@ var shopProducts = [
         "rating": 4.8,
         "reviews": 487,
         "description": "The Electric Heated Muscle Massage Wrap Pad is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 286,
-        "name": "Neoprene Wrist Support Guard Brace with Thumb Loop",
-        "category": "Accessories",
-        "price": 3559.0,
-        "image": "assets/images/products/286/main.jpg",
-        "rating": 4.3,
-        "reviews": 65,
-        "description": "The Neoprene Wrist Support Guard Brace with Thumb Loop is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 356,
