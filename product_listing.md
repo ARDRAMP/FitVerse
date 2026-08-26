@@ -102,7 +102,7 @@ Total Products: **700**
 | 71 | Commercial Motorized Treadmill with 15.6 Inch HD Touchscreen |
 | 72 | Air Resistance Rowing Machine with Performance Monitor |
 | 73 | Heavy-Duty Fan Blade Air Bike with LCD Console |
-| 74 | Magnetic Resistance Elliptical Cross Trainer |
+| 74 | Commercial Touchscreen Magnetic Elliptical Cross Trainer |
 | 75 | Foldable Space-Saving Electric Treadmill |
 | 76 | Commercial Indoor Cycling Spin Bike with Magnetic Flywheel |
 | 77 | Stair Climber Stepper Machine with Ergonomic Handrails |

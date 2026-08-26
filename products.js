@@ -311,13 +311,13 @@ var shopProducts = [
     },
     {
         "id": 74,
-        "name": "Magnetic Resistance Elliptical Cross Trainer",
+        "name": "Commercial Touchscreen Magnetic Elliptical Cross Trainer",
         "category": "Cardio",
         "price": 29799.0,
         "image": "assets/images/products/74/main.jpg",
         "rating": 4.9,
         "reviews": 487,
-        "description": "The Magnetic Resistance Elliptical Cross Trainer is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "The Commercial Touchscreen Magnetic Elliptical Cross Trainer is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 144,
