@@ -470,6 +470,26 @@ var shopProducts = [
         "description": "Commercial Air Fan Exercise Bike features unlimited wind air resistance fan wheel, heavy-duty steel frame, dual-action moving handlebars, adjustable saddle, and digital interval LCD monitor for high-intensity cardio HIIT workouts."
     },
     {
+        "id": 219,
+        "name": "Therabody RecoveryPulse Vibration Arm Compression Sleeve",
+        "category": "Recovery",
+        "price": 12499.0,
+        "image": "assets/images/products/219/main.jpg",
+        "rating": 4.6,
+        "reviews": 45,
+        "description": "Therabody RecoveryPulse Vibration Arm Compression Sleeve combines targeted compression with integrated VibraPulse technology and rechargeable battery control to increase circulation and soothe sore arm and elbow muscles."
+    },
+    {
+        "id": 289,
+        "name": "Sweet Sweat Aluminum Handle Speed Jump Rope",
+        "category": "Accessories",
+        "price": 1899.0,
+        "image": "assets/images/products/289/main.jpg",
+        "rating": 4.9,
+        "reviews": 355,
+        "description": "Sweet Sweat Aluminum Handle Speed Jump Rope features 360-degree ball bearing rotation, textured knurled aluminum handles, and a tangle-free steel wire cable for double-unders and high-speed cardio training."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -1118,26 +1138,6 @@ var shopProducts = [
         "rating": 4.2,
         "reviews": 405,
         "description": "The Muay Thai Kick Pads (Pair) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 219,
-        "name": "Pneumatic Air Compression Leg Recovery Boots (v9)",
-        "category": "Recovery",
-        "price": 1559.0,
-        "image": "assets/images/products/219/main.jpg",
-        "rating": 4.6,
-        "reviews": 45,
-        "description": "The Pneumatic Air Compression Leg Recovery Boots (v9) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 289,
-        "name": "Heavy-Duty Lifting Hooks Grip Straps Pair",
-        "category": "Accessories",
-        "price": 1449.0,
-        "image": "assets/images/products/289/main.jpg",
-        "rating": 4.9,
-        "reviews": 355,
-        "description": "The Heavy-Duty Lifting Hooks Grip Straps Pair is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 359,

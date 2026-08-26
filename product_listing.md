@@ -257,7 +257,7 @@ Total Products: **700**
 | 216 | Electric Heated Muscle Massage Wrap Pad |
 | 217 | Vibrating Foam Roller for Deep Tissue Recovery |
 | 218 | Ergonomic Massage Ball for Trigger Point Release |
-| 219 | Pneumatic Air Compression Leg Recovery Boots (v9) |
+| 219 | Therabody RecoveryPulse Vibration Arm Compression Sleeve |
 | 220 | Kula Recovery Portable Cold Plunge Ice Bath Tub |
 | 221 | Full Body Acupressure Mat & Pillow Set |
 | 222 | Infrared Thermal Heating Pad for Back & Joints |
@@ -332,7 +332,7 @@ Total Products: **700**
 | 286 | Neoprene Wrist Support Guard Brace with Thumb Loop |
 | 287 | Padded Weightlifting Straps Pair (Heavy Cotton) |
 | 288 | Fabric Resistance Hip Circle Booty Bands (Set of 3) |
-| 289 | Heavy-Duty Lifting Hooks Grip Straps Pair |
+| 289 | Sweet Sweat Aluminum Handle Speed Jump Rope |
 | 290 | Stainless Steel Vacuum Insulated Gym Shaker Bottle (24oz) |
 | 291 | Liftdex Pure Gym Chalk Powder & Refillable Chalk Ball Set |
 | 292 | Body Builder Super Multivitamin Once Daily (60 Tablets) |
