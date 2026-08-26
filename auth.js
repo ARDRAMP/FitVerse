@@ -11,7 +11,7 @@ class Auth {
             this.users['demo@fitverse.com'] = {
                 name: 'Alex Rivera',
                 email: 'demo@fitverse.com',
-                phone: '+1 800 555 0199',
+                phone: '+91 9876543210',
                 password: 'password123'
             };
             localStorage.setItem('fitverse_users', JSON.stringify(this.users));
