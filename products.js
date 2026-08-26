@@ -361,13 +361,13 @@ var shopProducts = [
     },
     {
         "id": 424,
-        "name": "Pneumatic Air Compression Leg Recovery Boots",
+        "name": "GPS Sports Smartwatch with ZoneSense VO2Max Tracker",
         "category": "Fit Tech",
         "price": 2829.0,
         "image": "assets/images/products/424/main.jpg",
         "rating": 4.8,
         "reviews": 165,
-        "description": "The Pneumatic Air Compression Leg Recovery Boots is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "The GPS Sports Smartwatch with ZoneSense VO2Max Tracker is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 494,

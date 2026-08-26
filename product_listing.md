@@ -477,7 +477,7 @@ Total Products: **700**
 | 421 | GPS Sports Smartwatch with Heart Rate Monitor |
 | 422 | Air Compression Leg Recovery Boots System |
 | 423 | Smart Body Fat & Composition Digital Scale |
-| 424 | Pneumatic Air Compression Leg Recovery Boots |
+| 424 | GPS Sports Smartwatch with ZoneSense VO2Max Tracker |
 | 425 | Continuous Pulse Oximeter & Oxygen Tracker |
 | 426 | Smart Fitness Tracker Ring with Sleep Analysis |
 | 427 | Bluetooth Heart Rate Armband Monitor |
