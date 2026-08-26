@@ -258,7 +258,7 @@ Total Products: **700**
 | 217 | Vibrating Foam Roller for Deep Tissue Recovery |
 | 218 | Ergonomic Massage Ball for Trigger Point Release |
 | 219 | Pneumatic Air Compression Leg Recovery Boots (v9) |
-| 220 | Compact Deep Tissue Massage Gun (Quiet Brushless) |
+| 220 | Kula Recovery Portable Cold Plunge Ice Bath Tub |
 | 221 | Full Body Acupressure Mat & Pillow Set |
 | 222 | Infrared Thermal Heating Pad for Back & Joints |
 | 223 | Stainless Steel Scraping Muscle Gua Sha Tool Set |

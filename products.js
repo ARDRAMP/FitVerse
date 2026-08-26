@@ -120,6 +120,16 @@ var shopProducts = [
         "description": "The Horizon Fitness Precision Adjustable Dumbbells Pair is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
+        "id": 220,
+        "name": "Kula Recovery Portable Cold Plunge Ice Bath Tub",
+        "category": "Recovery",
+        "price": 7459.0,
+        "image": "assets/images/products/220/main.jpg",
+        "rating": 4.2,
+        "reviews": 92,
+        "description": "The Kula Recovery Portable Cold Plunge Ice Bath Tub is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -928,16 +938,6 @@ var shopProducts = [
         "rating": 4.4,
         "reviews": 395,
         "description": "The Professional Leather Sparring Gloves (16 oz) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 220,
-        "name": "Compact Deep Tissue Massage Gun (Quiet Brushless)",
-        "category": "Recovery",
-        "price": 7459.0,
-        "image": "assets/images/products/220/main.jpg",
-        "rating": 4.2,
-        "reviews": 92,
-        "description": "The Compact Deep Tissue Massage Gun (Quiet Brushless) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 290,
