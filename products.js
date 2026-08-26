@@ -180,6 +180,16 @@ var shopProducts = [
         "description": "Liftdex Pure Gym Chalk Powder & Refillable Chalk Ball Set provides maximum grip performance, absorbs moisture instantly, and prevents slipping during heavy deadlifts, gymnastics, and rock climbing."
     },
     {
+        "id": 292,
+        "name": "Body Builder Super Multivitamin Once Daily (60 Tablets)",
+        "category": "Supplements",
+        "price": 1369.0,
+        "image": "assets/images/products/292/main.jpg",
+        "rating": 4.7,
+        "reviews": 254,
+        "description": "Body Builder Super Multivitamin Once Daily provides a comprehensive daily blend of essential vitamins, minerals, and antioxidants to support immune health, energy, and muscle recovery (60 veggie tablets)."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -1158,16 +1168,6 @@ var shopProducts = [
         "rating": 4.2,
         "reviews": 281,
         "description": "The Infrared Thermal Heating Pad for Back & Joints is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 292,
-        "name": "Neoprene Dip Belt with Heavy Duty Steel Chain",
-        "category": "Accessories",
-        "price": 1369.0,
-        "image": "assets/images/products/292/main.jpg",
-        "rating": 4.7,
-        "reviews": 254,
-        "description": "The Neoprene Dip Belt with Heavy Duty Steel Chain is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 362,
