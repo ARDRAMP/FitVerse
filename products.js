@@ -140,6 +140,16 @@ var shopProducts = [
         "description": "The Pro Weightlifting Shoes with Raised Heel & Midfoot Strap is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
+        "id": 500,
+        "name": "Nutricost Performance BCAA Powder (Orange Mango, 60 Servings)",
+        "category": "Supplements",
+        "price": 3029.0,
+        "image": "assets/images/products/500/main.jpg",
+        "rating": 4.8,
+        "reviews": 443,
+        "description": "The Nutricost Performance BCAA Powder (Orange Mango, 60 Servings) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -968,16 +978,6 @@ var shopProducts = [
         "rating": 4.9,
         "reviews": 140,
         "description": "The Wearable GPS Multisport Watch with Map Navigation is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 500,
-        "name": "Nighttime Micellar Casein Protein Powder (Chocolate 4 lbs)",
-        "category": "Supplements",
-        "price": 3029.0,
-        "image": "assets/images/products/500/main.jpg",
-        "rating": 4.8,
-        "reviews": 443,
-        "description": "The Nighttime Micellar Casein Protein Powder (Chocolate 4 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 570,
