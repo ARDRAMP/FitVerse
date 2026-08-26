@@ -375,8 +375,8 @@ Total Products: **700**
 | 329 | Flat Latex Resistance Loop Bands Set with Pouch |
 | 330 | Sporter Padded Nylon Weightlifting Belt (Yellow/Black) |
 | 331 | Neoprene Padded Ankle Straps Pair for Cable Kickbacks |
-| 332 | High Speed Bearing Jump Rope with Steel Wire |
-| 333 | BPA-Free Shaker Bottle with Storage Compartments |
+| 332 | Get RX'd Canvas Athletic Gym Duffel Bag (White) |
+| 333 | Mueller Gymnastic & Weightlifting Chalk 8-Block Box (1 lb) |
 | 334 | Genuine Leather Workout Gloves with Wrist Wraps |
 | 335 | Pull-Up Assistance Rubber Resistance Bands Set |
 | 336 | Professional Lever Powerlifting Belt (Custom Fit) |

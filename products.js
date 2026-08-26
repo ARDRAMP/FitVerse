@@ -340,6 +340,26 @@ var shopProducts = [
         "description": "Sporter Padded Nylon Weightlifting Belt features durable heavy-duty nylon webbed construction, 5-inch wide back support padding, steel tension roller buckle, and hook-and-loop closure for secure lumbar protection."
     },
     {
+        "id": 332,
+        "name": "Get RX'd Canvas Athletic Gym Duffel Bag (White)",
+        "category": "Accessories",
+        "price": 1349.0,
+        "image": "assets/images/products/332/main.jpg",
+        "rating": 4.1,
+        "reviews": 87,
+        "description": "Get RX'd Canvas Athletic Gym Duffel Bag features durable white heavy-duty canvas fabric, spacious main zip compartment, reinforced webbed handles, and adjustable shoulder strap."
+    },
+    {
+        "id": 333,
+        "name": "Mueller Gymnastic & Weightlifting Chalk 8-Block Box (1 lb)",
+        "category": "Accessories",
+        "price": 1499.0,
+        "image": "assets/images/products/333/main.jpg",
+        "rating": 4.8,
+        "reviews": 259,
+        "description": "Mueller Gymnastic & Weightlifting Chalk Box contains 8 individually wrapped 2 oz blocks (1 lb total) of 100% pure magnesium carbonate for maximum grip absorption during weightlifting, gymnastics, and rock climbing."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -5160,16 +5180,6 @@ var shopProducts = [
         "description": "The Targeted Plantar Fasciitis Foot Massage Roller is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
-        "id": 332,
-        "name": "High Speed Bearing Jump Rope with Steel Wire",
-        "category": "Accessories",
-        "price": 1349.0,
-        "image": "assets/images/products/332/main.jpg",
-        "rating": 4.1,
-        "reviews": 87,
-        "description": "The High Speed Bearing Jump Rope with Steel Wire is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
         "id": 402,
         "name": "Stretch Woven Athletic Shorts (7-Inch)",
         "category": "Apparel",
@@ -5258,16 +5268,6 @@ var shopProducts = [
         "rating": 4.1,
         "reviews": 361,
         "description": "The Air Compression Leg Recovery Boots System is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 333,
-        "name": "BPA-Free Shaker Bottle with Storage Compartments",
-        "category": "Accessories",
-        "price": 1219.0,
-        "image": "assets/images/products/333/main.jpg",
-        "rating": 4.8,
-        "reviews": 259,
-        "description": "The BPA-Free Shaker Bottle with Storage Compartments is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 403,
