@@ -530,6 +530,36 @@ var shopProducts = [
         "description": "Rival Boxing Pro Leather Speed Bag is handcrafted from premium genuine leather with reinforced welded seams, balanced pear-shape design, and durable hanging loop for rapid hand-eye coordination and speed striking workouts."
     },
     {
+        "id": 155,
+        "name": "FujiMae Boxing Hand Wraps (White / 180-Inch)",
+        "category": "Combat",
+        "price": 799.0,
+        "image": "assets/images/products/155/main.jpg",
+        "rating": 5.0,
+        "reviews": 154,
+        "description": "FujiMae Boxing Hand Wraps feature 180 inches of breathable semi-elastic cotton-blend fabric, reinforced thumb loop, and wide hook-and-loop wrist strap for optimal knuckle and wrist protection."
+    },
+    {
+        "id": 225,
+        "name": "Athletic Support Elastic Arm & Elbow Compression Sleeve",
+        "category": "Recovery",
+        "price": 899.0,
+        "image": "assets/images/products/225/main.jpg",
+        "rating": 4.1,
+        "reviews": 371,
+        "description": "Athletic Support Elastic Arm & Elbow Compression Sleeve features 4-way stretch breathable compression knit, targeted joint stabilization, and non-slip silicone band to reduce tendonitis and elbow fatigue."
+    },
+    {
+        "id": 365,
+        "name": "High-Waisted Seamless Compression Workout Biker Shorts (Black)",
+        "category": "Apparel",
+        "price": 1389.0,
+        "image": "assets/images/products/365/main.jpg",
+        "rating": 5.0,
+        "reviews": 171,
+        "description": "High-Waisted Seamless Compression Workout Biker Shorts feature a ribbed tummy-control waistband, four-way stretch squat-proof fabric, and moisture-wicking material for yoga, gym, and cycling."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -1638,36 +1668,6 @@ var shopProducts = [
         "rating": 5.0,
         "reviews": 167,
         "description": "The Heavy-Duty Commercial Elliptical Trainer is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 155,
-        "name": "Leather Speed Bag (Medium 9x6 Inch)",
-        "category": "Combat",
-        "price": 2039.0,
-        "image": "assets/images/products/155/main.jpg",
-        "rating": 5.0,
-        "reviews": 154,
-        "description": "The Leather Speed Bag (Medium 9x6 Inch) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 225,
-        "name": "Portable Cold Therapy Ice Bath Tub with Cover",
-        "category": "Recovery",
-        "price": 16899.0,
-        "image": "assets/images/products/225/main.jpg",
-        "rating": 4.1,
-        "reviews": 371,
-        "description": "The Portable Cold Therapy Ice Bath Tub with Cover is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 365,
-        "name": "High-Impact Zip Front Sports Bra",
-        "category": "Apparel",
-        "price": 1389.0,
-        "image": "assets/images/products/365/main.jpg",
-        "rating": 5.0,
-        "reviews": 171,
-        "description": "The High-Impact Zip Front Sports Bra is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 435,

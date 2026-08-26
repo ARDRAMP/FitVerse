@@ -188,7 +188,7 @@ Total Products: **700**
 | 152 | Gel-Enforced Inner Glove Hand Wraps |
 | 153 | Rival Boxing Pro Leather Speed Bag (Black/Lime) |
 | 154 | Target Kick Shield for Martial Arts Training |
-| 155 | Leather Speed Bag (Medium 9x6 Inch) |
+| 155 | FujiMae Boxing Hand Wraps (White / 180-Inch) |
 | 156 | Freestanding Reflex Boxing Bag with Spring Neck |
 | 157 | Muay Thai Pro Boxing Gloves (12 oz) |
 | 158 | Ergonomic Leather Focus Mitts Pair |
@@ -263,7 +263,7 @@ Total Products: **700**
 | 222 | Infrared Thermal Heating Pad for Back & Joints |
 | 223 | Stainless Steel Scraping Muscle Gua Sha Tool Set |
 | 224 | Deep Tissue Dual Peanut Massage Ball |
-| 225 | Portable Cold Therapy Ice Bath Tub with Cover |
+| 225 | Athletic Support Elastic Arm & Elbow Compression Sleeve |
 | 226 | Percussive Massage Gun with OLED Touchscreen |
 | 227 | High-Density EVA Foam Roller (36-Inch Full Size) |
 | 228 | Targeted Calf & Foot Compression Sleeves |
@@ -413,7 +413,7 @@ Total Products: **700**
 | 362 | Thermal Compression Tights Pants |
 | 363 | Minimalist Cross-Training Athletic Shoes |
 | 364 | Oversized Cotton Heavy Weightlifting Tee |
-| 365 | High-Impact Zip Front Sports Bra |
+| 365 | High-Waisted Seamless Compression Workout Biker Shorts (Black) |
 | 366 | Lightweight Running Shorts with Phone Pocket |
 | 367 | Fleece Lined Athletic Training Sweatpants |
 | 368 | Seamless Camo Workout Leggings |
