@@ -7,7 +7,7 @@ var shopProducts = [
         "image": "assets/images/products/422/main.jpg",
         "rating": 5.0,
         "reviews": 419,
-        "description": "The Air Compression Leg Recovery Boots System is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "Air Compression Leg Recovery Boots System features sequential pneumatic pressure zones to promote circulation, reduce muscle soreness, and accelerate lower-body recovery post-training."
     },
     {
         "id": 492,
@@ -17,7 +17,7 @@ var shopProducts = [
         "image": "assets/images/products/492/main.jpg",
         "rating": 4.7,
         "reviews": 414,
-        "description": "The Body Builder Super Multivitamin Once Daily (60 Tablets) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "Body Builder Super Multivitamin Once Daily provides a comprehensive blend of essential vitamins, minerals, and antioxidants tailored for high-intensity athletes and active individuals (60 easy-to-swallow tablets)."
     },
     {
         "id": 283,
@@ -27,7 +27,7 @@ var shopProducts = [
         "image": "assets/images/products/283/main.jpg",
         "rating": 4.6,
         "reviews": 173,
-        "description": "The Adjustable Speed Jump Rope with Foam Handles is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "Adjustable Speed Jump Rope with Foam Handles features smooth ball-bearing rotation, non-slip sweat-absorbing foam grips, and durable steel cable for double-unders and cardio conditioning."
     },
     {
         "id": 74,
@@ -37,7 +37,7 @@ var shopProducts = [
         "image": "assets/images/products/74/main.jpg",
         "rating": 4.9,
         "reviews": 487,
-        "description": "The Commercial Touchscreen Magnetic Elliptical Cross Trainer is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "Commercial Touchscreen Magnetic Elliptical Cross Trainer delivers smooth, low-impact cardio workouts with magnetic resistance, interactive HD touchscreen display, and pre-programmed interval workouts."
     },
     {
         "id": 284,
@@ -47,7 +47,7 @@ var shopProducts = [
         "image": "assets/images/products/284/main.jpg",
         "rating": 4.2,
         "reviews": 435,
-        "description": "The Heavy-Duty Athletic Gym Duffel Bag is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "Heavy-Duty Athletic Gym Duffel Bag features tear-resistant water-resistant fabric, ventilated shoe compartment, padded shoulder strap, and multi-pocket organizer."
     },
     {
         "id": 424,
@@ -57,7 +57,7 @@ var shopProducts = [
         "image": "assets/images/products/424/main.jpg",
         "rating": 4.8,
         "reviews": 165,
-        "description": "The GPS Sports Smartwatch with ZoneSense VO2Max Tracker is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "GPS Sports Smartwatch with ZoneSense VO2Max Tracker offers real-time heart rate monitoring, advanced athletic metric analysis, GPS navigation, and rugged water-resistant construction for endurance athletes."
     },
     {
         "id": 495,
@@ -67,7 +67,7 @@ var shopProducts = [
         "image": "assets/images/products/495/main.jpg",
         "rating": 4.2,
         "reviews": 219,
-        "description": "The Optimum Nutrition Gold Standard 100% Whey Protein (5 lbs / 74 Servings) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "Optimum Nutrition Gold Standard 100% Whey Protein provides 24g of high-quality whey protein isolate per serving with 5.5g of naturally occurring BCAAs. Ideal for post-workout muscle repair and lean muscle building (5 lbs / 74 servings)."
     },
     {
         "id": 286,
@@ -77,7 +77,7 @@ var shopProducts = [
         "image": "assets/images/products/286/main.jpg",
         "rating": 4.3,
         "reviews": 65,
-        "description": "The Neoprene Wrist Support Guard Brace with Thumb Loop is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "Neoprene Wrist Support Guard Brace with Thumb Loop provides customizable compression, reinforced wrist stabilization, and ergonomic thumb loop anchor for heavy lifting and joint relief."
     },
     {
         "id": 636,
@@ -87,7 +87,7 @@ var shopProducts = [
         "image": "assets/images/products/636/main.jpg",
         "rating": 4.0,
         "reviews": 30,
-        "description": "The Quick-Select Adjustable Dumbbells Pair with Heavy-Duty Stand is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "Quick-Select Adjustable Dumbbells Pair with Heavy-Duty Stand offers quick dial resistance changes, ergonomic knurled handles, and a dedicated steel dumbbell stand for home gym training."
     },
     {
         "id": 566,
@@ -97,7 +97,7 @@ var shopProducts = [
         "image": "assets/images/products/566/main.jpg",
         "rating": 4.7,
         "reviews": 477,
-        "description": "The Organic Cotton Yoga Meditation Bolster Pillow is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "Organic Cotton Yoga Meditation Bolster Pillow is filled with supportive natural cotton batting to provide gentle cushioning for deep yoga stretches, restorative poses, and meditation."
     },
     {
         "id": 7,
@@ -107,7 +107,7 @@ var shopProducts = [
         "image": "assets/images/products/7/main.jpg",
         "rating": 4.7,
         "reviews": 77,
-        "description": "The Commercial Olympic Half Rack System with Plate Storage is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "Commercial Olympic Half Rack System with Plate Storage features heavy-duty 3x3 steel tubing, multi-grip pull-up station, integrated weight plate storage horns, and adjustable safety spotter arms."
     },
     {
         "id": 10,
@@ -117,7 +117,7 @@ var shopProducts = [
         "image": "assets/images/products/10/main.jpg",
         "rating": 4.8,
         "reviews": 341,
-        "description": "The Horizon Fitness Precision Adjustable Dumbbells Pair is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "Horizon Fitness Precision Adjustable Dumbbells Pair allows rapid weight adjustments from 5 to 50 lbs per dumbbell with a smooth dial mechanism and compact storage cradle base."
     },
     {
         "id": 220,
@@ -127,7 +127,7 @@ var shopProducts = [
         "image": "assets/images/products/220/main.jpg",
         "rating": 4.2,
         "reviews": 92,
-        "description": "The Kula Recovery Portable Cold Plunge Ice Bath Tub is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "Kula Recovery Portable Cold Plunge Ice Bath Tub features multi-layer insulated thermal lining, easy-drain valve system, and inflatable protective cover for cold water immersion therapy."
     },
     {
         "id": 360,
@@ -137,7 +137,7 @@ var shopProducts = [
         "image": "assets/images/products/360/main.jpg",
         "rating": 4.5,
         "reviews": 334,
-        "description": "The Pro Weightlifting Shoes with Raised Heel & Midfoot Strap is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "Pro Weightlifting Shoes feature a high-density TPU raised heel, dual midfoot hook-and-loop lockdown straps, and high-traction flat rubber outsole for optimal squat stability and power transfer."
     },
     {
         "id": 500,
@@ -147,7 +147,7 @@ var shopProducts = [
         "image": "assets/images/products/500/main.jpg",
         "rating": 4.8,
         "reviews": 443,
-        "description": "The Nutricost Performance BCAA Powder (Orange Mango, 60 Servings) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "Nutricost Performance BCAA delivers 6g of premium 2:1:1 Branched Chain Amino Acids per serving in a refreshing Orange Mango flavor. Formulated as a dietary supplement to support muscle recovery, reduce soreness, and enhance intra-workout hydration across 60 full servings (510g)."
     },
     {
         "id": 1,
