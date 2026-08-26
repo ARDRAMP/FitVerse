@@ -480,7 +480,7 @@ Total Products: **700**
 | 424 | GPS Sports Smartwatch with ZoneSense VO2Max Tracker |
 | 425 | Continuous Pulse Oximeter & Oxygen Tracker |
 | 426 | Smart Fitness Tracker Ring with Sleep Analysis |
-| 427 | Bluetooth Heart Rate Armband Monitor |
+| 427 | Therabody RecoveryAir JetBoots Compression System |
 | 428 | HD Touchscreen Fitness Display Console |
 | 429 | Smart Muscle Stimulator TENS EMS Device |
 | 430 | Wearable GPS Multisport Watch with Map Navigation |

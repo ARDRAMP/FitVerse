@@ -410,6 +410,16 @@ var shopProducts = [
         "description": "Commercial All-in-One Functional Trainer Power Rack System features dual pin-selected weight stacks, integrated Smith machine bar, multi-position cable crossover pulleys, chin-up bar station, J-hooks, and safety spotter arms."
     },
     {
+        "id": 427,
+        "name": "Therabody RecoveryAir JetBoots Compression System",
+        "category": "Fit Tech",
+        "price": 49999.0,
+        "image": "assets/images/products/427/main.jpg",
+        "rating": 3.9,
+        "reviews": 498,
+        "description": "Therabody RecoveryAir JetBoots feature fully wireless pneumatic air compression therapy, integrated internal pumps, TruGrade technology gradient pressure, and fast 60-second flush cycles to accelerate athletic muscle recovery."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -948,16 +958,6 @@ var shopProducts = [
         "rating": 4.3,
         "reviews": 287,
         "description": "The Seamless High-Support Gym Sports Bra is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 427,
-        "name": "Bluetooth Heart Rate Armband Monitor",
-        "category": "Fit Tech",
-        "price": 2999.0,
-        "image": "assets/images/products/427/main.jpg",
-        "rating": 3.9,
-        "reviews": 498,
-        "description": "The Bluetooth Heart Rate Armband Monitor is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 497,
