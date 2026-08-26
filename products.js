@@ -270,6 +270,16 @@ var shopProducts = [
         "description": "Mueller Sports Medicine Wrist & Thumb Stabilizer Brace features rigid metal stays for thumb support, breathable padded mesh fabric, and adjustable hook-and-loop straps for wrist stabilization during joint recovery and training."
     },
     {
+        "id": 323,
+        "name": "Non-Slip Pastel Fabric Booty Resistance Bands Set (3-Pack)",
+        "category": "Accessories",
+        "price": 1019.0,
+        "image": "assets/images/products/323/main.jpg",
+        "rating": 4.0,
+        "reviews": 255,
+        "description": "Non-Slip Pastel Fabric Booty Resistance Bands Set includes Light, Medium, and Heavy resistance levels crafted from breathable elastic cotton fabric with internal latex grips to prevent rolling during hip, thigh, and glute activation workouts."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -4258,16 +4268,6 @@ var shopProducts = [
         "rating": 4.4,
         "reviews": 257,
         "description": "The Electric Cordless Heated Neck & Shoulder Massager is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 323,
-        "name": "Speed Cable Jump Rope with Ergonomic Grips",
-        "category": "Accessories",
-        "price": 1019.0,
-        "image": "assets/images/products/323/main.jpg",
-        "rating": 4.0,
-        "reviews": 255,
-        "description": "The Speed Cable Jump Rope with Ergonomic Grips is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 393,
