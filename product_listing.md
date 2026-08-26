@@ -363,7 +363,7 @@ Total Products: **700**
 | 317 | Fabric Resistance Loop Bands Pack of 4 |
 | 318 | Jay Cutler Signature Leather Weightlifting Belt |
 | 319 | Domyos Ergonomic Foam Handle Speed Jump Rope |
-| 320 | Pure Magnesium Carbonate Chalk Bowl Bag |
+| 320 | Matte Black Water-Resistant Travel Gym Duffel Bag |
 | 321 | Rugged Strength & Fitness 2 oz Gym Chalk Block |
 | 322 | Mueller Sports Medicine Wrist & Thumb Stabilizer Brace |
 | 323 | Non-Slip Pastel Fabric Booty Resistance Bands Set (3-Pack) |

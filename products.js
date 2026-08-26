@@ -390,6 +390,16 @@ var shopProducts = [
         "description": "Pure Magnesium Carbonate Gym Block Chalk Set contains individually wrapped blocks of 100% pure magnesium carbonate to keep hands dry, absorb sweat, and enhance grip during heavy lifts, gymnastics, and climbing."
     },
     {
+        "id": 320,
+        "name": "Matte Black Water-Resistant Travel Gym Duffel Bag",
+        "category": "Accessories",
+        "price": 1899.0,
+        "image": "assets/images/products/320/main.jpg",
+        "rating": 4.4,
+        "reviews": 239,
+        "description": "Matte Black Water-Resistant Travel Gym Duffel Bag features a smooth waterproof canvas exterior, padded top carrying handles, front zipper pocket, spacious interior compartment, and detachable shoulder strap."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -4098,16 +4108,6 @@ var shopProducts = [
         "rating": 4.4,
         "reviews": 490,
         "description": "The Stainless Steel IASTM Muscle Scraping Tool is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 320,
-        "name": "Pure Magnesium Carbonate Chalk Bowl Bag",
-        "category": "Accessories",
-        "price": 699.0,
-        "image": "assets/images/products/320/main.jpg",
-        "rating": 4.4,
-        "reviews": 239,
-        "description": "The Pure Magnesium Carbonate Chalk Bowl Bag is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 390,
