@@ -33,7 +33,7 @@ Total Products: **700**
 | 7 | Commercial Olympic Half Rack System with Plate Storage |
 | 8 | Urethane Pro Dumbbell Set (5-50 lbs) |
 | 9 | Steel Loadable Macebell (15 lbs) |
-| 10 | Wall-Mounted Heavy Foldable Power Rack |
+| 10 | Horizon Fitness Precision Adjustable Dumbbells Pair |
 | 11 | Cast Iron Competition Kettlebell (16kg) |
 | 12 | Machined Steel Weight Plate (25 lbs) |
 | 13 | Stainless Steel Powerlifting Barbell |

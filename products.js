@@ -110,6 +110,16 @@ var shopProducts = [
         "description": "The Commercial Olympic Half Rack System with Plate Storage is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
+        "id": 10,
+        "name": "Horizon Fitness Precision Adjustable Dumbbells Pair",
+        "category": "Strength",
+        "price": 27499.0,
+        "image": "assets/images/products/10/main.jpg",
+        "rating": 4.8,
+        "reviews": 341,
+        "description": "The Horizon Fitness Precision Adjustable Dumbbells Pair is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -898,16 +908,6 @@ var shopProducts = [
         "rating": 4.7,
         "reviews": 40,
         "description": "The Suspension Trainer Pro Kit with Door Anchor is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 10,
-        "name": "Wall-Mounted Heavy Foldable Power Rack",
-        "category": "Strength",
-        "price": 70499.0,
-        "image": "assets/images/products/10/main.jpg",
-        "rating": 4.8,
-        "reviews": 341,
-        "description": "The Wall-Mounted Heavy Foldable Power Rack is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 80,
