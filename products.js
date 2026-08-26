@@ -210,6 +210,16 @@ var shopProducts = [
         "description": "LivePro Premium Speed Jump Rope features lightweight knurled aluminum alloy handles, 360-degree high-speed ball bearing swivel, and adjustable coated steel wire cable for double-unders and cardio training."
     },
     {
+        "id": 296,
+        "name": "Gym Leader Nutrition Cylinder Duffel Bag",
+        "category": "Accessories",
+        "price": 1429.0,
+        "image": "assets/images/products/296/main.jpg",
+        "rating": 3.9,
+        "reviews": 467,
+        "description": "Gym Leader Nutrition Cylinder Duffel Bag features a water-resistant canvas exterior, spacious main compartment, heavy-duty zippers, side accessory pocket, and detachable shoulder strap."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -1558,16 +1568,6 @@ var shopProducts = [
         "rating": 4.7,
         "reviews": 32,
         "description": "The Percussive Massage Gun with OLED Touchscreen is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 296,
-        "name": "Non-Slip Fabric Resistance Loop Band Set",
-        "category": "Accessories",
-        "price": 1429.0,
-        "image": "assets/images/products/296/main.jpg",
-        "rating": 3.9,
-        "reviews": 467,
-        "description": "The Non-Slip Fabric Resistance Loop Band Set is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 366,

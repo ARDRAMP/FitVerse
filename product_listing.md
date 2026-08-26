@@ -339,7 +339,7 @@ Total Products: **700**
 | 293 | York Fitness Heavy-Duty Powerlifting Resistance Loop Band |
 | 294 | Gym Chalk Powder Ball in Reusable Mesh Bag |
 | 295 | LivePro Premium Speed Jump Rope with Aluminum Handles |
-| 296 | Non-Slip Fabric Resistance Loop Band Set |
+| 296 | Gym Leader Nutrition Cylinder Duffel Bag |
 | 297 | Prong Steel Buckle Leather Lifting Belt (13mm) |
 | 298 | Heavy Cotton Wrist Wraps with Thumb Loop (24-Inch) |
 | 299 | Large Capacity Gym Duffel Bag with Water Bottle Holder |
