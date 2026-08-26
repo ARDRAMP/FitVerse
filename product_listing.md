@@ -30,7 +30,7 @@ Total Products: **700**
 | 4 | Rubber Coated Hex Dumbbell (30 lbs) |
 | 5 | Heavy-Duty Commercial Squat Rack |
 | 6 | Multi-Angle Adjustable Weight Bench |
-| 7 | Zinc-Coated Olympic Hex Trap Bar |
+| 7 | Commercial Olympic Half Rack System with Plate Storage |
 | 8 | Urethane Pro Dumbbell Set (5-50 lbs) |
 | 9 | Steel Loadable Macebell (15 lbs) |
 | 10 | Wall-Mounted Heavy Foldable Power Rack |

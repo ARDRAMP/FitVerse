@@ -100,6 +100,16 @@ var shopProducts = [
         "description": "The Organic Cotton Yoga Meditation Bolster Pillow is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
+        "id": 7,
+        "name": "Commercial Olympic Half Rack System with Plate Storage",
+        "category": "Strength",
+        "price": 49999.0,
+        "image": "assets/images/products/7/main.jpg",
+        "rating": 4.7,
+        "reviews": 77,
+        "description": "The Commercial Olympic Half Rack System with Plate Storage is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -598,16 +608,6 @@ var shopProducts = [
         "rating": 4.9,
         "reviews": 197,
         "description": "The Advanced Clean Mass Gainer Powder (Chocolate 6 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 7,
-        "name": "Commercial Heavy-Duty Power Rack Squat Cage Station",
-        "category": "Strength",
-        "price": 15199.0,
-        "image": "assets/images/products/7/main.jpg",
-        "rating": 4.7,
-        "reviews": 77,
-        "description": "The Commercial Heavy-Duty Power Rack Squat Cage Station is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 77,
