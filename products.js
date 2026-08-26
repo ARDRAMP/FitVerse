@@ -190,6 +190,16 @@ var shopProducts = [
         "description": "Body Builder Super Multivitamin Once Daily provides a comprehensive daily blend of essential vitamins, minerals, and antioxidants to support immune health, energy, and muscle recovery (60 veggie tablets)."
     },
     {
+        "id": 293,
+        "name": "York Fitness Heavy-Duty Powerlifting Resistance Loop Band",
+        "category": "Accessories",
+        "price": 919.0,
+        "image": "assets/images/products/293/main.jpg",
+        "rating": 4.3,
+        "reviews": 265,
+        "description": "York Fitness Heavy-Duty Resistance Loop Band is crafted from 100% natural latex to provide heavy tension assistance for pull-ups, powerlifting squats, mobility work, and strength conditioning."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -1258,16 +1268,6 @@ var shopProducts = [
         "rating": 4.8,
         "reviews": 271,
         "description": "The Stainless Steel Scraping Muscle Gua Sha Tool Set is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 293,
-        "name": "Weighted Jump Rope with Removable Handle Weights",
-        "category": "Accessories",
-        "price": 919.0,
-        "image": "assets/images/products/293/main.jpg",
-        "rating": 4.3,
-        "reviews": 265,
-        "description": "The Weighted Jump Rope with Removable Handle Weights is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 363,

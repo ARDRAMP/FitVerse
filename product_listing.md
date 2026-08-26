@@ -336,7 +336,7 @@ Total Products: **700**
 | 290 | Stainless Steel Vacuum Insulated Gym Shaker Bottle (24oz) |
 | 291 | Liftdex Pure Gym Chalk Powder & Refillable Chalk Ball Set |
 | 292 | Body Builder Super Multivitamin Once Daily (60 Tablets) |
-| 293 | Weighted Jump Rope with Removable Handle Weights |
+| 293 | York Fitness Heavy-Duty Powerlifting Resistance Loop Band |
 | 294 | Gym Chalk Powder Ball in Reusable Mesh Bag |
 | 295 | Leather Weightlifting Gloves with Wrist Support |
 | 296 | Non-Slip Fabric Resistance Loop Band Set |
