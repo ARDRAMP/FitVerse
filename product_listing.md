@@ -629,7 +629,7 @@ Total Products: **700**
 | 563 | Durable Cotton Yoga Stretching Strap (8 Feet) |
 | 564 | Organic Cotton Meditation Bolster Pillow |
 | 565 | Textured Cork Yoga Wheel for Back Extension |
-| 566 | Lightweight Yoga Mat Carrying Sling Strap |
+| 566 | Organic Cotton Yoga Meditation Bolster Pillow |
 | 567 | Premium Natural Rubber Yoga Mat (5mm) |
 | 568 | High-Density Cork Yoga Blocks Pair |
 | 569 | Adjustable Metal Buckle Yoga Strap (10 Feet) |

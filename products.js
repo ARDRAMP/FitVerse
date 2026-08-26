@@ -90,6 +90,16 @@ var shopProducts = [
         "description": "The Quick-Select Adjustable Dumbbells Pair with Heavy-Duty Stand is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
+        "id": 566,
+        "name": "Organic Cotton Yoga Meditation Bolster Pillow",
+        "category": "Yoga",
+        "price": 2139.0,
+        "image": "assets/images/products/566/main.jpg",
+        "rating": 4.7,
+        "reviews": 477,
+        "description": "The Organic Cotton Yoga Meditation Bolster Pillow is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -588,16 +598,6 @@ var shopProducts = [
         "rating": 4.9,
         "reviews": 197,
         "description": "The Advanced Clean Mass Gainer Powder (Chocolate 6 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 566,
-        "name": "Lightweight Yoga Mat Carrying Sling Strap",
-        "category": "Yoga",
-        "price": 2139.0,
-        "image": "assets/images/products/566/main.jpg",
-        "rating": 4.7,
-        "reviews": 477,
-        "description": "The Lightweight Yoga Mat Carrying Sling Strap is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 7,

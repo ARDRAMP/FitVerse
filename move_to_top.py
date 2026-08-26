@@ -7,7 +7,7 @@ start = text.find('[')
 end = text.rfind(']')
 products = json.loads(text[start:end+1])
 
-target_ids = [422, 492, 283, 74, 284, 424, 495, 286, 636]
+target_ids = [422, 492, 283, 74, 284, 424, 495, 286, 636, 566]
 top_prods = [x for x in products if x['id'] in target_ids]
 other_prods = [x for x in products if x['id'] not in target_ids]
 
