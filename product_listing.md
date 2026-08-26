@@ -631,7 +631,7 @@ Total Products: **700**
 | 565 | Textured Cork Yoga Wheel for Back Extension |
 | 566 | Organic Cotton Yoga Meditation Bolster Pillow |
 | 567 | Premium Natural Rubber Yoga Mat (5mm) |
-| 568 | High-Density Cork Yoga Blocks Pair |
+| 568 | Hanging Commercial Fitness & Yoga Mat with Eyelets |
 | 569 | Adjustable Metal Buckle Yoga Strap (10 Feet) |
 | 570 | Round Cotton Meditation Cushion (Zafu) |
 | 571 | Deep Tissue Muscle Yoga Wheel (12-Inch) |

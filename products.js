@@ -430,6 +430,16 @@ var shopProducts = [
         "description": "Adidas Tiro Athletic Fleece Pullover Hoodie features a soft cotton-poly fleece blend, contrast white sleeve stripe panels, drawstring adjustable hood, ribbed cuffs, and iconic 3-bar logo for training and casual sportswear."
     },
     {
+        "id": 568,
+        "name": "Hanging Commercial Fitness & Yoga Mat with Eyelets",
+        "category": "Yoga",
+        "price": 1899.0,
+        "image": "assets/images/products/568/main.jpg",
+        "rating": 4.6,
+        "reviews": 432,
+        "description": "Hanging Commercial Fitness & Yoga Mat features high-density cushioned non-slip foam, reinforced metal eyelet holes for wall rack storage, and a sweat-resistant textured surface for yoga, pilates, and stretching."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -1068,16 +1078,6 @@ var shopProducts = [
         "rating": 4.2,
         "reviews": 96,
         "description": "The Electrolyte Hydration Powder Sticks (Lemon Lime 30 Packs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 568,
-        "name": "High-Density Cork Yoga Blocks Pair",
-        "category": "Yoga",
-        "price": 969.0,
-        "image": "assets/images/products/568/main.jpg",
-        "rating": 4.6,
-        "reviews": 432,
-        "description": "The High-Density Cork Yoga Blocks Pair is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 638,
