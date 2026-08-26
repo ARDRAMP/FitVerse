@@ -230,6 +230,16 @@ var shopProducts = [
         "description": "Harbinger Padded Leather Weightlifting Belt features genuine split leather construction, interior foam cushioning, heavy-duty dual-prong steel buckle, and reinforced double stitching for core stability during heavy lifts."
     },
     {
+        "id": 318,
+        "name": "Jay Cutler Signature Leather Weightlifting Belt",
+        "category": "Accessories",
+        "price": 3239.0,
+        "image": "assets/images/products/318/main.jpg",
+        "rating": 4.2,
+        "reviews": 439,
+        "description": "Jay Cutler Signature Leather Weightlifting Belt features premium oil-tanned genuine leather construction, heavy-duty steel roller buckle, embroidered Jay Cutler signature logo, and lumbar support padding for maximum core stabilization."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -3758,16 +3768,6 @@ var shopProducts = [
         "rating": 4.9,
         "reviews": 47,
         "description": "The Percussive Massage Gun with Heated Massage Head is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 318,
-        "name": "Tactical Molle Gym Backpack Bag (45L)",
-        "category": "Accessories",
-        "price": 3239.0,
-        "image": "assets/images/products/318/main.jpg",
-        "rating": 4.2,
-        "reviews": 439,
-        "description": "The Tactical Molle Gym Backpack Bag (45L) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 388,

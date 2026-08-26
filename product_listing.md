@@ -361,7 +361,7 @@ Total Products: **700**
 | 315 | Stainless Steel Shaker Cup with Wire Mixer Ball |
 | 316 | Padded Gym Lifting Straps with Neoprene Support |
 | 317 | Fabric Resistance Loop Bands Pack of 4 |
-| 318 | Tactical Molle Gym Backpack Bag (45L) |
+| 318 | Jay Cutler Signature Leather Weightlifting Belt |
 | 319 | Neoprene Elbow Sleeves 5mm Pair |
 | 320 | Pure Magnesium Carbonate Chalk Bowl Bag |
 | 321 | Lever Lock Leather Powerlifting Belt (10mm) |
