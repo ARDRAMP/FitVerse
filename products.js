@@ -400,6 +400,16 @@ var shopProducts = [
         "description": "Matte Black Water-Resistant Travel Gym Duffel Bag features a smooth waterproof canvas exterior, padded top carrying handles, front zipper pocket, spacious interior compartment, and detachable shoulder strap."
     },
     {
+        "id": 631,
+        "name": "Commercial All-in-One Functional Trainer Power Rack System",
+        "category": "Home Gym",
+        "price": 89999.0,
+        "image": "assets/images/products/631/main.jpg",
+        "rating": 3.9,
+        "reviews": 496,
+        "description": "Commercial All-in-One Functional Trainer Power Rack System features dual pin-selected weight stacks, integrated Smith machine bar, multi-position cable crossover pulleys, chin-up bar station, J-hooks, and safety spotter arms."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -488,16 +498,6 @@ var shopProducts = [
         "rating": 4.3,
         "reviews": 381,
         "description": "The Organic Cotton Yoga Meditation Bolster Pillow is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 631,
-        "name": "Quick-Select Adjustable Dumbbells Pair (5-52.5 lbs)",
-        "category": "Home Gym",
-        "price": 23639.0,
-        "image": "assets/images/products/631/main.jpg",
-        "rating": 3.9,
-        "reviews": 496,
-        "description": "The Quick-Select Adjustable Dumbbells Pair (5-52.5 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 2,

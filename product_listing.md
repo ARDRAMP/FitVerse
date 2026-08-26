@@ -699,7 +699,7 @@ Total Products: **700**
 
 | Product ID | Product Name |
 | --- | --- |
-| 631 | Quick-Select Adjustable Dumbbells Pair (5-52.5 lbs) |
+| 631 | Commercial All-in-One Functional Trainer Power Rack System |
 | 632 | Space-Saving Foldable Utility Weight Bench |
 | 633 | Doorway Multi-Grip Pull-Up Bar Station |
 | 634 | Suspension Bodyweight Trainer Straps Kit |
