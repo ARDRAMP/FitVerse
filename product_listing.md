@@ -259,7 +259,7 @@ Total Products: **700**
 | 218 | Ergonomic Massage Ball for Trigger Point Release |
 | 219 | Therabody RecoveryPulse Vibration Arm Compression Sleeve |
 | 220 | Kula Recovery Portable Cold Plunge Ice Bath Tub |
-| 221 | Full Body Acupressure Mat & Pillow Set |
+| 221 | Aptonia Handheld Deep Tissue Percussion Massage Gun |
 | 222 | Infrared Thermal Heating Pad for Back & Joints |
 | 223 | Stainless Steel Scraping Muscle Gua Sha Tool Set |
 | 224 | Deep Tissue Dual Peanut Massage Ball |

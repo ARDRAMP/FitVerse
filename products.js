@@ -510,6 +510,16 @@ var shopProducts = [
         "description": "Horizon Fitness Andes Folding Elliptical Cross Trainer features smooth magnetic flywheel resistance, one-step hydraulic SixStar folding frame, ergonomic dynamic foot pedals, and smart workout display console."
     },
     {
+        "id": 221,
+        "name": "Aptonia Handheld Deep Tissue Percussion Massage Gun",
+        "category": "Recovery",
+        "price": 4999.0,
+        "image": "assets/images/products/221/main.jpg",
+        "rating": 4.3,
+        "reviews": 127,
+        "description": "Aptonia Handheld Deep Tissue Percussion Massage Gun delivers targeted high-frequency percussion therapy, ergonomic handle grip, quiet brushless motor, and multiple interchangeable massage heads to relieve muscle soreness and speed up post-workout recovery."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -1278,16 +1288,6 @@ var shopProducts = [
         "rating": 4.2,
         "reviews": 209,
         "description": "The Tear-Resistant Canvas Heavy Bag (80 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 221,
-        "name": "Full Body Acupressure Mat & Pillow Set",
-        "category": "Recovery",
-        "price": 2669.0,
-        "image": "assets/images/products/221/main.jpg",
-        "rating": 4.3,
-        "reviews": 127,
-        "description": "The Full Body Acupressure Mat & Pillow Set is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 361,
