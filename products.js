@@ -130,6 +130,16 @@ var shopProducts = [
         "description": "The Kula Recovery Portable Cold Plunge Ice Bath Tub is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
+        "id": 360,
+        "name": "Pro Weightlifting Shoes with Raised Heel & Midfoot Strap",
+        "category": "Apparel",
+        "price": 8999.0,
+        "image": "assets/images/products/360/main.jpg",
+        "rating": 4.5,
+        "reviews": 334,
+        "description": "The Pro Weightlifting Shoes with Raised Heel & Midfoot Strap is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -948,16 +958,6 @@ var shopProducts = [
         "rating": 4.1,
         "reviews": 113,
         "description": "The Tactical Gym Duffel & Yoga Mat Carrier Tote Bag is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 360,
-        "name": "Lightweight Zip-Up Gym Track Jacket",
-        "category": "Apparel",
-        "price": 2419.0,
-        "image": "assets/images/products/360/main.jpg",
-        "rating": 4.5,
-        "reviews": 334,
-        "description": "The Lightweight Zip-Up Gym Track Jacket is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 430,

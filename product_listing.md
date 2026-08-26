@@ -408,7 +408,7 @@ Total Products: **700**
 | 357 | Seamless High-Support Gym Sports Bra |
 | 358 | Dry-Fit Compression Short Sleeve Shirt |
 | 359 | Technical Training Shorts with Liner (7-Inch) |
-| 360 | Lightweight Zip-Up Gym Track Jacket |
+| 360 | Pro Weightlifting Shoes with Raised Heel & Midfoot Strap |
 | 361 | Ribbed Crop Top Workout Tank |
 | 362 | Thermal Compression Tights Pants |
 | 363 | Minimalist Cross-Training Athletic Shoes |
