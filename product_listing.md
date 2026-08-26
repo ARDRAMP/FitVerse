@@ -355,7 +355,7 @@ Total Products: **700**
 | 309 | Neoprene Knee Sleeves 7mm Pair for Squats |
 | 310 | Genuine Leather Contour Weightlifting Belt |
 | 311 | Elastic Ankle Straps for Cable Machine Attachment |
-| 312 | Heavy Duty Chalk Block 4-Pack Box |
+| 312 | Harbinger Padded Leather Weightlifting Belt |
 | 313 | Adjustable Leather Lifting Belt with Quick Release Lever |
 | 314 | Pro Speed Jump Rope with Anti-Slip Handles |
 | 315 | Stainless Steel Shaker Cup with Wire Mixer Ball |

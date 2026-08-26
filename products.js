@@ -220,6 +220,16 @@ var shopProducts = [
         "description": "Gym Leader Nutrition Cylinder Duffel Bag features a water-resistant canvas exterior, spacious main compartment, heavy-duty zippers, side accessory pocket, and detachable shoulder strap."
     },
     {
+        "id": 312,
+        "name": "Harbinger Padded Leather Weightlifting Belt",
+        "category": "Accessories",
+        "price": 3499.0,
+        "image": "assets/images/products/312/main.jpg",
+        "rating": 4.0,
+        "reviews": 64,
+        "description": "Harbinger Padded Leather Weightlifting Belt features genuine split leather construction, interior foam cushioning, heavy-duty dual-prong steel buckle, and reinforced double stitching for core stability during heavy lifts."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -3158,16 +3168,6 @@ var shopProducts = [
         "rating": 4.0,
         "reviews": 486,
         "description": "The Pure Magnesium Chloride Muscle Recovery Spray is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 312,
-        "name": "Heavy Duty Chalk Block 4-Pack Box",
-        "category": "Accessories",
-        "price": 719.0,
-        "image": "assets/images/products/312/main.jpg",
-        "rating": 4.0,
-        "reviews": 64,
-        "description": "The Heavy Duty Chalk Block 4-Pack Box is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 382,
