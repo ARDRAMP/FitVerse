@@ -520,6 +520,16 @@ var shopProducts = [
         "description": "Aptonia Handheld Deep Tissue Percussion Massage Gun delivers targeted high-frequency percussion therapy, ergonomic handle grip, quiet brushless motor, and multiple interchangeable massage heads to relieve muscle soreness and speed up post-workout recovery."
     },
     {
+        "id": 153,
+        "name": "Rival Boxing Pro Leather Speed Bag (Black/Lime)",
+        "category": "Combat",
+        "price": 3039.0,
+        "image": "assets/images/products/153/main.jpg",
+        "rating": 4.6,
+        "reviews": 89,
+        "description": "Rival Boxing Pro Leather Speed Bag is handcrafted from premium genuine leather with reinforced welded seams, balanced pear-shape design, and durable hanging loop for rapid hand-eye coordination and speed striking workouts."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -1448,16 +1458,6 @@ var shopProducts = [
         "rating": 4.9,
         "reviews": 204,
         "description": "The High-Intensity Interval Training Rower is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 153,
-        "name": "Leather Thai Shin Guards with Hook & Loop Strap",
-        "category": "Combat",
-        "price": 3039.0,
-        "image": "assets/images/products/153/main.jpg",
-        "rating": 4.6,
-        "reviews": 89,
-        "description": "The Leather Thai Shin Guards with Hook & Loop Strap is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 223,

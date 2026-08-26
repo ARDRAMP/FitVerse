@@ -186,7 +186,7 @@ Total Products: **700**
 | 150 | Professional Leather Sparring Gloves (16 oz) |
 | 151 | Tear-Resistant Canvas Heavy Bag (80 lbs) |
 | 152 | Gel-Enforced Inner Glove Hand Wraps |
-| 153 | Leather Thai Shin Guards with Hook & Loop Strap |
+| 153 | Rival Boxing Pro Leather Speed Bag (Black/Lime) |
 | 154 | Target Kick Shield for Martial Arts Training |
 | 155 | Leather Speed Bag (Medium 9x6 Inch) |
 | 156 | Freestanding Reflex Boxing Bag with Spring Neck |
