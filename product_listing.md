@@ -32,7 +32,7 @@ Total Products: **700**
 | 6 | Multi-Angle Adjustable Weight Bench |
 | 7 | Commercial Olympic Half Rack System with Plate Storage |
 | 8 | Urethane Pro Dumbbell Set (5-50 lbs) |
-| 9 | Steel Loadable Macebell (15 lbs) |
+| 9 | Heavy-Duty Olympic Hex Trap Deadlift Bar |
 | 10 | Horizon Fitness Precision Adjustable Dumbbells Pair |
 | 11 | Cast Iron Competition Kettlebell (16kg) |
 | 12 | Machined Steel Weight Plate (25 lbs) |
@@ -107,7 +107,7 @@ Total Products: **700**
 | 76 | Commercial Indoor Cycling Spin Bike with Magnetic Flywheel |
 | 77 | Stair Climber Stepper Machine with Ergonomic Handrails |
 | 78 | Self-Powered Curved Manual Treadmill |
-| 79 | Water Resistance Wood Rower with LCD Display |
+| 79 | Commercial Air Fan Exercise Bike with LCD Monitor |
 | 80 | Compact Under-Desk Walking Pad Treadmill |
 | 81 | Recumbent Exercise Bike with Padded Lumbar Support |
 | 82 | Commercial Grade Air Bike with Dual-Action Arms |
@@ -706,7 +706,7 @@ Total Products: **700**
 | 635 | Multi-Station Heavy Duty Power Tower |
 | 636 | Quick-Select Adjustable Dumbbells Pair with Heavy-Duty Stand |
 | 637 | Adjustable Dumbbells Set with Stand (5-70 lbs) |
-| 638 | Heavy Duty Wall-Mounted Pull-Up Bar |
+| 638 | Commercial Multi-Station Home Gym Machine |
 | 639 | Suspension Trainer Pro Kit with Door Anchor |
 | 640 | Power Tower Dip Station with Captains Chair |
 | 641 | Heavy Duty Interlocking Rubber Gym Matting (1/2 Inch) |

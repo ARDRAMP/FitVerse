@@ -440,6 +440,36 @@ var shopProducts = [
         "description": "Hanging Commercial Fitness & Yoga Mat features high-density cushioned non-slip foam, reinforced metal eyelet holes for wall rack storage, and a sweat-resistant textured surface for yoga, pilates, and stretching."
     },
     {
+        "id": 638,
+        "name": "Commercial Multi-Station Home Gym Machine",
+        "category": "Home Gym",
+        "price": 74999.0,
+        "image": "assets/images/products/638/main.jpg",
+        "rating": 4.7,
+        "reviews": 472,
+        "description": "Commercial Multi-Station Home Gym Machine features heavy-duty steel framing, dual integrated weight stacks, pec deck fly arms, lat pulldown station, seated chest press, and leg curl/extension attachment for full-body workouts."
+    },
+    {
+        "id": 9,
+        "name": "Heavy-Duty Olympic Hex Trap Deadlift Bar",
+        "category": "Strength",
+        "price": 8499.0,
+        "image": "assets/images/products/9/main.jpg",
+        "rating": 4.4,
+        "reviews": 88,
+        "description": "Heavy-Duty Olympic Hex Trap Deadlift Bar is forged from solid steel with dual raised knurled grip handles and 2-inch Olympic plate sleeves to reduce lower back strain during heavy deadlifts and shrugs."
+    },
+    {
+        "id": 79,
+        "name": "Commercial Air Fan Exercise Bike with LCD Monitor",
+        "category": "Cardio",
+        "price": 38999.0,
+        "image": "assets/images/products/79/main.jpg",
+        "rating": 5.0,
+        "reviews": 440,
+        "description": "Commercial Air Fan Exercise Bike features unlimited wind air resistance fan wheel, heavy-duty steel frame, dual-action moving handlebars, adjustable saddle, and digital interval LCD monitor for high-intensity cardio HIIT workouts."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -1078,36 +1108,6 @@ var shopProducts = [
         "rating": 4.2,
         "reviews": 96,
         "description": "The Electrolyte Hydration Powder Sticks (Lemon Lime 30 Packs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 638,
-        "name": "Heavy Duty Wall-Mounted Pull-Up Bar",
-        "category": "Home Gym",
-        "price": 1599.0,
-        "image": "assets/images/products/638/main.jpg",
-        "rating": 4.7,
-        "reviews": 472,
-        "description": "The Heavy Duty Wall-Mounted Pull-Up Bar is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 9,
-        "name": "Black Powder-Coated Open Olympic Hex Trap Bar",
-        "category": "Strength",
-        "price": 1239.0,
-        "image": "assets/images/products/9/main.jpg",
-        "rating": 4.4,
-        "reviews": 88,
-        "description": "The Black Powder-Coated Open Olympic Hex Trap Bar is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 79,
-        "name": "Water Resistance Wood Rower with LCD Display",
-        "category": "Cardio",
-        "price": 38999.0,
-        "image": "assets/images/products/79/main.jpg",
-        "rating": 5.0,
-        "reviews": 440,
-        "description": "The Water Resistance Wood Rower with LCD Display is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 149,
