@@ -471,13 +471,13 @@ var shopProducts = [
     },
     {
         "id": 495,
-        "name": "Essential Athlete Daily Multivitamin Pack (60 Capsules)",
+        "name": "Optimum Nutrition Gold Standard 100% Whey Protein (5 lbs / 74 Servings)",
         "category": "Supplements",
-        "price": 959.0,
+        "price": 6999.0,
         "image": "assets/images/products/495/main.jpg",
         "rating": 4.2,
         "reviews": 219,
-        "description": "The Essential Athlete Daily Multivitamin Pack (60 Capsules) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "The Optimum Nutrition Gold Standard 100% Whey Protein (5 lbs / 74 Servings) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 565,

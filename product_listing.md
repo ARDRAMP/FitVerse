@@ -553,7 +553,7 @@ Total Products: **700**
 | 492 | Body Builder Super Multivitamin Once Daily (60 Tablets) |
 | 493 | Micronized Creatine Monohydrate Powder (500g Unflavored) |
 | 494 | Instantized BCAA 2:1:1 Energy Powder (Blue Raspberry 300g) |
-| 495 | Essential Athlete Daily Multivitamin Pack (60 Capsules) |
+| 495 | Optimum Nutrition Gold Standard 100% Whey Protein (5 lbs / 74 Servings) |
 | 496 | Advanced Clean Mass Gainer Powder (Chocolate 6 lbs) |
 | 497 | Pure Hydrolyzed Collagen Peptides Powder (450g) |
 | 498 | Electrolyte Hydration Powder Sticks (Lemon Lime 30 Packs) |
