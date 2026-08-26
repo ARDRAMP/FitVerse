@@ -334,7 +334,7 @@ Total Products: **700**
 | 288 | Fabric Resistance Hip Circle Booty Bands (Set of 3) |
 | 289 | Heavy-Duty Lifting Hooks Grip Straps Pair |
 | 290 | Stainless Steel Vacuum Insulated Gym Shaker Bottle (24oz) |
-| 291 | Thick Bar Grips for Dumbbells & Barbells (Pair) |
+| 291 | Liftdex Pure Gym Chalk Powder & Refillable Chalk Ball Set |
 | 292 | Neoprene Dip Belt with Heavy Duty Steel Chain |
 | 293 | Weighted Jump Rope with Removable Handle Weights |
 | 294 | Gym Chalk Powder Ball in Reusable Mesh Bag |

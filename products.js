@@ -170,6 +170,16 @@ var shopProducts = [
         "description": "Aluminum Hard-Shell Gym Travel Backpack features a rugged crush-proof metallic exterior, padded shoulder straps, weather-resistant seals, and dedicated compartments for workout gear and laptop."
     },
     {
+        "id": 291,
+        "name": "Liftdex Pure Gym Chalk Powder & Refillable Chalk Ball Set",
+        "category": "Accessories",
+        "price": 999.0,
+        "image": "assets/images/products/291/main.jpg",
+        "rating": 4.9,
+        "reviews": 346,
+        "description": "Liftdex Pure Gym Chalk Powder & Refillable Chalk Ball Set provides maximum grip performance, absorbs moisture instantly, and prevents slipping during heavy deadlifts, gymnastics, and rock climbing."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -1058,16 +1068,6 @@ var shopProducts = [
         "rating": 4.3,
         "reviews": 127,
         "description": "The Full Body Acupressure Mat & Pillow Set is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 291,
-        "name": "Thick Bar Grips for Dumbbells & Barbells (Pair)",
-        "category": "Accessories",
-        "price": 16159.0,
-        "image": "assets/images/products/291/main.jpg",
-        "rating": 4.9,
-        "reviews": 346,
-        "description": "The Thick Bar Grips for Dumbbells & Barbells (Pair) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 361,
