@@ -365,7 +365,7 @@ Total Products: **700**
 | 319 | Domyos Ergonomic Foam Handle Speed Jump Rope |
 | 320 | Pure Magnesium Carbonate Chalk Bowl Bag |
 | 321 | Rugged Strength & Fitness 2 oz Gym Chalk Block |
-| 322 | Heavy Duty Cable Attachment Tricep Rope |
+| 322 | Mueller Sports Medicine Wrist & Thumb Stabilizer Brace |
 | 323 | Speed Cable Jump Rope with Ergonomic Grips |
 | 324 | Insulated Stainless Steel Water Bottle (32oz) |
 | 325 | Weightlifting Wrist Wraps Pair (18-Inch Heavy Flex) |

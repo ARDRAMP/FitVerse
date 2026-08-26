@@ -260,6 +260,16 @@ var shopProducts = [
         "description": "Rugged Strength & Fitness 2 oz Gym Chalk Block is made from 100% pure magnesium carbonate to absorb hand moisture, prevent slipping, and maximize grip traction for heavy deadlifts, gymnastics, and rock climbing."
     },
     {
+        "id": 322,
+        "name": "Mueller Sports Medicine Wrist & Thumb Stabilizer Brace",
+        "category": "Accessories",
+        "price": 1149.0,
+        "image": "assets/images/products/322/main.jpg",
+        "rating": 4.2,
+        "reviews": 77,
+        "description": "Mueller Sports Medicine Wrist & Thumb Stabilizer Brace features rigid metal stays for thumb support, breathable padded mesh fabric, and adjustable hook-and-loop straps for wrist stabilization during joint recovery and training."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -4158,16 +4168,6 @@ var shopProducts = [
         "rating": 4.6,
         "reviews": 305,
         "description": "The Pure Epsom Salt Muscle Recovery Soak (10 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 322,
-        "name": "Heavy Duty Cable Attachment Tricep Rope",
-        "category": "Accessories",
-        "price": 1149.0,
-        "image": "assets/images/products/322/main.jpg",
-        "rating": 4.2,
-        "reviews": 77,
-        "description": "The Heavy Duty Cable Attachment Tricep Rope is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 392,
