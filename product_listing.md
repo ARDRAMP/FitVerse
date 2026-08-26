@@ -392,8 +392,8 @@ Total Products: **700**
 | 346 | Liquid Gym Chalk Tube (100ml) |
 | 347 | Prong Buckle Leather Powerlifting Belt (10mm) |
 | 348 | Elasticated Heavy Wrist Wraps Pair (20-Inch) |
-| 349 | Compact Workout Gym Duffel Bag |
-| 350 | Heavy Duty Cable Attachment Handles Pair |
+| 349 | Speed Cable Jump Rope with Aluminum Handles |
+| 350 | Aluminum Hard-Shell Gym Travel Backpack |
 
 ## Category: Apparel (70 products)
 

@@ -150,6 +150,26 @@ var shopProducts = [
         "description": "Nutricost Performance BCAA delivers 6g of premium 2:1:1 Branched Chain Amino Acids per serving in a refreshing Orange Mango flavor. Formulated as a dietary supplement to support muscle recovery, reduce soreness, and enhance intra-workout hydration across 60 full servings (510g)."
     },
     {
+        "id": 349,
+        "name": "Speed Cable Jump Rope with Aluminum Handles",
+        "category": "Accessories",
+        "price": 2179.0,
+        "image": "assets/images/products/349/main.jpg",
+        "rating": 4.7,
+        "reviews": 483,
+        "description": "Speed Cable Jump Rope with Aluminum Handles features high-speed ball bearings, adjustable coated steel wire, and lightweight ergonomic aluminum handles for double-unders and fitness cardio."
+    },
+    {
+        "id": 350,
+        "name": "Aluminum Hard-Shell Gym Travel Backpack",
+        "category": "Accessories",
+        "price": 7999.0,
+        "image": "assets/images/products/350/main.jpg",
+        "rating": 4.4,
+        "reviews": 279,
+        "description": "Aluminum Hard-Shell Gym Travel Backpack features a rugged crush-proof metallic exterior, padded shoulder straps, weather-resistant seals, and dedicated compartments for workout gear and laptop."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -6840,16 +6860,6 @@ var shopProducts = [
         "description": "The Epsom Salt Recovery Bath Soak with Eucalyptus is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
-        "id": 349,
-        "name": "Compact Workout Gym Duffel Bag",
-        "category": "Accessories",
-        "price": 2179.0,
-        "image": "assets/images/products/349/main.jpg",
-        "rating": 4.7,
-        "reviews": 483,
-        "description": "The Compact Workout Gym Duffel Bag is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
         "id": 419,
         "name": "Dry-Fit Sleeveless Training Hoodie",
         "category": "Apparel",
@@ -6938,16 +6948,6 @@ var shopProducts = [
         "rating": 4.4,
         "reviews": 142,
         "description": "The Pro Air Compression Leg & Thigh Recovery Boots is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 350,
-        "name": "Heavy Duty Cable Attachment Handles Pair",
-        "category": "Accessories",
-        "price": 1509.0,
-        "image": "assets/images/products/350/main.jpg",
-        "rating": 4.4,
-        "reviews": 279,
-        "description": "The Heavy Duty Cable Attachment Handles Pair is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 420,
