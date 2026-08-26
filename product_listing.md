@@ -329,7 +329,7 @@ Total Products: **700**
 | 283 | Adjustable Speed Jump Rope with Foam Handles |
 | 284 | Heavy-Duty Athletic Gym Duffel Bag |
 | 285 | Speed Cable Jump Rope with Ball Bearings & Spare Cable |
-| 286 | Tactical Gym Duffel Bag with Shoe & Wet Compartment |
+| 286 | Neoprene Wrist Support Guard Brace with Thumb Loop |
 | 287 | Padded Weightlifting Straps Pair (Heavy Cotton) |
 | 288 | Fabric Resistance Hip Circle Booty Bands (Set of 3) |
 | 289 | Heavy-Duty Lifting Hooks Grip Straps Pair |

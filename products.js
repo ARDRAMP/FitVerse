@@ -541,13 +541,13 @@ var shopProducts = [
     },
     {
         "id": 286,
-        "name": "Tactical Gym Duffel Bag with Shoe & Wet Compartment",
+        "name": "Neoprene Wrist Support Guard Brace with Thumb Loop",
         "category": "Accessories",
         "price": 3559.0,
         "image": "assets/images/products/286/main.jpg",
         "rating": 4.3,
         "reviews": 65,
-        "description": "The Tactical Gym Duffel Bag with Shoe & Wet Compartment is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "The Neoprene Wrist Support Guard Brace with Thumb Loop is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 356,
