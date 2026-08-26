@@ -371,9 +371,9 @@ Total Products: **700**
 | 325 | Digital Jump Rope with Calorie Counter & LCD Screen |
 | 326 | Water-Resistant Athletic Gym Duffel Bag (Black) |
 | 327 | Gym Chalk Block Single Pack |
-| 328 | Quick Release Lever Buckle Lifting Belt (13mm) |
-| 329 | Heavy Cotton Figure 8 Lifting Straps Pair |
-| 330 | Compact Gym Sports Duffle Bag |
+| 328 | Breathable Mesh Compression Wrist Wrap Guard |
+| 329 | Flat Latex Resistance Loop Bands Set with Pouch |
+| 330 | Sporter Padded Nylon Weightlifting Belt (Yellow/Black) |
 | 331 | Neoprene Padded Ankle Straps Pair for Cable Kickbacks |
 | 332 | High Speed Bearing Jump Rope with Steel Wire |
 | 333 | BPA-Free Shaker Bottle with Storage Compartments |

@@ -310,6 +310,36 @@ var shopProducts = [
         "description": "Water-Resistant Athletic Gym Duffel Bag features a durable matte black water-repellent shell, roomy main compartment, side shoe/wet pocket, heavy-duty zippers, and padded adjustable shoulder strap."
     },
     {
+        "id": 328,
+        "name": "Breathable Mesh Compression Wrist Wrap Guard",
+        "category": "Accessories",
+        "price": 699.0,
+        "image": "assets/images/products/328/main.jpg",
+        "rating": 4.1,
+        "reviews": 449,
+        "description": "Breathable Mesh Compression Wrist Wrap Guard features ventilated moisture-wicking mesh fabric, adjustable velcro strap enclosure, and ergonomic thumb loop for wrist support during high-intensity training."
+    },
+    {
+        "id": 329,
+        "name": "Flat Latex Resistance Loop Bands Set with Pouch",
+        "category": "Accessories",
+        "price": 1289.0,
+        "image": "assets/images/products/329/main.jpg",
+        "rating": 4.7,
+        "reviews": 265,
+        "description": "Flat Latex Resistance Loop Bands Set includes 3 color-coded tension levels (light, medium, heavy) with a compact black drawstring pouch for warmup, stretching, and physical therapy exercises."
+    },
+    {
+        "id": 330,
+        "name": "Sporter Padded Nylon Weightlifting Belt (Yellow/Black)",
+        "category": "Accessories",
+        "price": 1899.0,
+        "image": "assets/images/products/330/main.jpg",
+        "rating": 3.9,
+        "reviews": 156,
+        "description": "Sporter Padded Nylon Weightlifting Belt features durable heavy-duty nylon webbed construction, 5-inch wide back support padding, steel tension roller buckle, and hook-and-loop closure for secure lumbar protection."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -4760,16 +4790,6 @@ var shopProducts = [
         "description": "The Graduated Knee-High Compression Socks Pair is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
-        "id": 328,
-        "name": "Quick Release Lever Buckle Lifting Belt (13mm)",
-        "category": "Accessories",
-        "price": 3419.0,
-        "image": "assets/images/products/328/main.jpg",
-        "rating": 4.1,
-        "reviews": 449,
-        "description": "The Quick Release Lever Buckle Lifting Belt (13mm) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
         "id": 398,
         "name": "Heavy Duty Barefoot Lifting Shoes",
         "category": "Apparel",
@@ -4860,16 +4880,6 @@ var shopProducts = [
         "description": "The Vibrating Deep Tissue Massage Peanut Ball is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
-        "id": 329,
-        "name": "Heavy Cotton Figure 8 Lifting Straps Pair",
-        "category": "Accessories",
-        "price": 1289.0,
-        "image": "assets/images/products/329/main.jpg",
-        "rating": 4.7,
-        "reviews": 265,
-        "description": "The Heavy Cotton Figure 8 Lifting Straps Pair is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
         "id": 399,
         "name": "Oversized Drop-Shoulder Heavy Cotton Tee",
         "category": "Apparel",
@@ -4958,16 +4968,6 @@ var shopProducts = [
         "rating": 4.5,
         "reviews": 368,
         "description": "The Infrared Heating Pad with Jade & Tourmaline Stones is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 330,
-        "name": "Compact Gym Sports Duffle Bag",
-        "category": "Accessories",
-        "price": 1109.0,
-        "image": "assets/images/products/330/main.jpg",
-        "rating": 3.9,
-        "reviews": 156,
-        "description": "The Compact Gym Sports Duffle Bag is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 400,
