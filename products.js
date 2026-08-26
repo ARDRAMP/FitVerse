@@ -341,13 +341,13 @@ var shopProducts = [
     },
     {
         "id": 284,
-        "name": "Speed Cable Jump Rope with Ball Bearings & Spare Cable",
+        "name": "Heavy-Duty Athletic Gym Duffel Bag",
         "category": "Accessories",
         "price": 539.0,
         "image": "assets/images/products/284/main.jpg",
         "rating": 4.2,
         "reviews": 435,
-        "description": "The Speed Cable Jump Rope with Ball Bearings & Spare Cable is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "The Heavy-Duty Athletic Gym Duffel Bag is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 354,

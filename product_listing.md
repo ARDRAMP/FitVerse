@@ -327,7 +327,7 @@ Total Products: **700**
 | 281 | Heavy-Duty Resistance Loop Bands Set (5 Resistance Levels) |
 | 282 | Genuine Grain Leather Powerlifting Belt (10mm Thickness) |
 | 283 | Adjustable Speed Jump Rope with Foam Handles |
-| 284 | Magnesium Carbonate Pure Gym Chalk Block (8-Pack) |
+| 284 | Heavy-Duty Athletic Gym Duffel Bag |
 | 285 | Speed Cable Jump Rope with Ball Bearings & Spare Cable |
 | 286 | Tactical Gym Duffel Bag with Shoe & Wet Compartment |
 | 287 | Padded Weightlifting Straps Pair (Heavy Cotton) |
