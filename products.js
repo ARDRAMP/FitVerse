@@ -250,6 +250,16 @@ var shopProducts = [
         "description": "Domyos Ergonomic Speed Jump Rope features comfortable non-slip foam handles, smooth ball-bearing rotation mechanism, and flexible kink-resistant PVC cord for endurance cardio and fitness workouts."
     },
     {
+        "id": 321,
+        "name": "Rugged Strength & Fitness 2 oz Gym Chalk Block",
+        "category": "Accessories",
+        "price": 499.0,
+        "image": "assets/images/products/321/main.jpg",
+        "rating": 4.0,
+        "reviews": 153,
+        "description": "Rugged Strength & Fitness 2 oz Gym Chalk Block is made from 100% pure magnesium carbonate to absorb hand moisture, prevent slipping, and maximize grip traction for heavy deadlifts, gymnastics, and rock climbing."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -4058,16 +4068,6 @@ var shopProducts = [
         "rating": 4.2,
         "reviews": 100,
         "description": "The Air Compression Calf & Foot Massager is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 321,
-        "name": "Lever Lock Leather Powerlifting Belt (10mm)",
-        "category": "Accessories",
-        "price": 4449.0,
-        "image": "assets/images/products/321/main.jpg",
-        "rating": 4.0,
-        "reviews": 153,
-        "description": "The Lever Lock Leather Powerlifting Belt (10mm) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 391,
