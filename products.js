@@ -240,6 +240,16 @@ var shopProducts = [
         "description": "Jay Cutler Signature Leather Weightlifting Belt features premium oil-tanned genuine leather construction, heavy-duty steel roller buckle, embroidered Jay Cutler signature logo, and lumbar support padding for maximum core stabilization."
     },
     {
+        "id": 319,
+        "name": "Domyos Ergonomic Foam Handle Speed Jump Rope",
+        "category": "Accessories",
+        "price": 1249.0,
+        "image": "assets/images/products/319/main.jpg",
+        "rating": 4.9,
+        "reviews": 250,
+        "description": "Domyos Ergonomic Speed Jump Rope features comfortable non-slip foam handles, smooth ball-bearing rotation mechanism, and flexible kink-resistant PVC cord for endurance cardio and fitness workouts."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -3858,16 +3868,6 @@ var shopProducts = [
         "rating": 3.8,
         "reviews": 270,
         "description": "The Cold Therapy Ice Recovery Wrap for Knees & Ankles is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 319,
-        "name": "Neoprene Elbow Sleeves 5mm Pair",
-        "category": "Accessories",
-        "price": 1249.0,
-        "image": "assets/images/products/319/main.jpg",
-        "rating": 4.9,
-        "reviews": 250,
-        "description": "The Neoprene Elbow Sleeves 5mm Pair is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 389,
