@@ -560,6 +560,16 @@ var shopProducts = [
         "description": "High-Waisted Seamless Compression Workout Biker Shorts feature a ribbed tummy-control waistband, four-way stretch squat-proof fabric, and moisture-wicking material for yoga, gym, and cycling."
     },
     {
+        "id": 152,
+        "name": "Nike Guard Stay Shin Guard Compression Sleeves (White/Red)",
+        "category": "Combat",
+        "price": 1669.0,
+        "image": "assets/images/products/152/main.jpg",
+        "rating": 4.4,
+        "reviews": 165,
+        "description": "Nike Guard Stay Shin Guard Compression Sleeves feature ventilated Dri-FIT stretch fabric, secure slip-in shin guard pocket, and signature red Nike swoosh branding to hold protective guards firmly in place during football/soccer matches."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -1398,16 +1408,6 @@ var shopProducts = [
         "rating": 4.8,
         "reviews": 464,
         "description": "The Commercial Grade Air Bike with Dual-Action Arms is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 152,
-        "name": "Gel-Enforced Inner Glove Hand Wraps",
-        "category": "Combat",
-        "price": 1669.0,
-        "image": "assets/images/products/152/main.jpg",
-        "rating": 4.4,
-        "reviews": 165,
-        "description": "The Gel-Enforced Inner Glove Hand Wraps is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 222,
