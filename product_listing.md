@@ -57,7 +57,7 @@ Total Products: **700**
 | 31 | Rubber Hex Dumbbell Pair (15 lbs) |
 | 32 | Commercial Heavy-Duty Rubber Hex Dumbbells Pair (Strength Training) |
 | 33 | Black Oxide Olympic Barbell (7 Foot) |
-| 34 | Steel Plate Loaded Lat Pulldown Machine |
+| 34 | Rapid-Select Adjustable Dumbbells Pair with Storage Tray (Red & Black) |
 | 35 | Heavy Duty Ab Slab Incline Bench |
 | 36 | Calibrated Powerlifting Steel Plate (25kg) |
 | 37 | Steel Parallel Bars Dip Station |
@@ -205,7 +205,7 @@ Total Products: **700**
 | 169 | RDX Padded Curved Boxing Focus Punch Mitts (Pair) |
 | 170 | Martial Arts Padded Leather Shin & Instep Guards for Kickboxing & MMA (Black Pair) |
 | 171 | Freestanding Inflatable Boxing & Kickboxing Punching Bag with Water Base |
-| 172 | MMA Hybrid Training Gloves (7 oz) |
+| 172 | Pro Padded Leather Boxing Sparring Headgear with Cheek Guards (Red) |
 | 173 | Mexican Style Cotton Hand Wraps (180-Inch) |
 | 174 | Heavy Duty Wall Mount Heavy Bag Hanger Bracket |
 | 175 | Pro Leather Focus Pads Pair |
@@ -280,9 +280,9 @@ Total Products: **700**
 | 239 | Professional Percussive Massage Gun (8 Speeds) |
 | 240 | Textured Hollow Grid Foam Roller (13-Inch) |
 | 241 | Professional Percussion Deep Tissue Muscle Massage Gun (Black) |
-| 242 | Pure Magnesium Chloride Muscle Recovery Spray |
+| 242 | Pure Relaxing Epsom Bath Salt Crystals Pouch (Muscle Recovery Soak) |
 | 243 | Electric Heating Pad for Lower Back Pain Relief |
-| 244 | Acupressure Foot Massager Roller & Mat Set |
+| 244 | Portable Insulated Folding Cold Plunge Ice Bath Tub with Thermal Lid |
 | 245 | Air Compression Arm & Shoulder Recovery Sleeve |
 | 246 | Deep Tissue Trigger Point Massage Stick Roller |
 | 247 | High-Density Smooth EVA Foam Roller (18-Inch) |
@@ -431,7 +431,7 @@ Total Products: **700**
 | 380 | Stretch Athletic Training Shorts (5-Inch) |
 | 381 | On Running Women's Lightweight Performance Short-Sleeve Workout Tee (Lilac) |
 | 382 | Technical Windbreaker Running Jacket |
-| 383 | Ribbed Seamless Crop Workout Top |
+| 383 | Women's High-Waisted Seamless Athletic Gym Biker Shorts (Grey) |
 | 384 | Tapered Fit Fleece Gym Joggers |
 | 385 | Breathable Mesh Back Performance Tee |
 | 386 | High-Support Cross-Back Sports Bra |
@@ -505,8 +505,8 @@ Total Products: **700**
 | 449 | Smart Touchscreen Fitness & Sport Tracker Smartwatch (Black/Red Strap) |
 | 450 | Stainless Steel Milanese Mesh Strap Smart Fitness Band (Silver) |
 | 451 | Rechargeable Optical Heart Rate Monitor Armband with Breathable Silicone Strap |
-| 452 | Smart Wi-Fi Body Composition Glass Scale |
-| 453 | Air Compression Recovery Boots with Control Unit |
+| 452 | Normatec Pneumatic Dynamic Air Compression Leg Recovery Boots System |
+| 453 | Professional Segmental Multi-Frequency Body Composition Analyzer Scale with Hand Grips |
 | 454 | Smart Fitness Tracker Ring (Titanium Edition) |
 | 455 | Bluetooth Heart Rate Armband Monitor Sensor |
 | 456 | Wearable Electrostimulation EMS Abdominal Belt |
@@ -581,7 +581,7 @@ Total Products: **700**
 | 520 | Micronized Creatine Monohydrate Powder (300g) |
 | 521 | BCAA Energy Powder Drink Mix (Grape 30 Servings) |
 | 522 | ZMA Nighttime Recovery Capsules (90 Capsules) |
-| 523 | Plant Protein Isolate Powder (Unflavored 2 lbs) |
+| 523 | Creapure 100% Pure Micronized Creatine Monohydrate Powder (400g Tub) |
 | 524 | Micellar Casein Protein Powder (Salted Caramel 2 lbs) |
 | 525 | Advanced Pre-Workout Powder Formula (Blue Raspberry) |
 | 526 | Micronized Creatine Monohydrate Capsules (120 Capsules) |
@@ -656,7 +656,7 @@ Total Products: **700**
 | 590 | Cylindrical Microfiber Meditation & Yoga Bolster Pillow (Slate Blue) |
 | 591 | Organic Cotton Yoga & Meditation Bolster Pillow (Light Grey) |
 | 592 | Lightweight Travel EVA Foam Yoga Block |
-| 593 | Cotton Yoga Strap with Metal D-Ring (8ft) |
+| 593 | Dual-Layer Non-Slip Eco-Friendly TPE Yoga & Exercise Mat (Sky Blue / Beige) |
 | 594 | Rectangular Meditation Pillow Cushion |
 | 595 | Back Release Roller Yoga Wheel (13-Inch) |
 | 596 | Sweat Absorbent Yoga Mat Towel Full Size |

@@ -1680,6 +1680,96 @@ var shopProducts = [
         "description": "Commercial Motorized Touchscreen Running Treadmill offers high-horsepower quiet motor, power incline, spacious shock-absorbing running deck, and integrated high-definition interactive display."
     },
     {
+        "id": 172,
+        "name": "Pro Padded Leather Boxing Sparring Headgear with Cheek Guards (Red)",
+        "category": "Combat",
+        "price": 3499.0,
+        "image": "assets/images/products/172/main.jpg",
+        "rating": 4.5,
+        "reviews": 415,
+        "description": "Pro Padded Leather Boxing Sparring Headgear features high-density shock-absorbing padding, ergonomic cheek and ear protection, and secure chin strap for full-contact combat training."
+    },
+    {
+        "id": 242,
+        "name": "Pure Relaxing Epsom Bath Salt Crystals Pouch (Muscle Recovery Soak)",
+        "category": "Recovery",
+        "price": 899.0,
+        "image": "assets/images/products/242/main.jpg",
+        "rating": 4.0,
+        "reviews": 486,
+        "description": "Pure Relaxing Epsom Bath Salt Crystals are formulated with 100% natural magnesium sulfate to relax tight muscles, soothe post-workout stiffness, and rejuvenate tired joints in warm restorative baths."
+    },
+    {
+        "id": 452,
+        "name": "Normatec Pneumatic Dynamic Air Compression Leg Recovery Boots System",
+        "category": "Fit Tech",
+        "price": 49999.0,
+        "image": "assets/images/products/452/main.jpg",
+        "rating": 4.9,
+        "reviews": 412,
+        "description": "Normatec Pneumatic Dynamic Air Compression Leg Recovery Boots utilize patented sequential pulse technology, multi-zone compression chambers, and customizable pressure levels for accelerated athletic recovery."
+    },
+    {
+        "id": 383,
+        "name": "Women's High-Waisted Seamless Athletic Gym Biker Shorts (Grey)",
+        "category": "Apparel",
+        "price": 1619.0,
+        "image": "assets/images/products/383/main.jpg",
+        "rating": 4.8,
+        "reviews": 66,
+        "description": "Women's High-Waisted Seamless Athletic Gym Biker Shorts feature 4-way stretch compression knit, contouring ribbed waistband, and non-sheer squat-proof fabric for workouts and yoga."
+    },
+    {
+        "id": 453,
+        "name": "Professional Segmental Multi-Frequency Body Composition Analyzer Scale with Hand Grips",
+        "category": "Fit Tech",
+        "price": 84999.0,
+        "image": "assets/images/products/453/main.jpg",
+        "rating": 4.5,
+        "reviews": 428,
+        "description": "Professional Segmental Body Composition Analyzer features multi-frequency bioelectrical impedance analysis, 8-point tactile hand and foot electrodes, and full clinical body fat and skeletal muscle reports."
+    },
+    {
+        "id": 523,
+        "name": "Creapure 100% Pure Micronized Creatine Monohydrate Powder (400g Tub)",
+        "category": "Supplements",
+        "price": 2199.0,
+        "image": "assets/images/products/523/main.jpg",
+        "rating": 4.1,
+        "reviews": 255,
+        "description": "Creapure 100% Pure Micronized Creatine Monohydrate is ultra-pure German-manufactured creatine powder designed to enhance ATP regeneration, explosive lifting strength, and muscular endurance."
+    },
+    {
+        "id": 593,
+        "name": "Dual-Layer Non-Slip Eco-Friendly TPE Yoga & Exercise Mat (Sky Blue / Beige)",
+        "category": "Yoga",
+        "price": 1999.0,
+        "image": "assets/images/products/593/main.jpg",
+        "rating": 4.6,
+        "reviews": 73,
+        "description": "Dual-Layer Non-Slip Eco-Friendly TPE Yoga Mat features dual-textured grip surfaces, 6mm high-density cushioning, and lightweight odorless recyclable materials for floor fitness and yoga."
+    },
+    {
+        "id": 34,
+        "name": "Rapid-Select Adjustable Dumbbells Pair with Storage Tray (Red & Black)",
+        "category": "Strength",
+        "price": 21999.0,
+        "image": "assets/images/products/34/main.jpg",
+        "rating": 4.1,
+        "reviews": 148,
+        "description": "Rapid-Select Adjustable Dumbbells feature an instant dial adjustment system from 5 to 52.5 lbs per dumbbell, durable red weight plates with nylon coating, and compact anti-roll storage cradles."
+    },
+    {
+        "id": 244,
+        "name": "Portable Insulated Folding Cold Plunge Ice Bath Tub with Thermal Lid",
+        "category": "Recovery",
+        "price": 6739.0,
+        "image": "assets/images/products/244/main.jpg",
+        "rating": 4.8,
+        "reviews": 92,
+        "description": "Portable Insulated Folding Cold Plunge Ice Bath Tub is engineered with multi-layer thermal insulation, reinforced support struts, easy-drain valve, and protective dust cover for cold therapy."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -3320,26 +3410,6 @@ var shopProducts = [
         "description": "The BCAA Energy Powder Drink Mix (Grape 30 Servings) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
-        "id": 172,
-        "name": "MMA Hybrid Training Gloves (7 oz)",
-        "category": "Combat",
-        "price": 2269.0,
-        "image": "assets/images/products/172/main.jpg",
-        "rating": 4.5,
-        "reviews": 415,
-        "description": "The MMA Hybrid Training Gloves (7 oz) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 242,
-        "name": "Pure Magnesium Chloride Muscle Recovery Spray",
-        "category": "Recovery",
-        "price": 3099.0,
-        "image": "assets/images/products/242/main.jpg",
-        "rating": 4.0,
-        "reviews": 486,
-        "description": "The Pure Magnesium Chloride Muscle Recovery Spray is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
         "id": 382,
         "name": "Technical Windbreaker Running Jacket",
         "category": "Apparel",
@@ -3348,16 +3418,6 @@ var shopProducts = [
         "rating": 4.0,
         "reviews": 362,
         "description": "The Technical Windbreaker Running Jacket is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 452,
-        "name": "Smart Wi-Fi Body Composition Glass Scale",
-        "category": "Fit Tech",
-        "price": 2499.0,
-        "image": "assets/images/products/452/main.jpg",
-        "rating": 4.9,
-        "reviews": 412,
-        "description": "The Smart Wi-Fi Body Composition Glass Scale is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 522,
@@ -3440,46 +3500,6 @@ var shopProducts = [
         "description": "The Speed Cable Jump Rope with Ball Bearings & Anti-Slip Handles is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
-        "id": 383,
-        "name": "Ribbed Seamless Crop Workout Top",
-        "category": "Apparel",
-        "price": 1619.0,
-        "image": "assets/images/products/383/main.jpg",
-        "rating": 4.8,
-        "reviews": 66,
-        "description": "The Ribbed Seamless Crop Workout Top is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 453,
-        "name": "Air Compression Recovery Boots with Control Unit",
-        "category": "Fit Tech",
-        "price": 6479.0,
-        "image": "assets/images/products/453/main.jpg",
-        "rating": 4.5,
-        "reviews": 428,
-        "description": "The Air Compression Recovery Boots with Control Unit is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 523,
-        "name": "Plant Protein Isolate Powder (Unflavored 2 lbs)",
-        "category": "Supplements",
-        "price": 4559.0,
-        "image": "assets/images/products/523/main.jpg",
-        "rating": 4.1,
-        "reviews": 255,
-        "description": "The Plant Protein Isolate Powder (Unflavored 2 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 593,
-        "name": "Cotton Yoga Strap with Metal D-Ring (8ft)",
-        "category": "Yoga",
-        "price": 1039.0,
-        "image": "assets/images/products/593/main.jpg",
-        "rating": 4.6,
-        "reviews": 73,
-        "description": "The Cotton Yoga Strap with Metal D-Ring (8ft) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
         "id": 663,
         "name": "Heavy Duty Power Tower Station with Push-Up Handles",
         "category": "Home Gym",
@@ -3488,16 +3508,6 @@ var shopProducts = [
         "rating": 4.2,
         "reviews": 256,
         "description": "The Heavy Duty Power Tower Station with Push-Up Handles is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 34,
-        "name": "Steel Plate Loaded Lat Pulldown Machine",
-        "category": "Strength",
-        "price": 1489.0,
-        "image": "assets/images/products/34/main.jpg",
-        "rating": 4.1,
-        "reviews": 148,
-        "description": "The Steel Plate Loaded Lat Pulldown Machine is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 104,
@@ -3518,16 +3528,6 @@ var shopProducts = [
         "rating": 4.8,
         "reviews": 71,
         "description": "The Heavy Duty Wall Mount Heavy Bag Hanger Bracket is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 244,
-        "name": "Acupressure Foot Massager Roller & Mat Set",
-        "category": "Recovery",
-        "price": 6739.0,
-        "image": "assets/images/products/244/main.jpg",
-        "rating": 4.8,
-        "reviews": 92,
-        "description": "The Acupressure Foot Massager Roller & Mat Set is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 314,
