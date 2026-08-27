@@ -3930,6 +3930,206 @@ var shopProducts = [
         "description": "Cast Iron Kettlebell features smooth wide-grip ergonomic handle, balanced flat base, and chip-resistant grey finish for two-arm swings, snatches, and core conditioning."
     },
     {
+        "id": 606,
+        "name": "Organic Cotton Cylindrical Meditation & Yoga Bolster Pillow (Burgundy / Maroon)",
+        "category": "Yoga",
+        "price": 1539.0,
+        "image": "assets/images/products/606/main.jpg",
+        "rating": 4.2,
+        "reviews": 86,
+        "description": "Organic Cotton Cylindrical Yoga Bolster Pillow provides firm ergonomic support for meditation postures, hip opening, and spinal restorative poses in rich burgundy maroon."
+    },
+    {
+        "id": 676,
+        "name": "Fusion Pro-Grade Diamond Plate High-Density Rubber Gym Flooring Mat (Black)",
+        "category": "Home Gym",
+        "price": 3389.0,
+        "image": "assets/images/products/676/main.jpg",
+        "rating": 4.4,
+        "reviews": 210,
+        "description": "Fusion Pro-Grade High-Density Rubber Gym Flooring Mat features textured industrial diamond-plate surface, high-impact equipment protection, and anti-fatigue cushioning."
+    },
+    {
+        "id": 47,
+        "name": "Commercial Adjustable Squat Rack & Half Cage with Pull-Up Bar & J-Hooks",
+        "category": "Strength",
+        "price": 12799.0,
+        "image": "assets/images/products/47/main.jpg",
+        "rating": 4.6,
+        "reviews": 310,
+        "description": "Commercial Half Cage Squat Rack features heavy-duty steel uprights with precision hole spacing, quick-adjust J-hooks, integrated pull-up bar, and barbell storage."
+    },
+    {
+        "id": 117,
+        "name": "SPARNOD FITNESS Commercial Magnetic Indoor Studio Exercise Spin Bike (Black & Gold)",
+        "category": "Cardio",
+        "price": 27999.0,
+        "image": "assets/images/products/117/main.jpg",
+        "rating": 4.8,
+        "reviews": 280,
+        "description": "SPARNOD FITNESS Commercial Studio Spin Bike features precision magnetic flywheel, silent belt drive, multi-grip aero handlebars, and micro-adjustable saddle in black and gold."
+    },
+    {
+        "id": 187,
+        "name": "FIVING Pro Leather Curved Hook & Jab Focus Mitts Pair (Olive Green & Black)",
+        "category": "Combat",
+        "price": 3099.0,
+        "image": "assets/images/products/187/main.jpg",
+        "rating": 4.0,
+        "reviews": 122,
+        "description": "FIVING Pro Leather Curved Focus Mitts feature anatomical domed palm grip, multi-layer high-density shock foam, and reinforced wrist support in olive green and black."
+    },
+    {
+        "id": 257,
+        "name": "Mini Handheld Deep Tissue Percussion Massage Gun for Deltoids & Shoulders (Gunmetal Blue)",
+        "category": "Recovery",
+        "price": 5599.0,
+        "image": "assets/images/products/257/main.jpg",
+        "rating": 4.7,
+        "reviews": 190,
+        "description": "Mini Handheld Percussion Massage Gun delivers powerful deep tissue percussion, ultra-quiet brushless motor, and rounded ball head for targeted shoulder and deltoid recovery."
+    },
+    {
+        "id": 327,
+        "name": "ADER Gym Chalk 100% Pure Magnesium Carbonate Blocks Box (1 lb / 8 Blocks)",
+        "category": "Accessories",
+        "price": 1299.0,
+        "image": "assets/images/products/327/main.jpg",
+        "rating": 4.8,
+        "reviews": 320,
+        "description": "ADER Gym Chalk 1 lb box contains 8 individually wrapped 2 oz blocks of 100% pure magnesium carbonate for unmatched grip during deadlifts, gymnastics, and rock climbing."
+    },
+    {
+        "id": 397,
+        "name": "Women's High-Neck Longline Seamless Athletic Workout Sports Bra Tank (Hot Pink)",
+        "category": "Apparel",
+        "price": 3599.0,
+        "image": "assets/images/products/397/main.jpg",
+        "rating": 4.5,
+        "reviews": 260,
+        "description": "Women's High-Neck Longline Sports Bra Tank features moisture-wicking 4-way stretch fabric, racerback cut, wide underbust support band, and vibrant hot pink styling."
+    },
+    {
+        "id": 467,
+        "name": "IKEEPFIT Sequential Pneumatic Air Compression Leg & Calf Recovery Boots System (Black/Orange)",
+        "category": "Fit Tech",
+        "price": 24999.0,
+        "image": "assets/images/products/467/main.jpg",
+        "rating": 4.7,
+        "reviews": 177,
+        "description": "IKEEPFIT Sequential Pneumatic Compression Boots feature multi-chamber sequential air massage, digital pressure control unit, and zippered calf/foot boots in black and orange."
+    },
+    {
+        "id": 537,
+        "name": "Freak's Pump High-Stim Nitric Oxide Pre-Workout Powder Tub",
+        "category": "Supplements",
+        "price": 3099.0,
+        "image": "assets/images/products/537/main.jpg",
+        "rating": 4.5,
+        "reviews": 125,
+        "description": "Freak's Pump Pre-Workout Formula delivers intense nitric oxide vasodilation, explosive mental focus, and sustained endurance powered by high-potency citrulline and beta-alanine."
+    },
+    {
+        "id": 607,
+        "name": "Ergonomic Wrist-Relief Yoga Support Push-Up Blocks Pair (Sky Blue)",
+        "category": "Yoga",
+        "price": 1499.0,
+        "image": "assets/images/products/607/main.jpg",
+        "rating": 4.9,
+        "reviews": 72,
+        "description": "Ergonomic Wrist-Relief Yoga Support Blocks feature contoured palm cradles to reduce wrist strain during push-ups, planks, and handstands in high-density sky blue foam."
+    },
+    {
+        "id": 677,
+        "name": "Gorilla Mats Extra Large Heavy-Duty High-Density Exercise Workout Floor Mat (Black)",
+        "category": "Home Gym",
+        "price": 6999.0,
+        "image": "assets/images/products/677/main.jpg",
+        "rating": 4.8,
+        "reviews": 194,
+        "description": "Gorilla Mats Extra Large Workout Mat features ultra-durable high-density non-slip rubber, shock absorption for jump roping, cardio, and bodyweight training in matte black."
+    },
+    {
+        "id": 48,
+        "name": "Cast Iron Hex Dumbbell Pair with Ergonomic Chrome Handles",
+        "category": "Strength",
+        "price": 4499.0,
+        "image": "assets/images/products/48/main.jpg",
+        "rating": 4.4,
+        "reviews": 96,
+        "description": "Cast Iron Hex Dumbbells feature solid cast iron heads with anti-roll hex geometry and knurled ergonomic chrome handles for bicep curls and upper-body strength."
+    },
+    {
+        "id": 118,
+        "name": "Industrial Heavy-Duty Benchtop Belt Sander & Grinder Machine Station",
+        "category": "Cardio",
+        "price": 21039.0,
+        "image": "assets/images/products/118/main.jpg",
+        "rating": 4.8,
+        "reviews": 395,
+        "description": "Industrial Heavy-Duty Benchtop Belt Sander and Grinder features high-torque induction motor, adjustable angle belt arm, spark guard, and heavy cast iron base."
+    },
+    {
+        "id": 188,
+        "name": "Martial Arts Padded Leather Shin & Instep Guards with Red Accents (Black Pair)",
+        "category": "Combat",
+        "price": 3499.0,
+        "image": "assets/images/products/188/main.jpg",
+        "rating": 4.7,
+        "reviews": 237,
+        "description": "Martial Arts Padded Shin & Instep Guards feature anatomical shin curvature, high-density shock absorbing foam, and dual secure rear velcro straps in black with red accents."
+    },
+    {
+        "id": 258,
+        "name": "High-Density Textured Grid Trigger Point Foam Roller (Grey & Purple Core)",
+        "category": "Recovery",
+        "price": 1499.0,
+        "image": "assets/images/products/258/main.jpg",
+        "rating": 3.9,
+        "reviews": 246,
+        "description": "High-Density Textured Grid Foam Roller features multi-dimensional matrix ridges, rigid hollow purple core, and durable EVA foam for targeting tight glutes and hamstrings."
+    },
+    {
+        "id": 398,
+        "name": "Men's Gradient Dip-Dye Fleece Athletic Baggy Sweatpants (White / Pastel Yellow)",
+        "category": "Apparel",
+        "price": 2299.0,
+        "image": "assets/images/products/398/main.jpg",
+        "rating": 4.8,
+        "reviews": 245,
+        "description": "Men's Gradient Dip-Dye Athletic Sweatpants feature heavyweight cotton fleece, elastic drawstring waistband, relaxed baggy silhouette, and white-to-pastel-yellow ombre fade."
+    },
+    {
+        "id": 468,
+        "name": "Smart Bluetooth Digital Body Fat Scale with LED Display & App Sync (Black)",
+        "category": "Fit Tech",
+        "price": 2499.0,
+        "image": "assets/images/products/468/main.jpg",
+        "rating": 4.3,
+        "reviews": 142,
+        "description": "Smart Bluetooth Digital Body Fat Scale features high-precision BIA sensors, hidden LED display, smartphone app synchronization, and tempered glass surface in sleek black."
+    },
+    {
+        "id": 538,
+        "name": "Nutravex Apex Mass Gainer High-Calorie Protein Powder Tub (Chocolate Fudge)",
+        "category": "Supplements",
+        "price": 2999.0,
+        "image": "assets/images/products/538/main.jpg",
+        "rating": 3.8,
+        "reviews": 227,
+        "description": "Nutravex Apex Mass Gainer provides high-calorie mass-building protein, complex carbohydrates, and essential amino acids in rich chocolate fudge flavor."
+    },
+    {
+        "id": 608,
+        "name": "Eco-Friendly Non-Slip Alignment Pattern Yoga Exercise Mat (Cyan Blue)",
+        "category": "Yoga",
+        "price": 2649.0,
+        "image": "assets/images/products/608/main.jpg",
+        "rating": 4.6,
+        "reviews": 357,
+        "description": "Eco-Friendly Non-Slip Yoga Mat features laser-printed body alignment guides, cushioned joint support, and superior dry/wet grip texture in cyan blue."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -6668,206 +6868,6 @@ var shopProducts = [
         "rating": 3.9,
         "reviews": 153,
         "description": "The Nighttime Casein Protein Powder (Vanilla Cream 4 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 606,
-        "name": "Buckwheat Meditation Zafu Pillow Cushion",
-        "category": "Yoga",
-        "price": 1539.0,
-        "image": "assets/images/products/606/main.jpg",
-        "rating": 4.6,
-        "reviews": 92,
-        "description": "The Buckwheat Meditation Zafu Pillow Cushion is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 676,
-        "name": "Heavy Duty Interlocking Gym Floor Tiles (16-Pack)",
-        "category": "Home Gym",
-        "price": 3389.0,
-        "image": "assets/images/products/676/main.jpg",
-        "rating": 4.6,
-        "reviews": 439,
-        "description": "The Heavy Duty Interlocking Gym Floor Tiles (16-Pack) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 47,
-        "name": "Multi-Grip Landmine Attachment for Barbells",
-        "category": "Strength",
-        "price": 12799.0,
-        "image": "assets/images/products/47/main.jpg",
-        "rating": 4.2,
-        "reviews": 466,
-        "description": "The Multi-Grip Landmine Attachment for Barbells is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 117,
-        "name": "Stair Stepper Machine with Handlebars",
-        "category": "Cardio",
-        "price": 27999.0,
-        "image": "assets/images/products/117/main.jpg",
-        "rating": 4.3,
-        "reviews": 39,
-        "description": "The Stair Stepper Machine with Handlebars is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 187,
-        "name": "Reflex Cobra Bag with Adjustable Height",
-        "category": "Combat",
-        "price": 3099.0,
-        "image": "assets/images/products/187/main.jpg",
-        "rating": 4.0,
-        "reviews": 122,
-        "description": "The Reflex Cobra Bag with Adjustable Height is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 257,
-        "name": "Pro Percussive Massage Gun with Metal Head Attachment",
-        "category": "Recovery",
-        "price": 5599.0,
-        "image": "assets/images/products/257/main.jpg",
-        "rating": 4.9,
-        "reviews": 376,
-        "description": "The Pro Percussive Massage Gun with Metal Head Attachment is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 327,
-        "name": "Gym Chalk Block Single Pack",
-        "category": "Accessories",
-        "price": 499.0,
-        "image": "assets/images/products/327/main.jpg",
-        "rating": 4.8,
-        "reviews": 357,
-        "description": "The Gym Chalk Block Single Pack is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 397,
-        "name": "High-Impact Padded Gym Sports Bra",
-        "category": "Apparel",
-        "price": 3599.0,
-        "image": "assets/images/products/397/main.jpg",
-        "rating": 3.9,
-        "reviews": 278,
-        "description": "The High-Impact Padded Gym Sports Bra is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 467,
-        "name": "Bluetooth Sports Earphones with Sweat Resistance",
-        "category": "Fit Tech",
-        "price": 7199.0,
-        "image": "assets/images/products/467/main.jpg",
-        "rating": 4.7,
-        "reviews": 177,
-        "description": "The Bluetooth Sports Earphones with Sweat Resistance is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 537,
-        "name": "Nitric Oxide Pre-Workout Powder (Tropical Punch)",
-        "category": "Supplements",
-        "price": 3099.0,
-        "image": "assets/images/products/537/main.jpg",
-        "rating": 4.5,
-        "reviews": 125,
-        "description": "The Nitric Oxide Pre-Workout Powder (Tropical Punch) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 607,
-        "name": "Spine Massager Yoga Wheel Roller",
-        "category": "Yoga",
-        "price": 8599.0,
-        "image": "assets/images/products/607/main.jpg",
-        "rating": 4.9,
-        "reviews": 72,
-        "description": "The Spine Massager Yoga Wheel Roller is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 677,
-        "name": "Quick Select Dial Dumbbells Set (5-70 lbs)",
-        "category": "Home Gym",
-        "price": 23999.0,
-        "image": "assets/images/products/677/main.jpg",
-        "rating": 4.8,
-        "reviews": 194,
-        "description": "The Quick Select Dial Dumbbells Set (5-70 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 48,
-        "name": "Commercial Cable Crossover Functional Trainer",
-        "category": "Strength",
-        "price": 96199.0,
-        "image": "assets/images/products/48/main.jpg",
-        "rating": 4.4,
-        "reviews": 96,
-        "description": "The Commercial Cable Crossover Functional Trainer is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 118,
-        "name": "Magnetic Upright Exercise Bike with Tablet Stand",
-        "category": "Cardio",
-        "price": 21039.0,
-        "image": "assets/images/products/118/main.jpg",
-        "rating": 4.8,
-        "reviews": 395,
-        "description": "The Magnetic Upright Exercise Bike with Tablet Stand is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 188,
-        "name": "Canvas Heavy Punching Bag (60 lbs)",
-        "category": "Combat",
-        "price": 6279.0,
-        "image": "assets/images/products/188/main.jpg",
-        "rating": 4.7,
-        "reviews": 237,
-        "description": "The Canvas Heavy Punching Bag (60 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 258,
-        "name": "Graduated Knee-High Compression Socks Pair",
-        "category": "Recovery",
-        "price": 2939.0,
-        "image": "assets/images/products/258/main.jpg",
-        "rating": 3.9,
-        "reviews": 246,
-        "description": "The Graduated Knee-High Compression Socks Pair is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 398,
-        "name": "Heavy Duty Barefoot Lifting Shoes",
-        "category": "Apparel",
-        "price": 7119.0,
-        "image": "assets/images/products/398/main.jpg",
-        "rating": 4.8,
-        "reviews": 245,
-        "description": "The Heavy Duty Barefoot Lifting Shoes is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 468,
-        "name": "Smart GPS Cycling Computer Display",
-        "category": "Fit Tech",
-        "price": 15039.0,
-        "image": "assets/images/products/468/main.jpg",
-        "rating": 4.3,
-        "reviews": 142,
-        "description": "The Smart GPS Cycling Computer Display is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 538,
-        "name": "Creatine Monohydrate Powder (200 Mesh Ultra-Fine 500g)",
-        "category": "Supplements",
-        "price": 1299.0,
-        "image": "assets/images/products/538/main.jpg",
-        "rating": 3.8,
-        "reviews": 227,
-        "description": "The Creatine Monohydrate Powder (200 Mesh Ultra-Fine 500g) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 608,
-        "name": "Non-Slip Yoga Towel with Corner Pockets",
-        "category": "Yoga",
-        "price": 2649.0,
-        "image": "assets/images/products/608/main.jpg",
-        "rating": 4.6,
-        "reviews": 357,
-        "description": "The Non-Slip Yoga Towel with Corner Pockets is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 418,
