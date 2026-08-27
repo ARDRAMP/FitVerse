@@ -600,6 +600,16 @@ var shopProducts = [
         "description": "Yodha Fitness Tiger Commercial Power Cage Squat Rack features heavy-gauge 11-gauge steel uprights, laser-cut hole spacing, reinforced J-cups, safety spotter arms, multi-grip pull-up bar, and durable red powder-coat finish for heavy powerlifting and squat training."
     },
     {
+        "id": 151,
+        "name": "Sting Armalite Curved Boxing Focus Mitts Pair",
+        "category": "Combat",
+        "price": 4299.0,
+        "image": "assets/images/products/151/main.jpg",
+        "rating": 4.2,
+        "reviews": 209,
+        "description": "Sting Armalite Curved Boxing Focus Mitts feature SLV3 outer skin, high-density quad-core shock absorption foam, curved strike zone with target circle, and padded finger guards with secure hook-and-loop wrist straps for boxing and MMA coaches."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -1328,16 +1338,6 @@ var shopProducts = [
         "rating": 4.8,
         "reviews": 161,
         "description": "The Recumbent Exercise Bike with Padded Lumbar Support is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 151,
-        "name": "Tear-Resistant Canvas Heavy Bag (80 lbs)",
-        "category": "Combat",
-        "price": 7519.0,
-        "image": "assets/images/products/151/main.jpg",
-        "rating": 4.2,
-        "reviews": 209,
-        "description": "The Tear-Resistant Canvas Heavy Bag (80 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 361,

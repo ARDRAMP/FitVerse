@@ -184,7 +184,7 @@ Total Products: **700**
 | 148 | Freestanding Heavy Punching Bag with Water Base |
 | 149 | Muay Thai Kick Pads (Pair) |
 | 150 | Professional Leather Sparring Gloves (16 oz) |
-| 151 | Tear-Resistant Canvas Heavy Bag (80 lbs) |
+| 151 | Sting Armalite Curved Boxing Focus Mitts Pair |
 | 152 | Nike Pro Football Shin Guard & Calf Compression Sleeves |
 | 153 | Rival Boxing Pro Leather Speed Bag (Black/Lime) |
 | 154 | Target Kick Shield for Martial Arts Training |
