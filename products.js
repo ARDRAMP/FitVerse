@@ -2530,6 +2530,206 @@ var shopProducts = [
         "description": "Men's Quick-Dry Breathable Sleeveless Training Tank Top features ultra-lightweight moisture-wicking stretch fabric, dropped armholes for unrestricted movement, and clean athletic styling in black."
     },
     {
+        "id": 481,
+        "name": "Wireless Optical Heart Rate Armband Fitness Tracker Strap (Lime Green)",
+        "category": "Fit Tech",
+        "price": 3959.0,
+        "image": "assets/images/products/481/main.jpg",
+        "rating": 4.0,
+        "reviews": 262,
+        "description": "Wireless Optical Heart Rate Armband features multi-channel PPG heart rate sensors, continuous strain tracking, Bluetooth/ANT+ connectivity, and breathable neon lime green elastic band."
+    },
+    {
+        "id": 551,
+        "name": "Granite Supplements GX Pre-Workout Energy Matrix Powder Pouch (Watermelon)",
+        "category": "Supplements",
+        "price": 2719.0,
+        "image": "assets/images/products/551/main.jpg",
+        "rating": 4.9,
+        "reviews": 379,
+        "description": "Granite Supplements GX Pre-Workout Formula delivers intense focus, clean energy, beta-alanine tingling power, and citrulline malate muscle pumps in crisp watermelon flavor."
+    },
+    {
+        "id": 621,
+        "name": "Organic Cotton Cylindrical Restorative Yoga Bolster Pillow (Purple)",
+        "category": "Yoga",
+        "price": 2669.0,
+        "image": "assets/images/products/621/main.jpg",
+        "rating": 4.6,
+        "reviews": 179,
+        "description": "Organic Cotton Cylindrical Restorative Yoga Bolster Pillow features dense cotton batting, durable purple canvas cover with carry handle, and firm support for deep chest and spine opening."
+    },
+    {
+        "id": 691,
+        "name": "Force USA Commercial All-In-One Functional Trainer Cable Crossover Power Rack",
+        "category": "Home Gym",
+        "price": 89999.0,
+        "image": "assets/images/products/691/main.jpg",
+        "rating": 4.5,
+        "reviews": 437,
+        "description": "Force USA All-In-One Functional Trainer integrates dual weight stacks, full commercial squat rack, chin-up grips, and cable attachments for complete home gym workouts."
+    },
+    {
+        "id": 62,
+        "name": "Adjustable Incline Decline Foldable FID Weight Bench with Transport Wheels (Black)",
+        "category": "Strength",
+        "price": 8999.0,
+        "image": "assets/images/products/62/main.jpg",
+        "rating": 4.2,
+        "reviews": 186,
+        "description": "Adjustable Incline Decline Foldable FID Weight Bench features 7 backrest angles, 3 seat positions, heavy-duty 800lb capacity steel frame, and rear transport wheels."
+    },
+    {
+        "id": 132,
+        "name": "Modern Smart Compact Folding Motorized Treadmill with Integrated Console (White)",
+        "category": "Cardio",
+        "price": 38999.0,
+        "image": "assets/images/products/132/main.jpg",
+        "rating": 4.8,
+        "reviews": 332,
+        "description": "Modern Smart Compact Folding Motorized Treadmill features ultra-quiet brushless motor, intelligent speed pacing, shock-absorbing running deck, and sleek white minimalist design."
+    },
+    {
+        "id": 202,
+        "name": "Full-Coverage Leather Boxing & MMA Sparring Headgear with Cheek Protectors (Matte Black)",
+        "category": "Combat",
+        "price": 3299.0,
+        "image": "assets/images/products/202/main.jpg",
+        "rating": 4.6,
+        "reviews": 496,
+        "description": "Full-Coverage Leather Boxing & MMA Sparring Headgear features high-density multi-layered foam padding, cheek and chin guards, and adjustable dual hook-and-loop rear closure in matte black."
+    },
+    {
+        "id": 272,
+        "name": "Muscle Rehab Pure Epsom Salt Dead Sea Mineral Recovery Bath Soak Pouch (Menthol & Mint)",
+        "category": "Recovery",
+        "price": 999.0,
+        "image": "assets/images/products/272/main.jpg",
+        "rating": 4.7,
+        "reviews": 422,
+        "description": "Muscle Rehab Pure Epsom Salt Dead Sea Mineral Recovery Bath Soak combines 100% natural magnesium sulfate crystals with cooling menthol and essential oils for athletic sore muscle relief."
+    },
+    {
+        "id": 342,
+        "name": "Nylon Weightlifting Lumbar Support Belt with Quick-Lock Steel Buckle (Pink/Black)",
+        "category": "Accessories",
+        "price": 1499.0,
+        "image": "assets/images/products/342/main.jpg",
+        "rating": 4.5,
+        "reviews": 441,
+        "description": "Nylon Weightlifting Lumbar Support Belt features uniform 4-inch width support, quick-lock heavy-duty roller buckle, and reinforced pink nylon webbing with skull emblem."
+    },
+    {
+        "id": 412,
+        "name": "Heavyweight Fleece Pullover Gym Workout Hoodie (Black & Grey Two-Tone)",
+        "category": "Apparel",
+        "price": 2799.0,
+        "image": "assets/images/products/412/main.jpg",
+        "rating": 4.7,
+        "reviews": 422,
+        "description": "Heavyweight Fleece Pullover Gym Workout Hoodie features premium two-tone black/grey styling, kangaroo pocket, drawstring hood, and warm fleece interior for cold weather training."
+    },
+    {
+        "id": 482,
+        "name": "Wireless Calf & Leg Air Compression Recovery Massager Sleeves with Digital Pump (Pair)",
+        "category": "Fit Tech",
+        "price": 7099.0,
+        "image": "assets/images/products/482/main.jpg",
+        "rating": 4.3,
+        "reviews": 296,
+        "description": "Wireless Calf & Leg Air Compression Recovery Massager features cordless rechargeable pump controllers, multi-mode cyclical compression, and wrap-around velcro fit in sleek black/cyan."
+    },
+    {
+        "id": 552,
+        "name": "Animal Pak / Daily Comprehensive Multivitamin & Micronutrient Complex Tablets (White Bottle)",
+        "category": "Supplements",
+        "price": 2199.0,
+        "image": "assets/images/products/552/main.jpg",
+        "rating": 5.0,
+        "reviews": 384,
+        "description": "Daily Comprehensive Multivitamin & Micronutrient Complex delivers full-spectrum vitamins, chelated minerals, digestive enzymes, and antioxidant complex in a 60-90 tablet bottle."
+    },
+    {
+        "id": 622,
+        "name": "High-Density EVA Foam Yoga Support Blocks Pair (Deep Purple)",
+        "category": "Yoga",
+        "price": 949.0,
+        "image": "assets/images/products/622/main.jpg",
+        "rating": 4.0,
+        "reviews": 225,
+        "description": "High-Density EVA Foam Yoga Support Blocks Pair features beveled edges, non-slip textured grip, and firm foam density in deep purple for balancing and deepening yoga poses."
+    },
+    {
+        "id": 692,
+        "name": "Commercial Curved Non-Motorized Slat Belt Manual Treadmill with Handrails",
+        "category": "Home Gym",
+        "price": 79999.0,
+        "image": "assets/images/products/692/main.jpg",
+        "rating": 4.6,
+        "reviews": 315,
+        "description": "Commercial Curved Non-Motorized Slat Belt Treadmill operates purely on athlete power with curved running surface, heavy-duty ergonomic handrails, and zero electricity requirements."
+    },
+    {
+        "id": 63,
+        "name": "Commercial Heavy-Duty Power Rack Squat Cage with Barbell & Weight Horns",
+        "category": "Strength",
+        "price": 54999.0,
+        "image": "assets/images/products/63/main.jpg",
+        "rating": 5.0,
+        "reviews": 76,
+        "description": "Commercial Heavy-Duty Power Rack Squat Cage is constructed with 3x3-inch 11-gauge steel uprights, heavy-duty J-hooks, safety spotter bars, multi-grip pull-up bar, and rear plate storage pegs."
+    },
+    {
+        "id": 133,
+        "name": "Commercial Dual-Action Upright Air Fan Bike / Stationary Exercise Bike",
+        "category": "Cardio",
+        "price": 22299.0,
+        "image": "assets/images/products/133/main.jpg",
+        "rating": 4.2,
+        "reviews": 244,
+        "description": "Commercial Dual-Action Upright Air Fan Bike delivers progressive wind resistance, heavy steel fan wheel, dual-action synchronized arm handles, and digital workout monitor."
+    },
+    {
+        "id": 203,
+        "name": "Men's Long-Sleeve Compression Rash Guard / MMA Training Top (Black)",
+        "category": "Combat",
+        "price": 1899.0,
+        "image": "assets/images/products/203/main.jpg",
+        "rating": 4.3,
+        "reviews": 75,
+        "description": "Men's Long-Sleeve Compression Rash Guard features 4-way stretch moisture-wicking fabric, flatlock anti-chafing stitching, and ergonomic athletic compression fit in stealth black."
+    },
+    {
+        "id": 273,
+        "name": "Graduated Compression Arm & Elbow Recovery Sleeve (Black & Grey)",
+        "category": "Recovery",
+        "price": 1199.0,
+        "image": "assets/images/products/273/main.jpg",
+        "rating": 4.7,
+        "reviews": 50,
+        "description": "Graduated Compression Arm & Elbow Recovery Sleeve provides graduated 20-30 mmHg compression, joint stabilization, and breathable moisture-wicking knit in black and grey."
+    },
+    {
+        "id": 343,
+        "name": "Ultra-Speed Ball Bearing Weighted Aluminum Jump Rope with Steel Cable",
+        "category": "Accessories",
+        "price": 1299.0,
+        "image": "assets/images/products/343/main.jpg",
+        "rating": 4.6,
+        "reviews": 348,
+        "description": "Ultra-Speed Ball Bearing Jump Rope features aircraft-grade knurled aluminum handles, 360-degree high-speed dual ball bearings, and PVC-coated kink-free steel wire cable."
+    },
+    {
+        "id": 413,
+        "name": "Men's 2-in-1 Running Workout Shorts with Built-In Compression Liner (Grey & Black)",
+        "category": "Apparel",
+        "price": 2529.0,
+        "image": "assets/images/products/413/main.jpg",
+        "rating": 4.4,
+        "reviews": 293,
+        "description": "Men's 2-in-1 Running Workout Shorts feature lightweight quick-dry outer shorts, built-in supportive compression liner with phone pocket, and elastic drawstring waistband."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -6668,206 +6868,6 @@ var shopProducts = [
         "rating": 4.6,
         "reviews": 330,
         "description": "The Technical Quarter-Zip Training Top is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 481,
-        "name": "Smart Wi-Fi Body Fat Composition Scale",
-        "category": "Fit Tech",
-        "price": 3959.0,
-        "image": "assets/images/products/481/main.jpg",
-        "rating": 4.0,
-        "reviews": 262,
-        "description": "The Smart Wi-Fi Body Fat Composition Scale is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 551,
-        "name": "EAA + BCAAs Amino Recovery Powder (Fruit Punch)",
-        "category": "Supplements",
-        "price": 2719.0,
-        "image": "assets/images/products/551/main.jpg",
-        "rating": 4.9,
-        "reviews": 379,
-        "description": "The EAA + BCAAs Amino Recovery Powder (Fruit Punch) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 621,
-        "name": "Natural Rubber Pro Yoga Mat (5mm)",
-        "category": "Yoga",
-        "price": 2669.0,
-        "image": "assets/images/products/621/main.jpg",
-        "rating": 4.6,
-        "reviews": 179,
-        "description": "The Natural Rubber Pro Yoga Mat (5mm) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 691,
-        "name": "Doorway Chin-Up Bar with Safety Lock",
-        "category": "Home Gym",
-        "price": 2519.0,
-        "image": "assets/images/products/691/main.jpg",
-        "rating": 4.5,
-        "reviews": 437,
-        "description": "The Doorway Chin-Up Bar with Safety Lock is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 62,
-        "name": "Rubber Hex Dumbbell Pair (45 lbs)",
-        "category": "Strength",
-        "price": 6349.0,
-        "image": "assets/images/products/62/main.jpg",
-        "rating": 4.2,
-        "reviews": 186,
-        "description": "The Rubber Hex Dumbbell Pair (45 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 132,
-        "name": "Magnetic Elliptical Trainer with Heart Rate Sensors",
-        "category": "Cardio",
-        "price": 38999.0,
-        "image": "assets/images/products/132/main.jpg",
-        "rating": 4.8,
-        "reviews": 332,
-        "description": "The Magnetic Elliptical Trainer with Heart Rate Sensors is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 202,
-        "name": "Gel Enforced Shin Guards for Martial Arts",
-        "category": "Combat",
-        "price": 3299.0,
-        "image": "assets/images/products/202/main.jpg",
-        "rating": 4.6,
-        "reviews": 496,
-        "description": "The Gel Enforced Shin Guards for Martial Arts is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 272,
-        "name": "Acupressure Back Stretcher & Lumbar Massage Board",
-        "category": "Recovery",
-        "price": 2269.0,
-        "image": "assets/images/products/272/main.jpg",
-        "rating": 4.7,
-        "reviews": 422,
-        "description": "The Acupressure Back Stretcher & Lumbar Massage Board is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 342,
-        "name": "Pro Aluminum Handle Speed Jump Rope",
-        "category": "Accessories",
-        "price": 1049.0,
-        "image": "assets/images/products/342/main.jpg",
-        "rating": 4.5,
-        "reviews": 441,
-        "description": "The Pro Aluminum Handle Speed Jump Rope is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 412,
-        "name": "Oversized Vintage Washed Gym Tee",
-        "category": "Apparel",
-        "price": 1349.0,
-        "image": "assets/images/products/412/main.jpg",
-        "rating": 4.7,
-        "reviews": 422,
-        "description": "The Oversized Vintage Washed Gym Tee is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 482,
-        "name": "Air Compression Leg Massager Boots Device",
-        "category": "Fit Tech",
-        "price": 7099.0,
-        "image": "assets/images/products/482/main.jpg",
-        "rating": 4.3,
-        "reviews": 296,
-        "description": "The Air Compression Leg Massager Boots Device is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 552,
-        "name": "Daily Athlete Multivitamin Tablets (90 Count)",
-        "category": "Supplements",
-        "price": 1049.0,
-        "image": "assets/images/products/552/main.jpg",
-        "rating": 5.0,
-        "reviews": 384,
-        "description": "The Daily Athlete Multivitamin Tablets (90 Count) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 622,
-        "name": "Premium Cork Yoga Block Set",
-        "category": "Yoga",
-        "price": 949.0,
-        "image": "assets/images/products/622/main.jpg",
-        "rating": 4.0,
-        "reviews": 225,
-        "description": "The Premium Cork Yoga Block Set is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 692,
-        "name": "Suspension Bodyweight Fitness Trainer Kit",
-        "category": "Home Gym",
-        "price": 1569.0,
-        "image": "assets/images/products/692/main.jpg",
-        "rating": 4.6,
-        "reviews": 315,
-        "description": "The Suspension Bodyweight Fitness Trainer Kit is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 63,
-        "name": "Cerakote Women's Olympic Barbell (15kg)",
-        "category": "Strength",
-        "price": 11839.0,
-        "image": "assets/images/products/63/main.jpg",
-        "rating": 5.0,
-        "reviews": 76,
-        "description": "The Cerakote Women's Olympic Barbell (15kg) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 133,
-        "name": "Wood Frame Hydro Rower Machine",
-        "category": "Cardio",
-        "price": 22299.0,
-        "image": "assets/images/products/133/main.jpg",
-        "rating": 4.2,
-        "reviews": 244,
-        "description": "The Wood Frame Hydro Rower Machine is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 203,
-        "name": "Tear Drop Leather Punching Bag (80 lbs)",
-        "category": "Combat",
-        "price": 4479.0,
-        "image": "assets/images/products/203/main.jpg",
-        "rating": 4.3,
-        "reviews": 75,
-        "description": "The Tear Drop Leather Punching Bag (80 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 273,
-        "name": "Mini Percussive Massage Gun (USB-C Rechargeable)",
-        "category": "Recovery",
-        "price": 5119.0,
-        "image": "assets/images/products/273/main.jpg",
-        "rating": 4.7,
-        "reviews": 50,
-        "description": "The Mini Percussive Massage Gun (USB-C Rechargeable) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 343,
-        "name": "Insulated Vacuum Gym Water Bottle (40oz)",
-        "category": "Accessories",
-        "price": 1919.0,
-        "image": "assets/images/products/343/main.jpg",
-        "rating": 4.6,
-        "reviews": 348,
-        "description": "The Insulated Vacuum Gym Water Bottle (40oz) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 413,
-        "name": "High-Waisted Compression Leggings (7/8 Length)",
-        "category": "Apparel",
-        "price": 2529.0,
-        "image": "assets/images/products/413/main.jpg",
-        "rating": 4.4,
-        "reviews": 293,
-        "description": "The High-Waisted Compression Leggings (7/8 Length) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 418,
