@@ -52,8 +52,8 @@ Total Products: **700**
 | 26 | Core Home Fitness Quick-Select Adjustable Dumbbells Pair (5-50 lbs) with Cradles |
 | 27 | Solid Cast Iron Competition Kettlebell (Overhead Training) |
 | 28 | Commercial Cast Iron Olympic Barbell Weight Plates Loading Set |
-| 29 | Foldable Wall Rack with Pull-Up Bar |
-| 30 | Commercial Preacher Curl Bench |
+| 29 | SolioFit Olympic EZ Curl Barbell with Cast Iron Weight Plates Set |
+| 30 | Multi-Angle Adjustable Incline Decline Weight Bench (Black/Red) |
 | 31 | Rubber Hex Dumbbell Pair (15 lbs) |
 | 32 | Cast Iron Kettlebell (20kg / 44lbs) |
 | 33 | Black Oxide Olympic Barbell (7 Foot) |
@@ -127,8 +127,8 @@ Total Products: **700**
 | 96 | SportE Commercial Multi-Function Motorized Folding Treadmill with Massager |
 | 97 | High-Performance All-Terrain Mountain Bike (Trail Edition) |
 | 98 | Equilibrium Commercial Magnetic Rear-Drive Elliptical Cross Trainer Machine |
-| 99 | Dual-Handle Hydro Rowing Machine |
-| 100 | Upright Fitness Exercise Bike with Heart Rate Grips |
+| 99 | Prasayu Fitness Commercial Magnetic Studio Indoor Cycling Exercise Bike |
+| 100 | Commercial Revolving Stair Climber Stepmill Cardio Machine |
 | 101 | Smart Motorized Treadmill with Auto-Incline |
 | 102 | Full Body Air Rower with Smartphone Mount |
 | 103 | Magnetic Spin Bike with 40lb Flywheel |
@@ -202,8 +202,8 @@ Total Products: **700**
 | 166 | Training Boxing Gloves (10 oz Lace-Up Style) |
 | 167 | Camo Green Padded Boxing Hand Wraps & Knuckle Guard Gloves |
 | 168 | Curved Micro Punch Mitts for Precision |
-| 169 | Competition Boxing Headgear (Cheek Protection) |
-| 170 | Freestanding Heavy Bag with Multi-Zone Targets |
+| 169 | RDX Padded Curved Boxing Focus Punch Mitts (Pair) |
+| 170 | Martial Arts Padded Leather Shin & Instep Guards for Kickboxing & MMA (Black Pair) |
 | 171 | Heavy Canvas Wrecking Ball Punching Bag |
 | 172 | MMA Hybrid Training Gloves (7 oz) |
 | 173 | Mexican Style Cotton Hand Wraps (180-Inch) |
@@ -427,7 +427,7 @@ Total Products: **700**
 | 376 | Nike Sportswear Club Fleece Women's Pullover Workout Hoodie (Mint Green) |
 | 377 | Vivobarefoot Motus Strength Barefoot Training Shoes (Olive Green) |
 | 378 | Heavy-Duty Cowhide Leather & Suede Protective Work & Gym Gloves (Yellow/Grey) |
-| 379 | Dry-Fit Sleeveless Muscle Shirt |
+| 379 | Men's Drop-Armhole Sleeveless Gym Workout Muscle Tank Top (Off-White) |
 | 380 | Stretch Athletic Training Shorts (5-Inch) |
 | 381 | Thermal Base Layer Compression Leggings |
 | 382 | Technical Windbreaker Running Jacket |
@@ -501,8 +501,8 @@ Total Products: **700**
 | 445 | ArmFit Bluetooth & ANT+ Optical Heart Rate Monitor Armband (Blue) |
 | 446 | Garmin HRM-Dual Wireless Heart Rate Monitor Chest Strap |
 | 447 | Biohackn Pneumatic Air Compression Leg Recovery Boots System with Travel Bag |
-| 448 | Smart Bike Computer with GPS Navigation |
-| 449 | Continuous Glucose & Workout Monitor Sensor |
+| 448 | Smart Digital Body Fat & Composition Scale with LED Display (Black) |
+| 449 | Smart Touchscreen Fitness & Sport Tracker Smartwatch (Black/Red Strap) |
 | 450 | GPS Multisport Watch with Sapphire Crystal Lens |
 | 451 | Dual-Band Heart Rate Chest Strap (Bluetooth/ANT+) |
 | 452 | Smart Wi-Fi Body Composition Glass Scale |
@@ -576,8 +576,8 @@ Total Products: **700**
 | 515 | EAA + Electrolyte Recovery Powder (Fruit Punch 30 Servings) |
 | 516 | Pure Encapsulations Men's Nutrients Multivitamin Supplement (180 Capsules) |
 | 517 | Combat Fuel Pure Micronized Creatine Monohydrate Powder (500g / 100 Servings) |
-| 518 | 100% Whey Isolate Protein Powder (Chocolate Fudge 5 lbs) |
-| 519 | Non-Stim Pre-Workout Pump Matrix (300g) |
+| 518 | Puhdas+ BCAA 2:1:1 Amino Acid Recovery Powder Tub (300g) |
+| 519 | Enervit Pure Pro Isolate Grass-Fed Whey Protein Powder (Cyan Tub) |
 | 520 | Micronized Creatine Monohydrate Powder (300g) |
 | 521 | BCAA Energy Powder Drink Mix (Grape 30 Servings) |
 | 522 | ZMA Nighttime Recovery Capsules (90 Capsules) |
@@ -651,8 +651,8 @@ Total Products: **700**
 | 585 | Sage Soul Round Floral Mandala Cotton Meditation Zafu Cushion (Orange) |
 | 586 | Round Cylindrical Yoga Meditation Bolster Pillow (Pink/Purple) |
 | 587 | High-Density EVA Foam Beveled Yoga Blocks (Purple Pair) |
-| 588 | Organic Cotton Round Yoga Bolster |
-| 589 | Textured Rubber Yoga Wheel Stretcher |
+| 588 | Natural Eco-Friendly Cork Yoga Mat (Non-Slip Workout Mat) |
+| 589 | Organic Cotton Yoga Mat Carry Strap & Stretching Belt with D-Rings (Beige) |
 | 590 | Full Zip Canvas Yoga Mat Tote Bag |
 | 591 | Alignment Line Non-Slip Yoga Mat (5mm) |
 | 592 | Lightweight Travel EVA Foam Yoga Block |
@@ -726,8 +726,8 @@ Total Products: **700**
 | 655 | AXDX Commercial All-In-One Smith Machine & Functional Trainer Home Gym |
 | 656 | Commercial Multi-Grip Half Rack Squat Power Cage with Spotter Arms |
 | 657 | Commercial Heavy-Duty Full Power Cage Squat Rack with Pull-Up Bar |
-| 658 | High Density Rubber Gym Flooring Tile (single) |
-| 659 | Adjustable Dial Dumbbell Set with Tray (5-50 lbs) |
+| 658 | Commercial Lat Pulldown & Low Row Cable Machine Tower |
+| 659 | LiftDex Commercial Heavy-Duty Half Rack Squat Stand with Pull-Up Bar |
 | 660 | Compact Folding Weight Bench Press |
 | 661 | Ceiling Mounted Steel Pull-Up Bar Station |
 | 662 | Bodyweight Suspension Trainer with Door Mount |

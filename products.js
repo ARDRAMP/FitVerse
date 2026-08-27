@@ -1410,6 +1410,156 @@ var shopProducts = [
         "description": "Heavy-Duty Cowhide Leather & Suede Protective Work & Gym Gloves feature reinforced split-leather palm padding, breathable canvas back, and elastic safety cuff for heavy lifting and tough training."
     },
     {
+        "id": 448,
+        "name": "Smart Digital Body Fat & Composition Scale with LED Display (Black)",
+        "category": "Fit Tech",
+        "price": 3499.0,
+        "image": "assets/images/products/448/main.jpg",
+        "rating": 3.9,
+        "reviews": 182,
+        "description": "Smart Digital Body Fat Scale measures weight, BMI, body fat percentage, muscle mass, and water weight with precision ITO conductive glass and seamless Bluetooth app syncing."
+    },
+    {
+        "id": 518,
+        "name": "Puhdas+ BCAA 2:1:1 Amino Acid Recovery Powder Tub (300g)",
+        "category": "Supplements",
+        "price": 2499.0,
+        "image": "assets/images/products/518/main.jpg",
+        "rating": 4.5,
+        "reviews": 410,
+        "description": "Puhdas+ BCAA 2:1:1 Amino Acid Recovery Powder delivers fermented essential branched-chain amino acids in a proven 2:1:1 ratio to promote rapid muscle repair, reduce soreness, and sustain workout endurance."
+    },
+    {
+        "id": 588,
+        "name": "Natural Eco-Friendly Cork Yoga Mat (Non-Slip Workout Mat)",
+        "category": "Yoga",
+        "price": 2049.0,
+        "image": "assets/images/products/588/main.jpg",
+        "rating": 5.0,
+        "reviews": 422,
+        "description": "Natural Eco-Friendly Cork Yoga Mat is crafted from sustainably harvested organic oak cork and natural rubber, offering superior sweat-activated grip, antimicrobial properties, and joint-cushioning comfort."
+    },
+    {
+        "id": 658,
+        "name": "Commercial Lat Pulldown & Low Row Cable Machine Tower",
+        "category": "Home Gym",
+        "price": 74999.0,
+        "image": "assets/images/products/658/main.jpg",
+        "rating": 3.9,
+        "reviews": 496,
+        "description": "Commercial Lat Pulldown & Low Row Cable Machine features a heavy-duty steel frame, smooth dual-pulley cable system, adjustable thigh hold-down pads, and ergonomic wide lat bar for upper back development."
+    },
+    {
+        "id": 29,
+        "name": "SolioFit Olympic EZ Curl Barbell with Cast Iron Weight Plates Set",
+        "category": "Strength",
+        "price": 12919.0,
+        "image": "assets/images/products/29/main.jpg",
+        "rating": 4.7,
+        "reviews": 393,
+        "description": "SolioFit Olympic EZ Curl Barbell features an ergonomic cambered angle shaft to reduce wrist strain during bicep curls and skull crushers, paired with heavy-duty cast iron Olympic weight plates."
+    },
+    {
+        "id": 99,
+        "name": "Prasayu Fitness Commercial Magnetic Studio Indoor Cycling Exercise Bike",
+        "category": "Cardio",
+        "price": 28599.0,
+        "image": "assets/images/products/99/main.jpg",
+        "rating": 4.7,
+        "reviews": 369,
+        "description": "Prasayu Fitness Commercial Studio Indoor Cycling Bike features precision magnetic resistance, heavy flywheel, multi-grip aero handlebars, and whisper-quiet belt drive for high-intensity spin workouts."
+    },
+    {
+        "id": 169,
+        "name": "RDX Padded Curved Boxing Focus Punch Mitts (Pair)",
+        "category": "Combat",
+        "price": 3499.0,
+        "image": "assets/images/products/169/main.jpg",
+        "rating": 4.4,
+        "reviews": 66,
+        "description": "RDX Padded Curved Boxing Focus Punch Mitts feature shock-absorbent multi-layer foam padding, anatomical hand curvature, and perforated air ventilation for boxing and Muay Thai target mitt training."
+    },
+    {
+        "id": 379,
+        "name": "Men's Drop-Armhole Sleeveless Gym Workout Muscle Tank Top (Off-White)",
+        "category": "Apparel",
+        "price": 1489.0,
+        "image": "assets/images/products/379/main.jpg",
+        "rating": 4.4,
+        "reviews": 170,
+        "description": "Men's Drop-Armhole Sleeveless Workout Tank Top is cut from ultra-soft stretch cotton blend fabric with deep raw-cut armholes for maximum upper-body ventilation and full range of motion during lifts."
+    },
+    {
+        "id": 449,
+        "name": "Smart Touchscreen Fitness & Sport Tracker Smartwatch (Black/Red Strap)",
+        "category": "Fit Tech",
+        "price": 4559.0,
+        "image": "assets/images/products/449/main.jpg",
+        "rating": 4.9,
+        "reviews": 479,
+        "description": "Smart Touchscreen Fitness & Sport Tracker Smartwatch features a vivid HD full-color display, multi-sport activity tracking, optical heart rate and sleep monitor, and sporty dual-tone black and red silicone strap."
+    },
+    {
+        "id": 519,
+        "name": "Enervit Pure Pro Isolate Grass-Fed Whey Protein Powder (Cyan Tub)",
+        "category": "Supplements",
+        "price": 4999.0,
+        "image": "assets/images/products/519/main.jpg",
+        "rating": 4.5,
+        "reviews": 315,
+        "description": "Enervit Pure Pro Isolate delivers 24g of ultra-filtered grass-fed whey protein isolate per serving with zero added sugar and low carbs for lean muscle recovery and optimal post-workout protein synthesis."
+    },
+    {
+        "id": 589,
+        "name": "Organic Cotton Yoga Mat Carry Strap & Stretching Belt with D-Rings (Beige)",
+        "category": "Yoga",
+        "price": 899.0,
+        "image": "assets/images/products/589/main.jpg",
+        "rating": 4.5,
+        "reviews": 204,
+        "description": "Organic Cotton Yoga Mat Carry Strap doubles as a durable stretching yoga belt with dual metal D-rings, adjustable loop cinch closures, and natural unbleached woven cotton fabric."
+    },
+    {
+        "id": 659,
+        "name": "LiftDex Commercial Heavy-Duty Half Rack Squat Stand with Pull-Up Bar",
+        "category": "Home Gym",
+        "price": 30119.0,
+        "image": "assets/images/products/659/main.jpg",
+        "rating": 4.9,
+        "reviews": 259,
+        "description": "LiftDex Commercial Heavy-Duty Half Rack Squat Stand features laser-cut numbered uprights, multi-grip pull-up bar, heavy-duty J-cups, and extended safety spotter arms for powerlifting and bodybuilding."
+    },
+    {
+        "id": 30,
+        "name": "Multi-Angle Adjustable Incline Decline Weight Bench (Black/Red)",
+        "category": "Strength",
+        "price": 8879.0,
+        "image": "assets/images/products/30/main.jpg",
+        "rating": 4.4,
+        "reviews": 79,
+        "description": "Multi-Angle Adjustable Incline Decline Weight Bench offers 7 backrest positions and 3 seat angles, high-density foam padding with black and red upholstery, and reinforced steel frame for full-body dumbbell workouts."
+    },
+    {
+        "id": 100,
+        "name": "Commercial Revolving Stair Climber Stepmill Cardio Machine",
+        "category": "Cardio",
+        "price": 64999.0,
+        "image": "assets/images/products/100/main.jpg",
+        "rating": 4.0,
+        "reviews": 48,
+        "description": "Commercial Revolving Stair Climber Stepmill features automatic motorized rotating stairs, interactive digital workout console, dual handrail pulse sensors, and heavy-duty commercial drive mechanism."
+    },
+    {
+        "id": 170,
+        "name": "Martial Arts Padded Leather Shin & Instep Guards for Kickboxing & MMA (Black Pair)",
+        "category": "Combat",
+        "price": 4499.0,
+        "image": "assets/images/products/170/main.jpg",
+        "rating": 4.5,
+        "reviews": 38,
+        "description": "Martial Arts Padded Leather Shin & Instep Guards feature high-density shock-absorbing EVA foam cores, dual hook-and-loop security straps, and anatomical instep contouring for Muay Thai and kickboxing sparring."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -2960,76 +3110,6 @@ var shopProducts = [
         "description": "The Convertible Gym Backpack & Duffel Bag is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
-        "id": 448,
-        "name": "Smart Bike Computer with GPS Navigation",
-        "category": "Fit Tech",
-        "price": 22239.0,
-        "image": "assets/images/products/448/main.jpg",
-        "rating": 3.9,
-        "reviews": 182,
-        "description": "The Smart Bike Computer with GPS Navigation is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 518,
-        "name": "100% Whey Isolate Protein Powder (Chocolate Fudge 5 lbs)",
-        "category": "Supplements",
-        "price": 7679.0,
-        "image": "assets/images/products/518/main.jpg",
-        "rating": 4.5,
-        "reviews": 410,
-        "description": "The 100% Whey Isolate Protein Powder (Chocolate Fudge 5 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 588,
-        "name": "Organic Cotton Round Yoga Bolster",
-        "category": "Yoga",
-        "price": 2049.0,
-        "image": "assets/images/products/588/main.jpg",
-        "rating": 5.0,
-        "reviews": 422,
-        "description": "The Organic Cotton Round Yoga Bolster is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 658,
-        "name": "High Density Rubber Gym Flooring Tile (single)",
-        "category": "Home Gym",
-        "price": 4409.0,
-        "image": "assets/images/products/658/main.jpg",
-        "rating": 3.9,
-        "reviews": 496,
-        "description": "The High Density Rubber Gym Flooring Tile (single) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 29,
-        "name": "Foldable Wall Rack with Pull-Up Bar",
-        "category": "Strength",
-        "price": 12919.0,
-        "image": "assets/images/products/29/main.jpg",
-        "rating": 4.7,
-        "reviews": 393,
-        "description": "The Foldable Wall Rack with Pull-Up Bar is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 99,
-        "name": "Dual-Handle Hydro Rowing Machine",
-        "category": "Cardio",
-        "price": 28599.0,
-        "image": "assets/images/products/99/main.jpg",
-        "rating": 4.7,
-        "reviews": 369,
-        "description": "The Dual-Handle Hydro Rowing Machine is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 169,
-        "name": "Competition Boxing Headgear (Cheek Protection)",
-        "category": "Combat",
-        "price": 4119.0,
-        "image": "assets/images/products/169/main.jpg",
-        "rating": 4.4,
-        "reviews": 66,
-        "description": "The Competition Boxing Headgear (Cheek Protection) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
         "id": 239,
         "name": "Professional Percussive Massage Gun (8 Speeds)",
         "category": "Recovery",
@@ -3048,86 +3128,6 @@ var shopProducts = [
         "rating": 4.8,
         "reviews": 368,
         "description": "The Smto Sports Liquid Grip Gym Chalk (250ml Bottle) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 379,
-        "name": "Dry-Fit Sleeveless Muscle Shirt",
-        "category": "Apparel",
-        "price": 1489.0,
-        "image": "assets/images/products/379/main.jpg",
-        "rating": 4.4,
-        "reviews": 170,
-        "description": "The Dry-Fit Sleeveless Muscle Shirt is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 449,
-        "name": "Continuous Glucose & Workout Monitor Sensor",
-        "category": "Fit Tech",
-        "price": 4559.0,
-        "image": "assets/images/products/449/main.jpg",
-        "rating": 4.9,
-        "reviews": 479,
-        "description": "The Continuous Glucose & Workout Monitor Sensor is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 519,
-        "name": "Non-Stim Pre-Workout Pump Matrix (300g)",
-        "category": "Supplements",
-        "price": 1779.0,
-        "image": "assets/images/products/519/main.jpg",
-        "rating": 4.5,
-        "reviews": 315,
-        "description": "The Non-Stim Pre-Workout Pump Matrix (300g) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 589,
-        "name": "Textured Rubber Yoga Wheel Stretcher",
-        "category": "Yoga",
-        "price": 2709.0,
-        "image": "assets/images/products/589/main.jpg",
-        "rating": 4.5,
-        "reviews": 204,
-        "description": "The Textured Rubber Yoga Wheel Stretcher is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 659,
-        "name": "Adjustable Dial Dumbbell Set with Tray (5-50 lbs)",
-        "category": "Home Gym",
-        "price": 30119.0,
-        "image": "assets/images/products/659/main.jpg",
-        "rating": 4.9,
-        "reviews": 259,
-        "description": "The Adjustable Dial Dumbbell Set with Tray (5-50 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 30,
-        "name": "Commercial Preacher Curl Bench",
-        "category": "Strength",
-        "price": 8879.0,
-        "image": "assets/images/products/30/main.jpg",
-        "rating": 4.4,
-        "reviews": 79,
-        "description": "The Commercial Preacher Curl Bench is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 100,
-        "name": "Upright Fitness Exercise Bike with Heart Rate Grips",
-        "category": "Cardio",
-        "price": 13119.0,
-        "image": "assets/images/products/100/main.jpg",
-        "rating": 4.0,
-        "reviews": 48,
-        "description": "The Upright Fitness Exercise Bike with Heart Rate Grips is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 170,
-        "name": "Freestanding Heavy Bag with Multi-Zone Targets",
-        "category": "Combat",
-        "price": 7639.0,
-        "image": "assets/images/products/170/main.jpg",
-        "rating": 4.5,
-        "reviews": 38,
-        "description": "The Freestanding Heavy Bag with Multi-Zone Targets is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 240,
