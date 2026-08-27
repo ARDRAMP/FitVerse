@@ -59,7 +59,7 @@ Total Products: **700**
 | 33 | Olympic Hex Trap Deadlift Bar with Dual Knurled Handles |
 | 34 | Rapid-Select Adjustable Dumbbells Pair with Storage Tray (Red & Black) |
 | 35 | Heavy Duty Ab Slab Incline Bench |
-| 36 | Calibrated Powerlifting Steel Plate (25kg) |
+| 36 | Ironwork Athletic Tri-Grip Rubber Coated Olympic Weight Plates (Pair) |
 | 37 | Steel Parallel Bars Dip Station |
 | 38 | Rubber Coated Hex Dumbbell (50 lbs) |
 | 39 | Ergonomic Handle Kettlebell (8kg) |
@@ -434,7 +434,7 @@ Total Products: **700**
 | 383 | Women's High-Waisted Seamless Athletic Gym Biker Shorts (Grey) |
 | 384 | Squat Machine Pro Weightlifting & Powerlifting Shoes (White/Orange) |
 | 385 | Breathable Mesh Back Performance Tee |
-| 386 | High-Support Cross-Back Sports Bra |
+| 386 | Relaxed-Fit Fleece Cuffed Gym Jogger Sweatpants (Light Blue) |
 | 387 | Barefoot Style Cross-Training Shoes |
 | 388 | Relaxed Fit Heavy Weightlifting Graphic Tee |
 | 389 | Compression Long Sleeve Rashguard Shirt |
@@ -508,8 +508,8 @@ Total Products: **700**
 | 452 | Normatec Pneumatic Dynamic Air Compression Leg Recovery Boots System |
 | 453 | Professional Segmental Multi-Frequency Body Composition Analyzer Scale with Hand Grips |
 | 454 | Garmin GPS Multisport Smartwatch with AMOLED Display (Black) |
-| 455 | Bluetooth Heart Rate Armband Monitor Sensor |
-| 456 | Wearable Electrostimulation EMS Abdominal Belt |
+| 455 | Slim OLED Activity & Fitness Tracker Smart Band with Heart Rate Sensor |
+| 456 | Smart Color Screen Activity & Workout Tracker Band (Black Strap) |
 | 457 | Wireless Open-Ear Bone Conduction Sport Headphones |
 | 458 | Smart Sensor Speedometer for Cycling |
 | 459 | Digital Hand Grip Dynamometer Tester (90kg / 200lbs) |
@@ -658,7 +658,7 @@ Total Products: **700**
 | 592 | Lightweight Travel EVA Foam Yoga Block |
 | 593 | Dual-Layer Non-Slip Eco-Friendly TPE Yoga & Exercise Mat (Sky Blue / Beige) |
 | 594 | Adjustable Yoga Mat Carry Sling Strap & Stretching Belt (Black) |
-| 595 | Back Release Roller Yoga Wheel (13-Inch) |
+| 595 | Traditional Round Pleated Zafu Meditation Cushion (Burgundy Maroon) |
 | 596 | Sweat Absorbent Yoga Mat Towel Full Size |
 | 597 | Premium Natural Rubber Yoga Mat (6mm) |
 | 598 | High Density Cork Yoga Block Single |

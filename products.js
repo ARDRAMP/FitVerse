@@ -1870,6 +1870,56 @@ var shopProducts = [
         "description": "Adjustable Yoga Mat Carry Sling Strap is crafted from high-tensile durable woven cotton webbing with dual adjustable cinch loops that securely hold any size yoga mat or double as a stretching resistance strap."
     },
     {
+        "id": 455,
+        "name": "Slim OLED Activity & Fitness Tracker Smart Band with Heart Rate Sensor",
+        "category": "Fit Tech",
+        "price": 4079.0,
+        "image": "assets/images/products/455/main.jpg",
+        "rating": 4.9,
+        "reviews": 128,
+        "description": "Slim OLED Activity & Fitness Tracker Smart Band features a vibrant vertical OLED screen, continuous dynamic optical heart rate tracking, step counter, sleep monitor, and comfortable black silicone wristband."
+    },
+    {
+        "id": 595,
+        "name": "Traditional Round Pleated Zafu Meditation Cushion (Burgundy Maroon)",
+        "category": "Yoga",
+        "price": 1059.0,
+        "image": "assets/images/products/595/main.jpg",
+        "rating": 4.7,
+        "reviews": 449,
+        "description": "Traditional Round Pleated Zafu Meditation Cushion is hand-stuffed with natural organic buckwheat hulls, featuring a pleated burgundy cotton canvas outer cover and sturdy carry handle for spine alignment during meditation."
+    },
+    {
+        "id": 36,
+        "name": "Ironwork Athletic Tri-Grip Rubber Coated Olympic Weight Plates (Pair)",
+        "category": "Strength",
+        "price": 4499.0,
+        "image": "assets/images/products/36/main.jpg",
+        "rating": 4.9,
+        "reviews": 109,
+        "description": "Ironwork Athletic Tri-Grip Rubber Coated Olympic Weight Plates feature durable cast iron core encased in premium shock-absorbing rubber, precision stainless steel center ring, and ergonomic three-handle grip design."
+    },
+    {
+        "id": 386,
+        "name": "Relaxed-Fit Fleece Cuffed Gym Jogger Sweatpants (Light Blue)",
+        "category": "Apparel",
+        "price": 2539.0,
+        "image": "assets/images/products/386/main.jpg",
+        "rating": 4.4,
+        "reviews": 437,
+        "description": "Relaxed-Fit Fleece Cuffed Gym Jogger Sweatpants feature ultra-soft brushed interior fleece, elasticated drawstring waistband, ribbed ankle cuffs, and side pockets in a stylish pastel sky blue shade."
+    },
+    {
+        "id": 456,
+        "name": "Smart Color Screen Activity & Workout Tracker Band (Black Strap)",
+        "category": "Fit Tech",
+        "price": 4319.0,
+        "image": "assets/images/products/456/main.jpg",
+        "rating": 4.4,
+        "reviews": 84,
+        "description": "Smart Color Screen Activity & Workout Tracker Band features high-precision sports workout tracking, real-time heart rate monitoring, calorie burn metrics, and durable sweat-resistant black band."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -3670,16 +3720,6 @@ var shopProducts = [
         "description": "The Breathable Mesh Back Performance Tee is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
-        "id": 455,
-        "name": "Bluetooth Heart Rate Armband Monitor Sensor",
-        "category": "Fit Tech",
-        "price": 4079.0,
-        "image": "assets/images/products/455/main.jpg",
-        "rating": 4.9,
-        "reviews": 128,
-        "description": "The Bluetooth Heart Rate Armband Monitor Sensor is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
         "id": 525,
         "name": "Advanced Pre-Workout Powder Formula (Blue Raspberry)",
         "category": "Supplements",
@@ -3688,26 +3728,6 @@ var shopProducts = [
         "rating": 4.3,
         "reviews": 420,
         "description": "The Advanced Pre-Workout Powder Formula (Blue Raspberry) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 595,
-        "name": "Back Release Roller Yoga Wheel (13-Inch)",
-        "category": "Yoga",
-        "price": 1059.0,
-        "image": "assets/images/products/595/main.jpg",
-        "rating": 4.7,
-        "reviews": 449,
-        "description": "The Back Release Roller Yoga Wheel (13-Inch) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 36,
-        "name": "Calibrated Powerlifting Steel Plate (25kg)",
-        "category": "Strength",
-        "price": 1229.0,
-        "image": "assets/images/products/36/main.jpg",
-        "rating": 4.9,
-        "reviews": 109,
-        "description": "The Calibrated Powerlifting Steel Plate (25kg) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 106,
@@ -3748,26 +3768,6 @@ var shopProducts = [
         "rating": 4.3,
         "reviews": 371,
         "description": "The Ergonomic Wrist Support Guard Brace with Thumb Loop is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 386,
-        "name": "High-Support Cross-Back Sports Bra",
-        "category": "Apparel",
-        "price": 2539.0,
-        "image": "assets/images/products/386/main.jpg",
-        "rating": 4.4,
-        "reviews": 437,
-        "description": "The High-Support Cross-Back Sports Bra is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 456,
-        "name": "Wearable Electrostimulation EMS Abdominal Belt",
-        "category": "Fit Tech",
-        "price": 4319.0,
-        "image": "assets/images/products/456/main.jpg",
-        "rating": 4.4,
-        "reviews": 84,
-        "description": "The Wearable Electrostimulation EMS Abdominal Belt is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 526,
