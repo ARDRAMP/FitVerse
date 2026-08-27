@@ -740,6 +740,26 @@ var shopProducts = [
         "description": "Pro Olympic Weightlifting Shoes feature a rigid raised TPU heel, high-traction non-slip rubber outsole, dual carbon-textured midfoot locking straps, and breathable perforated upper for maximum stability during heavy squats and snatches."
     },
     {
+        "id": 436,
+        "name": "CooSpo Bluetooth & ANT+ Heart Rate Monitor Chest Strap",
+        "category": "Fit Tech",
+        "price": 3499.0,
+        "image": "assets/images/products/436/main.jpg",
+        "rating": 4.8,
+        "reviews": 495,
+        "description": "CooSpo Bluetooth & ANT+ Heart Rate Monitor Chest Strap features real-time dynamic ECG-accuracy heart rate tracking, LED indicator light, dual wireless protocol compatibility with fitness apps and bike computers, and an adjustable soft elastic red chest band."
+    },
+    {
+        "id": 506,
+        "name": "Applied Nutrition BCAA Amino Hydrate Powder (Fruit Burst)",
+        "category": "Supplements",
+        "price": 2999.0,
+        "image": "assets/images/products/506/main.jpg",
+        "rating": 4.6,
+        "reviews": 245,
+        "description": "Applied Nutrition BCAA Amino Hydrate is an intra-workout electrolyte and amino acid drink mix delivering 7.2g of BCAAs with zero sugar per serving in delicious Fruit Burst flavor for rapid muscle hydration, performance, and recovery."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -1758,26 +1778,6 @@ var shopProducts = [
         "rating": 4.7,
         "reviews": 299,
         "description": "The Extreme Mass Gainer Powder (Vanilla 10 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 436,
-        "name": "Bluetooth Audio Sport Earbuds with Earhooks",
-        "category": "Fit Tech",
-        "price": 5319.0,
-        "image": "assets/images/products/436/main.jpg",
-        "rating": 4.8,
-        "reviews": 495,
-        "description": "The Bluetooth Audio Sport Earbuds with Earhooks is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 506,
-        "name": "Hydrolyzed Whey Isolate Protein (Strawberry 4 lbs)",
-        "category": "Supplements",
-        "price": 3689.0,
-        "image": "assets/images/products/506/main.jpg",
-        "rating": 4.6,
-        "reviews": 245,
-        "description": "The Hydrolyzed Whey Isolate Protein (Strawberry 4 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 576,

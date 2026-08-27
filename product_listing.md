@@ -489,7 +489,7 @@ Total Products: **700**
 | 433 | Smart Jump Rope with LED Jump Counter |
 | 434 | Garmin Tactix 7 Pro Multisport Tactical GPS Smartwatch |
 | 435 | Smart Workout Tracker Wristband with SpO2 Sensor |
-| 436 | Bluetooth Audio Sport Earbuds with Earhooks |
+| 436 | CooSpo Bluetooth & ANT+ Heart Rate Monitor Chest Strap |
 | 437 | Smart Speedometer & Cadence Sensor for Bikes |
 | 438 | Wearable Thermal Muscle Warming Device |
 | 439 | Wireless Digital Grip Strength Dynamometer Tester |
@@ -564,7 +564,7 @@ Total Products: **700**
 | 503 | Fermented Essential Amino Acids EAA Powder (Watermelon) |
 | 504 | High-Potency Omega-3 Fish Oil Softgels (120 Softgels) |
 | 505 | Extreme Mass Gainer Powder (Vanilla 10 lbs) |
-| 506 | Hydrolyzed Whey Isolate Protein (Strawberry 4 lbs) |
+| 506 | Applied Nutrition BCAA Amino Hydrate Powder (Fruit Burst) |
 | 507 | Stimulant-Free Pump Pre-Workout Powder (Unflavored) |
 | 508 | Micronized Creatine Monohydrate Powder (1kg Bulk) |
 | 509 | BCAA Intra-Workout Powder with Electrolytes (Mango 400g) |
