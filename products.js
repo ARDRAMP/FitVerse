@@ -1920,6 +1920,76 @@ var shopProducts = [
         "description": "Smart Color Screen Activity & Workout Tracker Band features high-precision sports workout tracking, real-time heart rate monitoring, calorie burn metrics, and durable sweat-resistant black band."
     },
     {
+        "id": 596,
+        "name": "Hugger Mugger Rectangular Meditation & Yoga Bolster Pillow (Navy Blue)",
+        "category": "Yoga",
+        "price": 2289.0,
+        "image": "assets/images/products/596/main.jpg",
+        "rating": 4.5,
+        "reviews": 162,
+        "description": "Hugger Mugger Rectangular Yoga Bolster Pillow features dense foam core with cotton batting wrap, durable navy blue upholstery canvas cover, and integrated side carry handle for restorative spine and hip support."
+    },
+    {
+        "id": 37,
+        "name": "Titan Fitness Commercial Olympic Barbell with Black Bumper Plates Set",
+        "category": "Strength",
+        "price": 18999.0,
+        "image": "assets/images/products/37/main.jpg",
+        "rating": 4.3,
+        "reviews": 133,
+        "description": "Titan Fitness Olympic Barbell & Bumper Plates Set includes a high-tensile steel Olympic barbell with medium diamond knurl, bronze bushings, and heavy-duty virgin rubber deadlift bumper plates."
+    },
+    {
+        "id": 279,
+        "name": "Graduated Compression Elbow & Arm Support Sleeve (Black & Neon Green)",
+        "category": "Recovery",
+        "price": 1299.0,
+        "image": "assets/images/products/279/main.jpg",
+        "rating": 3.9,
+        "reviews": 279,
+        "description": "Graduated Compression Elbow & Arm Support Sleeve provides targeted joint stabilization, gradient compression knit, and vibrant neon green fade detailing for tendonitis relief and athletic performance."
+    },
+    {
+        "id": 419,
+        "name": "Women's High-Waisted Seamless Compression Athletic Biker Shorts (Dark Teal)",
+        "category": "Apparel",
+        "price": 1249.0,
+        "image": "assets/images/products/419/main.jpg",
+        "rating": 4.4,
+        "reviews": 297,
+        "description": "Women's High-Waisted Seamless Athletic Biker Shorts feature 4-way stretch moisture-wicking compression fabric, wide tummy-control waistband, and flatlock anti-chafing seams in dark teal."
+    },
+    {
+        "id": 70,
+        "name": "Commercial Heavy-Duty Flat Weightlifting Bench with Transport Wheels",
+        "category": "Strength",
+        "price": 14999.0,
+        "image": "assets/images/products/70/main.jpg",
+        "rating": 4.1,
+        "reviews": 275,
+        "description": "Commercial Heavy-Duty Flat Weightlifting Bench is built with 3x3-inch 11-gauge steel framing, high-density non-slip vinyl bench pad, ergonomic front grab handle, and rear urethane transport wheels."
+    },
+    {
+        "id": 280,
+        "name": "Plunge Lab Portable Insulated Ice Bath Cold Plunge Tub with Inflatable Lid",
+        "category": "Recovery",
+        "price": 7499.0,
+        "image": "assets/images/products/280/main.jpg",
+        "rating": 4.4,
+        "reviews": 142,
+        "description": "Plunge Lab Portable Insulated Ice Bath features multi-layer thermal drop-stitch insulation, inflatable insulated thermal cover lid, reinforced support posts, and fast drainage tap for ice recovery therapy."
+    },
+    {
+        "id": 700,
+        "name": "Marcy Pro Commercial Multi-Gym Power Rack Cage with Weight Bench & Pull-Up Bar",
+        "category": "Home Gym",
+        "price": 64999.0,
+        "image": "assets/images/products/700/main.jpg",
+        "rating": 4.3,
+        "reviews": 76,
+        "description": "Marcy Pro Commercial Multi-Gym Power Rack features a heavy-duty steel squat cage, integrated multi-grip chin-up bar, adjustable safety spotter arms, and multi-position incline decline weight bench."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -3778,26 +3848,6 @@ var shopProducts = [
         "rating": 3.9,
         "reviews": 103,
         "description": "The Micronized Creatine Monohydrate Capsules (120 Capsules) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 596,
-        "name": "Sweat Absorbent Yoga Mat Towel Full Size",
-        "category": "Yoga",
-        "price": 2289.0,
-        "image": "assets/images/products/596/main.jpg",
-        "rating": 4.5,
-        "reviews": 162,
-        "description": "The Sweat Absorbent Yoga Mat Towel Full Size is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 37,
-        "name": "Steel Parallel Bars Dip Station",
-        "category": "Strength",
-        "price": 1599.0,
-        "image": "assets/images/products/37/main.jpg",
-        "rating": 4.3,
-        "reviews": 133,
-        "description": "The Steel Parallel Bars Dip Station is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 107,
@@ -6850,26 +6900,6 @@ var shopProducts = [
         "description": "The Heavy Leather Banana Bag (130 lbs / 6ft) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
-        "id": 279,
-        "name": "Epsom Salt Recovery Bath Soak with Eucalyptus",
-        "category": "Recovery",
-        "price": 2479.0,
-        "image": "assets/images/products/279/main.jpg",
-        "rating": 3.9,
-        "reviews": 279,
-        "description": "The Epsom Salt Recovery Bath Soak with Eucalyptus is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 419,
-        "name": "Dry-Fit Sleeveless Training Hoodie",
-        "category": "Apparel",
-        "price": 1249.0,
-        "image": "assets/images/products/419/main.jpg",
-        "rating": 4.4,
-        "reviews": 297,
-        "description": "The Dry-Fit Sleeveless Training Hoodie is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
         "id": 489,
         "name": "GPS Smartwatch with AMOLED Display",
         "category": "Fit Tech",
@@ -6910,16 +6940,6 @@ var shopProducts = [
         "description": "The Heavy Duty Power Tower Station (1000lb Limit) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
-        "id": 70,
-        "name": "Heavy Duty Commercial Power Rack Cage",
-        "category": "Strength",
-        "price": 80499.0,
-        "image": "assets/images/products/70/main.jpg",
-        "rating": 4.1,
-        "reviews": 275,
-        "description": "The Heavy Duty Commercial Power Rack Cage is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
         "id": 140,
         "name": "Commercial Heavy-Duty Motorized Treadmill",
         "category": "Cardio",
@@ -6938,16 +6958,6 @@ var shopProducts = [
         "rating": 4.0,
         "reviews": 251,
         "description": "The Professional Lace-Up Boxing Gloves (14 oz) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 280,
-        "name": "Pro Air Compression Leg & Thigh Recovery Boots",
-        "category": "Recovery",
-        "price": 3219.0,
-        "image": "assets/images/products/280/main.jpg",
-        "rating": 4.4,
-        "reviews": 142,
-        "description": "The Pro Air Compression Leg & Thigh Recovery Boots is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 420,
@@ -6988,15 +6998,5 @@ var shopProducts = [
         "rating": 3.9,
         "reviews": 299,
         "description": "The Organic Cotton Meditation Bolster Pillow (v70) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 700,
-        "name": "Interlocking Rubber Gym Floor Mat Roll",
-        "category": "Home Gym",
-        "price": 1509.0,
-        "image": "assets/images/products/700/main.jpg",
-        "rating": 4.3,
-        "reviews": 76,
-        "description": "The Interlocking Rubber Gym Floor Mat Roll is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     }
 ];

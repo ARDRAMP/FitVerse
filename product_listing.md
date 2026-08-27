@@ -60,7 +60,7 @@ Total Products: **700**
 | 34 | Rapid-Select Adjustable Dumbbells Pair with Storage Tray (Red & Black) |
 | 35 | Heavy Duty Ab Slab Incline Bench |
 | 36 | Ironwork Athletic Tri-Grip Rubber Coated Olympic Weight Plates (Pair) |
-| 37 | Steel Parallel Bars Dip Station |
+| 37 | Titan Fitness Commercial Olympic Barbell with Black Bumper Plates Set |
 | 38 | Rubber Coated Hex Dumbbell (50 lbs) |
 | 39 | Ergonomic Handle Kettlebell (8kg) |
 | 40 | Commercial Leg Press Hack Squat Machine |
@@ -93,7 +93,7 @@ Total Products: **700**
 | 67 | Rubber Coated Hex Dumbbell (60 lbs) |
 | 68 | Cast Iron Kettlebell (18kg / 40lbs) |
 | 69 | Steel Weight Plate Set (300lb Olympic Set) |
-| 70 | Heavy Duty Commercial Power Rack Cage |
+| 70 | Commercial Heavy-Duty Flat Weightlifting Bench with Transport Wheels |
 
 ## Category: Cardio (70 products)
 
@@ -317,8 +317,8 @@ Total Products: **700**
 | 276 | Ergonomic Textured Foam Roller (14-Inch) |
 | 277 | Deep Tissue Muscle Massage Ball (Solid Rubber) |
 | 278 | Electric Infrared Heating Waist & Back Belt |
-| 279 | Epsom Salt Recovery Bath Soak with Eucalyptus |
-| 280 | Pro Air Compression Leg & Thigh Recovery Boots |
+| 279 | Graduated Compression Elbow & Arm Support Sleeve (Black & Neon Green) |
+| 280 | Plunge Lab Portable Insulated Ice Bath Cold Plunge Tub with Inflatable Lid |
 
 ## Category: Accessories (70 products)
 
@@ -467,7 +467,7 @@ Total Products: **700**
 | 416 | Stretch Athletic Shorts with Built-In Liner |
 | 417 | Seamless Long Sleeve Crop Top |
 | 418 | Tapered Performance Gym Joggers |
-| 419 | Dry-Fit Sleeveless Training Hoodie |
+| 419 | Women's High-Waisted Seamless Compression Athletic Biker Shorts (Dark Teal) |
 | 420 | Heavy Duty Leather Powerlifting Shoes |
 
 ## Category: Fit Tech (70 products)
@@ -659,7 +659,7 @@ Total Products: **700**
 | 593 | Dual-Layer Non-Slip Eco-Friendly TPE Yoga & Exercise Mat (Sky Blue / Beige) |
 | 594 | Adjustable Yoga Mat Carry Sling Strap & Stretching Belt (Black) |
 | 595 | Traditional Round Pleated Zafu Meditation Cushion (Burgundy Maroon) |
-| 596 | Sweat Absorbent Yoga Mat Towel Full Size |
+| 596 | Hugger Mugger Rectangular Meditation & Yoga Bolster Pillow (Navy Blue) |
 | 597 | Premium Natural Rubber Yoga Mat (6mm) |
 | 598 | High Density Cork Yoga Block Single |
 | 599 | Yoga Stretching Strap with Loop Handles |
@@ -768,4 +768,4 @@ Total Products: **700**
 | 697 | Wall-Mounted Steel Pull-Up Bar System |
 | 698 | Bodyweight Suspension Trainer Straps Set |
 | 699 | Heavy Duty Power Tower Station (1000lb Limit) |
-| 700 | Interlocking Rubber Gym Floor Mat Roll |
+| 700 | Marcy Pro Commercial Multi-Gym Power Rack Cage with Weight Bench & Pull-Up Bar |
