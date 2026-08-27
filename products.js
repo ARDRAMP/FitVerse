@@ -3730,6 +3730,206 @@ var shopProducts = [
         "description": "Smart Indoor Studio Spin Exercise Bike features silent magnetic resistance flywheel, smooth poly-V belt drive, fully adjustable race saddle, and HD tablet media console."
     },
     {
+        "id": 678,
+        "name": "High-Density EVA Interlocking Puzzle Exercise Gym Flooring Mat Tiles (Grey & Black)",
+        "category": "Home Gym",
+        "price": 2999.0,
+        "image": "assets/images/products/678/main.jpg",
+        "rating": 4.4,
+        "reviews": 210,
+        "description": "High-Density EVA Interlocking Puzzle Floor Tiles feature non-slip textured diamond pattern, dual-tone grey and black border edges, and high-impact shock absorption."
+    },
+    {
+        "id": 49,
+        "name": "Rock Solid Olympic Hex Trap Bar / Deadlift Shrug Bar with Heavy Bumper Plates",
+        "category": "Strength",
+        "price": 11999.0,
+        "image": "assets/images/products/49/main.jpg",
+        "rating": 4.3,
+        "reviews": 190,
+        "description": "Rock Solid Olympic Hex Trap Bar features heavy-duty matte black steel frame, elevated dual knurled handles, and Olympic weight plate sleeves for deadlifts and shrugs."
+    },
+    {
+        "id": 119,
+        "name": "Powergun Commercial Magnetic & Air Resistance Indoor Rowing Machine with Performance Monitor",
+        "category": "Cardio",
+        "price": 67399.0,
+        "image": "assets/images/products/119/main.jpg",
+        "rating": 4.6,
+        "reviews": 250,
+        "description": "Powergun Commercial Rowing Machine features smooth dual air and magnetic flywheel resistance, ergonomic molded seat, aluminum monorail track, and LCD console."
+    },
+    {
+        "id": 189,
+        "name": "Heavy-Duty Vinyl Hanging Heavy Boxing & Kickboxing Punching Bag (Bright Red)",
+        "category": "Combat",
+        "price": 5319.0,
+        "image": "assets/images/products/189/main.jpg",
+        "rating": 4.5,
+        "reviews": 280,
+        "description": "Heavy-Duty Hanging Punching Bag features reinforced heavy-gauge red vinyl shell, heavy nylon hanging straps with steel D-rings, and dense textile filling for kicks and punches."
+    },
+    {
+        "id": 259,
+        "name": "Cervical Neck & Suboccipital Trigger Point Foam Roller Pillow (Black)",
+        "category": "Recovery",
+        "price": 919.0,
+        "image": "assets/images/products/259/main.jpg",
+        "rating": 4.8,
+        "reviews": 309,
+        "description": "Cervical Neck Trigger Point Foam Roller features contoured anatomical design to cradle the neck and release suboccipital tension, upper spine stiffness, and muscle tightness."
+    },
+    {
+        "id": 399,
+        "name": "Women's Seamless Long-Sleeve Athletic Cropped Workout Top (Lilac Lavender Purple)",
+        "category": "Apparel",
+        "price": 1539.0,
+        "image": "assets/images/products/399/main.jpg",
+        "rating": 4.7,
+        "reviews": 212,
+        "description": "Women's Seamless Long-Sleeve Cropped Workout Top features 4-way stretch compression knit, raglan sleeves, crew neck, and breathable moisture-wicking lavender fabric."
+    },
+    {
+        "id": 469,
+        "name": "Apple Watch Ultra Style Rugged Titanium Smartwatch with Ocean Silicone Band (Black)",
+        "category": "Fit Tech",
+        "price": 4999.0,
+        "image": "assets/images/products/469/main.jpg",
+        "rating": 4.1,
+        "reviews": 473,
+        "description": "Rugged Titanium Smartwatch features bright outdoor AMOLED touchscreen, multi-sport activity tracking, optical heart rate/SpO2 sensors, and vented black silicone ocean band."
+    },
+    {
+        "id": 539,
+        "name": "Skill Nutrition Blue Raspberry High-Performance Pre-Workout Powder Tub",
+        "category": "Supplements",
+        "price": 2059.0,
+        "image": "assets/images/products/539/main.jpg",
+        "rating": 4.8,
+        "reviews": 250,
+        "description": "Skill Nutrition Pre-Workout Formula delivers clean explosive energy, rapid focus, and massive muscle pumps powered by beta-alanine, citrulline, and blue raspberry flavor."
+    },
+    {
+        "id": 609,
+        "name": "Multi-Loop Yoga Stretching Strap Belt for Hamstring & Flexibility (Black)",
+        "category": "Yoga",
+        "price": 899.0,
+        "image": "assets/images/products/609/main.jpg",
+        "rating": 4.2,
+        "reviews": 383,
+        "description": "Multi-Loop Yoga Stretching Strap features durable non-elastic woven webbing with numbered foot/hand loops for guided hamstring, quad, and shoulder flexibility exercises in black."
+    },
+    {
+        "id": 679,
+        "name": "Heavy-Duty Interlocking Textured Rubber Gym Floor Matting System",
+        "category": "Home Gym",
+        "price": 2999.0,
+        "image": "assets/images/products/679/main.jpg",
+        "rating": 3.8,
+        "reviews": 374,
+        "description": "Heavy-Duty Interlocking Rubber Gym Flooring features raised diamond-plate grip texture, sound-dampening high-density vulcanized rubber, and modular puzzle edges."
+    },
+    {
+        "id": 50,
+        "name": "Chrome Adjustable Dumbbells Set with Spinlock Star Collars",
+        "category": "Strength",
+        "price": 3499.0,
+        "image": "assets/images/products/50/main.jpg",
+        "rating": 4.8,
+        "reviews": 75,
+        "description": "Chrome Adjustable Dumbbell Set features knurled steel handles, threaded spinlock star collars, and high-polish chrome weight plates for home resistance training."
+    },
+    {
+        "id": 120,
+        "name": "Ultra-Thin Foldable Walking Pad Under-Desk Treadmill with Remote (Silver/Black)",
+        "category": "Cardio",
+        "price": 43249.0,
+        "image": "assets/images/products/120/main.jpg",
+        "rating": 4.6,
+        "reviews": 67,
+        "description": "Ultra-Thin Foldable Walking Pad Treadmill features low-profile compact design, quiet brushless motor, LED display base, and wireless remote control for office and home use."
+    },
+    {
+        "id": 190,
+        "name": "Vanguard Pro Leather Full-Face Boxing Sparring Headgear with Cheek & Chin Guard",
+        "category": "Combat",
+        "price": 3999.0,
+        "image": "assets/images/products/190/main.jpg",
+        "rating": 4.6,
+        "reviews": 468,
+        "description": "Vanguard Pro Full-Face Sparring Headgear features high-density contoured cheek and chin guards, padded ear protection, and adjustable rear velcro in matte black."
+    },
+    {
+        "id": 260,
+        "name": "100% Pure Epsom Salt Foot Soak Crystals Pouch with Tea Tree & Peppermint Oils",
+        "category": "Recovery",
+        "price": 899.0,
+        "image": "assets/images/products/260/main.jpg",
+        "rating": 4.5,
+        "reviews": 368,
+        "description": "100% Pure Epsom Salt Foot Soak combines magnesium sulfate crystals with organic Australian tea tree and cooling peppermint essential oils to soothe tired, aching feet."
+    },
+    {
+        "id": 400,
+        "name": "Women's Cropped Full-Zip Athletic Workout Fleece Hoodie (Mocha Brown)",
+        "category": "Apparel",
+        "price": 1899.0,
+        "image": "assets/images/products/400/main.jpg",
+        "rating": 4.5,
+        "reviews": 210,
+        "description": "Women's Cropped Full-Zip Athletic Hoodie features soft cotton-blend fleece, drop-shoulder cut, ribbed hem and cuffs, front zip, and modern mocha brown styling."
+    },
+    {
+        "id": 470,
+        "name": "Curved AMOLED Smart Fitness Watch with Heart Rate & Calorie Activity Tracker (Black)",
+        "category": "Fit Tech",
+        "price": 16099.0,
+        "image": "assets/images/products/470/main.jpg",
+        "rating": 4.3,
+        "reviews": 417,
+        "description": "Curved AMOLED Smart Fitness Watch features high-resolution display, 24/7 heart rate monitoring, sleep tracking, step and calorie counter, and water-resistant black silicone strap."
+    },
+    {
+        "id": 540,
+        "name": "Super Multivitamin Once Daily Dietary Supplement Tablets Bottle (Amber Glass)",
+        "category": "Supplements",
+        "price": 1299.0,
+        "image": "assets/images/products/540/main.jpg",
+        "rating": 4.8,
+        "reviews": 329,
+        "description": "Super Multivitamin Once Daily delivers complete daily vitamins A through Zinc, active minerals, and antioxidant support in an amber glass apothecary bottle."
+    },
+    {
+        "id": 610,
+        "name": "High-Density Foam Incline Slant Squat & Pelvic/Calf Wedge Pillow (Red & Charcoal)",
+        "category": "Yoga",
+        "price": 1509.0,
+        "image": "assets/images/products/610/main.jpg",
+        "rating": 4.6,
+        "reviews": 25,
+        "description": "High-Density Foam Slant Wedge Pillow provides ergonomic incline support for deep squat heel elevation, pelvic alignment, and restorative calf stretching in red and charcoal."
+    },
+    {
+        "id": 680,
+        "name": "Heavy-Duty Commercial Rubber Gym Flooring Interlocking Tiles (Black Speckled)",
+        "category": "Home Gym",
+        "price": 3499.0,
+        "image": "assets/images/products/680/main.jpg",
+        "rating": 4.9,
+        "reviews": 165,
+        "description": "Commercial Interlocking Rubber Gym Flooring Tiles feature heavy-duty impact-absorbing recycled rubber with speckled fleck pattern for free-weight and barbell zones."
+    },
+    {
+        "id": 51,
+        "name": "Cast Iron Kettlebell for Two-Arm Swings & Core Training (Grey)",
+        "category": "Strength",
+        "price": 2999.0,
+        "image": "assets/images/products/51/main.jpg",
+        "rating": 4.8,
+        "reviews": 72,
+        "description": "Cast Iron Kettlebell features smooth wide-grip ergonomic handle, balanced flat base, and chip-resistant grey finish for two-arm swings, snatches, and core conditioning."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -6668,206 +6868,6 @@ var shopProducts = [
         "rating": 4.6,
         "reviews": 357,
         "description": "The Non-Slip Yoga Towel with Corner Pockets is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 678,
-        "name": "Compact Foldable Flat Utility Bench",
-        "category": "Home Gym",
-        "price": 14959.0,
-        "image": "assets/images/products/678/main.jpg",
-        "rating": 3.9,
-        "reviews": 498,
-        "description": "The Compact Foldable Flat Utility Bench is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 49,
-        "name": "Rubber Hex Dumbbell Pair (35 lbs)",
-        "category": "Strength",
-        "price": 3919.0,
-        "image": "assets/images/products/49/main.jpg",
-        "rating": 4.1,
-        "reviews": 497,
-        "description": "The Rubber Hex Dumbbell Pair (35 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 119,
-        "name": "Commercial Motorized Treadmill (4.0 HP Peak)",
-        "category": "Cardio",
-        "price": 67399.0,
-        "image": "assets/images/products/119/main.jpg",
-        "rating": 5.0,
-        "reviews": 298,
-        "description": "The Commercial Motorized Treadmill (4.0 HP Peak) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 189,
-        "name": "Competition Shin & Instep Guards",
-        "category": "Combat",
-        "price": 5319.0,
-        "image": "assets/images/products/189/main.jpg",
-        "rating": 3.8,
-        "reviews": 396,
-        "description": "The Competition Shin & Instep Guards is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 259,
-        "name": "Vibrating Deep Tissue Massage Peanut Ball",
-        "category": "Recovery",
-        "price": 919.0,
-        "image": "assets/images/products/259/main.jpg",
-        "rating": 4.8,
-        "reviews": 309,
-        "description": "The Vibrating Deep Tissue Massage Peanut Ball is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 399,
-        "name": "Oversized Drop-Shoulder Heavy Cotton Tee",
-        "category": "Apparel",
-        "price": 1539.0,
-        "image": "assets/images/products/399/main.jpg",
-        "rating": 4.7,
-        "reviews": 212,
-        "description": "The Oversized Drop-Shoulder Heavy Cotton Tee is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 469,
-        "name": "Smart Fitness Ring with Temperature & Heart Rate Sensor",
-        "category": "Fit Tech",
-        "price": 4619.0,
-        "image": "assets/images/products/469/main.jpg",
-        "rating": 4.1,
-        "reviews": 473,
-        "description": "The Smart Fitness Ring with Temperature & Heart Rate Sensor is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 539,
-        "name": "EAA Hydration Recovery Powder (Watermelon Ice 30 Servings)",
-        "category": "Supplements",
-        "price": 2059.0,
-        "image": "assets/images/products/539/main.jpg",
-        "rating": 4.8,
-        "reviews": 250,
-        "description": "The EAA Hydration Recovery Powder (Watermelon Ice 30 Servings) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 609,
-        "name": "Extra Thick Comfort Yoga Mat (10mm)",
-        "category": "Yoga",
-        "price": 2009.0,
-        "image": "assets/images/products/609/main.jpg",
-        "rating": 4.2,
-        "reviews": 383,
-        "description": "The Extra Thick Comfort Yoga Mat (10mm) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 679,
-        "name": "Doorway Multi-Grip Pull-Up Bar No-Screws Mount",
-        "category": "Home Gym",
-        "price": 1859.0,
-        "image": "assets/images/products/679/main.jpg",
-        "rating": 3.8,
-        "reviews": 374,
-        "description": "The Doorway Multi-Grip Pull-Up Bar No-Screws Mount is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 50,
-        "name": "Calibrated Competition Steel Plate (15kg)",
-        "category": "Strength",
-        "price": 1409.0,
-        "image": "assets/images/products/50/main.jpg",
-        "rating": 4.8,
-        "reviews": 75,
-        "description": "The Calibrated Competition Steel Plate (15kg) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 120,
-        "name": "Dual Resistance Air & Magnetic Rower",
-        "category": "Cardio",
-        "price": 43249.0,
-        "image": "assets/images/products/120/main.jpg",
-        "rating": 4.6,
-        "reviews": 67,
-        "description": "The Dual Resistance Air & Magnetic Rower is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 190,
-        "name": "Leather Speed Bag with Dual Swivel",
-        "category": "Combat",
-        "price": 1959.0,
-        "image": "assets/images/products/190/main.jpg",
-        "rating": 4.6,
-        "reviews": 468,
-        "description": "The Leather Speed Bag with Dual Swivel is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 260,
-        "name": "Infrared Heating Pad with Jade & Tourmaline Stones",
-        "category": "Recovery",
-        "price": 2219.0,
-        "image": "assets/images/products/260/main.jpg",
-        "rating": 4.5,
-        "reviews": 368,
-        "description": "The Infrared Heating Pad with Jade & Tourmaline Stones is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 400,
-        "name": "Lightweight Breathable Running Tank",
-        "category": "Apparel",
-        "price": 909.0,
-        "image": "assets/images/products/400/main.jpg",
-        "rating": 4.5,
-        "reviews": 210,
-        "description": "The Lightweight Breathable Running Tank is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 470,
-        "name": "Multisport GPS Watch with Barometric Altimeter",
-        "category": "Fit Tech",
-        "price": 16099.0,
-        "image": "assets/images/products/470/main.jpg",
-        "rating": 4.3,
-        "reviews": 417,
-        "description": "The Multisport GPS Watch with Barometric Altimeter is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 540,
-        "name": "Hydrolyzed Collagen Peptides Unflavored Powder (500g)",
-        "category": "Supplements",
-        "price": 3519.0,
-        "image": "assets/images/products/540/main.jpg",
-        "rating": 4.8,
-        "reviews": 329,
-        "description": "The Hydrolyzed Collagen Peptides Unflavored Powder (500g) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 610,
-        "name": "Eco Friendly Cork Yoga Block Pair",
-        "category": "Yoga",
-        "price": 1509.0,
-        "image": "assets/images/products/610/main.jpg",
-        "rating": 4.6,
-        "reviews": 25,
-        "description": "The Eco Friendly Cork Yoga Block Pair is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 680,
-        "name": "Bodyweight Suspension Fitness Trainer Kit",
-        "category": "Home Gym",
-        "price": 2409.0,
-        "image": "assets/images/products/680/main.jpg",
-        "rating": 4.9,
-        "reviews": 165,
-        "description": "The Bodyweight Suspension Fitness Trainer Kit is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 51,
-        "name": "Hard Chrome EZ Curl Barbell (47 Inch)",
-        "category": "Strength",
-        "price": 18559.0,
-        "image": "assets/images/products/51/main.jpg",
-        "rating": 4.8,
-        "reviews": 72,
-        "description": "The Hard Chrome EZ Curl Barbell (47 Inch) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 418,

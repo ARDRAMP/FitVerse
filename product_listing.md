@@ -72,9 +72,9 @@ Total Products: **700**
 | 46 | Heavy Duty Plate Storage Tree Tower |
 | 47 | Multi-Grip Landmine Attachment for Barbells |
 | 48 | Commercial Cable Crossover Functional Trainer |
-| 49 | Rubber Hex Dumbbell Pair (35 lbs) |
-| 50 | Calibrated Competition Steel Plate (15kg) |
-| 51 | Hard Chrome EZ Curl Barbell (47 Inch) |
+| 49 | Rock Solid Olympic Hex Trap Bar / Deadlift Shrug Bar with Heavy Bumper Plates |
+| 50 | Chrome Adjustable Dumbbells Set with Spinlock Star Collars |
+| 51 | Cast Iron Kettlebell for Two-Arm Swings & Core Training (Grey) |
 | 52 | Olympic Barbell T-Bar Row Platform System with Blue Bumper Plates |
 | 53 | Solid Chrome EZ Curl Barbell with Weight Plates for Bicep Curls |
 | 54 | Commercial Hyperextension Roman Chair / 45-Degree Back Extension Bench |
@@ -147,8 +147,8 @@ Total Products: **700**
 | 116 | Heavy-Duty Fan Air Bike with Custom Workout Modes |
 | 117 | Stair Stepper Machine with Handlebars |
 | 118 | Magnetic Upright Exercise Bike with Tablet Stand |
-| 119 | Commercial Motorized Treadmill (4.0 HP Peak) |
-| 120 | Dual Resistance Air & Magnetic Rower |
+| 119 | Powergun Commercial Magnetic & Air Resistance Indoor Rowing Machine with Performance Monitor |
+| 120 | Ultra-Thin Foldable Walking Pad Under-Desk Treadmill with Remote (Silver/Black) |
 | 121 | Commercial Air Fan Assault Resistance Exercise Bike with Dual-Action Arms (Black & Yellow) |
 | 122 | Commercial Total-Body Hybrid Elliptical Stepper Machine with Console Display |
 | 123 | Smart Indoor Studio Magnetic Resistance Spin Exercise Bike with HD Tablet Display |
@@ -222,8 +222,8 @@ Total Products: **700**
 | 186 | Pro Muay Thai Belly & Rib Guard Protector |
 | 187 | Reflex Cobra Bag with Adjustable Height |
 | 188 | Canvas Heavy Punching Bag (60 lbs) |
-| 189 | Competition Shin & Instep Guards |
-| 190 | Leather Speed Bag with Dual Swivel |
+| 189 | Heavy-Duty Vinyl Hanging Heavy Boxing & Kickboxing Punching Bag (Bright Red) |
+| 190 | Vanguard Pro Leather Full-Face Boxing Sparring Headgear with Cheek & Chin Guard |
 | 191 | Quick-Gel Padded Boxing Inner Hand Wraps Gloves Pair (Red with Wrist Strap) |
 | 192 | Pro Leather Boxing Sparring Training Gloves (Black & Grey Trim) |
 | 193 | Pro Leather Curved Hook & Jab Focus Mitts Pair (Baby Blue / Grey) |
@@ -297,8 +297,8 @@ Total Products: **700**
 | 256 | Portable Insulated Ice Bath Tub Container |
 | 257 | Pro Percussive Massage Gun with Metal Head Attachment |
 | 258 | Graduated Knee-High Compression Socks Pair |
-| 259 | Vibrating Deep Tissue Massage Peanut Ball |
-| 260 | Infrared Heating Pad with Jade & Tourmaline Stones |
+| 259 | Cervical Neck & Suboccipital Trigger Point Foam Roller Pillow (Black) |
+| 260 | 100% Pure Epsom Salt Foot Soak Crystals Pouch with Tea Tree & Peppermint Oils |
 | 261 | Graduated Compression Arm & Forearm Protection Sleeve (Slate Charcoal Grey) |
 | 262 | The Pod Portable Insulated Circular Ice Bath Cold Plunge Tub with Weather Cover (Black) |
 | 263 | Deep Tissue Handheld Percussion Massage Gun with Interchangeable Heads (Black/Green) |
@@ -447,8 +447,8 @@ Total Products: **700**
 | 396 | Seamless Ribbed Workout Leggings & Top Set |
 | 397 | High-Impact Padded Gym Sports Bra |
 | 398 | Heavy Duty Barefoot Lifting Shoes |
-| 399 | Oversized Drop-Shoulder Heavy Cotton Tee |
-| 400 | Lightweight Breathable Running Tank |
+| 399 | Women's Seamless Long-Sleeve Athletic Cropped Workout Top (Lilac Lavender Purple) |
+| 400 | Women's Cropped Full-Zip Athletic Workout Fleece Hoodie (Mocha Brown) |
 | 401 | Men's 2-in-1 Athletic Workout Running Shorts with Compression Liner (Sage Green) |
 | 402 | Men's Minimalist Barefoot Weightlifting & Cross-Training Shoes (Black / Gum Sole) |
 | 403 | Men's Sleeveless Athletic Muscle Gym Workout Tank Top (Black) |
@@ -522,8 +522,8 @@ Total Products: **700**
 | 466 | Wireless TENS EMS Muscle Massager Unit |
 | 467 | Bluetooth Sports Earphones with Sweat Resistance |
 | 468 | Smart GPS Cycling Computer Display |
-| 469 | Smart Fitness Ring with Temperature & Heart Rate Sensor |
-| 470 | Multisport GPS Watch with Barometric Altimeter |
+| 469 | Apple Watch Ultra Style Rugged Titanium Smartwatch with Ocean Silicone Band (Black) |
+| 470 | Curved AMOLED Smart Fitness Watch with Heart Rate & Calorie Activity Tracker (Black) |
 | 471 | Garmin HRM-Dual Premium Soft Fabric Heart Rate Monitor Chest Strap Sensor (Black) |
 | 472 | Sequential Pneumatic Air Compression Full Leg Recovery Boots Pair (Black) |
 | 473 | InBody Commercial Multi-Frequency Bioelectrical Body Composition Analyzer Scale Station |
@@ -597,8 +597,8 @@ Total Products: **700**
 | 536 | Nighttime Casein Protein Powder (Vanilla Cream 4 lbs) |
 | 537 | Nitric Oxide Pre-Workout Powder (Tropical Punch) |
 | 538 | Creatine Monohydrate Powder (200 Mesh Ultra-Fine 500g) |
-| 539 | EAA Hydration Recovery Powder (Watermelon Ice 30 Servings) |
-| 540 | Hydrolyzed Collagen Peptides Unflavored Powder (500g) |
+| 539 | Skill Nutrition Blue Raspberry High-Performance Pre-Workout Powder Tub |
+| 540 | Super Multivitamin Once Daily Dietary Supplement Tablets Bottle (Amber Glass) |
 | 541 | BioTechUSA 100% Micronized Creatine Monohydrate Powder Tub (Unflavoured / 500g) |
 | 542 | Raw Nutrition High-Performance Pre-Workout Energy Powder Tub (Black/Yellow) |
 | 543 | Optimum Nutrition Platinum HydroWhey Hydrolyzed Whey Protein Powder Tub (Vanilla / Chocolate) |
@@ -672,8 +672,8 @@ Total Products: **700**
 | 606 | Buckwheat Meditation Zafu Pillow Cushion |
 | 607 | Spine Massager Yoga Wheel Roller |
 | 608 | Non-Slip Yoga Towel with Corner Pockets |
-| 609 | Extra Thick Comfort Yoga Mat (10mm) |
-| 610 | Eco Friendly Cork Yoga Block Pair |
+| 609 | Multi-Loop Yoga Stretching Strap Belt for Hamstring & Flexibility (Black) |
+| 610 | High-Density Foam Incline Slant Squat & Pelvic/Calf Wedge Pillow (Red & Charcoal) |
 | 611 | Organic Cotton Cylindrical Yoga & Meditation Bolster Pillow (Black / Large) |
 | 612 | Natural Cork Yoga Blocks Pair with Non-Slip Cork Yoga Mat |
 | 613 | Eco-Friendly Textured TPE Non-Slip Yoga Mat with Lotus Mandala Alignment Print (Magenta Pink) |
@@ -746,9 +746,9 @@ Total Products: **700**
 | 675 | Multi-Station Power Tower Dip Pull-Up Station |
 | 676 | Heavy Duty Interlocking Gym Floor Tiles (16-Pack) |
 | 677 | Quick Select Dial Dumbbells Set (5-70 lbs) |
-| 678 | Compact Foldable Flat Utility Bench |
-| 679 | Doorway Multi-Grip Pull-Up Bar No-Screws Mount |
-| 680 | Bodyweight Suspension Fitness Trainer Kit |
+| 678 | High-Density EVA Interlocking Puzzle Exercise Gym Flooring Mat Tiles (Grey & Black) |
+| 679 | Heavy-Duty Interlocking Textured Rubber Gym Floor Matting System |
+| 680 | Heavy-Duty Commercial Rubber Gym Flooring Interlocking Tiles (Black Speckled) |
 | 681 | Commercial Wall-Mounted Steel Pull-Up & Chin-Up Bar Station (Grey / Multi-Grip) |
 | 682 | Heavy-Duty Wall-Mounted Multi-Grip Pull-Up & Chin-Up Bar Station (Black) |
 | 683 | Doorway Multi-Grip Chin-Up & Pull-Up Bar with Padded Handles |
