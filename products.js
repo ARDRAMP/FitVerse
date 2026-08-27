@@ -3330,6 +3330,206 @@ var shopProducts = [
         "description": "Elasticated Cotton Boxing Hand Wraps feature 4.5-meter semi-elastic woven cotton blend, thumb loop, and secure velcro closure in bright red for knuckle and wrist protection."
     },
     {
+        "id": 193,
+        "name": "Pro Leather Curved Hook & Jab Focus Mitts Pair (Baby Blue / Grey)",
+        "category": "Combat",
+        "price": 3299.0,
+        "image": "assets/images/products/193/main.jpg",
+        "rating": 4.8,
+        "reviews": 235,
+        "description": "Pro Leather Curved Focus Mitts feature anatomical palm grip ball, multi-layered shock dissipation padding, and padded wrist wedge in stylish baby blue and grey."
+    },
+    {
+        "id": 263,
+        "name": "Deep Tissue Handheld Percussion Massage Gun with Interchangeable Heads (Black/Green)",
+        "category": "Recovery",
+        "price": 6499.0,
+        "image": "assets/images/products/263/main.jpg",
+        "rating": 4.1,
+        "reviews": 361,
+        "description": "Deep Tissue Percussion Massage Gun features quiet brushless high-torque motor, ergonomic angled handle, 6 speed settings, and interchangeable heads for arm and muscle recovery."
+    },
+    {
+        "id": 403,
+        "name": "Men's Sleeveless Athletic Muscle Gym Workout Tank Top (Black)",
+        "category": "Apparel",
+        "price": 1199.0,
+        "image": "assets/images/products/403/main.jpg",
+        "rating": 4.2,
+        "reviews": 212,
+        "description": "Men's Sleeveless Muscle Workout Tank Top features 4-way stretch moisture-wicking fabric, dropped armholes for full mobility, and clean athletic graphics in stealth black."
+    },
+    {
+        "id": 473,
+        "name": "InBody Commercial Multi-Frequency Bioelectrical Body Composition Analyzer Scale Station",
+        "category": "Fit Tech",
+        "price": 89999.0,
+        "image": "assets/images/products/473/main.jpg",
+        "rating": 4.4,
+        "reviews": 411,
+        "description": "InBody Commercial Body Composition Analyzer Station utilizes 8-point tactile electrodes and multi-frequency BIA to measure body fat percentage, skeletal muscle mass, and visceral fat."
+    },
+    {
+        "id": 543,
+        "name": "Optimum Nutrition Platinum HydroWhey Hydrolyzed Whey Protein Powder Tub (Vanilla / Chocolate)",
+        "category": "Supplements",
+        "price": 3539.0,
+        "image": "assets/images/products/543/main.jpg",
+        "rating": 4.4,
+        "reviews": 319,
+        "description": "Optimum Nutrition Platinum HydroWhey delivers 30g ultra-pure hydrolyzed whey protein isolates per serving with added micronized BCAAs for ultra-rapid muscle recovery."
+    },
+    {
+        "id": 613,
+        "name": "Eco-Friendly Textured TPE Non-Slip Yoga Mat with Lotus Mandala Alignment Print (Magenta Pink)",
+        "category": "Yoga",
+        "price": 2529.0,
+        "image": "assets/images/products/613/main.jpg",
+        "rating": 4.1,
+        "reviews": 70,
+        "description": "Eco-Friendly TPE Yoga Mat features laser-engraved lotus mandala alignment guides, 6mm cushioned joint support, and dual-sided non-slip grip in vibrant magenta pink."
+    },
+    {
+        "id": 683,
+        "name": "Doorway Multi-Grip Chin-Up & Pull-Up Bar with Padded Handles",
+        "category": "Home Gym",
+        "price": 1999.0,
+        "image": "assets/images/products/683/main.jpg",
+        "rating": 4.3,
+        "reviews": 239,
+        "description": "Doorway Multi-Grip Pull-Up Bar uses leverage to fit standard door frames without drilling, featuring multiple high-density foam grip positions for wide, narrow, and neutral pull-ups."
+    },
+    {
+        "id": 54,
+        "name": "Commercial Hyperextension Roman Chair / 45-Degree Back Extension Bench",
+        "category": "Strength",
+        "price": 14999.0,
+        "image": "assets/images/products/54/main.jpg",
+        "rating": 4.1,
+        "reviews": 381,
+        "description": "Commercial 45-Degree Hyperextension Roman Chair features heavy-gauge steel tubing, high-density thigh pads, adjustable height pins, and ergonomic handles for lower back and glute training."
+    },
+    {
+        "id": 124,
+        "name": "Life Fitness PowerMill Commercial Stair Climber Stepmill Cardio Machine with Discover Console",
+        "category": "Cardio",
+        "price": 55249.0,
+        "image": "assets/images/products/124/main.jpg",
+        "rating": 5.0,
+        "reviews": 400,
+        "description": "Life Fitness PowerMill Commercial Stair Climber features smooth revolving steps, modular motor drive, ergonomic side handrails, and advanced interactive touchscreen Discover console."
+    },
+    {
+        "id": 194,
+        "name": "Martial Arts Ergonomic Padded Leather Shin & Instep Guards for Kickboxing (White Pair)",
+        "category": "Combat",
+        "price": 3499.0,
+        "image": "assets/images/products/194/main.jpg",
+        "rating": 4.6,
+        "reviews": 440,
+        "description": "Martial Arts Padded Shin & Instep Guards feature high-density multi-layered foam padding, anatomical shin curvature, and dual elasticated velcro rear straps in crisp white."
+    },
+    {
+        "id": 264,
+        "name": "Hollow Core Deep Tissue Trigger Point Foam Roller for Hamstrings & Calves (Grey/Lime Green)",
+        "category": "Recovery",
+        "price": 1589.0,
+        "image": "assets/images/products/264/main.jpg",
+        "rating": 4.5,
+        "reviews": 200,
+        "description": "Hollow Core Deep Tissue Foam Roller features textured matrix grid surface, rigid PVC hollow pipe core, and multi-density EVA foam in grey and lime green for targeting tight leg muscles."
+    },
+    {
+        "id": 334,
+        "name": "Heavy-Duty Elastic Weightlifting Wrist Wraps with Thumb Loop (Olive Green & Black Pair)",
+        "category": "Accessories",
+        "price": 999.0,
+        "image": "assets/images/products/334/main.jpg",
+        "rating": 4.4,
+        "reviews": 299,
+        "description": "Heavy-Duty Elastic Weightlifting Wrist Wraps feature high-tension elasticated cotton weave, reinforced thumb loop, and wide hook-and-loop closure in tactical olive green."
+    },
+    {
+        "id": 404,
+        "name": "Men's Lightweight Athletic Tapered Gym Joggers with Zipper Pockets (Black)",
+        "category": "Apparel",
+        "price": 2029.0,
+        "image": "assets/images/products/404/main.jpg",
+        "rating": 4.3,
+        "reviews": 250,
+        "description": "Men's Lightweight Athletic Tapered Joggers feature 4-way stretch moisture-wicking fabric, deep zippered security pockets, and comfortable elastic drawstring waistband in black."
+    },
+    {
+        "id": 474,
+        "name": "Garmin F\u0113nix Rugged Multisport GPS Outdoor Smartwatch with Titanium Bezel",
+        "category": "Fit Tech",
+        "price": 34999.0,
+        "image": "assets/images/products/474/main.jpg",
+        "rating": 4.8,
+        "reviews": 300,
+        "description": "Garmin F\u0113nix features a rugged sunlight-readable color display, titanium bezel, multi-GNSS satellite navigation, heart rate/pulse ox sensors, and black silicone strap."
+    },
+    {
+        "id": 544,
+        "name": "Muscle Impact Nutrition Impact Mass Gainer High-Calorie Protein Powder Tub (Belgian Chocolate)",
+        "category": "Supplements",
+        "price": 2999.0,
+        "image": "assets/images/products/544/main.jpg",
+        "rating": 4.6,
+        "reviews": 280,
+        "description": "Muscle Impact Nutrition Impact Mass Gainer delivers 21g premium protein, 74g complex carbohydrates, and essential micronutrients per serving in delicious Belgian Chocolate."
+    },
+    {
+        "id": 614,
+        "name": "Adjustable Yoga Mat Sling Carrier Shoulder Strap (Cyan Blue / Woven Webbing)",
+        "category": "Yoga",
+        "price": 699.0,
+        "image": "assets/images/products/614/main.jpg",
+        "rating": 4.4,
+        "reviews": 190,
+        "description": "Adjustable Yoga Mat Sling Carrier Strap is crafted from durable woven cotton webbing with self-adjusting loops to carry any standard or extra-thick yoga mat comfortably in cyan blue."
+    },
+    {
+        "id": 684,
+        "name": "Multi-Grip Wall-Mounted / Doorway Pull-Up Bar Station",
+        "category": "Home Gym",
+        "price": 4359.0,
+        "image": "assets/images/products/684/main.jpg",
+        "rating": 4.4,
+        "reviews": 347,
+        "description": "Multi-Grip Pull-Up Bar Station features heavy-duty steel frame construction, wide and neutral high-density foam grips, and versatile mounting for pull-ups, chin-ups, and leg raises."
+    },
+    {
+        "id": 55,
+        "name": "Commercial Heavy-Duty Power Rack Squat Cage with Barbell & Weight Plates",
+        "category": "Strength",
+        "price": 49999.0,
+        "image": "assets/images/products/55/main.jpg",
+        "rating": 4.1,
+        "reviews": 54,
+        "description": "Commercial Heavy-Duty Power Rack Squat Cage features 3x3-inch 11-gauge steel uprights, J-hooks, safety spotter arms, and rear Olympic weight plate storage pegs."
+    },
+    {
+        "id": 125,
+        "name": "Commercial Total-Body Dual-Action Recumbent Elliptical Cross Trainer Machine",
+        "category": "Cardio",
+        "price": 27199.0,
+        "image": "assets/images/products/125/main.jpg",
+        "rating": 4.9,
+        "reviews": 45,
+        "description": "Commercial Total-Body Recumbent Elliptical Cross Trainer combines comfortable recumbent seating with dual-action synchronized arm handles and magnetic resistance for low-impact cardio."
+    },
+    {
+        "id": 195,
+        "name": "Heavy-Duty Free-Standing Heavy Punching Bag Tower with Fillable Base (Black)",
+        "category": "Combat",
+        "price": 14999.0,
+        "image": "assets/images/products/195/main.jpg",
+        "rating": 4.8,
+        "reviews": 358,
+        "description": "Heavy-Duty Free-Standing Punching Bag Tower features high-density multi-layered shock absorbing foam, heavy tear-resistant synthetic leather, and water/sand fillable base."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -6668,206 +6868,6 @@ var shopProducts = [
         "rating": 4.8,
         "reviews": 154,
         "description": "The Recumbent Exercise Bike with Quick-Adjust Seat is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 193,
-        "name": "Elasticized Boxing Hand Wraps (180-Inch)",
-        "category": "Combat",
-        "price": 609.0,
-        "image": "assets/images/products/193/main.jpg",
-        "rating": 4.8,
-        "reviews": 235,
-        "description": "The Elasticized Boxing Hand Wraps (180-Inch) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 263,
-        "name": "Air Compression Leg Recovery Boots System",
-        "category": "Recovery",
-        "price": 2639.0,
-        "image": "assets/images/products/263/main.jpg",
-        "rating": 4.1,
-        "reviews": 361,
-        "description": "The Air Compression Leg Recovery Boots System is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 403,
-        "name": "Fleece Athletic Hoodie with Kangaroo Pocket",
-        "category": "Apparel",
-        "price": 2239.0,
-        "image": "assets/images/products/403/main.jpg",
-        "rating": 4.2,
-        "reviews": 212,
-        "description": "The Fleece Athletic Hoodie with Kangaroo Pocket is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 473,
-        "name": "Pneumatic Compression Recovery Pants System",
-        "category": "Fit Tech",
-        "price": 1529.0,
-        "image": "assets/images/products/473/main.jpg",
-        "rating": 4.4,
-        "reviews": 411,
-        "description": "The Pneumatic Compression Recovery Pants System is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 543,
-        "name": "Stim-Free Pre-Workout Pump Formula (30 Servings)",
-        "category": "Supplements",
-        "price": 3539.0,
-        "image": "assets/images/products/543/main.jpg",
-        "rating": 4.4,
-        "reviews": 319,
-        "description": "The Stim-Free Pre-Workout Pump Formula (30 Servings) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 613,
-        "name": "Deep Back Stretcher Yoga Wheel (12-Inch)",
-        "category": "Yoga",
-        "price": 2529.0,
-        "image": "assets/images/products/613/main.jpg",
-        "rating": 4.1,
-        "reviews": 70,
-        "description": "The Deep Back Stretcher Yoga Wheel (12-Inch) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 683,
-        "name": "Adjustable Dumbbells Pair with Custom Rack (5-50 lbs)",
-        "category": "Home Gym",
-        "price": 27959.0,
-        "image": "assets/images/products/683/main.jpg",
-        "rating": 4.3,
-        "reviews": 239,
-        "description": "The Adjustable Dumbbells Pair with Custom Rack (5-50 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 54,
-        "name": "Cast Iron Kettlebell (14kg / 31lbs)",
-        "category": "Strength",
-        "price": 4869.0,
-        "image": "assets/images/products/54/main.jpg",
-        "rating": 4.1,
-        "reviews": 381,
-        "description": "The Cast Iron Kettlebell (14kg / 31lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 124,
-        "name": "Water Resistance Rower with Ergonomic Handle",
-        "category": "Cardio",
-        "price": 55249.0,
-        "image": "assets/images/products/124/main.jpg",
-        "rating": 4.4,
-        "reviews": 204,
-        "description": "The Water Resistance Rower with Ergonomic Handle is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 194,
-        "name": "Freestanding Punching Tower with Water Base",
-        "category": "Combat",
-        "price": 4869.0,
-        "image": "assets/images/products/194/main.jpg",
-        "rating": 4.6,
-        "reviews": 440,
-        "description": "The Freestanding Punching Tower with Water Base is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 264,
-        "name": "Deep Muscle Massage Stick Roller with Handles",
-        "category": "Recovery",
-        "price": 1589.0,
-        "image": "assets/images/products/264/main.jpg",
-        "rating": 4.2,
-        "reviews": 309,
-        "description": "The Deep Muscle Massage Stick Roller with Handles is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 334,
-        "name": "Genuine Leather Workout Gloves with Wrist Wraps",
-        "category": "Accessories",
-        "price": 3969.0,
-        "image": "assets/images/products/334/main.jpg",
-        "rating": 4.4,
-        "reviews": 299,
-        "description": "The Genuine Leather Workout Gloves with Wrist Wraps is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 404,
-        "name": "Tapered Cargo Gym Joggers with Zip Pockets",
-        "category": "Apparel",
-        "price": 2029.0,
-        "image": "assets/images/products/404/main.jpg",
-        "rating": 4.3,
-        "reviews": 45,
-        "description": "The Tapered Cargo Gym Joggers with Zip Pockets is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 474,
-        "name": "Smart Bluetooth Fitness Wristband",
-        "category": "Fit Tech",
-        "price": 689.0,
-        "image": "assets/images/products/474/main.jpg",
-        "rating": 4.1,
-        "reviews": 442,
-        "description": "The Smart Bluetooth Fitness Wristband is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 544,
-        "name": "Pure Micronized Creatine Monohydrate (250g)",
-        "category": "Supplements",
-        "price": 1629.0,
-        "image": "assets/images/products/544/main.jpg",
-        "rating": 4.8,
-        "reviews": 226,
-        "description": "The Pure Micronized Creatine Monohydrate (250g) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 614,
-        "name": "Water Resistant Yoga Mat Bag Sleeve",
-        "category": "Yoga",
-        "price": 1429.0,
-        "image": "assets/images/products/614/main.jpg",
-        "rating": 4.9,
-        "reviews": 95,
-        "description": "The Water Resistant Yoga Mat Bag Sleeve is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 684,
-        "name": "Foldable Multi-Position Weight Bench",
-        "category": "Home Gym",
-        "price": 4359.0,
-        "image": "assets/images/products/684/main.jpg",
-        "rating": 4.4,
-        "reviews": 347,
-        "description": "The Foldable Multi-Position Weight Bench is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 55,
-        "name": "Rubber Coated Hex Dumbbell (20 lbs)",
-        "category": "Strength",
-        "price": 2219.0,
-        "image": "assets/images/products/55/main.jpg",
-        "rating": 4.1,
-        "reviews": 54,
-        "description": "The Rubber Coated Hex Dumbbell (20 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 125,
-        "name": "Heavy Duty Elliptical Cross Trainer with Power Incline",
-        "category": "Cardio",
-        "price": 27199.0,
-        "image": "assets/images/products/125/main.jpg",
-        "rating": 4.9,
-        "reviews": 45,
-        "description": "The Heavy Duty Elliptical Cross Trainer with Power Incline is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 195,
-        "name": "Pro Boxing Training Gloves (12 oz)",
-        "category": "Combat",
-        "price": 2899.0,
-        "image": "assets/images/products/195/main.jpg",
-        "rating": 4.8,
-        "reviews": 358,
-        "description": "The Pro Boxing Training Gloves (12 oz) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 418,
