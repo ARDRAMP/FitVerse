@@ -56,7 +56,7 @@ Total Products: **700**
 | 30 | Multi-Angle Adjustable Incline Decline Weight Bench (Black/Red) |
 | 31 | Rubber Hex Dumbbell Pair (15 lbs) |
 | 32 | Commercial Heavy-Duty Rubber Hex Dumbbells Pair (Strength Training) |
-| 33 | Black Oxide Olympic Barbell (7 Foot) |
+| 33 | Olympic Hex Trap Deadlift Bar with Dual Knurled Handles |
 | 34 | Rapid-Select Adjustable Dumbbells Pair with Storage Tray (Red & Black) |
 | 35 | Heavy Duty Ab Slab Incline Bench |
 | 36 | Calibrated Powerlifting Steel Plate (25kg) |
@@ -207,7 +207,7 @@ Total Products: **700**
 | 171 | Freestanding Inflatable Boxing & Kickboxing Punching Bag with Water Base |
 | 172 | Pro Padded Leather Boxing Sparring Headgear with Cheek Guards (Red) |
 | 173 | Mexican Style Cotton Hand Wraps (180-Inch) |
-| 174 | Heavy Duty Wall Mount Heavy Bag Hanger Bracket |
+| 174 | Venum Pro Boxing Training & Sparring Gloves (Matte Black) |
 | 175 | Pro Leather Focus Pads Pair |
 | 176 | Muay Thai Leather Shin Guards (Large) |
 | 177 | Full Face Leather Sparring Headgear |
@@ -281,7 +281,7 @@ Total Products: **700**
 | 240 | Textured Hollow Grid Foam Roller (13-Inch) |
 | 241 | Professional Percussion Deep Tissue Muscle Massage Gun (Black) |
 | 242 | Pure Relaxing Epsom Bath Salt Crystals Pouch (Muscle Recovery Soak) |
-| 243 | Electric Heating Pad for Lower Back Pain Relief |
+| 243 | EGL Graduated Arm Compression Sleeve (Single / Black) |
 | 244 | Portable Insulated Folding Cold Plunge Ice Bath Tub with Thermal Lid |
 | 245 | Air Compression Arm & Shoulder Recovery Sleeve |
 | 246 | Deep Tissue Trigger Point Massage Stick Roller |
@@ -432,7 +432,7 @@ Total Products: **700**
 | 381 | On Running Women's Lightweight Performance Short-Sleeve Workout Tee (Lilac) |
 | 382 | Technical Windbreaker Running Jacket |
 | 383 | Women's High-Waisted Seamless Athletic Gym Biker Shorts (Grey) |
-| 384 | Tapered Fit Fleece Gym Joggers |
+| 384 | Squat Machine Pro Weightlifting & Powerlifting Shoes (White/Orange) |
 | 385 | Breathable Mesh Back Performance Tee |
 | 386 | High-Support Cross-Back Sports Bra |
 | 387 | Barefoot Style Cross-Training Shoes |
@@ -507,7 +507,7 @@ Total Products: **700**
 | 451 | Rechargeable Optical Heart Rate Monitor Armband with Breathable Silicone Strap |
 | 452 | Normatec Pneumatic Dynamic Air Compression Leg Recovery Boots System |
 | 453 | Professional Segmental Multi-Frequency Body Composition Analyzer Scale with Hand Grips |
-| 454 | Smart Fitness Tracker Ring (Titanium Edition) |
+| 454 | Garmin GPS Multisport Smartwatch with AMOLED Display (Black) |
 | 455 | Bluetooth Heart Rate Armband Monitor Sensor |
 | 456 | Wearable Electrostimulation EMS Abdominal Belt |
 | 457 | Wireless Open-Ear Bone Conduction Sport Headphones |
@@ -657,7 +657,7 @@ Total Products: **700**
 | 591 | Organic Cotton Yoga & Meditation Bolster Pillow (Light Grey) |
 | 592 | Lightweight Travel EVA Foam Yoga Block |
 | 593 | Dual-Layer Non-Slip Eco-Friendly TPE Yoga & Exercise Mat (Sky Blue / Beige) |
-| 594 | Rectangular Meditation Pillow Cushion |
+| 594 | Adjustable Yoga Mat Carry Sling Strap & Stretching Belt (Black) |
 | 595 | Back Release Roller Yoga Wheel (13-Inch) |
 | 596 | Sweat Absorbent Yoga Mat Towel Full Size |
 | 597 | Premium Natural Rubber Yoga Mat (6mm) |
@@ -730,7 +730,7 @@ Total Products: **700**
 | 659 | LiftDex Commercial Heavy-Duty Half Rack Squat Stand with Pull-Up Bar |
 | 660 | Compact Folding Weight Bench Press |
 | 661 | Apex Athletics Commercial Multi-Position Incline Workout Bench |
-| 662 | Bodyweight Suspension Trainer with Door Mount |
+| 662 | LIF-ITAL Commercial Multi-Grip Pull-Up & Dip Power Tower Station |
 | 663 | Heavy Duty Power Tower Station with Push-Up Handles |
 | 664 | Marcy Pro Multi-Grip Pull-Up & Dip Power Tower Station with VKR |
 | 665 | Apex Strength Multi-Function Power Tower Workout Dip Station with Push-Up Handles |

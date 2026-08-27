@@ -1800,6 +1800,76 @@ var shopProducts = [
         "description": "Centr Performance Multi-Angle Functional Trainer features dual adjustable swivel pulley arms, precision weight stacks, diamond-plate standing base, and multi-position cable handles for total-body strength training."
     },
     {
+        "id": 662,
+        "name": "LIF-ITAL Commercial Multi-Grip Pull-Up & Dip Power Tower Station",
+        "category": "Home Gym",
+        "price": 24999.0,
+        "image": "assets/images/products/662/main.jpg",
+        "rating": 4.8,
+        "reviews": 499,
+        "description": "LIF-ITAL Commercial Power Tower Station features reinforced steel framing, multi-position overhead pull-up and chin-up bars, padded vertical knee raise armrests, and dip handles for complete upper body and core development."
+    },
+    {
+        "id": 33,
+        "name": "Olympic Hex Trap Deadlift Bar with Dual Knurled Handles",
+        "category": "Strength",
+        "price": 10639.0,
+        "image": "assets/images/products/33/main.jpg",
+        "rating": 3.8,
+        "reviews": 500,
+        "description": "Olympic Hex Trap Deadlift Bar is engineered with heavy-duty solid steel tubing, dual high and low knurled grip handles, and standard Olympic plate sleeves for deadlifts, shrugs, and farmer's walks."
+    },
+    {
+        "id": 243,
+        "name": "EGL Graduated Arm Compression Sleeve (Single / Black)",
+        "category": "Recovery",
+        "price": 1299.0,
+        "image": "assets/images/products/243/main.jpg",
+        "rating": 4.0,
+        "reviews": 91,
+        "description": "EGL Graduated Arm Compression Sleeve provides targeted 20-30 mmHg gradient compression, moisture-wicking breathable knit fabric, and anti-slip silicone band for elbow support and rapid muscle recovery."
+    },
+    {
+        "id": 174,
+        "name": "Venum Pro Boxing Training & Sparring Gloves (Matte Black)",
+        "category": "Combat",
+        "price": 5559.0,
+        "image": "assets/images/products/174/main.jpg",
+        "rating": 4.8,
+        "reviews": 71,
+        "description": "Venum Pro Boxing Training & Sparring Gloves feature premium triple-density foam impact padding, attached thumb security, reinforced palm cushioning, and wide hook-and-loop wrist wraps in sleek matte black."
+    },
+    {
+        "id": 384,
+        "name": "Squat Machine Pro Weightlifting & Powerlifting Shoes (White/Orange)",
+        "category": "Apparel",
+        "price": 4999.0,
+        "image": "assets/images/products/384/main.jpg",
+        "rating": 4.1,
+        "reviews": 132,
+        "description": "Squat Machine Pro Weightlifting Shoes feature an elevated solid TPU heel wedge, dual metatarsal hook-and-loop lockdown straps, perforated ventilation upper, and flat non-slip rubber outsoles for maximum stability."
+    },
+    {
+        "id": 454,
+        "name": "Garmin GPS Multisport Smartwatch with AMOLED Display (Black)",
+        "category": "Fit Tech",
+        "price": 24990.0,
+        "image": "assets/images/products/454/main.jpg",
+        "rating": 4.6,
+        "reviews": 64,
+        "description": "Garmin GPS Multisport Smartwatch features a bright high-resolution AMOLED touchscreen, built-in multi-GNSS tracking, advanced heart rate & Pulse Ox sensors, and all-day health and sports tracking."
+    },
+    {
+        "id": 594,
+        "name": "Adjustable Yoga Mat Carry Sling Strap & Stretching Belt (Black)",
+        "category": "Yoga",
+        "price": 799.0,
+        "image": "assets/images/products/594/main.jpg",
+        "rating": 5.0,
+        "reviews": 468,
+        "description": "Adjustable Yoga Mat Carry Sling Strap is crafted from high-tensile durable woven cotton webbing with dual adjustable cinch loops that securely hold any size yoga mat or double as a stretching resistance strap."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -3470,26 +3540,6 @@ var shopProducts = [
         "description": "The Lightweight Travel EVA Foam Yoga Block is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
-        "id": 662,
-        "name": "Bodyweight Suspension Trainer with Door Mount",
-        "category": "Home Gym",
-        "price": 2919.0,
-        "image": "assets/images/products/662/main.jpg",
-        "rating": 4.8,
-        "reviews": 499,
-        "description": "The Bodyweight Suspension Trainer with Door Mount is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 33,
-        "name": "Black Oxide Olympic Barbell (7 Foot)",
-        "category": "Strength",
-        "price": 10639.0,
-        "image": "assets/images/products/33/main.jpg",
-        "rating": 3.8,
-        "reviews": 500,
-        "description": "The Black Oxide Olympic Barbell (7 Foot) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
         "id": 103,
         "name": "Magnetic Spin Bike with 40lb Flywheel",
         "category": "Cardio",
@@ -3508,16 +3558,6 @@ var shopProducts = [
         "rating": 4.3,
         "reviews": 167,
         "description": "The Mexican Style Cotton Hand Wraps (180-Inch) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 243,
-        "name": "Electric Heating Pad for Lower Back Pain Relief",
-        "category": "Recovery",
-        "price": 3639.0,
-        "image": "assets/images/products/243/main.jpg",
-        "rating": 4.0,
-        "reviews": 91,
-        "description": "The Electric Heating Pad for Lower Back Pain Relief is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 313,
@@ -3550,16 +3590,6 @@ var shopProducts = [
         "description": "The Commercial Grade Stair Climber Stepper is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
-        "id": 174,
-        "name": "Heavy Duty Wall Mount Heavy Bag Hanger Bracket",
-        "category": "Combat",
-        "price": 5559.0,
-        "image": "assets/images/products/174/main.jpg",
-        "rating": 4.8,
-        "reviews": 71,
-        "description": "The Heavy Duty Wall Mount Heavy Bag Hanger Bracket is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
         "id": 314,
         "name": "Tactical Gym Duffel & Sports Travel Bag",
         "category": "Accessories",
@@ -3570,26 +3600,6 @@ var shopProducts = [
         "description": "The Tactical Gym Duffel & Sports Travel Bag is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
-        "id": 384,
-        "name": "Tapered Fit Fleece Gym Joggers",
-        "category": "Apparel",
-        "price": 1429.0,
-        "image": "assets/images/products/384/main.jpg",
-        "rating": 4.1,
-        "reviews": 132,
-        "description": "The Tapered Fit Fleece Gym Joggers is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 454,
-        "name": "Smart Fitness Tracker Ring (Titanium Edition)",
-        "category": "Fit Tech",
-        "price": 7959.0,
-        "image": "assets/images/products/454/main.jpg",
-        "rating": 4.6,
-        "reviews": 64,
-        "description": "The Smart Fitness Tracker Ring (Titanium Edition) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
         "id": 524,
         "name": "Micellar Casein Protein Powder (Salted Caramel 2 lbs)",
         "category": "Supplements",
@@ -3598,16 +3608,6 @@ var shopProducts = [
         "rating": 4.9,
         "reviews": 246,
         "description": "The Micellar Casein Protein Powder (Salted Caramel 2 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 594,
-        "name": "Rectangular Meditation Pillow Cushion",
-        "category": "Yoga",
-        "price": 2379.0,
-        "image": "assets/images/products/594/main.jpg",
-        "rating": 5.0,
-        "reviews": 468,
-        "description": "The Rectangular Meditation Pillow Cushion is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 35,
