@@ -48,8 +48,8 @@ Total Products: **700**
 | 22 | Precor Commercial Multi-Angle Adjustable Incline Dumbbell Bench |
 | 23 | Commercial Heavy-Duty Power Half Rack Squat Cage |
 | 24 | Ukiyo Commercial 3-Tier Heavy-Duty Dumbbell Storage Rack |
-| 25 | Pro Style Steel Dumbbell Pair (25 lbs) |
-| 26 | Steel Cable Crossover Machine Tower |
+| 25 | Olympic Hex Trap Bar with Dual Knurled Handles (Deadlift & Shrug Bar) |
+| 26 | Core Home Fitness Quick-Select Adjustable Dumbbells Pair (5-50 lbs) with Cradles |
 | 27 | Competition Bumper Plate Pair (20kg) |
 | 28 | Multi-Grip Curved Swiss Barbell |
 | 29 | Foldable Wall Rack with Pull-Up Bar |
@@ -124,7 +124,7 @@ Total Products: **700**
 | 93 | Commercial Fluid Rower with Adjustable Resistance |
 | 94 | Lifespan Fitness ST-15 Vertex Commercial Stair Climber Stepmill |
 | 95 | Incline Trainer Treadmill with 0-40 Percent Incline |
-| 96 | Heavy Duty Fan Bike for Cross-Training |
+| 96 | SportE Commercial Multi-Function Motorized Folding Treadmill with Massager |
 | 97 | Under-Desk Treadmill Walking Pad with LED Display |
 | 98 | Commercial Magnetic Elliptical Machine |
 | 99 | Dual-Handle Hydro Rowing Machine |
@@ -274,7 +274,7 @@ Total Products: **700**
 | 233 | Revive Percussion Therapy Professional Deep Tissue Massage Gun |
 | 234 | Ergonomic Contour Foam Roller (24-Inch) |
 | 235 | Stainless Steel Muscle Scraper Soft Tissue Tool |
-| 236 | Therapeutic Heating & Cooling Gel Ice Pack Wrap |
+| 236 | Browe Pure Magnesium Epsom Salt Foot Soak & Bath Salts (2 lbs / 907g) |
 | 237 | Deep Tissue Lacrosse Massage Ball Pair |
 | 238 | Inflatable Cold Therapy Ice Plunge Tub |
 | 239 | Professional Percussive Massage Gun (8 Speeds) |
@@ -348,8 +348,8 @@ Total Products: **700**
 | 302 | GoZone Athletic Travel Gym Duffel Bag with Shoe Pocket (Black/Neon) |
 | 303 | Silicone Padded Gym Workout Gloves Pair |
 | 304 | Long Pull-Up Assist Resistance Bands Set |
-| 305 | Figure 8 Weightlifting Straps Pair |
-| 306 | Liquid Gym Chalk Bottle (250ml Fast-Drying) |
+| 305 | Merrithew Non-Latex Flex-Band Resistance Exerciser (Extra Strength Green) |
+| 306 | Bulk Self-Locking Nylon Weightlifting Belt with Quick-Release Buckle (Black) |
 | 307 | Weighted Fitness Jump Rope (1 lb Heavy Cable) |
 | 308 | Convertible Gym Backpack & Duffel Bag |
 | 309 | Neoprene Knee Sleeves 7mm Pair for Squats |
@@ -423,8 +423,8 @@ Total Products: **700**
 | 372 | Bullrock Podium Olympic Weightlifting Shoes (Red/Black) |
 | 373 | Full-Coverage Tactical Sparring Protective Helmet Mask |
 | 374 | M2W Men's Tapered Fleece Workout Jogger Pants with Ankle Zips (Navy) |
-| 375 | Padded Medium Support Workout Sports Bra |
-| 376 | Ultra-Lightweight Track Running Pants |
+| 375 | Zenith Men's Breathable Athletic Performance Tennis & Gym T-Shirt (White) |
+| 376 | Nike Sportswear Club Fleece Women's Pullover Workout Hoodie (Mint Green) |
 | 377 | Seamless High-Waisted Gym Leggings |
 | 378 | Oversized Heavyweight Gym Hoodie |
 | 379 | Dry-Fit Sleeveless Muscle Shirt |
@@ -498,7 +498,7 @@ Total Products: **700**
 | 442 | Pneumatic Multi-Chamber Air Compression Leg & Foot Recovery Boots |
 | 443 | Pneumatic Compression Arm & Leg Boots System |
 | 444 | Smart Touchscreen Fitness Tracker Smartwatch (Black) |
-| 445 | Bluetooth Fitness Tracker Wristband |
+| 445 | ArmFit Bluetooth & ANT+ Optical Heart Rate Monitor Armband (Blue) |
 | 446 | Smart TENS Unit Muscle Relief Controller |
 | 447 | Wireless Sports Earbuds with Active Noise Cancellation |
 | 448 | Smart Bike Computer with GPS Navigation |
@@ -648,7 +648,7 @@ Total Products: **700**
 | 582 | Jade Yoga Natural Sustainable Cork Yoga Block |
 | 583 | Bohemian Vintage Persian Pattern Non-Slip Printed Yoga Mat |
 | 584 | Manduka Commuter Organic Cotton Yoga Mat Carry Strap Sling (Sky Blue) |
-| 585 | Extra Wide TPE Yoga Mat (6mm) |
+| 585 | Sage Soul Round Floral Mandala Cotton Meditation Zafu Cushion (Orange) |
 | 586 | High Density Foam Yoga Block Set with Strap |
 | 587 | Multi-Loop Stretching Yoga Belt Strap |
 | 588 | Organic Cotton Round Yoga Bolster |
@@ -722,8 +722,8 @@ Total Products: **700**
 | 651 | Multi-Position Adjustable Incline Workout Bench with Preacher Curl & Leg Developer |
 | 652 | Marcy Diamond Elite Smith Machine & Multi-Function Home Gym Cage |
 | 653 | Multi-Station Power Cage Home Gym System with Cable Crossover & Bench |
-| 654 | Foldable Slope Utility Bench for Home Gym |
-| 655 | Doorway Pull-Up Bar with Padded Handles |
+| 654 | Sunny Health & Fitness Power Zone Half Rack Squat Stand with Plate Storage |
+| 655 | AXDX Commercial All-In-One Smith Machine & Functional Trainer Home Gym |
 | 656 | Professional Suspension Trainer Straps System |
 | 657 | Multi-Grip Pull-Up Dip Power Tower Station |
 | 658 | High Density Rubber Gym Flooring Tile (single) |

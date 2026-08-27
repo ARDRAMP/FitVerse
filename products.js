@@ -1130,6 +1130,126 @@ var shopProducts = [
         "description": "Manduka Commuter Organic Cotton Yoga Mat Carry Strap Sling features durable natural woven cotton webbing, gravity-cinch loop design, and padded shoulder strap to easily transport any yoga mat."
     },
     {
+        "id": 654,
+        "name": "Sunny Health & Fitness Power Zone Half Rack Squat Stand with Plate Storage",
+        "category": "Home Gym",
+        "price": 24999.0,
+        "image": "assets/images/products/654/main.jpg",
+        "rating": 3.8,
+        "reviews": 302,
+        "description": "Sunny Health & Fitness Power Zone Half Rack Squat Stand features heavy-duty steel construction, integrated pull-up bar, safety spotter arms, and 6 weight plate storage posts for home gym strength workouts."
+    },
+    {
+        "id": 25,
+        "name": "Olympic Hex Trap Bar with Dual Knurled Handles (Deadlift & Shrug Bar)",
+        "category": "Strength",
+        "price": 12499.0,
+        "image": "assets/images/products/25/main.jpg",
+        "rating": 4.5,
+        "reviews": 222,
+        "description": "Olympic Hex Trap Bar is precision engineered with solid chrome alloy steel, dual high and low knurled grip handles, and 2-inch Olympic sleeve diameter for deadlifts, shrugs, and farmer's walks."
+    },
+    {
+        "id": 305,
+        "name": "Merrithew Non-Latex Flex-Band Resistance Exerciser (Extra Strength Green)",
+        "category": "Accessories",
+        "price": 1389.0,
+        "image": "assets/images/products/305/main.jpg",
+        "rating": 4.8,
+        "reviews": 489,
+        "description": "Merrithew Non-Latex Flex-Band Resistance Exerciser delivers extra-strength progressive resistance for Pilates, stretching, and strength conditioning, crafted with hypoallergenic non-latex material."
+    },
+    {
+        "id": 375,
+        "name": "Zenith Men's Breathable Athletic Performance Tennis & Gym T-Shirt (White)",
+        "category": "Apparel",
+        "price": 1499.0,
+        "image": "assets/images/products/375/main.jpg",
+        "rating": 4.6,
+        "reviews": 255,
+        "description": "Zenith Men's Breathable Athletic Performance T-Shirt features moisture-wicking quick-dry fabric, ergonomic crewneck cut, and retro athletic tennis chest graphic for high-intensity training."
+    },
+    {
+        "id": 445,
+        "name": "ArmFit Bluetooth & ANT+ Optical Heart Rate Monitor Armband (Blue)",
+        "category": "Fit Tech",
+        "price": 2999.0,
+        "image": "assets/images/products/445/main.jpg",
+        "rating": 4.9,
+        "reviews": 28,
+        "description": "ArmFit Optical Heart Rate Monitor Armband features high-precision PPG optical sensor, dual Bluetooth and ANT+ wireless connectivity, IP67 waterproof rating, and comfortable breathable blue elastic strap."
+    },
+    {
+        "id": 585,
+        "name": "Sage Soul Round Floral Mandala Cotton Meditation Zafu Cushion (Orange)",
+        "category": "Yoga",
+        "price": 2189.0,
+        "image": "assets/images/products/585/main.jpg",
+        "rating": 3.8,
+        "reviews": 393,
+        "description": "Sage Soul Round Floral Mandala Cotton Meditation Zafu Cushion is filled with natural buckwheat hulls, featuring an orange floral mandala print canvas cover, leather logo badge, and sturdy carrying handle."
+    },
+    {
+        "id": 655,
+        "name": "AXDX Commercial All-In-One Smith Machine & Functional Trainer Home Gym",
+        "category": "Home Gym",
+        "price": 94999.0,
+        "image": "assets/images/products/655/main.jpg",
+        "rating": 4.9,
+        "reviews": 196,
+        "description": "AXDX Commercial All-In-One Smith Machine combines a guided Olympic Smith barbell system, dual adjustable cable crossover columns, multi-grip chin-up bar, and seated row station with workout bench."
+    },
+    {
+        "id": 26,
+        "name": "Core Home Fitness Quick-Select Adjustable Dumbbells Pair (5-50 lbs) with Cradles",
+        "category": "Strength",
+        "price": 24999.0,
+        "image": "assets/images/products/26/main.jpg",
+        "rating": 4.4,
+        "reviews": 308,
+        "description": "Core Home Fitness Quick-Select Adjustable Dumbbells feature an innovative twist-handle weight selection mechanism from 5 to 50 lbs per dumbbell, contoured rubber grips, and compact storage cradles."
+    },
+    {
+        "id": 96,
+        "name": "SportE Commercial Multi-Function Motorized Folding Treadmill with Massager",
+        "category": "Cardio",
+        "price": 33599.0,
+        "image": "assets/images/products/96/main.jpg",
+        "rating": 4.3,
+        "reviews": 321,
+        "description": "SportE Commercial Multi-Function Motorized Folding Treadmill features high-torque continuous motor, multi-tier shock absorption running deck, dual LCD performance console, and integrated massage belt station."
+    },
+    {
+        "id": 236,
+        "name": "Browe Pure Magnesium Epsom Salt Foot Soak & Bath Salts (2 lbs / 907g)",
+        "category": "Recovery",
+        "price": 899.0,
+        "image": "assets/images/products/236/main.jpg",
+        "rating": 4.3,
+        "reviews": 145,
+        "description": "Browe Pure Magnesium Epsom Salt is formulated with USP grade magnesium sulfate to soothe sore muscles, relieve physical fatigue, and detoxify skin in relaxing foot soaks and post-workout baths."
+    },
+    {
+        "id": 306,
+        "name": "Bulk Self-Locking Nylon Weightlifting Belt with Quick-Release Buckle (Black)",
+        "category": "Accessories",
+        "price": 2499.0,
+        "image": "assets/images/products/306/main.jpg",
+        "rating": 4.6,
+        "reviews": 494,
+        "description": "Bulk Self-Locking Nylon Weightlifting Belt features reinforced uniform 4-inch width nylon webbing, heavy-duty steel roller buckle with quick-locking mechanism, and secure hook-and-loop closure for core support."
+    },
+    {
+        "id": 376,
+        "name": "Nike Sportswear Club Fleece Women's Pullover Workout Hoodie (Mint Green)",
+        "category": "Apparel",
+        "price": 3999.0,
+        "image": "assets/images/products/376/main.jpg",
+        "rating": 4.0,
+        "reviews": 449,
+        "description": "Nike Sportswear Club Fleece Women's Pullover Hoodie is crafted with premium semi-brushed fleece, embroidered white Nike swoosh, drawstring hood, ribbed hem/cuffs, and kangaroo front pocket."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -2590,26 +2710,6 @@ var shopProducts = [
         "description": "The Pure Creatine Monohydrate Capsules (250 Capsules) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
-        "id": 654,
-        "name": "Foldable Slope Utility Bench for Home Gym",
-        "category": "Home Gym",
-        "price": 15919.0,
-        "image": "assets/images/products/654/main.jpg",
-        "rating": 3.8,
-        "reviews": 302,
-        "description": "The Foldable Slope Utility Bench for Home Gym is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 25,
-        "name": "Pro Style Steel Dumbbell Pair (25 lbs)",
-        "category": "Strength",
-        "price": 4279.0,
-        "image": "assets/images/products/25/main.jpg",
-        "rating": 4.5,
-        "reviews": 222,
-        "description": "The Pro Style Steel Dumbbell Pair (25 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
         "id": 95,
         "name": "Incline Trainer Treadmill with 0-40 Percent Incline",
         "category": "Cardio",
@@ -2640,36 +2740,6 @@ var shopProducts = [
         "description": "The Stainless Steel Muscle Scraper Soft Tissue Tool is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
-        "id": 305,
-        "name": "Figure 8 Weightlifting Straps Pair",
-        "category": "Accessories",
-        "price": 1389.0,
-        "image": "assets/images/products/305/main.jpg",
-        "rating": 4.8,
-        "reviews": 489,
-        "description": "The Figure 8 Weightlifting Straps Pair is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 375,
-        "name": "Padded Medium Support Workout Sports Bra",
-        "category": "Apparel",
-        "price": 3319.0,
-        "image": "assets/images/products/375/main.jpg",
-        "rating": 4.6,
-        "reviews": 255,
-        "description": "The Padded Medium Support Workout Sports Bra is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 445,
-        "name": "Bluetooth Fitness Tracker Wristband",
-        "category": "Fit Tech",
-        "price": 829.0,
-        "image": "assets/images/products/445/main.jpg",
-        "rating": 4.9,
-        "reviews": 28,
-        "description": "The Bluetooth Fitness Tracker Wristband is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
         "id": 515,
         "name": "EAA + Electrolyte Recovery Powder (Fruit Punch 30 Servings)",
         "category": "Supplements",
@@ -2680,46 +2750,6 @@ var shopProducts = [
         "description": "The EAA + Electrolyte Recovery Powder (Fruit Punch 30 Servings) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
-        "id": 585,
-        "name": "Extra Wide TPE Yoga Mat (6mm)",
-        "category": "Yoga",
-        "price": 2189.0,
-        "image": "assets/images/products/585/main.jpg",
-        "rating": 3.8,
-        "reviews": 393,
-        "description": "The Extra Wide TPE Yoga Mat (6mm) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 655,
-        "name": "Doorway Pull-Up Bar with Padded Handles",
-        "category": "Home Gym",
-        "price": 2519.0,
-        "image": "assets/images/products/655/main.jpg",
-        "rating": 4.9,
-        "reviews": 196,
-        "description": "The Doorway Pull-Up Bar with Padded Handles is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 26,
-        "name": "Steel Cable Crossover Machine Tower",
-        "category": "Strength",
-        "price": 87799.0,
-        "image": "assets/images/products/26/main.jpg",
-        "rating": 4.4,
-        "reviews": 308,
-        "description": "The Steel Cable Crossover Machine Tower is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 96,
-        "name": "Heavy Duty Fan Bike for Cross-Training",
-        "category": "Cardio",
-        "price": 33599.0,
-        "image": "assets/images/products/96/main.jpg",
-        "rating": 4.3,
-        "reviews": 321,
-        "description": "The Heavy Duty Fan Bike for Cross-Training is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
         "id": 166,
         "name": "Training Boxing Gloves (10 oz Lace-Up Style)",
         "category": "Combat",
@@ -2728,36 +2758,6 @@ var shopProducts = [
         "rating": 4.1,
         "reviews": 101,
         "description": "The Training Boxing Gloves (10 oz Lace-Up Style) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 236,
-        "name": "Therapeutic Heating & Cooling Gel Ice Pack Wrap",
-        "category": "Recovery",
-        "price": 559.0,
-        "image": "assets/images/products/236/main.jpg",
-        "rating": 4.3,
-        "reviews": 145,
-        "description": "The Therapeutic Heating & Cooling Gel Ice Pack Wrap is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 306,
-        "name": "Liquid Gym Chalk Bottle (250ml Fast-Drying)",
-        "category": "Accessories",
-        "price": 609.0,
-        "image": "assets/images/products/306/main.jpg",
-        "rating": 4.6,
-        "reviews": 494,
-        "description": "The Liquid Gym Chalk Bottle (250ml Fast-Drying) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 376,
-        "name": "Ultra-Lightweight Track Running Pants",
-        "category": "Apparel",
-        "price": 1489.0,
-        "image": "assets/images/products/376/main.jpg",
-        "rating": 4.0,
-        "reviews": 449,
-        "description": "The Ultra-Lightweight Track Running Pants is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 446,
