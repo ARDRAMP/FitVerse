@@ -44,8 +44,8 @@ Total Products: **700**
 | 18 | Rubber Hex Dumbbell Pair (40 lbs) |
 | 19 | Cast Iron Kettlebell (32kg / 70lbs) |
 | 20 | York Fitness Olympic Barbell & Tri-Grip Weight Plates Set |
-| 21 | Hard Chrome Olympic Training Bar (20kg) |
-| 22 | Urethane Coated Weight Plate (35 lbs) |
+| 21 | Commercial Hard Chrome Olympic Barbell (20kg) |
+| 22 | Precor Commercial Multi-Angle Adjustable Incline Dumbbell Bench |
 | 23 | Heavy Duty Flat Utility Bench (1000lb Capacity) |
 | 24 | Powder Coated Cast Iron Kettlebell (12kg) |
 | 25 | Pro Style Steel Dumbbell Pair (25 lbs) |
@@ -119,8 +119,8 @@ Total Products: **700**
 | 88 | Ultra-Quiet Magnetic Rowing Machine |
 | 89 | Heavy-Duty Treadmill with 3.5 HP Continuous Motor |
 | 90 | Smart Ultra-Thin Folding Motorized Treadmill with Digital Display |
-| 91 | Foldable Walking Pad with Remote Control |
-| 92 | Professional Recumbent Stationary Bike |
+| 91 | Commercial Dual-Action Air Fan Resistance Exercise Bike |
+| 92 | Commercial Magnetic Elliptical Cross Trainer Machine |
 | 93 | Commercial Fluid Rower with Adjustable Resistance |
 | 94 | Smart Interactive Spin Bike with Tablet Holder |
 | 95 | Incline Trainer Treadmill with 0-40 Percent Incline |
@@ -194,7 +194,7 @@ Total Products: **700**
 | 158 | Ergonomic Leather Focus Mitts Pair |
 | 159 | Fortis Athletica Canvas & Leather Hanging Heavy Punching Bag |
 | 160 | Venture Tactical Full Face FAST Helmet with Goggles & Mask |
-| 161 | Heavy Leather Tear Drop Punching Bag (70 lbs) |
+| 161 | Pro Boxing Elastic Hand Wraps & Wrist Support Guards (Black) |
 | 162 | MMA Grappling Gloves (4 oz Competition Style) |
 | 163 | Semi-Elastic Boxing Hand Wraps (120-Inch) |
 | 164 | Leather Muay Thai Belly Pad Guard |
@@ -269,8 +269,8 @@ Total Products: **700**
 | 228 | Targeted Calf & Foot Compression Sleeves |
 | 229 | Rechargeable Textured Vibrating Massage Ball Roller |
 | 230 | Dr Teal's Pure Epsom Salt Soaking Solution (Eucalyptus & Spearmint 3 lbs) |
-| 231 | Vibrating Massage Ball for Foot & Plantar Fasciitis |
-| 232 | Multi-Chamber Air Compression Leg Recovery System |
+| 231 | Ultra-Stabilize The Elbow-Guard Ultra Compression Support Brace |
+| 232 | The Cold Pod Portable Cold Plunge Ice Bath Tub with Thermal Lid |
 | 233 | Mini Pocket Massage Gun for On-The-Go |
 | 234 | Ergonomic Contour Foam Roller (24-Inch) |
 | 235 | Stainless Steel Muscle Scraper Soft Tissue Tool |
@@ -345,7 +345,7 @@ Total Products: **700**
 | 299 | Large Capacity Gym Duffel Bag with Water Bottle Holder |
 | 300 | Self-Locking Nylon Weightlifting Belt (4-Inch) |
 | 301 | High-Speed Aluminum Handle Jump Rope |
-| 302 | Tritan BPA-Free Leakproof Protein Shaker Bottle (28oz) |
+| 302 | GoZone Athletic Travel Gym Duffel Bag with Shoe Pocket (Black/Neon) |
 | 303 | Silicone Padded Gym Workout Gloves Pair |
 | 304 | Long Pull-Up Assist Resistance Bands Set |
 | 305 | Figure 8 Weightlifting Straps Pair |
@@ -419,8 +419,8 @@ Total Products: **700**
 | 368 | Seamless Camo Workout Leggings |
 | 369 | Performance Quarter-Zip Running Pullover |
 | 370 | Breathable Mesh Inset Athletic Tank |
-| 371 | High-Performance Compression Base Layer Shirt |
-| 372 | Stretch Woven Training Shorts (9-Inch) |
+| 371 | HYPD 2-in-1 Athletic Workout Running Shorts (Charcoal Grey) |
+| 372 | Bullrock Podium Olympic Weightlifting Shoes (Red/Black) |
 | 373 | Heavy Duty Leather Squat & Deadlift Shoes |
 | 374 | Classic Cotton Gym Graphic Tee |
 | 375 | Padded Medium Support Workout Sports Bra |
@@ -495,7 +495,7 @@ Total Products: **700**
 | 439 | Wireless Digital Grip Strength Dynamometer Tester |
 | 440 | EH108 Digital Hand Dynamometer Electronic Grip Strength Tester |
 | 441 | Chest Harness Heart Rate Sensor for Training |
-| 442 | Smart Digital Scale with Smartphone App Sync |
+| 442 | Pneumatic Multi-Chamber Air Compression Leg & Foot Recovery Boots |
 | 443 | Pneumatic Compression Arm & Leg Boots System |
 | 444 | Smart Speed & Jump Counter Rope |
 | 445 | Bluetooth Fitness Tracker Wristband |
@@ -644,7 +644,7 @@ Total Products: **700**
 | 578 | Waterproof Canvas Yoga Mat Bag with Pockets |
 | 579 | Manduka Unfold Organic Cotton Yoga Strap (Purple) |
 | 580 | Round Striped Cotton Zafu Yoga Meditation Cushion (Grey/White) |
-| 581 | Heavy Duty Cotton Yoga Strap with D-Ring |
+| 581 | Cylindrical Organic Cotton Yoga Meditation Bolster Pillow (Grey) |
 | 582 | Buckwheat Meditation Cushion Pillow |
 | 583 | Spine Release Yoga Wheel (10-Inch) |
 | 584 | Non-Slip Microfiber Yoga Towel with Grip Dots |
@@ -719,7 +719,7 @@ Total Products: **700**
 | 648 | Heavy Duty Foldable Flat Weight Bench |
 | 649 | NordicTrack Commercial Recumbent Exercise Bike with Touchscreen |
 | 650 | Commercial Suspension Bodyweight Trainer Kit |
-| 651 | Heavy Duty Power Tower Pull-Up Dip Station |
+| 651 | Multi-Position Adjustable Incline Workout Bench with Preacher Curl & Leg Developer |
 | 652 | Interlocking Rubber Gym Floor Tiles (12-Pack) |
 | 653 | Quick-Change Adjustable Dumbbells Pair (5-25 lbs) |
 | 654 | Foldable Slope Utility Bench for Home Gym |

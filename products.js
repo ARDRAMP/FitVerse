@@ -870,6 +870,136 @@ var shopProducts = [
         "description": "Round Striped Cotton Zafu Yoga Meditation Cushion is filled with high-density supportive buckwheat and cotton batting with a breathable striped woven fabric cover to support healthy spinal posture during sitting meditation."
     },
     {
+        "id": 21,
+        "name": "Commercial Hard Chrome Olympic Barbell (20kg)",
+        "category": "Strength",
+        "price": 13239.0,
+        "image": "assets/images/products/21/main.jpg",
+        "rating": 4.1,
+        "reviews": 312,
+        "description": "Commercial Hard Chrome Olympic Barbell is precision engineered with high-tensile alloy steel, medium diamond knurling, dual snap-ring bronze bushings, and 20kg competition standard calibration."
+    },
+    {
+        "id": 91,
+        "name": "Commercial Dual-Action Air Fan Resistance Exercise Bike",
+        "category": "Cardio",
+        "price": 31599.0,
+        "image": "assets/images/products/91/main.jpg",
+        "rating": 4.9,
+        "reviews": 496,
+        "description": "Commercial Dual-Action Air Fan Resistance Exercise Bike features infinite wind resistance, synchronized upper-body workout handlebars, heavy-duty steel frame, and LCD performance tracking monitor."
+    },
+    {
+        "id": 161,
+        "name": "Pro Boxing Elastic Hand Wraps & Wrist Support Guards (Black)",
+        "category": "Combat",
+        "price": 1299.0,
+        "image": "assets/images/products/161/main.jpg",
+        "rating": 4.1,
+        "reviews": 66,
+        "description": "Pro Boxing Elastic Hand Wraps are crafted with breathable semi-elastic cotton blend fabric, thumb loop starter, and extra-wide hook-and-loop closure to protect knuckles and wrists during sparring."
+    },
+    {
+        "id": 231,
+        "name": "Ultra-Stabilize The Elbow-Guard Ultra Compression Support Brace",
+        "category": "Recovery",
+        "price": 1899.0,
+        "image": "assets/images/products/231/main.jpg",
+        "rating": 4.3,
+        "reviews": 96,
+        "description": "Ultra-Stabilize The Elbow-Guard Ultra features targeted dynamic compression knit, integrated rigid side stabilization panels, and adjustable dual strap fastening for tendonitis relief and joint support."
+    },
+    {
+        "id": 371,
+        "name": "HYPD 2-in-1 Athletic Workout Running Shorts (Charcoal Grey)",
+        "category": "Apparel",
+        "price": 1179.0,
+        "image": "assets/images/products/371/main.jpg",
+        "rating": 3.8,
+        "reviews": 308,
+        "description": "HYPD 2-in-1 Athletic Workout Running Shorts feature an ultra-lightweight breathable outer shell with reflective safety details and a built-in compression liner for maximum support and chafing protection."
+    },
+    {
+        "id": 581,
+        "name": "Cylindrical Organic Cotton Yoga Meditation Bolster Pillow (Grey)",
+        "category": "Yoga",
+        "price": 1899.0,
+        "image": "assets/images/products/581/main.jpg",
+        "rating": 4.5,
+        "reviews": 432,
+        "description": "Cylindrical Organic Cotton Yoga Meditation Bolster Pillow is densely packed with eco-friendly natural cotton batting and features a removable washable cover with side carry handle for restorative yoga."
+    },
+    {
+        "id": 651,
+        "name": "Multi-Position Adjustable Incline Workout Bench with Preacher Curl & Leg Developer",
+        "category": "Home Gym",
+        "price": 18999.0,
+        "image": "assets/images/products/651/main.jpg",
+        "rating": 4.2,
+        "reviews": 343,
+        "description": "Multi-Position Adjustable Incline Workout Bench is equipped with high-density foam padding, integrated preacher curl pad with bar holder, and dual-function leg extension/curl developer for full-body strength training."
+    },
+    {
+        "id": 22,
+        "name": "Precor Commercial Multi-Angle Adjustable Incline Dumbbell Bench",
+        "category": "Strength",
+        "price": 24999.0,
+        "image": "assets/images/products/22/main.jpg",
+        "rating": 4.9,
+        "reviews": 229,
+        "description": "Precor Commercial Multi-Angle Adjustable Incline Dumbbell Bench is built with heavy-gauge commercial steel frame, ergonomic contoured seat, laser-cut angle adjustment ladder, and rear transport wheels."
+    },
+    {
+        "id": 92,
+        "name": "Commercial Magnetic Elliptical Cross Trainer Machine",
+        "category": "Cardio",
+        "price": 49999.0,
+        "image": "assets/images/products/92/main.jpg",
+        "rating": 4.8,
+        "reviews": 393,
+        "description": "Commercial Magnetic Elliptical Cross Trainer Machine features ultra-smooth front-drive magnetic resistance, ergonomic oversized foot pedals, multi-grip moving handlebars, and digital LED workout console."
+    },
+    {
+        "id": 232,
+        "name": "The Cold Pod Portable Cold Plunge Ice Bath Tub with Thermal Lid",
+        "category": "Recovery",
+        "price": 9999.0,
+        "image": "assets/images/products/232/main.jpg",
+        "rating": 4.4,
+        "reviews": 74,
+        "description": "The Cold Pod Portable Cold Plunge Ice Bath Tub features multi-layered thermal insulation, sturdy reinforced support legs, easy-flow drainage tap, and weather-resistant insulated top cover for post-workout cold recovery."
+    },
+    {
+        "id": 302,
+        "name": "GoZone Athletic Travel Gym Duffel Bag with Shoe Pocket (Black/Neon)",
+        "category": "Accessories",
+        "price": 2499.0,
+        "image": "assets/images/products/302/main.jpg",
+        "rating": 4.5,
+        "reviews": 211,
+        "description": "GoZone Athletic Travel Gym Duffel Bag features water-resistant heavy-duty polyester, ventilated side shoe compartment, high-visibility neon green accents, and padded adjustable shoulder strap."
+    },
+    {
+        "id": 372,
+        "name": "Bullrock Podium Olympic Weightlifting Shoes (Red/Black)",
+        "category": "Apparel",
+        "price": 8999.0,
+        "image": "assets/images/products/372/main.jpg",
+        "rating": 4.5,
+        "reviews": 338,
+        "description": "Bullrock Podium Olympic Weightlifting Shoes feature an ultra-rigid raised TPU heel wedge, dual midfoot carbon-textured lock straps, high-traction flat outsole, and premium red leather upper for elite lifting stability."
+    },
+    {
+        "id": 442,
+        "name": "Pneumatic Multi-Chamber Air Compression Leg & Foot Recovery Boots",
+        "category": "Fit Tech",
+        "price": 12499.0,
+        "image": "assets/images/products/442/main.jpg",
+        "rating": 4.7,
+        "reviews": 315,
+        "description": "Pneumatic Multi-Chamber Air Compression Leg & Foot Recovery Boots feature full-leg sequential pressure massage, digital handheld controller, multiple compression intensity levels, and soothing heat therapy to boost circulation."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -2200,46 +2330,6 @@ var shopProducts = [
         "description": "The Commercial Suspension Bodyweight Trainer Kit is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
-        "id": 21,
-        "name": "Hard Chrome Olympic Training Bar (20kg)",
-        "category": "Strength",
-        "price": 13239.0,
-        "image": "assets/images/products/21/main.jpg",
-        "rating": 4.1,
-        "reviews": 312,
-        "description": "The Hard Chrome Olympic Training Bar (20kg) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 91,
-        "name": "Foldable Walking Pad with Remote Control",
-        "category": "Cardio",
-        "price": 3159.0,
-        "image": "assets/images/products/91/main.jpg",
-        "rating": 4.9,
-        "reviews": 496,
-        "description": "The Foldable Walking Pad with Remote Control is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 161,
-        "name": "Heavy Leather Tear Drop Punching Bag (70 lbs)",
-        "category": "Combat",
-        "price": 6319.0,
-        "image": "assets/images/products/161/main.jpg",
-        "rating": 4.1,
-        "reviews": 66,
-        "description": "The Heavy Leather Tear Drop Punching Bag (70 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 231,
-        "name": "Vibrating Massage Ball for Foot & Plantar Fasciitis",
-        "category": "Recovery",
-        "price": 739.0,
-        "image": "assets/images/products/231/main.jpg",
-        "rating": 4.3,
-        "reviews": 96,
-        "description": "The Vibrating Massage Ball for Foot & Plantar Fasciitis is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
         "id": 301,
         "name": "High-Speed Aluminum Handle Jump Rope",
         "category": "Accessories",
@@ -2248,16 +2338,6 @@ var shopProducts = [
         "rating": 3.8,
         "reviews": 387,
         "description": "The High-Speed Aluminum Handle Jump Rope is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 371,
-        "name": "High-Performance Compression Base Layer Shirt",
-        "category": "Apparel",
-        "price": 1179.0,
-        "image": "assets/images/products/371/main.jpg",
-        "rating": 3.8,
-        "reviews": 308,
-        "description": "The High-Performance Compression Base Layer Shirt is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 441,
@@ -2280,46 +2360,6 @@ var shopProducts = [
         "description": "The Organic Plant Protein Powder (Vanilla Bean 2 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
-        "id": 581,
-        "name": "Heavy Duty Cotton Yoga Strap with D-Ring",
-        "category": "Yoga",
-        "price": 1479.0,
-        "image": "assets/images/products/581/main.jpg",
-        "rating": 4.5,
-        "reviews": 432,
-        "description": "The Heavy Duty Cotton Yoga Strap with D-Ring is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 651,
-        "name": "Heavy Duty Power Tower Pull-Up Dip Station",
-        "category": "Home Gym",
-        "price": 2819.0,
-        "image": "assets/images/products/651/main.jpg",
-        "rating": 4.2,
-        "reviews": 343,
-        "description": "The Heavy Duty Power Tower Pull-Up Dip Station is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 22,
-        "name": "Urethane Coated Weight Plate (35 lbs)",
-        "category": "Strength",
-        "price": 2799.0,
-        "image": "assets/images/products/22/main.jpg",
-        "rating": 4.9,
-        "reviews": 229,
-        "description": "The Urethane Coated Weight Plate (35 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 92,
-        "name": "Professional Recumbent Stationary Bike",
-        "category": "Cardio",
-        "price": 13599.0,
-        "image": "assets/images/products/92/main.jpg",
-        "rating": 4.8,
-        "reviews": 393,
-        "description": "The Professional Recumbent Stationary Bike is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
         "id": 162,
         "name": "MMA Grappling Gloves (4 oz Competition Style)",
         "category": "Combat",
@@ -2328,46 +2368,6 @@ var shopProducts = [
         "rating": 3.9,
         "reviews": 26,
         "description": "The MMA Grappling Gloves (4 oz Competition Style) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 232,
-        "name": "Multi-Chamber Air Compression Leg Recovery System",
-        "category": "Recovery",
-        "price": 3699.0,
-        "image": "assets/images/products/232/main.jpg",
-        "rating": 4.4,
-        "reviews": 74,
-        "description": "The Multi-Chamber Air Compression Leg Recovery System is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 302,
-        "name": "Tactical Gym Duffel Bag with Shoe & Wet Compartment",
-        "category": "Accessories",
-        "price": 5249.0,
-        "image": "assets/images/products/302/main.jpg",
-        "rating": 4.5,
-        "reviews": 211,
-        "description": "The Tactical Gym Duffel Bag with Shoe & Wet Compartment is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 372,
-        "name": "Stretch Woven Training Shorts (9-Inch)",
-        "category": "Apparel",
-        "price": 2269.0,
-        "image": "assets/images/products/372/main.jpg",
-        "rating": 4.5,
-        "reviews": 338,
-        "description": "The Stretch Woven Training Shorts (9-Inch) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 442,
-        "name": "Smart Digital Scale with Smartphone App Sync",
-        "category": "Fit Tech",
-        "price": 3099.0,
-        "image": "assets/images/products/442/main.jpg",
-        "rating": 4.7,
-        "reviews": 315,
-        "description": "The Smart Digital Scale with Smartphone App Sync is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 512,
