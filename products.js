@@ -700,6 +700,46 @@ var shopProducts = [
         "description": "Pro-Gym Commercial 2-Tier Heavy-Duty Dumbbell Storage Rack is built with heavy-gauge commercial steel, angled tiers for easy access and loading, rubberized foot pads, and reinforced dumbbell cradles for fitness clubs and home gyms."
     },
     {
+        "id": 86,
+        "name": "Sunny Health & Fitness Magnetic Elliptical Cross Trainer",
+        "category": "Cardio",
+        "price": 22959.0,
+        "image": "assets/images/products/86/main.jpg",
+        "rating": 4.6,
+        "reviews": 456,
+        "description": "Sunny Health & Fitness Magnetic Elliptical Cross Trainer features smooth magnetic belt-drive resistance, full-motion dual action handlebars, non-slip foot pedals, and a digital workout monitor to track time, speed, distance, and calories."
+    },
+    {
+        "id": 156,
+        "name": "Eliza Pro Leather Boxing Sparring Gloves (Black/Gold)",
+        "category": "Combat",
+        "price": 4689.0,
+        "image": "assets/images/products/156/main.jpg",
+        "rating": 4.3,
+        "reviews": 62,
+        "description": "Eliza Pro Leather Boxing Sparring Gloves are handcrafted from premium genuine leather with multi-layered shock-absorbing foam padding, ergonomic fist closure, gold accent piping, and secure hook-and-loop wrist wraps for sparring and bag workouts."
+    },
+    {
+        "id": 226,
+        "name": "Teckwave Inflatable Insulated Cold Plunge Ice Bath Tub with Cover",
+        "category": "Recovery",
+        "price": 24999.0,
+        "image": "assets/images/products/226/main.jpg",
+        "rating": 4.7,
+        "reviews": 32,
+        "description": "Teckwave Inflatable Insulated Cold Plunge Ice Bath Tub is constructed with ultra-durable military-grade drop-stitch walls, dual-layered thermal insulation cover with buckle straps, and quick-drain valve for cold therapy recovery at home or on the go."
+    },
+    {
+        "id": 366,
+        "name": "Pro Olympic Weightlifting Shoes with Dual Midfoot Straps (White/Black)",
+        "category": "Apparel",
+        "price": 8999.0,
+        "image": "assets/images/products/366/main.jpg",
+        "rating": 4.8,
+        "reviews": 256,
+        "description": "Pro Olympic Weightlifting Shoes feature a rigid raised TPU heel, high-traction non-slip rubber outsole, dual carbon-textured midfoot locking straps, and breathable perforated upper for maximum stability during heavy squats and snatches."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -1718,46 +1758,6 @@ var shopProducts = [
         "rating": 4.7,
         "reviews": 299,
         "description": "The Extreme Mass Gainer Powder (Vanilla 10 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 86,
-        "name": "Compact Folding Magnetic Exercise Bike",
-        "category": "Cardio",
-        "price": 22959.0,
-        "image": "assets/images/products/86/main.jpg",
-        "rating": 4.6,
-        "reviews": 456,
-        "description": "The Compact Folding Magnetic Exercise Bike is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 156,
-        "name": "Freestanding Reflex Boxing Bag with Spring Neck",
-        "category": "Combat",
-        "price": 4689.0,
-        "image": "assets/images/products/156/main.jpg",
-        "rating": 4.3,
-        "reviews": 62,
-        "description": "The Freestanding Reflex Boxing Bag with Spring Neck is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 226,
-        "name": "Percussive Massage Gun with OLED Touchscreen",
-        "category": "Recovery",
-        "price": 8779.0,
-        "image": "assets/images/products/226/main.jpg",
-        "rating": 4.7,
-        "reviews": 32,
-        "description": "The Percussive Massage Gun with OLED Touchscreen is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 366,
-        "name": "Lightweight Running Shorts with Phone Pocket",
-        "category": "Apparel",
-        "price": 1939.0,
-        "image": "assets/images/products/366/main.jpg",
-        "rating": 4.8,
-        "reviews": 256,
-        "description": "The Lightweight Running Shorts with Phone Pocket is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 436,

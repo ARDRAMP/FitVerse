@@ -114,7 +114,7 @@ Total Products: **700**
 | 83 | High-Intensity Interval Training Rower |
 | 84 | Axox Commercial Self-Powered Curved Manual Treadmill |
 | 85 | Heavy-Duty Commercial Elliptical Trainer |
-| 86 | Compact Folding Magnetic Exercise Bike |
+| 86 | Sunny Health & Fitness Magnetic Elliptical Cross Trainer |
 | 87 | Commercial Stepper Mill Climber Machine |
 | 88 | Ultra-Quiet Magnetic Rowing Machine |
 | 89 | Heavy-Duty Treadmill with 3.5 HP Continuous Motor |
@@ -189,7 +189,7 @@ Total Products: **700**
 | 153 | Rival Boxing Pro Leather Speed Bag (Black/Lime) |
 | 154 | Full Face Sparring Headgear with Clear Face Shield (Blue) |
 | 155 | FujiMae Boxing Hand Wraps (White / 180-Inch) |
-| 156 | Freestanding Reflex Boxing Bag with Spring Neck |
+| 156 | Eliza Pro Leather Boxing Sparring Gloves (Black/Gold) |
 | 157 | Muay Thai Pro Boxing Gloves (12 oz) |
 | 158 | Ergonomic Leather Focus Mitts Pair |
 | 159 | Pro Sparring Headgear with Removable Face Grill |
@@ -264,7 +264,7 @@ Total Products: **700**
 | 223 | Stainless Steel Scraping Muscle Gua Sha Tool Set |
 | 224 | Trioxi Pure Epsom Salt Muscle Recovery Bath Soak (10kg Tub) |
 | 225 | Athletic Support Elastic Arm & Elbow Compression Sleeve |
-| 226 | Percussive Massage Gun with OLED Touchscreen |
+| 226 | Teckwave Inflatable Insulated Cold Plunge Ice Bath Tub with Cover |
 | 227 | High-Density EVA Foam Roller (36-Inch Full Size) |
 | 228 | Targeted Calf & Foot Compression Sleeves |
 | 229 | Aromatherapy Epsom Salt Recovery Soak (3.5 lbs) |
@@ -414,7 +414,7 @@ Total Products: **700**
 | 363 | Minimalist Cross-Training Athletic Shoes |
 | 364 | Women's Fleece Cropped Full-Zip Workout Hoodie (Mocha) |
 | 365 | High-Waisted Seamless Compression Workout Biker Shorts (Black) |
-| 366 | Lightweight Running Shorts with Phone Pocket |
+| 366 | Pro Olympic Weightlifting Shoes with Dual Midfoot Straps (White/Black) |
 | 367 | Fleece Lined Athletic Training Sweatpants |
 | 368 | Seamless Camo Workout Leggings |
 | 369 | Performance Quarter-Zip Running Pullover |
