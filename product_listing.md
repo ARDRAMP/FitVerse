@@ -192,7 +192,7 @@ Total Products: **700**
 | 156 | Eliza Pro Leather Boxing Sparring Gloves (Black/Gold) |
 | 157 | Muay Thai Pro Boxing Gloves (12 oz) |
 | 158 | Ergonomic Leather Focus Mitts Pair |
-| 159 | Pro Sparring Headgear with Removable Face Grill |
+| 159 | Fortis Athletica Canvas & Leather Hanging Heavy Punching Bag |
 | 160 | Double End Strike Bag with Bungee Cord Kit |
 | 161 | Heavy Leather Tear Drop Punching Bag (70 lbs) |
 | 162 | MMA Grappling Gloves (4 oz Competition Style) |
@@ -267,7 +267,7 @@ Total Products: **700**
 | 226 | Teckwave Inflatable Insulated Cold Plunge Ice Bath Tub with Cover |
 | 227 | High-Density EVA Foam Roller (36-Inch Full Size) |
 | 228 | Targeted Calf & Foot Compression Sleeves |
-| 229 | Aromatherapy Epsom Salt Recovery Soak (3.5 lbs) |
+| 229 | Rechargeable Textured Vibrating Massage Ball Roller |
 | 230 | Heat Therapy Electric Knee Massage Wrap |
 | 231 | Vibrating Massage Ball for Foot & Plantar Fasciitis |
 | 232 | Multi-Chamber Air Compression Leg Recovery System |

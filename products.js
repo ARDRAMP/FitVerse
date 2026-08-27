@@ -770,6 +770,26 @@ var shopProducts = [
         "description": "Nike Dri-FIT Women's Running Tank Top is crafted from ultra-lightweight breathable moisture-wicking Dri-FIT fabric with a comfortable crew neck, curved drop-tail hem, and classic Nike swoosh for high-performance training and running."
     },
     {
+        "id": 159,
+        "name": "Fortis Athletica Canvas & Leather Hanging Heavy Punching Bag",
+        "category": "Combat",
+        "price": 12999.0,
+        "image": "assets/images/products/159/main.jpg",
+        "rating": 4.9,
+        "reviews": 177,
+        "description": "Fortis Athletica Canvas & Leather Hanging Heavy Punching Bag is handcrafted from heavy-duty military-grade canvas and genuine burgundy leather with reinforced hanging straps and precision stitching for boxing and kickboxing training."
+    },
+    {
+        "id": 229,
+        "name": "Rechargeable Textured Vibrating Massage Ball Roller",
+        "category": "Recovery",
+        "price": 6999.0,
+        "image": "assets/images/products/229/main.jpg",
+        "rating": 3.8,
+        "reviews": 477,
+        "description": "Rechargeable Textured Vibrating Massage Ball Roller features multi-speed targeted high-frequency vibration therapy, ergonomic wave-grooved silicone surface, and USB-C charging for deep myofascial release, plantar fasciitis relief, and muscle recovery."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -2018,26 +2038,6 @@ var shopProducts = [
         "rating": 4.4,
         "reviews": 222,
         "description": "The Heavy-Duty Treadmill with 3.5 HP Continuous Motor is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 159,
-        "name": "Pro Sparring Headgear with Removable Face Grill",
-        "category": "Combat",
-        "price": 5019.0,
-        "image": "assets/images/products/159/main.jpg",
-        "rating": 4.9,
-        "reviews": 177,
-        "description": "The Pro Sparring Headgear with Removable Face Grill is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 229,
-        "name": "Aromatherapy Epsom Salt Recovery Soak (3.5 lbs)",
-        "category": "Recovery",
-        "price": 2609.0,
-        "image": "assets/images/products/229/main.jpg",
-        "rating": 3.8,
-        "reviews": 477,
-        "description": "The Aromatherapy Epsom Salt Recovery Soak (3.5 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 299,
