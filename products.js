@@ -790,6 +790,86 @@ var shopProducts = [
         "description": "Rechargeable Textured Vibrating Massage Ball Roller features multi-speed targeted high-frequency vibration therapy, ergonomic wave-grooved silicone surface, and USB-C charging for deep myofascial release, plantar fasciitis relief, and muscle recovery."
     },
     {
+        "id": 579,
+        "name": "Manduka Unfold Organic Cotton Yoga Strap (Purple)",
+        "category": "Yoga",
+        "price": 1859.0,
+        "image": "assets/images/products/579/main.jpg",
+        "rating": 4.3,
+        "reviews": 312,
+        "description": "Manduka Unfold Organic Cotton Yoga Strap is made from unbleached natural woven organic cotton with a durable matte zinc alloy buckle to improve flexibility, posture, and alignment during yoga and stretching routines."
+    },
+    {
+        "id": 649,
+        "name": "NordicTrack Commercial Recumbent Exercise Bike with Touchscreen",
+        "category": "Home Gym",
+        "price": 79999.0,
+        "image": "assets/images/products/649/main.jpg",
+        "rating": 4.8,
+        "reviews": 421,
+        "description": "NordicTrack Commercial Recumbent Exercise Bike features an interactive HD smart touchscreen console, ventilated ergonomic lumbar support seat, silent magnetic resistance (SMR), and integrated iFit workout streaming."
+    },
+    {
+        "id": 20,
+        "name": "York Fitness Olympic Barbell & Tri-Grip Weight Plates Set",
+        "category": "Strength",
+        "price": 24999.0,
+        "image": "assets/images/products/20/main.jpg",
+        "rating": 4.3,
+        "reviews": 493,
+        "description": "York Fitness Olympic Barbell & Tri-Grip Weight Plates Set features a heavy-duty knurled Olympic steel barbell bar and durable cast iron red coated tri-grip Olympic weight plates for powerlifting, squats, and deadlifts."
+    },
+    {
+        "id": 90,
+        "name": "Smart Ultra-Thin Folding Motorized Treadmill with Digital Display",
+        "category": "Cardio",
+        "price": 29199.0,
+        "image": "assets/images/products/90/main.jpg",
+        "rating": 4.3,
+        "reviews": 291,
+        "description": "Smart Ultra-Thin Folding Motorized Treadmill features a sleek space-saving foldable handrail, dual LCD performance screens, integrated phone/tablet holder, multi-layer shock absorption running belt, and transport wheels."
+    },
+    {
+        "id": 160,
+        "name": "Venture Tactical Full Face FAST Helmet with Goggles & Mask",
+        "category": "Combat",
+        "price": 4999.0,
+        "image": "assets/images/products/160/main.jpg",
+        "rating": 3.9,
+        "reviews": 403,
+        "description": "Venture Tactical Full Face FAST Protective Helmet features high-strength impact-resistant ABS shell construction, NVG mounting shroud, side accessory rails, clear panoramic eye shield goggles, and detachable lower face ventilation mask."
+    },
+    {
+        "id": 230,
+        "name": "Dr Teal's Pure Epsom Salt Soaking Solution (Eucalyptus & Spearmint 3 lbs)",
+        "category": "Recovery",
+        "price": 1249.0,
+        "image": "assets/images/products/230/main.jpg",
+        "rating": 3.9,
+        "reviews": 446,
+        "description": "Dr Teal's Pure Epsom Salt Soaking Solution with natural Eucalyptus and Spearmint essential oils eases tired muscles, relieves body aches, and refreshes the mind in a warm recovery bath soak."
+    },
+    {
+        "id": 440,
+        "name": "EH108 Digital Hand Dynamometer Electronic Grip Strength Tester",
+        "category": "Fit Tech",
+        "price": 2499.0,
+        "image": "assets/images/products/440/main.jpg",
+        "rating": 4.4,
+        "reviews": 123,
+        "description": "EH108 Digital Hand Dynamometer Electronic Grip Strength Tester accurately measures isometric hand grip power up to 198 lbs / 90 kg with clear backlit LCD display, adjustable grip spacing, and multi-user profile tracking."
+    },
+    {
+        "id": 580,
+        "name": "Round Striped Cotton Zafu Yoga Meditation Cushion (Grey/White)",
+        "category": "Yoga",
+        "price": 1409.0,
+        "image": "assets/images/products/580/main.jpg",
+        "rating": 4.3,
+        "reviews": 455,
+        "description": "Round Striped Cotton Zafu Yoga Meditation Cushion is filled with high-density supportive buckwheat and cotton batting with a breathable striped woven fabric cover to support healthy spinal posture during sitting meditation."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -2080,66 +2160,6 @@ var shopProducts = [
         "description": "The BCAA Intra-Workout Powder with Electrolytes (Mango 400g) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
-        "id": 579,
-        "name": "Non-Slip PU Leather Yoga Mat (4.5mm)",
-        "category": "Yoga",
-        "price": 1859.0,
-        "image": "assets/images/products/579/main.jpg",
-        "rating": 4.3,
-        "reviews": 312,
-        "description": "The Non-Slip PU Leather Yoga Mat (4.5mm) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 649,
-        "name": "Wall Mounted Multi-Grip Chin-Up Bar",
-        "category": "Home Gym",
-        "price": 1709.0,
-        "image": "assets/images/products/649/main.jpg",
-        "rating": 4.8,
-        "reviews": 421,
-        "description": "The Wall Mounted Multi-Grip Chin-Up Bar is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 20,
-        "name": "Half Rack Rig with Safety Spotter Arms",
-        "category": "Strength",
-        "price": 10279.0,
-        "image": "assets/images/products/20/main.jpg",
-        "rating": 4.3,
-        "reviews": 493,
-        "description": "The Half Rack Rig with Safety Spotter Arms is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 90,
-        "name": "Air Resistance Cross Trainer Fitness Bike",
-        "category": "Cardio",
-        "price": 29199.0,
-        "image": "assets/images/products/90/main.jpg",
-        "rating": 4.3,
-        "reviews": 291,
-        "description": "The Air Resistance Cross Trainer Fitness Bike is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 160,
-        "name": "Double End Strike Bag with Bungee Cord Kit",
-        "category": "Combat",
-        "price": 1809.0,
-        "image": "assets/images/products/160/main.jpg",
-        "rating": 3.9,
-        "reviews": 403,
-        "description": "The Double End Strike Bag with Bungee Cord Kit is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 230,
-        "name": "Heat Therapy Electric Knee Massage Wrap",
-        "category": "Recovery",
-        "price": 454.0,
-        "image": "assets/images/products/230/main.jpg",
-        "rating": 3.9,
-        "reviews": 446,
-        "description": "The Heat Therapy Electric Knee Massage Wrap is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
         "id": 300,
         "name": "Self-Locking Nylon Weightlifting Belt (4-Inch)",
         "category": "Accessories",
@@ -2160,16 +2180,6 @@ var shopProducts = [
         "description": "The Breathable Mesh Inset Athletic Tank is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
-        "id": 440,
-        "name": "GPS Running Smartwatch with Music Storage",
-        "category": "Fit Tech",
-        "price": 15099.0,
-        "image": "assets/images/products/440/main.jpg",
-        "rating": 4.4,
-        "reviews": 123,
-        "description": "The GPS Running Smartwatch with Music Storage is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
         "id": 510,
         "name": "Athlete Joint Support Complex Capsules (90 Capsules)",
         "category": "Supplements",
@@ -2178,16 +2188,6 @@ var shopProducts = [
         "rating": 4.6,
         "reviews": 459,
         "description": "The Athlete Joint Support Complex Capsules (90 Capsules) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 580,
-        "name": "Natural Eco Cork Yoga Block Pair",
-        "category": "Yoga",
-        "price": 1409.0,
-        "image": "assets/images/products/580/main.jpg",
-        "rating": 4.3,
-        "reviews": 455,
-        "description": "The Natural Eco Cork Yoga Block Pair is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 650,

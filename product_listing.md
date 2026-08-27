@@ -43,7 +43,7 @@ Total Products: **700**
 | 17 | Open Ended Trap Bar with Built-in Jack |
 | 18 | Rubber Hex Dumbbell Pair (40 lbs) |
 | 19 | Cast Iron Kettlebell (32kg / 70lbs) |
-| 20 | Half Rack Rig with Safety Spotter Arms |
+| 20 | York Fitness Olympic Barbell & Tri-Grip Weight Plates Set |
 | 21 | Hard Chrome Olympic Training Bar (20kg) |
 | 22 | Urethane Coated Weight Plate (35 lbs) |
 | 23 | Heavy Duty Flat Utility Bench (1000lb Capacity) |
@@ -118,7 +118,7 @@ Total Products: **700**
 | 87 | Commercial Stepper Mill Climber Machine |
 | 88 | Ultra-Quiet Magnetic Rowing Machine |
 | 89 | Heavy-Duty Treadmill with 3.5 HP Continuous Motor |
-| 90 | Air Resistance Cross Trainer Fitness Bike |
+| 90 | Smart Ultra-Thin Folding Motorized Treadmill with Digital Display |
 | 91 | Foldable Walking Pad with Remote Control |
 | 92 | Professional Recumbent Stationary Bike |
 | 93 | Commercial Fluid Rower with Adjustable Resistance |
@@ -193,7 +193,7 @@ Total Products: **700**
 | 157 | Muay Thai Pro Boxing Gloves (12 oz) |
 | 158 | Ergonomic Leather Focus Mitts Pair |
 | 159 | Fortis Athletica Canvas & Leather Hanging Heavy Punching Bag |
-| 160 | Double End Strike Bag with Bungee Cord Kit |
+| 160 | Venture Tactical Full Face FAST Helmet with Goggles & Mask |
 | 161 | Heavy Leather Tear Drop Punching Bag (70 lbs) |
 | 162 | MMA Grappling Gloves (4 oz Competition Style) |
 | 163 | Semi-Elastic Boxing Hand Wraps (120-Inch) |
@@ -268,7 +268,7 @@ Total Products: **700**
 | 227 | High-Density EVA Foam Roller (36-Inch Full Size) |
 | 228 | Targeted Calf & Foot Compression Sleeves |
 | 229 | Rechargeable Textured Vibrating Massage Ball Roller |
-| 230 | Heat Therapy Electric Knee Massage Wrap |
+| 230 | Dr Teal's Pure Epsom Salt Soaking Solution (Eucalyptus & Spearmint 3 lbs) |
 | 231 | Vibrating Massage Ball for Foot & Plantar Fasciitis |
 | 232 | Multi-Chamber Air Compression Leg Recovery System |
 | 233 | Mini Pocket Massage Gun for On-The-Go |
@@ -493,7 +493,7 @@ Total Products: **700**
 | 437 | Smart Speedometer & Cadence Sensor for Bikes |
 | 438 | Wearable Thermal Muscle Warming Device |
 | 439 | Wireless Digital Grip Strength Dynamometer Tester |
-| 440 | GPS Running Smartwatch with Music Storage |
+| 440 | EH108 Digital Hand Dynamometer Electronic Grip Strength Tester |
 | 441 | Chest Harness Heart Rate Sensor for Training |
 | 442 | Smart Digital Scale with Smartphone App Sync |
 | 443 | Pneumatic Compression Arm & Leg Boots System |
@@ -642,8 +642,8 @@ Total Products: **700**
 | 576 | Rectangular Yoga Bolster Pillow Cushion |
 | 577 | Wood Grain Yoga Wheel Back Stretcher |
 | 578 | Waterproof Canvas Yoga Mat Bag with Pockets |
-| 579 | Non-Slip PU Leather Yoga Mat (4.5mm) |
-| 580 | Natural Eco Cork Yoga Block Pair |
+| 579 | Manduka Unfold Organic Cotton Yoga Strap (Purple) |
+| 580 | Round Striped Cotton Zafu Yoga Meditation Cushion (Grey/White) |
 | 581 | Heavy Duty Cotton Yoga Strap with D-Ring |
 | 582 | Buckwheat Meditation Cushion Pillow |
 | 583 | Spine Release Yoga Wheel (10-Inch) |
@@ -717,7 +717,7 @@ Total Products: **700**
 | 646 | High-Density Rubber Gym Flooring Mats (4-Pack) |
 | 647 | Dial Adjustable Dumbbells Pair (10-90 lbs) |
 | 648 | Heavy Duty Foldable Flat Weight Bench |
-| 649 | Wall Mounted Multi-Grip Chin-Up Bar |
+| 649 | NordicTrack Commercial Recumbent Exercise Bike with Touchscreen |
 | 650 | Commercial Suspension Bodyweight Trainer Kit |
 | 651 | Heavy Duty Power Tower Pull-Up Dip Station |
 | 652 | Interlocking Rubber Gym Floor Tiles (12-Pack) |
