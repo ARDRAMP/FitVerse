@@ -1000,6 +1000,56 @@ var shopProducts = [
         "description": "Pneumatic Multi-Chamber Air Compression Leg & Foot Recovery Boots feature full-leg sequential pressure massage, digital handheld controller, multiple compression intensity levels, and soothing heat therapy to boost circulation."
     },
     {
+        "id": 582,
+        "name": "Jade Yoga Natural Sustainable Cork Yoga Block",
+        "category": "Yoga",
+        "price": 1719.0,
+        "image": "assets/images/products/582/main.jpg",
+        "rating": 4.1,
+        "reviews": 172,
+        "description": "Jade Yoga Natural Sustainable Cork Yoga Block is crafted from eco-friendly renewable cork with beveled edges and natural non-slip grip to provide sturdy grounding, balance, and alignment during yoga practice."
+    },
+    {
+        "id": 652,
+        "name": "Marcy Diamond Elite Smith Machine & Multi-Function Home Gym Cage",
+        "category": "Home Gym",
+        "price": 89999.0,
+        "image": "assets/images/products/652/main.jpg",
+        "rating": 5.0,
+        "reviews": 420,
+        "description": "Marcy Diamond Elite Smith Machine combines an Olympic power cage, linear bearing Smith bar, dual high/low cable crossover pulleys, pec fly station, and multi-position utility weight bench for comprehensive home strength training."
+    },
+    {
+        "id": 23,
+        "name": "Commercial Heavy-Duty Power Half Rack Squat Cage",
+        "category": "Strength",
+        "price": 44999.0,
+        "image": "assets/images/products/23/main.jpg",
+        "rating": 4.0,
+        "reviews": 277,
+        "description": "Commercial Heavy-Duty Power Half Rack Squat Cage features a 3x3-inch heavy-gauge steel frame, multi-grip pull-up bar, laser-cut numbered uprights, safety spotter arms, and integrated Olympic weight plate storage horns."
+    },
+    {
+        "id": 233,
+        "name": "Revive Percussion Therapy Professional Deep Tissue Massage Gun",
+        "category": "Recovery",
+        "price": 6319.0,
+        "image": "assets/images/products/233/main.jpg",
+        "rating": 4.3,
+        "reviews": 368,
+        "description": "Revive Percussion Therapy Professional Deep Tissue Massage Gun delivers high-torque brushless motor percussive power with multiple specialized interchangeable massage head attachments and charging dock for rapid post-workout recovery."
+    },
+    {
+        "id": 373,
+        "name": "Full-Coverage Tactical Sparring Protective Helmet Mask",
+        "category": "Apparel",
+        "price": 5619.0,
+        "image": "assets/images/products/373/main.jpg",
+        "rating": 5.0,
+        "reviews": 393,
+        "description": "Full-Coverage Tactical Sparring Protective Helmet Mask features impact-resistant padded outer framing, panoramic clear viewing shield, adjustable ergonomic headband harness, and reinforced chin protection for combat training."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -2380,36 +2430,6 @@ var shopProducts = [
         "description": "The Slow-Digesting Micellar Casein Powder (Vanilla 4 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
-        "id": 582,
-        "name": "Buckwheat Meditation Cushion Pillow",
-        "category": "Yoga",
-        "price": 1719.0,
-        "image": "assets/images/products/582/main.jpg",
-        "rating": 4.1,
-        "reviews": 172,
-        "description": "The Buckwheat Meditation Cushion Pillow is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 652,
-        "name": "Interlocking Rubber Gym Floor Tiles (12-Pack)",
-        "category": "Home Gym",
-        "price": 3749.0,
-        "image": "assets/images/products/652/main.jpg",
-        "rating": 5.0,
-        "reviews": 420,
-        "description": "The Interlocking Rubber Gym Floor Tiles (12-Pack) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 23,
-        "name": "Heavy Duty Flat Utility Bench (1000lb Capacity)",
-        "category": "Strength",
-        "price": 12159.0,
-        "image": "assets/images/products/23/main.jpg",
-        "rating": 4.0,
-        "reviews": 277,
-        "description": "The Heavy Duty Flat Utility Bench (1000lb Capacity) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
         "id": 93,
         "name": "Commercial Fluid Rower with Adjustable Resistance",
         "category": "Cardio",
@@ -2430,16 +2450,6 @@ var shopProducts = [
         "description": "The Semi-Elastic Boxing Hand Wraps (120-Inch) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
-        "id": 233,
-        "name": "Mini Pocket Massage Gun for On-The-Go",
-        "category": "Recovery",
-        "price": 6319.0,
-        "image": "assets/images/products/233/main.jpg",
-        "rating": 4.3,
-        "reviews": 368,
-        "description": "The Mini Pocket Massage Gun for On-The-Go is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
         "id": 303,
         "name": "Magnesium Carbonate Pure Gym Chalk Block (8-Pack)",
         "category": "Accessories",
@@ -2448,16 +2458,6 @@ var shopProducts = [
         "rating": 4.7,
         "reviews": 372,
         "description": "The Magnesium Carbonate Pure Gym Chalk Block (8-Pack) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 373,
-        "name": "Heavy Duty Leather Squat & Deadlift Shoes",
-        "category": "Apparel",
-        "price": 5619.0,
-        "image": "assets/images/products/373/main.jpg",
-        "rating": 5.0,
-        "reviews": 393,
-        "description": "The Heavy Duty Leather Squat & Deadlift Shoes is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 443,

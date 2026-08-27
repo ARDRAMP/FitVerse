@@ -46,7 +46,7 @@ Total Products: **700**
 | 20 | York Fitness Olympic Barbell & Tri-Grip Weight Plates Set |
 | 21 | Commercial Hard Chrome Olympic Barbell (20kg) |
 | 22 | Precor Commercial Multi-Angle Adjustable Incline Dumbbell Bench |
-| 23 | Heavy Duty Flat Utility Bench (1000lb Capacity) |
+| 23 | Commercial Heavy-Duty Power Half Rack Squat Cage |
 | 24 | Powder Coated Cast Iron Kettlebell (12kg) |
 | 25 | Pro Style Steel Dumbbell Pair (25 lbs) |
 | 26 | Steel Cable Crossover Machine Tower |
@@ -271,7 +271,7 @@ Total Products: **700**
 | 230 | Dr Teal's Pure Epsom Salt Soaking Solution (Eucalyptus & Spearmint 3 lbs) |
 | 231 | Ultra-Stabilize The Elbow-Guard Ultra Compression Support Brace |
 | 232 | The Cold Pod Portable Cold Plunge Ice Bath Tub with Thermal Lid |
-| 233 | Mini Pocket Massage Gun for On-The-Go |
+| 233 | Revive Percussion Therapy Professional Deep Tissue Massage Gun |
 | 234 | Ergonomic Contour Foam Roller (24-Inch) |
 | 235 | Stainless Steel Muscle Scraper Soft Tissue Tool |
 | 236 | Therapeutic Heating & Cooling Gel Ice Pack Wrap |
@@ -421,7 +421,7 @@ Total Products: **700**
 | 370 | Breathable Mesh Inset Athletic Tank |
 | 371 | HYPD 2-in-1 Athletic Workout Running Shorts (Charcoal Grey) |
 | 372 | Bullrock Podium Olympic Weightlifting Shoes (Red/Black) |
-| 373 | Heavy Duty Leather Squat & Deadlift Shoes |
+| 373 | Full-Coverage Tactical Sparring Protective Helmet Mask |
 | 374 | Classic Cotton Gym Graphic Tee |
 | 375 | Padded Medium Support Workout Sports Bra |
 | 376 | Ultra-Lightweight Track Running Pants |
@@ -645,7 +645,7 @@ Total Products: **700**
 | 579 | Manduka Unfold Organic Cotton Yoga Strap (Purple) |
 | 580 | Round Striped Cotton Zafu Yoga Meditation Cushion (Grey/White) |
 | 581 | Cylindrical Organic Cotton Yoga Meditation Bolster Pillow (Grey) |
-| 582 | Buckwheat Meditation Cushion Pillow |
+| 582 | Jade Yoga Natural Sustainable Cork Yoga Block |
 | 583 | Spine Release Yoga Wheel (10-Inch) |
 | 584 | Non-Slip Microfiber Yoga Towel with Grip Dots |
 | 585 | Extra Wide TPE Yoga Mat (6mm) |
@@ -720,7 +720,7 @@ Total Products: **700**
 | 649 | NordicTrack Commercial Recumbent Exercise Bike with Touchscreen |
 | 650 | Commercial Suspension Bodyweight Trainer Kit |
 | 651 | Multi-Position Adjustable Incline Workout Bench with Preacher Curl & Leg Developer |
-| 652 | Interlocking Rubber Gym Floor Tiles (12-Pack) |
+| 652 | Marcy Diamond Elite Smith Machine & Multi-Function Home Gym Cage |
 | 653 | Quick-Change Adjustable Dumbbells Pair (5-25 lbs) |
 | 654 | Foldable Slope Utility Bench for Home Gym |
 | 655 | Doorway Pull-Up Bar with Padded Handles |
