@@ -2130,6 +2130,206 @@ var shopProducts = [
         "description": "Assault AirBike Dual-Action Air Resistance Fan Bike delivers infinite wind resistance, heavy-duty steel frame, synchronized upper and lower body dual-action workout handles, and LCD fitness console."
     },
     {
+        "id": 485,
+        "name": "Titanium Smart Health & Sleep Tracking Sensor Ring (Brushed Silver)",
+        "category": "Fit Tech",
+        "price": 7759.0,
+        "image": "assets/images/products/485/main.jpg",
+        "rating": 4.6,
+        "reviews": 333,
+        "description": "Titanium Smart Health & Sleep Tracking Sensor Ring features medical-grade biometric sensors, continuous heart rate, SpO2, sleep cycle stages, and water resistance in a brushed silver titanium alloy shell."
+    },
+    {
+        "id": 555,
+        "name": "NutriJa 100% Pure Whey Protein Isolate Powder Tub (2 lbs / Unflavored)",
+        "category": "Supplements",
+        "price": 3499.0,
+        "image": "assets/images/products/555/main.jpg",
+        "rating": 4.3,
+        "reviews": 30,
+        "description": "NutriJa 100% Pure Whey Protein Isolate delivers 27g of pure micro-filtered whey protein isolate per scoop, zero fillers, zero carbs, and rapid muscle recovery support."
+    },
+    {
+        "id": 625,
+        "name": "Round Velvet Floor Cushion / Zabuton Meditation Mat & Bolster (Black)",
+        "category": "Yoga",
+        "price": 1159.0,
+        "image": "assets/images/products/625/main.jpg",
+        "rating": 3.8,
+        "reviews": 209,
+        "description": "Round Velvet Floor Cushion & Meditation Mat features plush microfiber velvet upholstery, dense cotton fill, and embroidered gold lotus mandala for deep floor comfort during mindfulness practice."
+    },
+    {
+        "id": 695,
+        "name": "3-in-1 High-Density Anti-Slip Foam Plyometric Jump Box (Soft Plyo Box)",
+        "category": "Home Gym",
+        "price": 8999.0,
+        "image": "assets/images/products/695/main.jpg",
+        "rating": 3.8,
+        "reviews": 269,
+        "description": "3-in-1 High-Density Anti-Slip Foam Plyometric Jump Box rotates to 20\", 24\", and 30\" jump heights with heavy-duty PVC textured cover to prevent shin injuries during explosive box jumps."
+    },
+    {
+        "id": 66,
+        "name": "Adjustable Dial Selectorized Dumbbell with Anti-Roll Storage Cradle Stand (Pair)",
+        "category": "Strength",
+        "price": 24999.0,
+        "image": "assets/images/products/66/main.jpg",
+        "rating": 4.8,
+        "reviews": 295,
+        "description": "Adjustable Dial Selectorized Dumbbell Pair allows seamless weight transitions from 5 to 52.5 lbs with turn-dial mechanism, durable molded plates, and compact floor resting cradles."
+    },
+    {
+        "id": 136,
+        "name": "Commercial Revolving Stair Climber Stepmill Cardio Machine with LED Display",
+        "category": "Cardio",
+        "price": 74999.0,
+        "image": "assets/images/products/136/main.jpg",
+        "rating": 4.0,
+        "reviews": 292,
+        "description": "Commercial Revolving Stair Climber Stepmill Cardio Machine delivers smooth electromagnetic resistance, auto-revolving staircase steps, handrail pulse sensors, and multi-program workout console."
+    },
+    {
+        "id": 206,
+        "name": "Martial Arts Padded Leather Shin & Instep Guards for Kickboxing (White Pair)",
+        "category": "Combat",
+        "price": 3999.0,
+        "image": "assets/images/products/206/main.jpg",
+        "rating": 4.3,
+        "reviews": 374,
+        "description": "Martial Arts Padded Leather Shin & Instep Guards feature multi-layer high-density EVA shock absorption foam, anatomical curvature, and dual hook-and-loop rear straps in premium white."
+    },
+    {
+        "id": 276,
+        "name": "High-Density Solid EVA Foam Roller for Deep Tissue Back & Myofascial Release (Black)",
+        "category": "Recovery",
+        "price": 1029.0,
+        "image": "assets/images/products/276/main.jpg",
+        "rating": 4.6,
+        "reviews": 328,
+        "description": "High-Density Solid EVA Foam Roller delivers firm, even pressure to relieve back tension, loosen tight hamstring muscles, and improve post-workout mobility in durable solid black EVA foam."
+    },
+    {
+        "id": 346,
+        "name": "Adjustable Compression Ankle Support Brace with Speed Lace-Up & Stabilizer Straps (Black)",
+        "category": "Accessories",
+        "price": 1499.0,
+        "image": "assets/images/products/346/main.jpg",
+        "rating": 4.4,
+        "reviews": 442,
+        "description": "Adjustable Compression Ankle Support Brace features speed lace-up eyelets, figure-8 cross stabilization straps, and breathable padded tongue for sprain protection during sports."
+    },
+    {
+        "id": 416,
+        "name": "Men's Slim-Fit Athletic Tapered Gym Jogger Sweatpants with Drawstring (Navy Blue)",
+        "category": "Apparel",
+        "price": 2689.0,
+        "image": "assets/images/products/416/main.jpg",
+        "rating": 4.4,
+        "reviews": 338,
+        "description": "Men's Slim-Fit Athletic Tapered Gym Jogger Sweatpants feature moisture-wicking 4-way stretch fabric, deep zippered pockets, elasticated drawstring waistband, and ankle cuff taper in navy blue."
+    },
+    {
+        "id": 486,
+        "name": "Rugged Waterproof Bluetooth Smartwatch with Color AMOLED Display & Blue Silicone Strap",
+        "category": "Fit Tech",
+        "price": 7319.0,
+        "image": "assets/images/products/486/main.jpg",
+        "rating": 4.7,
+        "reviews": 395,
+        "description": "Rugged Waterproof Bluetooth Smartwatch features a high-definition square color AMOLED display, multi-sport tracking, heart rate & SpO2 sensor, and textured navy blue sport silicone strap."
+    },
+    {
+        "id": 556,
+        "name": "Weider Mega Mass 4000 High-Calorie Mass Gainer Protein Powder Tub (3 kg / Vanilla)",
+        "category": "Supplements",
+        "price": 4999.0,
+        "image": "assets/images/products/556/main.jpg",
+        "rating": 4.7,
+        "reviews": 310,
+        "description": "Weider Mega Mass 4000 High-Calorie Mass Gainer is formulated with multi-phase carbohydrates, pure whey protein, essential amino acids, and creatine for rapid muscle mass building."
+    },
+    {
+        "id": 626,
+        "name": "High-Density Foam Yoga & Pilates Neck/Spine Cervical Support Roller",
+        "category": "Yoga",
+        "price": 2439.0,
+        "image": "assets/images/products/626/main.jpg",
+        "rating": 4.8,
+        "reviews": 240,
+        "description": "High-Density Foam Cervical Support Roller provides anatomical curvature support for neck, spine, and lower lumbar decompression during yoga relaxation and physical therapy."
+    },
+    {
+        "id": 696,
+        "name": "Commercial Heavy-Duty 3-Tier Dumbbell Storage Rack Stand (Heavy-Duty Steel)",
+        "category": "Home Gym",
+        "price": 16999.0,
+        "image": "assets/images/products/696/main.jpg",
+        "rating": 4.0,
+        "reviews": 91,
+        "description": "Commercial Heavy-Duty 3-Tier Dumbbell Storage Rack Stand features heavy-gauge angled steel rails, rubber non-scratch base feet, and space-saving organization for 10-15 pairs of dumbbells."
+    },
+    {
+        "id": 67,
+        "name": "Competition Powder-Coated Cast Iron Kettlebell (Baby Blue Handle)",
+        "category": "Strength",
+        "price": 3099.0,
+        "image": "assets/images/products/67/main.jpg",
+        "rating": 4.2,
+        "reviews": 364,
+        "description": "Competition Powder-Coated Cast Iron Kettlebell features a single-piece cast iron body, color-coded baby blue handle band, smooth non-slip grip surface, and flat machined base for stable swings."
+    },
+    {
+        "id": 137,
+        "name": "Commercial Magnetic Resistance Recumbent Exercise Rowing Machine with Studio Console",
+        "category": "Cardio",
+        "price": 36999.0,
+        "image": "assets/images/products/137/main.jpg",
+        "rating": 4.4,
+        "reviews": 272,
+        "description": "Commercial Magnetic Resistance Rowing Machine features ultra-quiet magnetic flywheel resistance, ergonomic molded slider seat, aluminum rail track, and digital workout performance monitor."
+    },
+    {
+        "id": 207,
+        "name": "Rdx Pro Heavy-Duty Hanging Leather Punching Bag (Red & Black)",
+        "category": "Combat",
+        "price": 4299.0,
+        "image": "assets/images/products/207/main.jpg",
+        "rating": 4.5,
+        "reviews": 220,
+        "description": "Rdx Pro Heavy-Duty Hanging Leather Punching Bag features reinforced stitched faux leather exterior, shock-absorbing shredded textile fill, and heavy-duty steel swivel ceiling chains."
+    },
+    {
+        "id": 277,
+        "name": "RUB\u00b7A535 Regular Strength Heating Lotion (Muscle & Joint Pain Relief Cream)",
+        "category": "Recovery",
+        "price": 749.0,
+        "image": "assets/images/products/277/main.jpg",
+        "rating": 3.9,
+        "reviews": 227,
+        "description": "RUB\u00b7A535 Regular Strength Heating Lotion provides fast-acting deep-penetrating heat therapy to temporarily relieve muscle aches, strains, back pain, and joint stiffness."
+    },
+    {
+        "id": 347,
+        "name": "Non-Slip Elastic Fabric Booty Resistance Loop Bands Set (3-Pack: Black, Grey, Pink)",
+        "category": "Accessories",
+        "price": 1299.0,
+        "image": "assets/images/products/347/main.jpg",
+        "rating": 4.6,
+        "reviews": 171,
+        "description": "Non-Slip Elastic Fabric Booty Resistance Loop Bands Set includes 3 progressive resistance levels crafted with woven cotton-blend fabric and non-slip inner latex grips that never roll or pinch."
+    },
+    {
+        "id": 417,
+        "name": "Men's Crewneck Short-Sleeve Breathable Gym Workout T-Shirt (Heather Rose)",
+        "category": "Apparel",
+        "price": 1559.0,
+        "image": "assets/images/products/417/main.jpg",
+        "rating": 4.6,
+        "reviews": 290,
+        "description": "Men's Crewneck Short-Sleeve Breathable Gym Workout T-Shirt features ultra-soft moisture-wicking poly-cotton blend, 4-way active stretch, and athletic fit in a heather mauve rose shade."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -6668,206 +6868,6 @@ var shopProducts = [
         "rating": 4.2,
         "reviews": 102,
         "description": "The Fleece Lined Athletic Training Hoodie is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 485,
-        "name": "Portable TENS EMS Electronic Pulse Massager",
-        "category": "Fit Tech",
-        "price": 7759.0,
-        "image": "assets/images/products/485/main.jpg",
-        "rating": 4.6,
-        "reviews": 333,
-        "description": "The Portable TENS EMS Electronic Pulse Massager is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 555,
-        "name": "Pre-Workout Nitric Oxide Booster (Unflavored Powder)",
-        "category": "Supplements",
-        "price": 2419.0,
-        "image": "assets/images/products/555/main.jpg",
-        "rating": 4.3,
-        "reviews": 30,
-        "description": "The Pre-Workout Nitric Oxide Booster (Unflavored Powder) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 625,
-        "name": "Ergonomic Yoga Wheel Back Roller",
-        "category": "Yoga",
-        "price": 1159.0,
-        "image": "assets/images/products/625/main.jpg",
-        "rating": 3.8,
-        "reviews": 209,
-        "description": "The Ergonomic Yoga Wheel Back Roller is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 695,
-        "name": "Adjustable Dial Dumbbell Pair (5-52.5 lbs)",
-        "category": "Home Gym",
-        "price": 17879.0,
-        "image": "assets/images/products/695/main.jpg",
-        "rating": 3.8,
-        "reviews": 269,
-        "description": "The Adjustable Dial Dumbbell Pair (5-52.5 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 66,
-        "name": "Solid Steel Farmers Walk Handles Pair",
-        "category": "Strength",
-        "price": 1329.0,
-        "image": "assets/images/products/66/main.jpg",
-        "rating": 4.8,
-        "reviews": 295,
-        "description": "The Solid Steel Farmers Walk Handles Pair is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 136,
-        "name": "Smart Air Rower with Bluetooth Connectivity",
-        "category": "Cardio",
-        "price": 41249.0,
-        "image": "assets/images/products/136/main.jpg",
-        "rating": 4.0,
-        "reviews": 292,
-        "description": "The Smart Air Rower with Bluetooth Connectivity is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 206,
-        "name": "MMA Combat Sparring Gloves (5 oz)",
-        "category": "Combat",
-        "price": 1639.0,
-        "image": "assets/images/products/206/main.jpg",
-        "rating": 4.3,
-        "reviews": 374,
-        "description": "The MMA Combat Sparring Gloves (5 oz) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 276,
-        "name": "Ergonomic Textured Foam Roller (14-Inch)",
-        "category": "Recovery",
-        "price": 1029.0,
-        "image": "assets/images/products/276/main.jpg",
-        "rating": 4.6,
-        "reviews": 328,
-        "description": "The Ergonomic Textured Foam Roller (14-Inch) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 346,
-        "name": "Liquid Gym Chalk Tube (100ml)",
-        "category": "Accessories",
-        "price": 13449.0,
-        "image": "assets/images/products/346/main.jpg",
-        "rating": 4.4,
-        "reviews": 442,
-        "description": "The Liquid Gym Chalk Tube (100ml) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 416,
-        "name": "Stretch Athletic Shorts with Built-In Liner",
-        "category": "Apparel",
-        "price": 2689.0,
-        "image": "assets/images/products/416/main.jpg",
-        "rating": 4.4,
-        "reviews": 338,
-        "description": "The Stretch Athletic Shorts with Built-In Liner is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 486,
-        "name": "Waterproof Sport Earbuds with Secure Fit Hooks",
-        "category": "Fit Tech",
-        "price": 7319.0,
-        "image": "assets/images/products/486/main.jpg",
-        "rating": 4.7,
-        "reviews": 395,
-        "description": "The Waterproof Sport Earbuds with Secure Fit Hooks is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 556,
-        "name": "Pure Creatine Monohydrate Powder (1000g Bulk)",
-        "category": "Supplements",
-        "price": 2289.0,
-        "image": "assets/images/products/556/main.jpg",
-        "rating": 4.7,
-        "reviews": 310,
-        "description": "The Pure Creatine Monohydrate Powder (1000g Bulk) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 626,
-        "name": "Canvas Yoga Mat Carrying Shoulder Bag",
-        "category": "Yoga",
-        "price": 2439.0,
-        "image": "assets/images/products/626/main.jpg",
-        "rating": 4.8,
-        "reviews": 240,
-        "description": "The Canvas Yoga Mat Carrying Shoulder Bag is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 696,
-        "name": "Compact Foldable Incline Weight Bench (v66)",
-        "category": "Home Gym",
-        "price": 6119.0,
-        "image": "assets/images/products/696/main.jpg",
-        "rating": 4.0,
-        "reviews": 91,
-        "description": "The Compact Foldable Incline Weight Bench (v66) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 67,
-        "name": "Rubber Coated Hex Dumbbell (60 lbs)",
-        "category": "Strength",
-        "price": 3099.0,
-        "image": "assets/images/products/67/main.jpg",
-        "rating": 4.2,
-        "reviews": 364,
-        "description": "The Rubber Coated Hex Dumbbell (60 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 137,
-        "name": "Commercial Indoor Spin Bike with Heavy Flywheel",
-        "category": "Cardio",
-        "price": 36999.0,
-        "image": "assets/images/products/137/main.jpg",
-        "rating": 4.4,
-        "reviews": 272,
-        "description": "The Commercial Indoor Spin Bike with Heavy Flywheel is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 207,
-        "name": "Competition Style Boxing Headgear",
-        "category": "Combat",
-        "price": 4299.0,
-        "image": "assets/images/products/207/main.jpg",
-        "rating": 4.5,
-        "reviews": 220,
-        "description": "The Competition Style Boxing Headgear is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 277,
-        "name": "Deep Tissue Muscle Massage Ball (Solid Rubber)",
-        "category": "Recovery",
-        "price": 749.0,
-        "image": "assets/images/products/277/main.jpg",
-        "rating": 3.9,
-        "reviews": 227,
-        "description": "The Deep Tissue Muscle Massage Ball (Solid Rubber) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 347,
-        "name": "Prong Buckle Leather Powerlifting Belt (10mm)",
-        "category": "Accessories",
-        "price": 3499.0,
-        "image": "assets/images/products/347/main.jpg",
-        "rating": 4.6,
-        "reviews": 171,
-        "description": "The Prong Buckle Leather Powerlifting Belt (10mm) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 417,
-        "name": "Seamless Long Sleeve Crop Top",
-        "category": "Apparel",
-        "price": 1559.0,
-        "image": "assets/images/products/417/main.jpg",
-        "rating": 4.6,
-        "reviews": 290,
-        "description": "The Seamless Long Sleeve Crop Top is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 418,
