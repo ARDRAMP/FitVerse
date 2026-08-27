@@ -87,8 +87,8 @@ Total Products: **700**
 | 61 | Cast Iron Competition Kettlebell (10kg) |
 | 62 | Rubber Hex Dumbbell Pair (45 lbs) |
 | 63 | Cerakote Women's Olympic Barbell (15kg) |
-| 64 | Plate Loaded Seated Calf Raise Machine |
-| 65 | Heavy Duty Power Rack Extension Conversion Kit |
+| 64 | Solid Cast Iron Round Urethane Dumbbell Single (Yellow & Black) |
+| 65 | Olympic Hex Trap Deadlift Shrug Bar with Knurled Neutral Grips (Black Powder Coat) |
 | 66 | Adjustable Dial Selectorized Dumbbell with Anti-Roll Storage Cradle Stand (Pair) |
 | 67 | Competition Powder-Coated Cast Iron Kettlebell (Baby Blue Handle) |
 | 68 | Standard Cast Iron Olympic Weight Plate (45 lbs / 20.4 kg Single) |
@@ -162,8 +162,8 @@ Total Products: **700**
 | 131 | Under-Desk Walking Pad Treadmill with Armrests |
 | 132 | Magnetic Elliptical Trainer with Heart Rate Sensors |
 | 133 | Wood Frame Hydro Rower Machine |
-| 134 | Upright Magnetic Fitness Bike |
-| 135 | Motorized Treadmill with Shock Absorption Deck |
+| 134 | Commercial Magnetic Resistance Elliptical Cross Trainer Machine with Tablet Mount |
+| 135 | Commercial High-Performance Magnetic Resistance Indoor Spin Bike (Red/Black) |
 | 136 | Commercial Revolving Stair Climber Stepmill Cardio Machine with LED Display |
 | 137 | Commercial Magnetic Resistance Recumbent Exercise Rowing Machine with Studio Console |
 | 138 | Enterprise Apex Commercial Motorized Running Treadmill with HD Console |
@@ -237,8 +237,8 @@ Total Products: **700**
 | 201 | Leather Boxing Training Gloves (16 oz) |
 | 202 | Gel Enforced Shin Guards for Martial Arts |
 | 203 | Tear Drop Leather Punching Bag (80 lbs) |
-| 204 | Hand Wraps Cotton Boxing Bandages Pair |
-| 205 | Pro Leather Focus Mitts for Trainer |
+| 204 | Pro Leather Heavy Bag Boxing Training Gloves (Black & Orange / Pair) |
+| 205 | Rival Boxing Hook and Jab Curved Punching Mitts / Focus Pads Pair |
 | 206 | Martial Arts Padded Leather Shin & Instep Guards for Kickboxing (White Pair) |
 | 207 | Rdx Pro Heavy-Duty Hanging Leather Punching Bag (Red & Black) |
 | 208 | Soft-Shell Padded Rugby & Soccer Protective Headgear (Scrum Cap / Black) |
@@ -312,8 +312,8 @@ Total Products: **700**
 | 271 | Stainless Steel Muscle Scraping Tool (Type 2) |
 | 272 | Acupressure Back Stretcher & Lumbar Massage Board |
 | 273 | Mini Percussive Massage Gun (USB-C Rechargeable) |
-| 274 | Cold Therapy Ankle & Foot Ice Gel Boot |
-| 275 | Full Body Pneumatic Compression Massager |
+| 274 | VEVOR Portable Foldable Insulated Cold Plunge Ice Bath Tub with Thermal Lid |
+| 275 | Deep Tissue Percussion Massage Gun with Interchangeable Heads (Handheld Massager) |
 | 276 | High-Density Solid EVA Foam Roller for Deep Tissue Back & Myofascial Release (Black) |
 | 277 | RUB·A535 Regular Strength Heating Lotion (Muscle & Joint Pain Relief Cream) |
 | 278 | Dr Teal's Pure Epsom Salt Pre & Post Workout Soak Pouch (Menthol & Spearmint) |
@@ -387,8 +387,8 @@ Total Products: **700**
 | 341 | Heavy Duty Steel Dip Belt with Chain Assembly |
 | 342 | Pro Aluminum Handle Speed Jump Rope |
 | 343 | Insulated Vacuum Gym Water Bottle (40oz) |
-| 344 | Heavy Cotton Padded Weightlifting Straps |
-| 345 | Latex Free Fabric Resistance Loop Bands |
+| 344 | Heavy-Duty Tactical Gym Duffle Bag with Shoe Compartment (Heather Grey / Black) |
+| 345 | WOD Nation 100% Pure Magnesium Carbonate Gym Chalk 8-Block Box (400g Total) |
 | 346 | Adjustable Compression Ankle Support Brace with Speed Lace-Up & Stabilizer Straps (Black) |
 | 347 | Non-Slip Elastic Fabric Booty Resistance Loop Bands Set (3-Pack: Black, Grey, Pink) |
 | 348 | Neoprene Padded Weightlifting Waist & Lumbar Support Belt (Blue) |
@@ -462,8 +462,8 @@ Total Products: **700**
 | 411 | Technical Quarter-Zip Training Top |
 | 412 | Oversized Vintage Washed Gym Tee |
 | 413 | High-Waisted Compression Leggings (7/8 Length) |
-| 414 | Lightweight Track Jacket with Mesh Lining |
-| 415 | Fleece Lined Athletic Training Hoodie |
+| 414 | Barefoot Minimalist Zero-Drop Cross-Training Shoes with Hook-and-Loop Strap (Olive Green) |
+| 415 | Men's Quick-Dry Breathable Sleeveless Compression Training Tank Top (Black) |
 | 416 | Men's Slim-Fit Athletic Tapered Gym Jogger Sweatpants with Drawstring (Navy Blue) |
 | 417 | Men's Crewneck Short-Sleeve Breathable Gym Workout T-Shirt (Heather Rose) |
 | 418 | Tapered Performance Gym Joggers |
@@ -536,8 +536,8 @@ Total Products: **700**
 | 480 | Bluetooth Heart Rate Monitor Strap |
 | 481 | Smart Wi-Fi Body Fat Composition Scale |
 | 482 | Air Compression Leg Massager Boots Device |
-| 483 | Smart Fitness Tracker Ring (Black Edition) |
-| 484 | Wireless Heart Rate Armband Monitor |
+| 483 | Smart Body Fat Digital Bluetooth Bathroom Scale with LED Display (Black) |
+| 484 | Smartwatch with AMOLED Curved Touchscreen Display & Black Silicone Strap |
 | 485 | Titanium Smart Health & Sleep Tracking Sensor Ring (Brushed Silver) |
 | 486 | Rugged Waterproof Bluetooth Smartwatch with Color AMOLED Display & Blue Silicone Strap |
 | 487 | Sequential Pneumatic Air Compression Leg Recovery Boots System (Black/Cyan) |
@@ -611,8 +611,8 @@ Total Products: **700**
 | 550 | Micronized Creatine Monohydrate Powder (500g Unflavored) (v60) |
 | 551 | EAA + BCAAs Amino Recovery Powder (Fruit Punch) |
 | 552 | Daily Athlete Multivitamin Tablets (90 Count) |
-| 553 | High Calorie Mass Gainer Protein (Chocolate 10 lbs) |
-| 554 | Hydrolyzed Whey Isolate Powder (Vanilla 5 lbs) |
+| 553 | Pure Micronized Creatine Monohydrate Powder Tub (500g / Unflavored) |
+| 554 | BCAA Supreme 2:1:1 Branched Chain Amino Acid Recovery Powder Tub (Fruit Punch) |
 | 555 | NutriJa 100% Pure Whey Protein Isolate Powder Tub (2 lbs / Unflavored) |
 | 556 | Weider Mega Mass 4000 High-Calorie Mass Gainer Protein Powder Tub (3 kg / Vanilla) |
 | 557 | True+ PRE Natural High-Performance Pre-Workout Energy Powder Pouch |
@@ -686,8 +686,8 @@ Total Products: **700**
 | 620 | Full Length Microfiber Yoga Towel |
 | 621 | Natural Rubber Pro Yoga Mat (5mm) |
 | 622 | Premium Cork Yoga Block Set |
-| 623 | Cotton Yoga Stretching Strap (10 Feet) |
-| 624 | Rectangular Yoga Bolster Pillow |
+| 623 | Sildurx Non-Slip Eco-Friendly Textured Yoga & Exercise Mat (Marble Pink) |
+| 624 | Cotton Yoga Stretching Strap with Adjustable D-Ring Buckle (Sage Green) |
 | 625 | Round Velvet Floor Cushion / Zabuton Meditation Mat & Bolster (Black) |
 | 626 | High-Density Foam Yoga & Pilates Neck/Spine Cervical Support Roller |
 | 627 | High-Density Beveled Foam Yoga Support Blocks Pair (Black & Red) |
@@ -761,8 +761,8 @@ Total Products: **700**
 | 690 | Space-Saving Foldable Utility Weight Bench (v60) |
 | 691 | Doorway Chin-Up Bar with Safety Lock |
 | 692 | Suspension Bodyweight Fitness Trainer Kit |
-| 693 | Power Tower Dip Station Pull-Up Machine |
-| 694 | Interlocking High-Density Rubber Gym Tiles (8-Pack) |
+| 693 | Commercial Multi-Station Functional Trainer Dual Cable Crossover Machine |
+| 694 | Commercial Multi-Function Cable Crossover & Smith Machine Functional Trainer Gym Station |
 | 695 | 3-in-1 High-Density Anti-Slip Foam Plyometric Jump Box (Soft Plyo Box) |
 | 696 | Commercial Heavy-Duty 3-Tier Dumbbell Storage Rack Stand (Heavy-Duty Steel) |
 | 697 | Rogue Fitness Commercial Monster Functional Trainer & Dual Cable Crossover System |

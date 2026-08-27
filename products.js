@@ -2330,6 +2330,206 @@ var shopProducts = [
         "description": "Men's Crewneck Short-Sleeve Breathable Gym Workout T-Shirt features ultra-soft moisture-wicking poly-cotton blend, 4-way active stretch, and athletic fit in a heather mauve rose shade."
     },
     {
+        "id": 483,
+        "name": "Smart Body Fat Digital Bluetooth Bathroom Scale with LED Display (Black)",
+        "category": "Fit Tech",
+        "price": 2499.0,
+        "image": "assets/images/products/483/main.jpg",
+        "rating": 4.0,
+        "reviews": 356,
+        "description": "Smart Body Fat Digital Bathroom Scale features high-precision ITO electrodes, full body composition metrics (BMI, body fat, muscle mass, water %), and Bluetooth app synchronization."
+    },
+    {
+        "id": 553,
+        "name": "Pure Micronized Creatine Monohydrate Powder Tub (500g / Unflavored)",
+        "category": "Supplements",
+        "price": 1499.0,
+        "image": "assets/images/products/553/main.jpg",
+        "rating": 4.6,
+        "reviews": 206,
+        "description": "Pure Micronized Creatine Monohydrate Powder delivers 5g of HPLC-tested pure creatine monohydrate per serving to boost ATP regeneration, muscle power output, and training endurance."
+    },
+    {
+        "id": 623,
+        "name": "Sildurx Non-Slip Eco-Friendly Textured Yoga & Exercise Mat (Marble Pink)",
+        "category": "Yoga",
+        "price": 2299.0,
+        "image": "assets/images/products/623/main.jpg",
+        "rating": 4.8,
+        "reviews": 147,
+        "description": "Sildurx Non-Slip Textured Yoga Mat features premium eco-friendly TPE construction, eye-catching marble pink aesthetic, closed-cell cushioning, and textured anti-tear grip."
+    },
+    {
+        "id": 693,
+        "name": "Commercial Multi-Station Functional Trainer Dual Cable Crossover Machine",
+        "category": "Home Gym",
+        "price": 89999.0,
+        "image": "assets/images/products/693/main.jpg",
+        "rating": 4.8,
+        "reviews": 439,
+        "description": "Commercial Multi-Station Functional Trainer features dual independent weight stacks, aircraft-grade steel cables, adjustable swivel pulleys, and heavy-duty frame for full-body cable training."
+    },
+    {
+        "id": 64,
+        "name": "Solid Cast Iron Round Urethane Dumbbell Single (Yellow & Black)",
+        "category": "Strength",
+        "price": 2499.0,
+        "image": "assets/images/products/64/main.jpg",
+        "rating": 4.1,
+        "reviews": 203,
+        "description": "Solid Cast Iron Round Urethane Dumbbell features a solid cast core, shock-absorbing black urethane coating with yellow weight markings, and ergonomic diamond knurled chrome handle."
+    },
+    {
+        "id": 134,
+        "name": "Commercial Magnetic Resistance Elliptical Cross Trainer Machine with Tablet Mount",
+        "category": "Cardio",
+        "price": 49999.0,
+        "image": "assets/images/products/134/main.jpg",
+        "rating": 4.2,
+        "reviews": 459,
+        "description": "Commercial Magnetic Resistance Elliptical Cross Trainer features front-drive heavy flywheel, silent magnetic resistance, dual-action stride handlebars, and integrated device shelf."
+    },
+    {
+        "id": 204,
+        "name": "Pro Leather Heavy Bag Boxing Training Gloves (Black & Orange / Pair)",
+        "category": "Combat",
+        "price": 3499.0,
+        "image": "assets/images/products/204/main.jpg",
+        "rating": 4.2,
+        "reviews": 39,
+        "description": "Pro Leather Heavy Bag Boxing Gloves feature premium engineered leather, multi-layer high-density foam padding, hook-and-loop wrist support wrap, and bold black/orange styling."
+    },
+    {
+        "id": 274,
+        "name": "VEVOR Portable Foldable Insulated Cold Plunge Ice Bath Tub with Thermal Lid",
+        "category": "Recovery",
+        "price": 6999.0,
+        "image": "assets/images/products/274/main.jpg",
+        "rating": 4.3,
+        "reviews": 335,
+        "description": "VEVOR Portable Foldable Insulated Cold Plunge Ice Bath features multi-layer tear-resistant PVC insulation, easy drainage spout, reinforced support legs, and insulated thermal cover lid."
+    },
+    {
+        "id": 344,
+        "name": "Heavy-Duty Tactical Gym Duffle Bag with Shoe Compartment (Heather Grey / Black)",
+        "category": "Accessories",
+        "price": 2379.0,
+        "image": "assets/images/products/344/main.jpg",
+        "rating": 4.7,
+        "reviews": 259,
+        "description": "Heavy-Duty Tactical Gym Duffle Bag features water-resistant heather grey canvas, ventilated separate shoe compartment, heavy-duty metal zippers, and padded shoulder strap."
+    },
+    {
+        "id": 414,
+        "name": "Barefoot Minimalist Zero-Drop Cross-Training Shoes with Hook-and-Loop Strap (Olive Green)",
+        "category": "Apparel",
+        "price": 2379.0,
+        "image": "assets/images/products/414/main.jpg",
+        "rating": 4.1,
+        "reviews": 318,
+        "description": "Barefoot Minimalist Zero-Drop Cross-Training Shoes feature a wide anatomical toe box, breathable knit upper, flexible non-slip rubber outsole, and midfoot lockdown strap in olive green."
+    },
+    {
+        "id": 484,
+        "name": "Smartwatch with AMOLED Curved Touchscreen Display & Black Silicone Strap",
+        "category": "Fit Tech",
+        "price": 3269.0,
+        "image": "assets/images/products/484/main.jpg",
+        "rating": 3.9,
+        "reviews": 395,
+        "description": "Smartwatch with AMOLED Curved Touchscreen features 24/7 heart rate monitoring, all-day activity tracking, sleep analysis, smart notifications, and comfortable black silicone wristband."
+    },
+    {
+        "id": 554,
+        "name": "BCAA Supreme 2:1:1 Branched Chain Amino Acid Recovery Powder Tub (Fruit Punch)",
+        "category": "Supplements",
+        "price": 1999.0,
+        "image": "assets/images/products/554/main.jpg",
+        "rating": 4.5,
+        "reviews": 355,
+        "description": "BCAA Supreme 2:1:1 Recovery Powder delivers an optimal 2:1:1 ratio of L-Leucine, L-Isoleucine, and L-Valine with electrolytes to accelerate muscle protein synthesis and intra-workout recovery."
+    },
+    {
+        "id": 624,
+        "name": "Cotton Yoga Stretching Strap with Adjustable D-Ring Buckle (Sage Green)",
+        "category": "Yoga",
+        "price": 899.0,
+        "image": "assets/images/products/624/main.jpg",
+        "rating": 4.4,
+        "reviews": 329,
+        "description": "Cotton Yoga Stretching Strap features durable woven organic cotton webbing, dual rust-proof metal D-ring buckle, and 8-foot length for deepening yogic postures and flexibility."
+    },
+    {
+        "id": 694,
+        "name": "Commercial Multi-Function Cable Crossover & Smith Machine Functional Trainer Gym Station",
+        "category": "Home Gym",
+        "price": 84999.0,
+        "image": "assets/images/products/694/main.jpg",
+        "rating": 4.4,
+        "reviews": 71,
+        "description": "Commercial Multi-Function Functional Trainer incorporates a linear-bearing Smith machine, dual cable crossover pulleys, chin-up bar, and weight plate storage horns in a single heavy-duty station."
+    },
+    {
+        "id": 65,
+        "name": "Olympic Hex Trap Deadlift Shrug Bar with Knurled Neutral Grips (Black Powder Coat)",
+        "category": "Strength",
+        "price": 9499.0,
+        "image": "assets/images/products/65/main.jpg",
+        "rating": 4.0,
+        "reviews": 451,
+        "description": "Olympic Hex Trap Bar features heavy-duty alloy steel frame with matte black powder coat, dual medium-knurled raised/flush handles, and standard 2-inch Olympic plate sleeves."
+    },
+    {
+        "id": 135,
+        "name": "Commercial High-Performance Magnetic Resistance Indoor Spin Bike (Red/Black)",
+        "category": "Cardio",
+        "price": 44199.0,
+        "image": "assets/images/products/135/main.jpg",
+        "rating": 5.0,
+        "reviews": 350,
+        "description": "Commercial High-Performance Indoor Spin Bike features smooth belt-drive magnetic resistance, heavy perimeter-weighted flywheel, multi-grip racing handlebars, and red/black powder-coated steel frame."
+    },
+    {
+        "id": 205,
+        "name": "Rival Boxing Hook and Jab Curved Punching Mitts / Focus Pads Pair",
+        "category": "Combat",
+        "price": 5079.0,
+        "image": "assets/images/products/205/main.jpg",
+        "rating": 4.2,
+        "reviews": 216,
+        "description": "Rival Boxing Curved Focus Pads feature layered high-density foam padding, ergonomic palm grip ball, wrist stabilization strap, and authentic Rival boxing styling in white and black."
+    },
+    {
+        "id": 275,
+        "name": "Deep Tissue Percussion Massage Gun with Interchangeable Heads (Handheld Massager)",
+        "category": "Recovery",
+        "price": 9559.0,
+        "image": "assets/images/products/275/main.jpg",
+        "rating": 4.7,
+        "reviews": 83,
+        "description": "Deep Tissue Percussion Massage Gun features a high-torque brushless motor, multi-speed intensity levels, quiet glide technology, long battery life, and multiple ergonomic massage head attachments."
+    },
+    {
+        "id": 345,
+        "name": "WOD Nation 100% Pure Magnesium Carbonate Gym Chalk 8-Block Box (400g Total)",
+        "category": "Accessories",
+        "price": 1199.0,
+        "image": "assets/images/products/345/main.jpg",
+        "rating": 4.7,
+        "reviews": 478,
+        "description": "WOD Nation 100% Pure Magnesium Carbonate Gym Chalk box includes 8 solid blocks (400g) for maximum grip retention, sweat absorption, and reliable performance in weightlifting and gymnastics."
+    },
+    {
+        "id": 415,
+        "name": "Men's Quick-Dry Breathable Sleeveless Compression Training Tank Top (Black)",
+        "category": "Apparel",
+        "price": 1249.0,
+        "image": "assets/images/products/415/main.jpg",
+        "rating": 4.2,
+        "reviews": 102,
+        "description": "Men's Quick-Dry Breathable Sleeveless Training Tank Top features ultra-lightweight moisture-wicking stretch fabric, dropped armholes for unrestricted movement, and clean athletic styling in black."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -6668,206 +6868,6 @@ var shopProducts = [
         "rating": 4.4,
         "reviews": 293,
         "description": "The High-Waisted Compression Leggings (7/8 Length) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 483,
-        "name": "Smart Fitness Tracker Ring (Black Edition)",
-        "category": "Fit Tech",
-        "price": 6879.0,
-        "image": "assets/images/products/483/main.jpg",
-        "rating": 4.0,
-        "reviews": 356,
-        "description": "The Smart Fitness Tracker Ring (Black Edition) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 553,
-        "name": "High Calorie Mass Gainer Protein (Chocolate 10 lbs)",
-        "category": "Supplements",
-        "price": 4859.0,
-        "image": "assets/images/products/553/main.jpg",
-        "rating": 4.6,
-        "reviews": 206,
-        "description": "The High Calorie Mass Gainer Protein (Chocolate 10 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 623,
-        "name": "Cotton Yoga Stretching Strap (10 Feet)",
-        "category": "Yoga",
-        "price": 1119.0,
-        "image": "assets/images/products/623/main.jpg",
-        "rating": 4.8,
-        "reviews": 147,
-        "description": "The Cotton Yoga Stretching Strap (10 Feet) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 693,
-        "name": "Power Tower Dip Station Pull-Up Machine",
-        "category": "Home Gym",
-        "price": 2129.0,
-        "image": "assets/images/products/693/main.jpg",
-        "rating": 4.8,
-        "reviews": 439,
-        "description": "The Power Tower Dip Station Pull-Up Machine is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 64,
-        "name": "Plate Loaded Seated Calf Raise Machine",
-        "category": "Strength",
-        "price": 12519.0,
-        "image": "assets/images/products/64/main.jpg",
-        "rating": 4.1,
-        "reviews": 203,
-        "description": "The Plate Loaded Seated Calf Raise Machine is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 134,
-        "name": "Upright Magnetic Fitness Bike",
-        "category": "Cardio",
-        "price": 20079.0,
-        "image": "assets/images/products/134/main.jpg",
-        "rating": 4.2,
-        "reviews": 459,
-        "description": "The Upright Magnetic Fitness Bike is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 204,
-        "name": "Hand Wraps Cotton Boxing Bandages Pair",
-        "category": "Combat",
-        "price": 639.0,
-        "image": "assets/images/products/204/main.jpg",
-        "rating": 4.2,
-        "reviews": 39,
-        "description": "The Hand Wraps Cotton Boxing Bandages Pair is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 274,
-        "name": "Cold Therapy Ankle & Foot Ice Gel Boot",
-        "category": "Recovery",
-        "price": 2779.0,
-        "image": "assets/images/products/274/main.jpg",
-        "rating": 4.3,
-        "reviews": 335,
-        "description": "The Cold Therapy Ankle & Foot Ice Gel Boot is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 344,
-        "name": "Heavy Cotton Padded Weightlifting Straps",
-        "category": "Accessories",
-        "price": 2379.0,
-        "image": "assets/images/products/344/main.jpg",
-        "rating": 4.7,
-        "reviews": 259,
-        "description": "The Heavy Cotton Padded Weightlifting Straps is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 414,
-        "name": "Lightweight Track Jacket with Mesh Lining",
-        "category": "Apparel",
-        "price": 2379.0,
-        "image": "assets/images/products/414/main.jpg",
-        "rating": 4.1,
-        "reviews": 318,
-        "description": "The Lightweight Track Jacket with Mesh Lining is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 484,
-        "name": "Wireless Heart Rate Armband Monitor",
-        "category": "Fit Tech",
-        "price": 3269.0,
-        "image": "assets/images/products/484/main.jpg",
-        "rating": 3.9,
-        "reviews": 395,
-        "description": "The Wireless Heart Rate Armband Monitor is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 554,
-        "name": "Hydrolyzed Whey Isolate Powder (Vanilla 5 lbs)",
-        "category": "Supplements",
-        "price": 8959.0,
-        "image": "assets/images/products/554/main.jpg",
-        "rating": 4.5,
-        "reviews": 355,
-        "description": "The Hydrolyzed Whey Isolate Powder (Vanilla 5 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 624,
-        "name": "Rectangular Yoga Bolster Pillow",
-        "category": "Yoga",
-        "price": 2529.0,
-        "image": "assets/images/products/624/main.jpg",
-        "rating": 4.4,
-        "reviews": 329,
-        "description": "The Rectangular Yoga Bolster Pillow is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 694,
-        "name": "Interlocking High-Density Rubber Gym Tiles (8-Pack)",
-        "category": "Home Gym",
-        "price": 5369.0,
-        "image": "assets/images/products/694/main.jpg",
-        "rating": 4.4,
-        "reviews": 71,
-        "description": "The Interlocking High-Density Rubber Gym Tiles (8-Pack) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 65,
-        "name": "Heavy Duty Power Rack Extension Conversion Kit",
-        "category": "Strength",
-        "price": 37999.0,
-        "image": "assets/images/products/65/main.jpg",
-        "rating": 4.0,
-        "reviews": 451,
-        "description": "The Heavy Duty Power Rack Extension Conversion Kit is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 135,
-        "name": "Motorized Treadmill with Shock Absorption Deck",
-        "category": "Cardio",
-        "price": 44199.0,
-        "image": "assets/images/products/135/main.jpg",
-        "rating": 5.0,
-        "reviews": 350,
-        "description": "The Motorized Treadmill with Shock Absorption Deck is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 205,
-        "name": "Pro Leather Focus Mitts for Trainer",
-        "category": "Combat",
-        "price": 5079.0,
-        "image": "assets/images/products/205/main.jpg",
-        "rating": 4.2,
-        "reviews": 216,
-        "description": "The Pro Leather Focus Mitts for Trainer is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 275,
-        "name": "Full Body Pneumatic Compression Massager",
-        "category": "Recovery",
-        "price": 9559.0,
-        "image": "assets/images/products/275/main.jpg",
-        "rating": 4.7,
-        "reviews": 83,
-        "description": "The Full Body Pneumatic Compression Massager is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 345,
-        "name": "Latex Free Fabric Resistance Loop Bands",
-        "category": "Accessories",
-        "price": 829.0,
-        "image": "assets/images/products/345/main.jpg",
-        "rating": 4.7,
-        "reviews": 478,
-        "description": "The Latex Free Fabric Resistance Loop Bands is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 415,
-        "name": "Fleece Lined Athletic Training Hoodie",
-        "category": "Apparel",
-        "price": 3119.0,
-        "image": "assets/images/products/415/main.jpg",
-        "rating": 4.2,
-        "reviews": 102,
-        "description": "The Fleece Lined Athletic Training Hoodie is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 418,
