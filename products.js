@@ -3530,6 +3530,206 @@ var shopProducts = [
         "description": "Heavy-Duty Free-Standing Punching Bag Tower features high-density multi-layered shock absorbing foam, heavy tear-resistant synthetic leather, and water/sand fillable base."
     },
     {
+        "id": 121,
+        "name": "Commercial Air Fan Assault Resistance Exercise Bike with Dual-Action Arms (Black & Yellow)",
+        "category": "Cardio",
+        "price": 38599.0,
+        "image": "assets/images/products/121/main.jpg",
+        "rating": 4.5,
+        "reviews": 280,
+        "description": "Commercial Air Fan Resistance Exercise Bike features steel fan flywheel for unlimited progressive resistance, synchronized dual-action upper body handles, and LCD workout console."
+    },
+    {
+        "id": 191,
+        "name": "Quick-Gel Padded Boxing Inner Hand Wraps Gloves Pair (Red with Wrist Strap)",
+        "category": "Combat",
+        "price": 1499.0,
+        "image": "assets/images/products/191/main.jpg",
+        "rating": 4.7,
+        "reviews": 310,
+        "description": "Quick-Gel Padded Boxing Inner Gloves feature integrated shock-absorbing gel knuckle shield, breathable mesh fabric, and long elasticated hook-and-loop wrist strap in vibrant red."
+    },
+    {
+        "id": 261,
+        "name": "Graduated Compression Arm & Forearm Protection Sleeve (Slate Charcoal Grey)",
+        "category": "Recovery",
+        "price": 899.0,
+        "image": "assets/images/products/261/main.jpg",
+        "rating": 4.6,
+        "reviews": 240,
+        "description": "Graduated Compression Arm Sleeve features seamless moisture-wicking compression fabric, anti-slip silicone upper grip band, and targeted elbow tendon support in slate charcoal grey."
+    },
+    {
+        "id": 331,
+        "name": "High-Speed Weighted PVC Jump Rope with Ball-Bearing Ergonomic Handles (Yellow/Black)",
+        "category": "Accessories",
+        "price": 899.0,
+        "image": "assets/images/products/331/main.jpg",
+        "rating": 4.5,
+        "reviews": 190,
+        "description": "High-Speed Weighted PVC Jump Rope features 360-degree smooth ball-bearing rotation, tangle-free thick yellow PVC cord, and ergonomic contoured black handles for cardio workouts."
+    },
+    {
+        "id": 401,
+        "name": "Men's 2-in-1 Athletic Workout Running Shorts with Compression Liner (Sage Green)",
+        "category": "Apparel",
+        "price": 1659.0,
+        "image": "assets/images/products/401/main.jpg",
+        "rating": 4.3,
+        "reviews": 306,
+        "description": "Men's 2-in-1 Athletic Workout Shorts feature lightweight perforated outer shell, built-in supportive compression inner liner, drawstring waistband, and sage green styling."
+    },
+    {
+        "id": 471,
+        "name": "Garmin HRM-Dual Premium Soft Fabric Heart Rate Monitor Chest Strap Sensor (Black)",
+        "category": "Fit Tech",
+        "price": 3839.0,
+        "image": "assets/images/products/471/main.jpg",
+        "rating": 3.9,
+        "reviews": 42,
+        "description": "Garmin HRM-Dual features dual ANT+ and Bluetooth Low Energy transmission, ultra-comfortable washable soft fabric strap, real-time accurate ECG heart rate tracking, and long battery life."
+    },
+    {
+        "id": 541,
+        "name": "BioTechUSA 100% Micronized Creatine Monohydrate Powder Tub (Unflavoured / 500g)",
+        "category": "Supplements",
+        "price": 1899.0,
+        "image": "assets/images/products/541/main.jpg",
+        "rating": 4.7,
+        "reviews": 210,
+        "description": "BioTechUSA 100% Pure Micronized Creatine Monohydrate provides 500g of pharmaceutical-grade unflavoured creatine powder for explosive strength, power output, and muscle volumization."
+    },
+    {
+        "id": 611,
+        "name": "Organic Cotton Cylindrical Yoga & Meditation Bolster Pillow (Black / Large)",
+        "category": "Yoga",
+        "price": 1729.0,
+        "image": "assets/images/products/611/main.jpg",
+        "rating": 4.5,
+        "reviews": 290,
+        "description": "Organic Cotton Cylindrical Yoga Bolster features high-density firm cotton batting, durable black canvas outer cover with carry handle, and supportive restorative back cushioning."
+    },
+    {
+        "id": 681,
+        "name": "Commercial Wall-Mounted Steel Pull-Up & Chin-Up Bar Station (Grey / Multi-Grip)",
+        "category": "Home Gym",
+        "price": 2969.0,
+        "image": "assets/images/products/681/main.jpg",
+        "rating": 3.8,
+        "reviews": 342,
+        "description": "Commercial Wall-Mounted Pull-Up Station features heavy-duty triangular bracket design, multi-grip angled chin-up bars, and wall-mounting hardware in matte industrial grey."
+    },
+    {
+        "id": 52,
+        "name": "Olympic Barbell T-Bar Row Platform System with Blue Bumper Plates",
+        "category": "Strength",
+        "price": 8999.0,
+        "image": "assets/images/products/52/main.jpg",
+        "rating": 4.4,
+        "reviews": 467,
+        "description": "Olympic Barbell T-Bar Row Platform System features heavy-duty steel swivel joint, knurled landmine handles, and Olympic blue bumper plates for bent-over back and lat rows."
+    },
+    {
+        "id": 122,
+        "name": "Commercial Total-Body Hybrid Elliptical Stepper Machine with Console Display",
+        "category": "Cardio",
+        "price": 27999.0,
+        "image": "assets/images/products/122/main.jpg",
+        "rating": 4.2,
+        "reviews": 414,
+        "description": "Commercial Hybrid Elliptical Stepper Machine features dynamic variable-stride technology, full-body synchronized handlebars, magnetic resistance, and comprehensive workout console."
+    },
+    {
+        "id": 192,
+        "name": "Pro Leather Boxing Sparring Training Gloves (Black & Grey Trim)",
+        "category": "Combat",
+        "price": 3499.0,
+        "image": "assets/images/products/192/main.jpg",
+        "rating": 4.8,
+        "reviews": 382,
+        "description": "Pro Leather Boxing Sparring Gloves feature multi-layered shock-absorbing foam core, full wraparound velcro wrist support, and premium black matte leather finish."
+    },
+    {
+        "id": 262,
+        "name": "The Pod Portable Insulated Circular Ice Bath Cold Plunge Tub with Weather Cover (Black)",
+        "category": "Recovery",
+        "price": 6499.0,
+        "image": "assets/images/products/262/main.jpg",
+        "rating": 4.1,
+        "reviews": 184,
+        "description": "The Pod Portable Insulated Circular Ice Bath Tub features multi-layer thermal insulation, reinforced support legs, drainage valve, and weatherproof thermal lid in sleek black."
+    },
+    {
+        "id": 402,
+        "name": "Men's Minimalist Barefoot Weightlifting & Cross-Training Shoes (Black / Gum Sole)",
+        "category": "Apparel",
+        "price": 2419.0,
+        "image": "assets/images/products/402/main.jpg",
+        "rating": 3.9,
+        "reviews": 74,
+        "description": "Men's Minimalist Barefoot Cross-Training Shoes feature zero-drop profile, wide anatomical toe box, breathable mesh upper, and high-traction gum rubber grip sole."
+    },
+    {
+        "id": 472,
+        "name": "Sequential Pneumatic Air Compression Full Leg Recovery Boots Pair (Black)",
+        "category": "Fit Tech",
+        "price": 24999.0,
+        "image": "assets/images/products/472/main.jpg",
+        "rating": 4.8,
+        "reviews": 150,
+        "description": "Sequential Pneumatic Air Compression Recovery Boots feature overlapping air chambers, dynamic gradient compression, digital controller unit, and zippered full leg sleeves in black."
+    },
+    {
+        "id": 542,
+        "name": "Raw Nutrition High-Performance Pre-Workout Energy Powder Tub (Black/Yellow)",
+        "category": "Supplements",
+        "price": 2999.0,
+        "image": "assets/images/products/542/main.jpg",
+        "rating": 4.3,
+        "reviews": 188,
+        "description": "Raw Nutrition Pre-Workout Formula delivers clinical doses of L-citrulline, beta-alanine, natural caffeine, and tyrosine for intense energy, endurance, and extreme pumps."
+    },
+    {
+        "id": 612,
+        "name": "Natural Cork Yoga Blocks Pair with Non-Slip Cork Yoga Mat",
+        "category": "Yoga",
+        "price": 1869.0,
+        "image": "assets/images/products/612/main.jpg",
+        "rating": 4.2,
+        "reviews": 86,
+        "description": "Natural Cork Yoga Set features high-density solid cork bevelled support blocks and eco-friendly sweat-resistant natural cork yoga mat for stable alignment."
+    },
+    {
+        "id": 682,
+        "name": "Heavy-Duty Wall-Mounted Multi-Grip Pull-Up & Chin-Up Bar Station (Black)",
+        "category": "Home Gym",
+        "price": 2019.0,
+        "image": "assets/images/products/682/main.jpg",
+        "rating": 4.3,
+        "reviews": 306,
+        "description": "Heavy-Duty Wall-Mounted Pull-Up Bar Station features solid steel tubular construction, wide, narrow, and parallel foam grips, and wall-mounting hardware in matte black."
+    },
+    {
+        "id": 53,
+        "name": "Solid Chrome EZ Curl Barbell with Weight Plates for Bicep Curls",
+        "category": "Strength",
+        "price": 11959.0,
+        "image": "assets/images/products/53/main.jpg",
+        "rating": 3.8,
+        "reviews": 224,
+        "description": "Solid Chrome EZ Curl Barbell features angled ergonomic knurled shaft to reduce wrist strain, spinlock collars, and cast iron weight plates for arm curls and skull crushers."
+    },
+    {
+        "id": 123,
+        "name": "Smart Indoor Studio Magnetic Resistance Spin Exercise Bike with HD Tablet Display",
+        "category": "Cardio",
+        "price": 19239.0,
+        "image": "assets/images/products/123/main.jpg",
+        "rating": 4.8,
+        "reviews": 154,
+        "description": "Smart Indoor Studio Spin Exercise Bike features silent magnetic resistance flywheel, smooth poly-V belt drive, fully adjustable race saddle, and HD tablet media console."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -6670,210 +6870,8 @@ var shopProducts = [
         "description": "The Hard Chrome EZ Curl Barbell (47 Inch) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
-        "id": 121,
-        "name": "Smart Indoor Spin Bike with Magnetic Resistance",
-        "category": "Cardio",
-        "price": 38599.0,
-        "image": "assets/images/products/121/main.jpg",
-        "rating": 4.0,
-        "reviews": 158,
-        "description": "The Smart Indoor Spin Bike with Magnetic Resistance is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 191,
-        "name": "Heavy Leather Angle Uppercut Punching Bag",
-        "category": "Combat",
-        "price": 6719.0,
-        "image": "assets/images/products/191/main.jpg",
-        "rating": 4.2,
-        "reviews": 307,
-        "description": "The Heavy Leather Angle Uppercut Punching Bag is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 261,
-        "name": "Compact High-Density Roller (12-Inch)",
-        "category": "Recovery",
-        "price": 1479.0,
-        "image": "assets/images/products/261/main.jpg",
-        "rating": 4.6,
-        "reviews": 409,
-        "description": "The Compact High-Density Roller (12-Inch) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 331,
-        "name": "Neoprene Padded Ankle Straps Pair for Cable Kickbacks",
-        "category": "Accessories",
-        "price": 2759.0,
-        "image": "assets/images/products/331/main.jpg",
-        "rating": 4.7,
-        "reviews": 295,
-        "description": "The Neoprene Padded Ankle Straps Pair for Cable Kickbacks is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 401,
-        "name": "Thermal Compression Long Sleeve Top",
-        "category": "Apparel",
-        "price": 1659.0,
-        "image": "assets/images/products/401/main.jpg",
-        "rating": 4.3,
-        "reviews": 306,
-        "description": "The Thermal Compression Long Sleeve Top is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 471,
-        "name": "Soft Fabric Heart Rate Chest Strap Sensor",
-        "category": "Fit Tech",
-        "price": 3839.0,
-        "image": "assets/images/products/471/main.jpg",
-        "rating": 3.9,
-        "reviews": 42,
-        "description": "The Soft Fabric Heart Rate Chest Strap Sensor is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 541,
-        "name": "Lean Mass Gainer Protein Powder (Vanilla Shake 5 lbs)",
-        "category": "Supplements",
-        "price": 5719.0,
-        "image": "assets/images/products/541/main.jpg",
-        "rating": 4.9,
-        "reviews": 127,
-        "description": "The Lean Mass Gainer Protein Powder (Vanilla Shake 5 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 611,
-        "name": "Heavy Duty Stretching Strap for Flexibility",
-        "category": "Yoga",
-        "price": 759.0,
-        "image": "assets/images/products/611/main.jpg",
-        "rating": 4.5,
-        "reviews": 290,
-        "description": "The Heavy Duty Stretching Strap for Flexibility is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 681,
-        "name": "Heavy Duty Power Tower Station for Home Gym",
-        "category": "Home Gym",
-        "price": 2969.0,
-        "image": "assets/images/products/681/main.jpg",
-        "rating": 3.8,
-        "reviews": 342,
-        "description": "The Heavy Duty Power Tower Station for Home Gym is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 52,
-        "name": "Commercial Glute Ham Developer (GHD) Machine",
-        "category": "Strength",
-        "price": 8999.0,
-        "image": "assets/images/products/52/main.jpg",
-        "rating": 4.4,
-        "reviews": 467,
-        "description": "The Commercial Glute Ham Developer (GHD) Machine is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 122,
-        "name": "Portable Walking Pad Treadmill for Home Office",
-        "category": "Cardio",
-        "price": 27999.0,
-        "image": "assets/images/products/122/main.jpg",
-        "rating": 4.2,
-        "reviews": 414,
-        "description": "The Portable Walking Pad Treadmill for Home Office is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 192,
-        "name": "MMA Open-Palm Sparring Gloves (6 oz)",
-        "category": "Combat",
-        "price": 1369.0,
-        "image": "assets/images/products/192/main.jpg",
-        "rating": 4.8,
-        "reviews": 382,
-        "description": "The MMA Open-Palm Sparring Gloves (6 oz) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 262,
-        "name": "Targeted Plantar Fasciitis Foot Massage Roller",
-        "category": "Recovery",
-        "price": 3699.0,
-        "image": "assets/images/products/262/main.jpg",
-        "rating": 4.1,
-        "reviews": 184,
-        "description": "The Targeted Plantar Fasciitis Foot Massage Roller is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 402,
-        "name": "Stretch Woven Athletic Shorts (7-Inch)",
-        "category": "Apparel",
-        "price": 2419.0,
-        "image": "assets/images/products/402/main.jpg",
-        "rating": 3.9,
-        "reviews": 74,
-        "description": "The Stretch Woven Athletic Shorts (7-Inch) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 472,
-        "name": "Smart Body Fat Scale with 8 Electrode Sensors",
-        "category": "Fit Tech",
-        "price": 3299.0,
-        "image": "assets/images/products/472/main.jpg",
-        "rating": 4.8,
-        "reviews": 150,
-        "description": "The Smart Body Fat Scale with 8 Electrode Sensors is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 542,
-        "name": "100% Whey Protein Isolate (Rich Chocolate 5 lbs)",
-        "category": "Supplements",
-        "price": 7199.0,
-        "image": "assets/images/products/542/main.jpg",
-        "rating": 4.3,
-        "reviews": 188,
-        "description": "The 100% Whey Protein Isolate (Rich Chocolate 5 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 612,
-        "name": "Organic Cotton Yoga Bolster Pillow (Large)",
-        "category": "Yoga",
-        "price": 1869.0,
-        "image": "assets/images/products/612/main.jpg",
-        "rating": 4.2,
-        "reviews": 86,
-        "description": "The Organic Cotton Yoga Bolster Pillow (Large) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 682,
-        "name": "Interlocking Rubber Gym Matting Tiles (24-Pack)",
-        "category": "Home Gym",
-        "price": 2019.0,
-        "image": "assets/images/products/682/main.jpg",
-        "rating": 4.3,
-        "reviews": 306,
-        "description": "The Interlocking Rubber Gym Matting Tiles (24-Pack) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 53,
-        "name": "Heavy Duty Adjustable Squat Stands Pair",
-        "category": "Strength",
-        "price": 11959.0,
-        "image": "assets/images/products/53/main.jpg",
-        "rating": 3.8,
-        "reviews": 224,
-        "description": "The Heavy Duty Adjustable Squat Stands Pair is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 123,
-        "name": "Recumbent Exercise Bike with Quick-Adjust Seat",
-        "category": "Cardio",
-        "price": 19239.0,
-        "image": "assets/images/products/123/main.jpg",
-        "rating": 4.8,
-        "reviews": 154,
-        "description": "The Recumbent Exercise Bike with Quick-Adjust Seat is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
         "id": 418,
         "name": "Tapered Performance Gym Joggers",
-        "category": "Apparel",
-        "price": 2299.0,
         "image": "assets/images/products/418/main.jpg",
         "rating": 4.6,
         "reviews": 294,
