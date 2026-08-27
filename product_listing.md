@@ -732,9 +732,9 @@ Total Products: **700**
 | 661 | Apex Athletics Commercial Multi-Position Incline Workout Bench |
 | 662 | Bodyweight Suspension Trainer with Door Mount |
 | 663 | Heavy Duty Power Tower Station with Push-Up Handles |
-| 664 | Interlocking Foam & Rubber Gym Mats (8-Pack) |
-| 665 | Quick-Select Dumbbell Pair (10-55 lbs) |
-| 666 | Foldable Adjustable FID Weight Bench |
+| 664 | Marcy Pro Multi-Grip Pull-Up & Dip Power Tower Station with VKR |
+| 665 | Apex Strength Multi-Function Power Tower Workout Dip Station with Push-Up Handles |
+| 666 | Centr Performance Multi-Angle Functional Trainer Dual Cable Crossover Station |
 | 667 | Heavy Duty Doorway Chin Up Pull Up Bar |
 | 668 | Professional Bodyweight Suspension Trainer Kit |
 | 669 | Power Tower Pull Up Dip Station with Padded Armrests |

@@ -1770,6 +1770,36 @@ var shopProducts = [
         "description": "Portable Insulated Folding Cold Plunge Ice Bath Tub is engineered with multi-layer thermal insulation, reinforced support struts, easy-drain valve, and protective dust cover for cold therapy."
     },
     {
+        "id": 664,
+        "name": "Marcy Pro Multi-Grip Pull-Up & Dip Power Tower Station with VKR",
+        "category": "Home Gym",
+        "price": 19999.0,
+        "image": "assets/images/products/664/main.jpg",
+        "rating": 4.0,
+        "reviews": 424,
+        "description": "Marcy Pro Multi-Grip Power Tower Station features heavy-duty steel tube framing, overhead angled chin-up bar, padded vertical knee raise (VKR) armrests, and dip station handles for complete core and upper-body workouts."
+    },
+    {
+        "id": 665,
+        "name": "Apex Strength Multi-Function Power Tower Workout Dip Station with Push-Up Handles",
+        "category": "Home Gym",
+        "price": 21999.0,
+        "image": "assets/images/products/665/main.jpg",
+        "rating": 4.3,
+        "reviews": 185,
+        "description": "Apex Strength Multi-Function Power Tower features ergonomic padded backrest and forearm supports, wide multi-grip pull-up bar, dip bars, and bottom push-up stands for bodyweight calisthenics training."
+    },
+    {
+        "id": 666,
+        "name": "Centr Performance Multi-Angle Functional Trainer Dual Cable Crossover Station",
+        "category": "Home Gym",
+        "price": 89999.0,
+        "image": "assets/images/products/666/main.jpg",
+        "rating": 5.0,
+        "reviews": 131,
+        "description": "Centr Performance Multi-Angle Functional Trainer features dual adjustable swivel pulley arms, precision weight stacks, diamond-plate standing base, and multi-position cable handles for total-body strength training."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -3580,16 +3610,6 @@ var shopProducts = [
         "description": "The Rectangular Meditation Pillow Cushion is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
-        "id": 664,
-        "name": "Interlocking Foam & Rubber Gym Mats (8-Pack)",
-        "category": "Home Gym",
-        "price": 2529.0,
-        "image": "assets/images/products/664/main.jpg",
-        "rating": 4.0,
-        "reviews": 424,
-        "description": "The Interlocking Foam & Rubber Gym Mats (8-Pack) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
         "id": 35,
         "name": "Heavy Duty Ab Slab Incline Bench",
         "category": "Strength",
@@ -3680,16 +3700,6 @@ var shopProducts = [
         "description": "The Back Release Roller Yoga Wheel (13-Inch) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
-        "id": 665,
-        "name": "Quick-Select Dumbbell Pair (10-55 lbs)",
-        "category": "Home Gym",
-        "price": 16079.0,
-        "image": "assets/images/products/665/main.jpg",
-        "rating": 4.3,
-        "reviews": 185,
-        "description": "The Quick-Select Dumbbell Pair (10-55 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
         "id": 36,
         "name": "Calibrated Powerlifting Steel Plate (25kg)",
         "category": "Strength",
@@ -3778,16 +3788,6 @@ var shopProducts = [
         "rating": 4.5,
         "reviews": 162,
         "description": "The Sweat Absorbent Yoga Mat Towel Full Size is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 666,
-        "name": "Foldable Adjustable FID Weight Bench",
-        "category": "Home Gym",
-        "price": 11439.0,
-        "image": "assets/images/products/666/main.jpg",
-        "rating": 5.0,
-        "reviews": 131,
-        "description": "The Foldable Adjustable FID Weight Bench is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 37,
