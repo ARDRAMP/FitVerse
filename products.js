@@ -2930,6 +2930,206 @@ var shopProducts = [
         "description": "Men's Performance Athletic Fit Raglan Workout T-Shirt features 4-way stretch moisture-wicking micro-mesh, raglan sleeves for full shoulder range of motion, and clean light heather grey tone."
     },
     {
+        "id": 267,
+        "name": "Graduated Compression Arm & Forearm Protection Sleeve (White)",
+        "category": "Recovery",
+        "price": 899.0,
+        "image": "assets/images/products/267/main.jpg",
+        "rating": 4.8,
+        "reviews": 161,
+        "description": "Graduated Compression Arm Sleeve provides 20-30 mmHg targeted support, enhanced venous return, and breathable moisture-wicking sun protection fabric in white."
+    },
+    {
+        "id": 407,
+        "name": "Women's High-Waisted Seamless Athletic Workout Biker Shorts with Pockets (Burgundy)",
+        "category": "Apparel",
+        "price": 1179.0,
+        "image": "assets/images/products/407/main.jpg",
+        "rating": 4.5,
+        "reviews": 456,
+        "description": "Women's High-Waisted Seamless Biker Shorts feature squat-proof compression knit, dual side drop-in pockets, wide tummy control waistband, and rich burgundy tone."
+    },
+    {
+        "id": 477,
+        "name": "Rapid Reboot Sequential Pneumatic Air Compression Full Leg Recovery Boots System",
+        "category": "Fit Tech",
+        "price": 32999.0,
+        "image": "assets/images/products/477/main.jpg",
+        "rating": 3.9,
+        "reviews": 327,
+        "description": "Rapid Reboot Sequential Air Compression Recovery Boots feature multi-chamber sequential compression, digital pressure controls, and rapid lymphatic drainage in black/green."
+    },
+    {
+        "id": 547,
+        "name": "One Nutrition Pure Micronized Creatine Monohydrate Powder (Unflavored)",
+        "category": "Supplements",
+        "price": 1499.0,
+        "image": "assets/images/products/547/main.jpg",
+        "rating": 4.8,
+        "reviews": 450,
+        "description": "One Nutrition Pure Micronized Creatine Monohydrate delivers 5g ultra-pure HPLC tested creatine per serving to increase muscular strength, power output, and intracellular hydration."
+    },
+    {
+        "id": 617,
+        "name": "High-Density Foam Incline Slant Squat & Wrist/Calf Support Wedges Pair (Black)",
+        "category": "Yoga",
+        "price": 939.0,
+        "image": "assets/images/products/617/main.jpg",
+        "rating": 4.5,
+        "reviews": 251,
+        "description": "High-Density Foam Incline Slant Wedges Pair provides ergonomic angled support for deep squats, calf stretches, push-ups, and wrist pressure relief during yoga and strength training."
+    },
+    {
+        "id": 687,
+        "name": "Commercial Multi-Position Incline Dumbbell Bench Press Station",
+        "category": "Home Gym",
+        "price": 14999.0,
+        "image": "assets/images/products/687/main.jpg",
+        "rating": 4.5,
+        "reviews": 40,
+        "description": "Commercial Multi-Position Incline Bench features high-grade tubular steel frame, multi-angle ladder backrest adjustment, and high-density foam padding for dumbbell bench pressing."
+    },
+    {
+        "id": 58,
+        "name": "Matrix Fitness Commercial Selectorized Adjustable Dumbbells System & Stand",
+        "category": "Strength",
+        "price": 24999.0,
+        "image": "assets/images/products/58/main.jpg",
+        "rating": 4.8,
+        "reviews": 231,
+        "description": "Matrix Fitness Commercial Selectorized Adjustable Dumbbells allow seamless quick-turn weight selection, compact space-saving design, and heavy-duty storage cradle stand."
+    },
+    {
+        "id": 128,
+        "name": "Bowflex Commercial Hybrid Elliptical Stepper Machine with Digital Console",
+        "category": "Cardio",
+        "price": 49999.0,
+        "image": "assets/images/products/128/main.jpg",
+        "rating": 4.2,
+        "reviews": 335,
+        "description": "Bowflex Commercial Hybrid Elliptical Stepper combines low-impact elliptical stride with intense vertical climbing motion, dual heavy flywheels, and interactive digital console."
+    },
+    {
+        "id": 198,
+        "name": "Pro Leather Boxing Sparring Training Gloves (Black & Silver Trim)",
+        "category": "Combat",
+        "price": 3499.0,
+        "image": "assets/images/products/198/main.jpg",
+        "rating": 4.3,
+        "reviews": 360,
+        "description": "Pro Leather Boxing Sparring Gloves feature multi-layered shock-absorbing foam padding, full wraparound hook-and-loop wrist strap, and premium black leather with silver trim."
+    },
+    {
+        "id": 268,
+        "name": "The Ice Pod Portable Circular Insulated Cold Plunge Ice Bath Tub with Thermal Cover",
+        "category": "Recovery",
+        "price": 6499.0,
+        "image": "assets/images/products/268/main.jpg",
+        "rating": 4.7,
+        "reviews": 496,
+        "description": "The Ice Pod features 5-layer thermal insulation, heavy-duty ripstop PVC construction, easy drainage valve, and form-fitting thermal lid for daily cold water therapy recovery."
+    },
+    {
+        "id": 408,
+        "name": "Men's High-Top Cross-Training Weightlifting Barefoot Sneaker Shoes (White / Gum Sole)",
+        "category": "Apparel",
+        "price": 3499.0,
+        "image": "assets/images/products/408/main.jpg",
+        "rating": 4.8,
+        "reviews": 297,
+        "description": "Men's High-Top Cross-Training Barefoot Shoes feature zero-drop flat gum rubber sole, wide anatomical toe box, breathable white mesh upper, and high-top ankle stability."
+    },
+    {
+        "id": 478,
+        "name": "Digital Tempered Glass Smart Bathroom Weight & Body Scale (White/Grey)",
+        "category": "Fit Tech",
+        "price": 1999.0,
+        "image": "assets/images/products/478/main.jpg",
+        "rating": 3.9,
+        "reviews": 201,
+        "description": "Digital Tempered Glass Bathroom Weight Scale features high-precision strain gauge sensors, large backlit LCD display, auto-calibration, and sleek low-profile white/grey tempered glass."
+    },
+    {
+        "id": 548,
+        "name": "Breakthrough Vegan BOLD BCAA Branched Chain Amino Acid Powder Tub",
+        "category": "Supplements",
+        "price": 2299.0,
+        "image": "assets/images/products/548/main.jpg",
+        "rating": 4.0,
+        "reviews": 180,
+        "description": "Breakthrough Vegan BOLD BCAA delivers 100% plant-fermented 2:1:1 branched chain amino acids with electrolytes to fuel workout endurance and accelerate intra-workout recovery."
+    },
+    {
+        "id": 618,
+        "name": "Eco-Friendly Non-Slip High-Density Dual-Tone Yoga Exercise Mats Pair (Mint Green & Charcoal)",
+        "category": "Yoga",
+        "price": 2199.0,
+        "image": "assets/images/products/618/main.jpg",
+        "rating": 4.0,
+        "reviews": 88,
+        "description": "Eco-Friendly Dual-Tone Yoga Exercise Mats Pair features 6mm textured cushioning, alignment laser-lines, anti-tear mesh, and reversible non-slip grip in mint green and charcoal black."
+    },
+    {
+        "id": 688,
+        "name": "Commercial Incline Dumbbell Press Multi-Position Weight Bench",
+        "category": "Home Gym",
+        "price": 14999.0,
+        "image": "assets/images/products/688/main.jpg",
+        "rating": 4.4,
+        "reviews": 208,
+        "description": "Commercial Incline Weight Bench features heavy 11-gauge steel construction, adjustable back and seat angles, non-slip vinyl upholstery, and rear wheels for home and club gyms."
+    },
+    {
+        "id": 59,
+        "name": "Cast Iron Kettlebell for Single-Arm Lateral Swings & Snatch Training (Red Handle)",
+        "category": "Strength",
+        "price": 2999.0,
+        "image": "assets/images/products/59/main.jpg",
+        "rating": 4.5,
+        "reviews": 342,
+        "description": "Cast Iron Kettlebell features a smooth color-coded red handle for quick weight identification, flat machined base for push-ups, and durable chip-resistant powder coating."
+    },
+    {
+        "id": 129,
+        "name": "YESOUL S3 Commercial Magnetic Indoor Exercise Spin Bike (Smart Silent Flywheel)",
+        "category": "Cardio",
+        "price": 51499.0,
+        "image": "assets/images/products/129/main.jpg",
+        "rating": 3.9,
+        "reviews": 38,
+        "description": "YESOUL S3 Smart Indoor Exercise Spin Bike features 100-level magnetic resistance, silent belt drive system, Bluetooth app connectivity, and sleek aerodynamic frame."
+    },
+    {
+        "id": 199,
+        "name": "Pro Leather Curved Hook & Jab Punching Mitts / Focus Pads Pair (Blue & White)",
+        "category": "Combat",
+        "price": 3299.0,
+        "image": "assets/images/products/199/main.jpg",
+        "rating": 5.0,
+        "reviews": 198,
+        "description": "Pro Leather Curved Focus Pads feature shock-dispersing multi-layer foam, anatomical grip ball, padded wrist support, and durable synthetic leather in striking blue and white."
+    },
+    {
+        "id": 269,
+        "name": "Deep Tissue Handheld Percussion Massage Gun with Interchangeable Attachment",
+        "category": "Recovery",
+        "price": 5999.0,
+        "image": "assets/images/products/269/main.jpg",
+        "rating": 4.8,
+        "reviews": 314,
+        "description": "Deep Tissue Handheld Percussion Massage Gun delivers powerful high-torque brushless motor pulses, adjustable speed levels, and interchangeable heads for targeting tight leg and quad muscles."
+    },
+    {
+        "id": 409,
+        "name": "Women's Athletic Racerback Breathable Workout Training Tank Top (Navy & White)",
+        "category": "Apparel",
+        "price": 1239.0,
+        "image": "assets/images/products/409/main.jpg",
+        "rating": 4.4,
+        "reviews": 33,
+        "description": "Women's Athletic Racerback Workout Tank Top features 4-way stretch moisture-wicking fabric, flattering scoop neck with white trim, and breathable active fit in deep navy blue."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -6668,206 +6868,6 @@ var shopProducts = [
         "rating": 4.3,
         "reviews": 294,
         "description": "The Leather Headgear with Cheek & Chin Guard is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 267,
-        "name": "Spiky Trigger Point Massage Ball Set of 3",
-        "category": "Recovery",
-        "price": 899.0,
-        "image": "assets/images/products/267/main.jpg",
-        "rating": 4.8,
-        "reviews": 161,
-        "description": "The Spiky Trigger Point Massage Ball Set of 3 is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 407,
-        "name": "Low-Impact Strappy Yoga & Gym Sports Bra",
-        "category": "Apparel",
-        "price": 1179.0,
-        "image": "assets/images/products/407/main.jpg",
-        "rating": 4.5,
-        "reviews": 456,
-        "description": "The Low-Impact Strappy Yoga & Gym Sports Bra is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 477,
-        "name": "Smart Cadence & Speed Sensor Pair for Bikes",
-        "category": "Fit Tech",
-        "price": 32999.0,
-        "image": "assets/images/products/477/main.jpg",
-        "rating": 3.9,
-        "reviews": 327,
-        "description": "The Smart Cadence & Speed Sensor Pair for Bikes is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 547,
-        "name": "Plant Based Pea & Rice Protein Powder (Vanilla 2 lbs)",
-        "category": "Supplements",
-        "price": 4199.0,
-        "image": "assets/images/products/547/main.jpg",
-        "rating": 4.8,
-        "reviews": 450,
-        "description": "The Plant Based Pea & Rice Protein Powder (Vanilla 2 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 617,
-        "name": "Multi Grip Yoga Stretching Strap",
-        "category": "Yoga",
-        "price": 939.0,
-        "image": "assets/images/products/617/main.jpg",
-        "rating": 4.5,
-        "reviews": 251,
-        "description": "The Multi Grip Yoga Stretching Strap is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 687,
-        "name": "Multi-Grip Power Tower Dip Pull-Up Station",
-        "category": "Home Gym",
-        "price": 1799.0,
-        "image": "assets/images/products/687/main.jpg",
-        "rating": 4.5,
-        "reviews": 40,
-        "description": "The Multi-Grip Power Tower Dip Pull-Up Station is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 58,
-        "name": "Calibrated Bumper Plate Pair (10 lbs)",
-        "category": "Strength",
-        "price": 3439.0,
-        "image": "assets/images/products/58/main.jpg",
-        "rating": 4.8,
-        "reviews": 231,
-        "description": "The Calibrated Bumper Plate Pair (10 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 128,
-        "name": "Compact Folding Motorized Treadmill",
-        "category": "Cardio",
-        "price": 32399.0,
-        "image": "assets/images/products/128/main.jpg",
-        "rating": 4.2,
-        "reviews": 335,
-        "description": "The Compact Folding Motorized Treadmill is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 198,
-        "name": "Muay Thai Strike Shield Target Pad",
-        "category": "Combat",
-        "price": 2339.0,
-        "image": "assets/images/products/198/main.jpg",
-        "rating": 4.3,
-        "reviews": 360,
-        "description": "The Muay Thai Strike Shield Target Pad is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 268,
-        "name": "Electric Heated Arm & Elbow Compression Wrap",
-        "category": "Recovery",
-        "price": 484.0,
-        "image": "assets/images/products/268/main.jpg",
-        "rating": 4.7,
-        "reviews": 496,
-        "description": "The Electric Heated Arm & Elbow Compression Wrap is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 408,
-        "name": "Minimalist Weightlifting Barefoot Shoes",
-        "category": "Apparel",
-        "price": 11319.0,
-        "image": "assets/images/products/408/main.jpg",
-        "rating": 4.8,
-        "reviews": 297,
-        "description": "The Minimalist Weightlifting Barefoot Shoes is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 478,
-        "name": "Digital Grip Strength Tester Meter",
-        "category": "Fit Tech",
-        "price": 7479.0,
-        "image": "assets/images/products/478/main.jpg",
-        "rating": 3.9,
-        "reviews": 201,
-        "description": "The Digital Grip Strength Tester Meter is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 548,
-        "name": "Slow Release Casein Protein Powder (Chocolate 5 lbs)",
-        "category": "Supplements",
-        "price": 8079.0,
-        "image": "assets/images/products/548/main.jpg",
-        "rating": 4.0,
-        "reviews": 180,
-        "description": "The Slow Release Casein Protein Powder (Chocolate 5 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 618,
-        "name": "Round Velvet Meditation Cushion",
-        "category": "Yoga",
-        "price": 2199.0,
-        "image": "assets/images/products/618/main.jpg",
-        "rating": 4.0,
-        "reviews": 88,
-        "description": "The Round Velvet Meditation Cushion is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 688,
-        "name": "High Density Rubber Gym Flooring Mat (1/4 Inch)",
-        "category": "Home Gym",
-        "price": 2349.0,
-        "image": "assets/images/products/688/main.jpg",
-        "rating": 4.4,
-        "reviews": 208,
-        "description": "The High Density Rubber Gym Flooring Mat (1/4 Inch) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 59,
-        "name": "Steel T-Bar Row Platform & Handle System",
-        "category": "Strength",
-        "price": 1739.0,
-        "image": "assets/images/products/59/main.jpg",
-        "rating": 4.5,
-        "reviews": 342,
-        "description": "The Steel T-Bar Row Platform & Handle System is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 129,
-        "name": "Commercial Grade Air Rower with Steel Chain",
-        "category": "Cardio",
-        "price": 51499.0,
-        "image": "assets/images/products/129/main.jpg",
-        "rating": 3.9,
-        "reviews": 38,
-        "description": "The Commercial Grade Air Rower with Steel Chain is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 199,
-        "name": "Double-End Speed Bag Assembly",
-        "category": "Combat",
-        "price": 2459.0,
-        "image": "assets/images/products/199/main.jpg",
-        "rating": 5.0,
-        "reviews": 198,
-        "description": "The Double-End Speed Bag Assembly is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 269,
-        "name": "Magnesium Bath Flakes for Post-Workout Recovery",
-        "category": "Recovery",
-        "price": 3079.0,
-        "image": "assets/images/products/269/main.jpg",
-        "rating": 4.8,
-        "reviews": 314,
-        "description": "The Magnesium Bath Flakes for Post-Workout Recovery is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 409,
-        "name": "Breathable Mesh Muscle Cut Tank",
-        "category": "Apparel",
-        "price": 1239.0,
-        "image": "assets/images/products/409/main.jpg",
-        "rating": 4.4,
-        "reviews": 33,
-        "description": "The Breathable Mesh Muscle Cut Tank is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 418,
