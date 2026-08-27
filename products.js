@@ -760,6 +760,16 @@ var shopProducts = [
         "description": "Applied Nutrition BCAA Amino Hydrate is an intra-workout electrolyte and amino acid drink mix delivering 7.2g of BCAAs with zero sugar per serving in delicious Fruit Burst flavor for rapid muscle hydration, performance, and recovery."
     },
     {
+        "id": 367,
+        "name": "Nike Dri-FIT Women's Running Tank Top (Royal Blue)",
+        "category": "Apparel",
+        "price": 2499.0,
+        "image": "assets/images/products/367/main.jpg",
+        "rating": 3.9,
+        "reviews": 374,
+        "description": "Nike Dri-FIT Women's Running Tank Top is crafted from ultra-lightweight breathable moisture-wicking Dri-FIT fabric with a comfortable crew neck, curved drop-tail hem, and classic Nike swoosh for high-performance training and running."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -1848,16 +1858,6 @@ var shopProducts = [
         "rating": 4.3,
         "reviews": 322,
         "description": "The Magnesium Carbonate Pure Gym Chalk Block (8-Pack) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 367,
-        "name": "Fleece Lined Athletic Training Sweatpants",
-        "category": "Apparel",
-        "price": 2499.0,
-        "image": "assets/images/products/367/main.jpg",
-        "rating": 3.9,
-        "reviews": 374,
-        "description": "The Fleece Lined Athletic Training Sweatpants is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 437,

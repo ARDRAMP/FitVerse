@@ -415,7 +415,7 @@ Total Products: **700**
 | 364 | Women's Fleece Cropped Full-Zip Workout Hoodie (Mocha) |
 | 365 | High-Waisted Seamless Compression Workout Biker Shorts (Black) |
 | 366 | Pro Olympic Weightlifting Shoes with Dual Midfoot Straps (White/Black) |
-| 367 | Fleece Lined Athletic Training Sweatpants |
+| 367 | Nike Dri-FIT Women's Running Tank Top (Royal Blue) |
 | 368 | Seamless Camo Workout Leggings |
 | 369 | Performance Quarter-Zip Running Pullover |
 | 370 | Breathable Mesh Inset Athletic Tank |
