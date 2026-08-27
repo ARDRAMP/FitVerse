@@ -1250,6 +1250,166 @@ var shopProducts = [
         "description": "Nike Sportswear Club Fleece Women's Pullover Hoodie is crafted with premium semi-brushed fleece, embroidered white Nike swoosh, drawstring hood, ribbed hem/cuffs, and kangaroo front pocket."
     },
     {
+        "id": 446,
+        "name": "Garmin HRM-Dual Wireless Heart Rate Monitor Chest Strap",
+        "category": "Fit Tech",
+        "price": 5999.0,
+        "image": "assets/images/products/446/main.jpg",
+        "rating": 4.7,
+        "reviews": 193,
+        "description": "Garmin HRM-Dual features dual-transmission ANT+ and BLUETOOTH Low Energy technology, providing accurate real-time heart rate data to Garmin devices, online training apps, and compatible fitness equipment."
+    },
+    {
+        "id": 516,
+        "name": "Pure Encapsulations Men's Nutrients Multivitamin Supplement (180 Capsules)",
+        "category": "Supplements",
+        "price": 4999.0,
+        "image": "assets/images/products/516/main.jpg",
+        "rating": 3.9,
+        "reviews": 498,
+        "description": "Pure Encapsulations Men's Nutrients is an advanced hypoallergenic multivitamin and mineral complex formulated with meta-folate, CoQ10, and targeted phytonutrients to support cellular energy, prostate, and heart health."
+    },
+    {
+        "id": 586,
+        "name": "Round Cylindrical Yoga Meditation Bolster Pillow (Pink/Purple)",
+        "category": "Yoga",
+        "price": 1629.0,
+        "image": "assets/images/products/586/main.jpg",
+        "rating": 4.3,
+        "reviews": 401,
+        "description": "Round Cylindrical Yoga Meditation Bolster Pillow provides restorative ergonomic support for deep spine stretches, pranayama breathing, and prenatal yoga with dual-tone pink and purple plush fabric."
+    },
+    {
+        "id": 656,
+        "name": "Commercial Multi-Grip Half Rack Squat Power Cage with Spotter Arms",
+        "category": "Home Gym",
+        "price": 39999.0,
+        "image": "assets/images/products/656/main.jpg",
+        "rating": 4.7,
+        "reviews": 182,
+        "description": "Commercial Multi-Grip Half Rack Squat Power Cage is constructed from heavy-gauge industrial steel with multi-angle pull-up handles, J-hooks, extended safety catch spotters, and rear plate storage posts."
+    },
+    {
+        "id": 27,
+        "name": "Solid Cast Iron Competition Kettlebell (Overhead Training)",
+        "category": "Strength",
+        "price": 5499.0,
+        "image": "assets/images/products/27/main.jpg",
+        "rating": 4.6,
+        "reviews": 299,
+        "description": "Solid Cast Iron Competition Kettlebell is gravity cast from a single piece of dense raw iron with color-coded smooth handle and flat anti-wobble base for snatches, swings, and Turkish get-ups."
+    },
+    {
+        "id": 97,
+        "name": "High-Performance All-Terrain Mountain Bike (Trail Edition)",
+        "category": "Cardio",
+        "price": 42999.0,
+        "image": "assets/images/products/97/main.jpg",
+        "rating": 4.6,
+        "reviews": 286,
+        "description": "High-Performance All-Terrain Mountain Bike features an ultra-lightweight aluminum alloy frame, front suspension fork, multi-gear drivetrain, hydraulic disc brakes, and rugged trail-grip knobby tires."
+    },
+    {
+        "id": 167,
+        "name": "Camo Green Padded Boxing Hand Wraps & Knuckle Guard Gloves",
+        "category": "Combat",
+        "price": 1999.0,
+        "image": "assets/images/products/167/main.jpg",
+        "rating": 4.0,
+        "reviews": 182,
+        "description": "Camo Green Padded Boxing Hand Wraps feature integrated gel knuckle shock absorption pads, quick-wrap compression wrist support, and breathable moisture-wicking fabric for heavy bag and sparring sessions."
+    },
+    {
+        "id": 237,
+        "name": "Bauerfeind GenuTrain Targeted Compression Knee Support Brace (White)",
+        "category": "Recovery",
+        "price": 3999.0,
+        "image": "assets/images/products/237/main.jpg",
+        "rating": 4.2,
+        "reviews": 486,
+        "description": "Bauerfeind GenuTrain Targeted Compression Knee Support Brace features an anatomical viscoelastic Omega+ pad around the patella, breathable 3D air-knit fabric, and lateral stabilizing stays for joint pain relief."
+    },
+    {
+        "id": 377,
+        "name": "Vivobarefoot Motus Strength Barefoot Training Shoes (Olive Green)",
+        "category": "Apparel",
+        "price": 14999.0,
+        "image": "assets/images/products/377/main.jpg",
+        "rating": 4.9,
+        "reviews": 53,
+        "description": "Vivobarefoot Motus Strength Barefoot Training Shoes feature an ultra-thin zero-drop puncture-resistant sole, wide natural toe box, and reinforced breathable mesh upper for functional fitness and calisthenics."
+    },
+    {
+        "id": 447,
+        "name": "Biohackn Pneumatic Air Compression Leg Recovery Boots System with Travel Bag",
+        "category": "Fit Tech",
+        "price": 19999.0,
+        "image": "assets/images/products/447/main.jpg",
+        "rating": 3.8,
+        "reviews": 359,
+        "description": "Biohackn Pneumatic Air Compression Leg Recovery Boots deliver full-coverage sequential dynamic gradient compression, digital pressure cycle control, and a heavy-duty zippered travel carry case for athletes."
+    },
+    {
+        "id": 517,
+        "name": "Combat Fuel Pure Micronized Creatine Monohydrate Powder (500g / 100 Servings)",
+        "category": "Supplements",
+        "price": 2499.0,
+        "image": "assets/images/products/517/main.jpg",
+        "rating": 3.8,
+        "reviews": 500,
+        "description": "Combat Fuel Pure Micronized Creatine Monohydrate delivers 5g of 100% unflavored pure creatine per serving to maximize explosive muscular power, accelerate cellular hydration, and increase lean strength."
+    },
+    {
+        "id": 587,
+        "name": "High-Density EVA Foam Beveled Yoga Blocks (Purple Pair)",
+        "category": "Yoga",
+        "price": 1599.0,
+        "image": "assets/images/products/587/main.jpg",
+        "rating": 3.8,
+        "reviews": 159,
+        "description": "High-Density EVA Foam Beveled Yoga Blocks provide firm nonslip support with contoured beveled edges, lightweight moisture-proof foam construction, and optimal height elevation for all yoga levels."
+    },
+    {
+        "id": 657,
+        "name": "Commercial Heavy-Duty Full Power Cage Squat Rack with Pull-Up Bar",
+        "category": "Home Gym",
+        "price": 49999.0,
+        "image": "assets/images/products/657/main.jpg",
+        "rating": 4.1,
+        "reviews": 276,
+        "description": "Commercial Heavy-Duty Full Power Cage Squat Rack features heavy-duty square steel tubing, laser-cut adjustment holes, multi-grip chin-up bar, and reinforced safety spotter pipes for safe heavy lifting."
+    },
+    {
+        "id": 28,
+        "name": "Commercial Cast Iron Olympic Barbell Weight Plates Loading Set",
+        "category": "Strength",
+        "price": 12439.0,
+        "image": "assets/images/products/28/main.jpg",
+        "rating": 3.9,
+        "reviews": 247,
+        "description": "Commercial Cast Iron Olympic Barbell Weight Plates Loading Set includes standard 2-inch center hole cast iron plates with recessed grip rims and durable black baked enamel finish for Olympic barbells."
+    },
+    {
+        "id": 98,
+        "name": "Equilibrium Commercial Magnetic Rear-Drive Elliptical Cross Trainer Machine",
+        "category": "Cardio",
+        "price": 27399.0,
+        "image": "assets/images/products/98/main.jpg",
+        "rating": 3.9,
+        "reviews": 288,
+        "description": "Equilibrium Commercial Magnetic Rear-Drive Elliptical Cross Trainer Machine offers ultra-smooth fluid stride biomechanics, digital performance workout console, and ergonomic dual-action handlebars."
+    },
+    {
+        "id": 378,
+        "name": "Heavy-Duty Cowhide Leather & Suede Protective Work & Gym Gloves (Yellow/Grey)",
+        "category": "Apparel",
+        "price": 1249.0,
+        "image": "assets/images/products/378/main.jpg",
+        "rating": 4.0,
+        "reviews": 190,
+        "description": "Heavy-Duty Cowhide Leather & Suede Protective Work & Gym Gloves feature reinforced split-leather palm padding, breathable canvas back, and elastic safety cuff for heavy lifting and tough training."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -2760,86 +2920,6 @@ var shopProducts = [
         "description": "The Training Boxing Gloves (10 oz Lace-Up Style) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
-        "id": 446,
-        "name": "Smart TENS Unit Muscle Relief Controller",
-        "category": "Fit Tech",
-        "price": 929.0,
-        "image": "assets/images/products/446/main.jpg",
-        "rating": 4.7,
-        "reviews": 193,
-        "description": "The Smart TENS Unit Muscle Relief Controller is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 516,
-        "name": "Daily Greens & Superfood Powder Blend (300g)",
-        "category": "Supplements",
-        "price": 3759.0,
-        "image": "assets/images/products/516/main.jpg",
-        "rating": 3.9,
-        "reviews": 498,
-        "description": "The Daily Greens & Superfood Powder Blend (300g) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 586,
-        "name": "High Density Foam Yoga Block Set with Strap",
-        "category": "Yoga",
-        "price": 1629.0,
-        "image": "assets/images/products/586/main.jpg",
-        "rating": 4.3,
-        "reviews": 401,
-        "description": "The High Density Foam Yoga Block Set with Strap is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 656,
-        "name": "Professional Suspension Trainer Straps System",
-        "category": "Home Gym",
-        "price": 1279.0,
-        "image": "assets/images/products/656/main.jpg",
-        "rating": 4.7,
-        "reviews": 182,
-        "description": "The Professional Suspension Trainer Straps System is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 27,
-        "name": "Competition Bumper Plate Pair (20kg)",
-        "category": "Strength",
-        "price": 5499.0,
-        "image": "assets/images/products/27/main.jpg",
-        "rating": 4.6,
-        "reviews": 299,
-        "description": "The Competition Bumper Plate Pair (20kg) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 97,
-        "name": "Under-Desk Treadmill Walking Pad with LED Display",
-        "category": "Cardio",
-        "price": 42999.0,
-        "image": "assets/images/products/97/main.jpg",
-        "rating": 4.6,
-        "reviews": 286,
-        "description": "The Under-Desk Treadmill Walking Pad with LED Display is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 167,
-        "name": "Contoured Shin Guards for Kickboxing",
-        "category": "Combat",
-        "price": 3399.0,
-        "image": "assets/images/products/167/main.jpg",
-        "rating": 4.0,
-        "reviews": 182,
-        "description": "The Contoured Shin Guards for Kickboxing is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 237,
-        "name": "Deep Tissue Lacrosse Massage Ball Pair",
-        "category": "Recovery",
-        "price": 849.0,
-        "image": "assets/images/products/237/main.jpg",
-        "rating": 4.2,
-        "reviews": 486,
-        "description": "The Deep Tissue Lacrosse Massage Ball Pair is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
         "id": 307,
         "name": "Weighted Fitness Jump Rope (1 lb Heavy Cable)",
         "category": "Accessories",
@@ -2848,76 +2928,6 @@ var shopProducts = [
         "rating": 4.6,
         "reviews": 225,
         "description": "The Weighted Fitness Jump Rope (1 lb Heavy Cable) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 377,
-        "name": "Seamless High-Waisted Gym Leggings",
-        "category": "Apparel",
-        "price": 2049.0,
-        "image": "assets/images/products/377/main.jpg",
-        "rating": 4.9,
-        "reviews": 53,
-        "description": "The Seamless High-Waisted Gym Leggings is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 447,
-        "name": "Wireless Sports Earbuds with Active Noise Cancellation",
-        "category": "Fit Tech",
-        "price": 5599.0,
-        "image": "assets/images/products/447/main.jpg",
-        "rating": 3.8,
-        "reviews": 359,
-        "description": "The Wireless Sports Earbuds with Active Noise Cancellation is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 517,
-        "name": "High Calorie Lean Mass Gainer (Cookies & Cream 5 lbs)",
-        "category": "Supplements",
-        "price": 6199.0,
-        "image": "assets/images/products/517/main.jpg",
-        "rating": 3.8,
-        "reviews": 500,
-        "description": "The High Calorie Lean Mass Gainer (Cookies & Cream 5 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 587,
-        "name": "Multi-Loop Stretching Yoga Belt Strap",
-        "category": "Yoga",
-        "price": 1599.0,
-        "image": "assets/images/products/587/main.jpg",
-        "rating": 3.8,
-        "reviews": 159,
-        "description": "The Multi-Loop Stretching Yoga Belt Strap is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 657,
-        "name": "Multi-Grip Pull-Up Dip Power Tower Station",
-        "category": "Home Gym",
-        "price": 1649.0,
-        "image": "assets/images/products/657/main.jpg",
-        "rating": 4.1,
-        "reviews": 276,
-        "description": "The Multi-Grip Pull-Up Dip Power Tower Station is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 28,
-        "name": "Multi-Grip Curved Swiss Barbell",
-        "category": "Strength",
-        "price": 12439.0,
-        "image": "assets/images/products/28/main.jpg",
-        "rating": 3.9,
-        "reviews": 247,
-        "description": "The Multi-Grip Curved Swiss Barbell is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 98,
-        "name": "Commercial Magnetic Elliptical Machine",
-        "category": "Cardio",
-        "price": 27399.0,
-        "image": "assets/images/products/98/main.jpg",
-        "rating": 3.9,
-        "reviews": 288,
-        "description": "The Commercial Magnetic Elliptical Machine is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 168,
@@ -2948,16 +2958,6 @@ var shopProducts = [
         "rating": 3.9,
         "reviews": 311,
         "description": "The Convertible Gym Backpack & Duffel Bag is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 378,
-        "name": "Oversized Heavyweight Gym Hoodie",
-        "category": "Apparel",
-        "price": 3739.0,
-        "image": "assets/images/products/378/main.jpg",
-        "rating": 4.0,
-        "reviews": 190,
-        "description": "The Oversized Heavyweight Gym Hoodie is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 448,

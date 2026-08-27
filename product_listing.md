@@ -50,8 +50,8 @@ Total Products: **700**
 | 24 | Ukiyo Commercial 3-Tier Heavy-Duty Dumbbell Storage Rack |
 | 25 | Olympic Hex Trap Bar with Dual Knurled Handles (Deadlift & Shrug Bar) |
 | 26 | Core Home Fitness Quick-Select Adjustable Dumbbells Pair (5-50 lbs) with Cradles |
-| 27 | Competition Bumper Plate Pair (20kg) |
-| 28 | Multi-Grip Curved Swiss Barbell |
+| 27 | Solid Cast Iron Competition Kettlebell (Overhead Training) |
+| 28 | Commercial Cast Iron Olympic Barbell Weight Plates Loading Set |
 | 29 | Foldable Wall Rack with Pull-Up Bar |
 | 30 | Commercial Preacher Curl Bench |
 | 31 | Rubber Hex Dumbbell Pair (15 lbs) |
@@ -125,8 +125,8 @@ Total Products: **700**
 | 94 | Lifespan Fitness ST-15 Vertex Commercial Stair Climber Stepmill |
 | 95 | Incline Trainer Treadmill with 0-40 Percent Incline |
 | 96 | SportE Commercial Multi-Function Motorized Folding Treadmill with Massager |
-| 97 | Under-Desk Treadmill Walking Pad with LED Display |
-| 98 | Commercial Magnetic Elliptical Machine |
+| 97 | High-Performance All-Terrain Mountain Bike (Trail Edition) |
+| 98 | Equilibrium Commercial Magnetic Rear-Drive Elliptical Cross Trainer Machine |
 | 99 | Dual-Handle Hydro Rowing Machine |
 | 100 | Upright Fitness Exercise Bike with Heart Rate Grips |
 | 101 | Smart Motorized Treadmill with Auto-Incline |
@@ -200,7 +200,7 @@ Total Products: **700**
 | 164 | Victory MMA & Muay Thai Padded Shin Guards with Instep Protection (Black) |
 | 165 | Pro Leather Boxing Bag (120 lbs / 5ft) |
 | 166 | Training Boxing Gloves (10 oz Lace-Up Style) |
-| 167 | Contoured Shin Guards for Kickboxing |
+| 167 | Camo Green Padded Boxing Hand Wraps & Knuckle Guard Gloves |
 | 168 | Curved Micro Punch Mitts for Precision |
 | 169 | Competition Boxing Headgear (Cheek Protection) |
 | 170 | Freestanding Heavy Bag with Multi-Zone Targets |
@@ -275,7 +275,7 @@ Total Products: **700**
 | 234 | Ergonomic Contour Foam Roller (24-Inch) |
 | 235 | Stainless Steel Muscle Scraper Soft Tissue Tool |
 | 236 | Browe Pure Magnesium Epsom Salt Foot Soak & Bath Salts (2 lbs / 907g) |
-| 237 | Deep Tissue Lacrosse Massage Ball Pair |
+| 237 | Bauerfeind GenuTrain Targeted Compression Knee Support Brace (White) |
 | 238 | Inflatable Cold Therapy Ice Plunge Tub |
 | 239 | Professional Percussive Massage Gun (8 Speeds) |
 | 240 | Textured Hollow Grid Foam Roller (13-Inch) |
@@ -425,8 +425,8 @@ Total Products: **700**
 | 374 | M2W Men's Tapered Fleece Workout Jogger Pants with Ankle Zips (Navy) |
 | 375 | Zenith Men's Breathable Athletic Performance Tennis & Gym T-Shirt (White) |
 | 376 | Nike Sportswear Club Fleece Women's Pullover Workout Hoodie (Mint Green) |
-| 377 | Seamless High-Waisted Gym Leggings |
-| 378 | Oversized Heavyweight Gym Hoodie |
+| 377 | Vivobarefoot Motus Strength Barefoot Training Shoes (Olive Green) |
+| 378 | Heavy-Duty Cowhide Leather & Suede Protective Work & Gym Gloves (Yellow/Grey) |
 | 379 | Dry-Fit Sleeveless Muscle Shirt |
 | 380 | Stretch Athletic Training Shorts (5-Inch) |
 | 381 | Thermal Base Layer Compression Leggings |
@@ -499,8 +499,8 @@ Total Products: **700**
 | 443 | Pneumatic Compression Arm & Leg Boots System |
 | 444 | Smart Touchscreen Fitness Tracker Smartwatch (Black) |
 | 445 | ArmFit Bluetooth & ANT+ Optical Heart Rate Monitor Armband (Blue) |
-| 446 | Smart TENS Unit Muscle Relief Controller |
-| 447 | Wireless Sports Earbuds with Active Noise Cancellation |
+| 446 | Garmin HRM-Dual Wireless Heart Rate Monitor Chest Strap |
+| 447 | Biohackn Pneumatic Air Compression Leg Recovery Boots System with Travel Bag |
 | 448 | Smart Bike Computer with GPS Navigation |
 | 449 | Continuous Glucose & Workout Monitor Sensor |
 | 450 | GPS Multisport Watch with Sapphire Crystal Lens |
@@ -574,8 +574,8 @@ Total Products: **700**
 | 513 | High Energy Pre-Workout Formula (Watermelon 30 Servings) |
 | 514 | Pure Creatine Monohydrate Capsules (250 Capsules) |
 | 515 | EAA + Electrolyte Recovery Powder (Fruit Punch 30 Servings) |
-| 516 | Daily Greens & Superfood Powder Blend (300g) |
-| 517 | High Calorie Lean Mass Gainer (Cookies & Cream 5 lbs) |
+| 516 | Pure Encapsulations Men's Nutrients Multivitamin Supplement (180 Capsules) |
+| 517 | Combat Fuel Pure Micronized Creatine Monohydrate Powder (500g / 100 Servings) |
 | 518 | 100% Whey Isolate Protein Powder (Chocolate Fudge 5 lbs) |
 | 519 | Non-Stim Pre-Workout Pump Matrix (300g) |
 | 520 | Micronized Creatine Monohydrate Powder (300g) |
@@ -649,8 +649,8 @@ Total Products: **700**
 | 583 | Bohemian Vintage Persian Pattern Non-Slip Printed Yoga Mat |
 | 584 | Manduka Commuter Organic Cotton Yoga Mat Carry Strap Sling (Sky Blue) |
 | 585 | Sage Soul Round Floral Mandala Cotton Meditation Zafu Cushion (Orange) |
-| 586 | High Density Foam Yoga Block Set with Strap |
-| 587 | Multi-Loop Stretching Yoga Belt Strap |
+| 586 | Round Cylindrical Yoga Meditation Bolster Pillow (Pink/Purple) |
+| 587 | High-Density EVA Foam Beveled Yoga Blocks (Purple Pair) |
 | 588 | Organic Cotton Round Yoga Bolster |
 | 589 | Textured Rubber Yoga Wheel Stretcher |
 | 590 | Full Zip Canvas Yoga Mat Tote Bag |
@@ -724,8 +724,8 @@ Total Products: **700**
 | 653 | Multi-Station Power Cage Home Gym System with Cable Crossover & Bench |
 | 654 | Sunny Health & Fitness Power Zone Half Rack Squat Stand with Plate Storage |
 | 655 | AXDX Commercial All-In-One Smith Machine & Functional Trainer Home Gym |
-| 656 | Professional Suspension Trainer Straps System |
-| 657 | Multi-Grip Pull-Up Dip Power Tower Station |
+| 656 | Commercial Multi-Grip Half Rack Squat Power Cage with Spotter Arms |
+| 657 | Commercial Heavy-Duty Full Power Cage Squat Rack with Pull-Up Bar |
 | 658 | High Density Rubber Gym Flooring Tile (single) |
 | 659 | Adjustable Dial Dumbbell Set with Tray (5-50 lbs) |
 | 660 | Compact Folding Weight Bench Press |
