@@ -112,7 +112,7 @@ Total Products: **700**
 | 81 | Recumbent Exercise Bike with Padded Lumbar Support |
 | 82 | Commercial Grade Air Bike with Dual-Action Arms |
 | 83 | High-Intensity Interval Training Rower |
-| 84 | Smart Bluetooth Studio Spin Bike with Auto-Resistance |
+| 84 | Axox Commercial Self-Powered Curved Manual Treadmill |
 | 85 | Heavy-Duty Commercial Elliptical Trainer |
 | 86 | Compact Folding Magnetic Exercise Bike |
 | 87 | Commercial Stepper Mill Climber Machine |
@@ -187,7 +187,7 @@ Total Products: **700**
 | 151 | Sting Armalite Curved Boxing Focus Mitts Pair |
 | 152 | Nike Pro Football Shin Guard & Calf Compression Sleeves |
 | 153 | Rival Boxing Pro Leather Speed Bag (Black/Lime) |
-| 154 | Target Kick Shield for Martial Arts Training |
+| 154 | Full Face Sparring Headgear with Clear Face Shield (Blue) |
 | 155 | FujiMae Boxing Hand Wraps (White / 180-Inch) |
 | 156 | Freestanding Reflex Boxing Bag with Spring Neck |
 | 157 | Muay Thai Pro Boxing Gloves (12 oz) |
@@ -262,7 +262,7 @@ Total Products: **700**
 | 221 | Aptonia Handheld Deep Tissue Percussion Massage Gun |
 | 222 | Infrared Thermal Heating Pad for Back & Joints |
 | 223 | Stainless Steel Scraping Muscle Gua Sha Tool Set |
-| 224 | Deep Tissue Dual Peanut Massage Ball |
+| 224 | Trioxi Pure Epsom Salt Muscle Recovery Bath Soak (10kg Tub) |
 | 225 | Athletic Support Elastic Arm & Elbow Compression Sleeve |
 | 226 | Percussive Massage Gun with OLED Touchscreen |
 | 227 | High-Density EVA Foam Roller (36-Inch Full Size) |
@@ -337,7 +337,7 @@ Total Products: **700**
 | 291 | Liftdex Pure Gym Chalk Powder & Refillable Chalk Ball Set |
 | 292 | Body Builder Super Multivitamin Once Daily (60 Tablets) |
 | 293 | York Fitness Heavy-Duty Powerlifting Resistance Loop Band |
-| 294 | Gym Chalk Powder Ball in Reusable Mesh Bag |
+| 294 | FitGrip Contoured Leather Weightlifting Belt with Dual-Prong Buckle |
 | 295 | LivePro Premium Speed Jump Rope with Aluminum Handles |
 | 296 | Gym Leader Nutrition Cylinder Duffel Bag |
 | 297 | Prong Steel Buckle Leather Lifting Belt (13mm) |

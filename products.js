@@ -610,6 +610,46 @@ var shopProducts = [
         "description": "Sting Armalite Curved Boxing Focus Mitts feature SLV3 outer skin, high-density quad-core shock absorption foam, curved strike zone with target circle, and padded finger guards with secure hook-and-loop wrist straps for boxing and MMA coaches."
     },
     {
+        "id": 84,
+        "name": "Axox Commercial Self-Powered Curved Manual Treadmill",
+        "category": "Cardio",
+        "price": 79999.0,
+        "image": "assets/images/products/84/main.jpg",
+        "rating": 4.6,
+        "reviews": 229,
+        "description": "Axox Commercial Self-Powered Curved Manual Treadmill features high-traction slatted running track, magnetic resistance controls, heavy-duty ergonomic handrails, and LCD workout console for high-intensity interval training."
+    },
+    {
+        "id": 154,
+        "name": "Full Face Sparring Headgear with Clear Face Shield (Blue)",
+        "category": "Combat",
+        "price": 3779.0,
+        "image": "assets/images/products/154/main.jpg",
+        "rating": 4.5,
+        "reviews": 265,
+        "description": "Full Face Sparring Headgear features high-density shock-absorbing impact foam, full cranial and ear coverage, and a detachable high-impact transparent face shield for uncompromised vision and maximum facial protection during combat sparring."
+    },
+    {
+        "id": 224,
+        "name": "Trioxi Pure Epsom Salt Muscle Recovery Bath Soak (10kg Tub)",
+        "category": "Recovery",
+        "price": 2499.0,
+        "image": "assets/images/products/224/main.jpg",
+        "rating": 4.8,
+        "reviews": 264,
+        "description": "Trioxi Pure Epsom Salt is 100% natural magnesium sulfate bath soak crystals packaged in a heavy-duty 10kg bucket to relieve post-workout muscle soreness, reduce joint inflammation, and accelerate athletic recovery."
+    },
+    {
+        "id": 294,
+        "name": "FitGrip Contoured Leather Weightlifting Belt with Dual-Prong Buckle",
+        "category": "Accessories",
+        "price": 2799.0,
+        "image": "assets/images/products/294/main.jpg",
+        "rating": 4.1,
+        "reviews": 53,
+        "description": "FitGrip Contoured Leather Weightlifting Belt is crafted from genuine leather with suede interior lining, reinforced contrast double stitching, and a heavy-duty dual-prong stainless steel roller buckle for core stability during heavy lifts."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -1558,46 +1598,6 @@ var shopProducts = [
         "rating": 4.6,
         "reviews": 384,
         "description": "The Commercial Smith Machine Rack System is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 84,
-        "name": "Smart Bluetooth Studio Spin Bike with Auto-Resistance",
-        "category": "Cardio",
-        "price": 24799.0,
-        "image": "assets/images/products/84/main.jpg",
-        "rating": 4.6,
-        "reviews": 229,
-        "description": "The Smart Bluetooth Studio Spin Bike with Auto-Resistance is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 154,
-        "name": "Target Kick Shield for Martial Arts Training",
-        "category": "Combat",
-        "price": 3779.0,
-        "image": "assets/images/products/154/main.jpg",
-        "rating": 4.5,
-        "reviews": 265,
-        "description": "The Target Kick Shield for Martial Arts Training is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 224,
-        "name": "Deep Tissue Dual Peanut Massage Ball",
-        "category": "Recovery",
-        "price": 939.0,
-        "image": "assets/images/products/224/main.jpg",
-        "rating": 4.8,
-        "reviews": 264,
-        "description": "The Deep Tissue Dual Peanut Massage Ball is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 294,
-        "name": "Gym Chalk Powder Ball in Reusable Mesh Bag",
-        "category": "Accessories",
-        "price": 889.0,
-        "image": "assets/images/products/294/main.jpg",
-        "rating": 4.1,
-        "reviews": 53,
-        "description": "The Gym Chalk Powder Ball in Reusable Mesh Bag is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 364,
