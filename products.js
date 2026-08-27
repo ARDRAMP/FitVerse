@@ -580,6 +580,16 @@ var shopProducts = [
         "description": "Padded Leather Weightlifting Belt is constructed from heavy-duty genuine leather featuring contoured white inner lumbar padding, reinforced contrast double-stitching, and a heavy-duty dual-prong stainless steel roller buckle for maximum core support during squats and deadlifts."
     },
     {
+        "id": 640,
+        "name": "Force USA G20 All-In-One Commercial Trainer & Power Rack",
+        "category": "Home Gym",
+        "price": 99999.0,
+        "image": "assets/images/products/640/main.jpg",
+        "rating": 3.9,
+        "reviews": 389,
+        "description": "Force USA G20 All-In-One Commercial Trainer combines a heavy-duty power rack, functional trainer dual weight stacks, commercial Smith machine, multi-grip pull-up station, dip handles, plate storage pegs, and heavy punching bag attachment."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -1298,16 +1308,6 @@ var shopProducts = [
         "rating": 3.9,
         "reviews": 368,
         "description": "The Round Cotton Meditation Cushion (Zafu) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 640,
-        "name": "Power Tower Dip Station with Captains Chair",
-        "category": "Home Gym",
-        "price": 2709.0,
-        "image": "assets/images/products/640/main.jpg",
-        "rating": 3.9,
-        "reviews": 389,
-        "description": "The Power Tower Dip Station with Captains Chair is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 11,

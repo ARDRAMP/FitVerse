@@ -708,7 +708,7 @@ Total Products: **700**
 | 637 | Adjustable Dumbbells Set with Stand (5-70 lbs) |
 | 638 | Commercial Multi-Station Home Gym Machine |
 | 639 | Commercial Dual-Stack Cable Crossover Functional Trainer |
-| 640 | Power Tower Dip Station with Captains Chair |
+| 640 | Force USA G20 All-In-One Commercial Trainer & Power Rack |
 | 641 | Heavy Duty Interlocking Rubber Gym Matting (1/2 Inch) |
 | 642 | Compact Foldable Incline Weight Bench |
 | 643 | Doorway Chin-Up & Pull-Up Bar |
