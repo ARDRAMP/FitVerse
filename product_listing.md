@@ -47,7 +47,7 @@ Total Products: **700**
 | 21 | Commercial Hard Chrome Olympic Barbell (20kg) |
 | 22 | Precor Commercial Multi-Angle Adjustable Incline Dumbbell Bench |
 | 23 | Commercial Heavy-Duty Power Half Rack Squat Cage |
-| 24 | Powder Coated Cast Iron Kettlebell (12kg) |
+| 24 | Ukiyo Commercial 3-Tier Heavy-Duty Dumbbell Storage Rack |
 | 25 | Pro Style Steel Dumbbell Pair (25 lbs) |
 | 26 | Steel Cable Crossover Machine Tower |
 | 27 | Competition Bumper Plate Pair (20kg) |
@@ -122,7 +122,7 @@ Total Products: **700**
 | 91 | Commercial Dual-Action Air Fan Resistance Exercise Bike |
 | 92 | Commercial Magnetic Elliptical Cross Trainer Machine |
 | 93 | Commercial Fluid Rower with Adjustable Resistance |
-| 94 | Smart Interactive Spin Bike with Tablet Holder |
+| 94 | Lifespan Fitness ST-15 Vertex Commercial Stair Climber Stepmill |
 | 95 | Incline Trainer Treadmill with 0-40 Percent Incline |
 | 96 | Heavy Duty Fan Bike for Cross-Training |
 | 97 | Under-Desk Treadmill Walking Pad with LED Display |
@@ -197,7 +197,7 @@ Total Products: **700**
 | 161 | Pro Boxing Elastic Hand Wraps & Wrist Support Guards (Black) |
 | 162 | MMA Grappling Gloves (4 oz Competition Style) |
 | 163 | Semi-Elastic Boxing Hand Wraps (120-Inch) |
-| 164 | Leather Muay Thai Belly Pad Guard |
+| 164 | Victory MMA & Muay Thai Padded Shin Guards with Instep Protection (Black) |
 | 165 | Pro Leather Boxing Bag (120 lbs / 5ft) |
 | 166 | Training Boxing Gloves (10 oz Lace-Up Style) |
 | 167 | Contoured Shin Guards for Kickboxing |
@@ -422,7 +422,7 @@ Total Products: **700**
 | 371 | HYPD 2-in-1 Athletic Workout Running Shorts (Charcoal Grey) |
 | 372 | Bullrock Podium Olympic Weightlifting Shoes (Red/Black) |
 | 373 | Full-Coverage Tactical Sparring Protective Helmet Mask |
-| 374 | Classic Cotton Gym Graphic Tee |
+| 374 | M2W Men's Tapered Fleece Workout Jogger Pants with Ankle Zips (Navy) |
 | 375 | Padded Medium Support Workout Sports Bra |
 | 376 | Ultra-Lightweight Track Running Pants |
 | 377 | Seamless High-Waisted Gym Leggings |
@@ -497,7 +497,7 @@ Total Products: **700**
 | 441 | Chest Harness Heart Rate Sensor for Training |
 | 442 | Pneumatic Multi-Chamber Air Compression Leg & Foot Recovery Boots |
 | 443 | Pneumatic Compression Arm & Leg Boots System |
-| 444 | Smart Speed & Jump Counter Rope |
+| 444 | Smart Touchscreen Fitness Tracker Smartwatch (Black) |
 | 445 | Bluetooth Fitness Tracker Wristband |
 | 446 | Smart TENS Unit Muscle Relief Controller |
 | 447 | Wireless Sports Earbuds with Active Noise Cancellation |
@@ -646,8 +646,8 @@ Total Products: **700**
 | 580 | Round Striped Cotton Zafu Yoga Meditation Cushion (Grey/White) |
 | 581 | Cylindrical Organic Cotton Yoga Meditation Bolster Pillow (Grey) |
 | 582 | Jade Yoga Natural Sustainable Cork Yoga Block |
-| 583 | Spine Release Yoga Wheel (10-Inch) |
-| 584 | Non-Slip Microfiber Yoga Towel with Grip Dots |
+| 583 | Bohemian Vintage Persian Pattern Non-Slip Printed Yoga Mat |
+| 584 | Manduka Commuter Organic Cotton Yoga Mat Carry Strap Sling (Sky Blue) |
 | 585 | Extra Wide TPE Yoga Mat (6mm) |
 | 586 | High Density Foam Yoga Block Set with Strap |
 | 587 | Multi-Loop Stretching Yoga Belt Strap |
@@ -721,7 +721,7 @@ Total Products: **700**
 | 650 | Commercial Suspension Bodyweight Trainer Kit |
 | 651 | Multi-Position Adjustable Incline Workout Bench with Preacher Curl & Leg Developer |
 | 652 | Marcy Diamond Elite Smith Machine & Multi-Function Home Gym Cage |
-| 653 | Quick-Change Adjustable Dumbbells Pair (5-25 lbs) |
+| 653 | Multi-Station Power Cage Home Gym System with Cable Crossover & Bench |
 | 654 | Foldable Slope Utility Bench for Home Gym |
 | 655 | Doorway Pull-Up Bar with Padded Handles |
 | 656 | Professional Suspension Trainer Straps System |

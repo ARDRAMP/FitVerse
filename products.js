@@ -1050,6 +1050,86 @@ var shopProducts = [
         "description": "Full-Coverage Tactical Sparring Protective Helmet Mask features impact-resistant padded outer framing, panoramic clear viewing shield, adjustable ergonomic headband harness, and reinforced chin protection for combat training."
     },
     {
+        "id": 583,
+        "name": "Bohemian Vintage Persian Pattern Non-Slip Printed Yoga Mat",
+        "category": "Yoga",
+        "price": 2499.0,
+        "image": "assets/images/products/583/main.jpg",
+        "rating": 4.7,
+        "reviews": 278,
+        "description": "Bohemian Vintage Persian Pattern Non-Slip Printed Yoga Mat features an ultra-absorbent microfiber top bonded to a natural tree rubber base with intricate mandala artwork and superior wet/dry grip."
+    },
+    {
+        "id": 653,
+        "name": "Multi-Station Power Cage Home Gym System with Cable Crossover & Bench",
+        "category": "Home Gym",
+        "price": 69999.0,
+        "image": "assets/images/products/653/main.jpg",
+        "rating": 4.7,
+        "reviews": 150,
+        "description": "Multi-Station Power Cage Home Gym System includes heavy-duty power rack uprights, dual cable crossover pulley system, multi-grip pull-up handles, and integrated incline/flat workout bench."
+    },
+    {
+        "id": 24,
+        "name": "Ukiyo Commercial 3-Tier Heavy-Duty Dumbbell Storage Rack",
+        "category": "Strength",
+        "price": 18999.0,
+        "image": "assets/images/products/24/main.jpg",
+        "rating": 3.9,
+        "reviews": 346,
+        "description": "Ukiyo Commercial 3-Tier Heavy-Duty Dumbbell Storage Rack is built with structural angled steel framing, ergonomic curved saddle holders, and powder-coated finish for clean gym organization."
+    },
+    {
+        "id": 94,
+        "name": "Lifespan Fitness ST-15 Vertex Commercial Stair Climber Stepmill",
+        "category": "Cardio",
+        "price": 89999.0,
+        "image": "assets/images/products/94/main.jpg",
+        "rating": 4.3,
+        "reviews": 219,
+        "description": "Lifespan Fitness ST-15 Vertex Commercial Stair Climber Stepmill features rotating motorized stairs, multi-position ergonomic handrails with heart rate pulse sensors, and advanced digital workout console."
+    },
+    {
+        "id": 164,
+        "name": "Victory MMA & Muay Thai Padded Shin Guards with Instep Protection (Black)",
+        "category": "Combat",
+        "price": 3179.0,
+        "image": "assets/images/products/164/main.jpg",
+        "rating": 4.6,
+        "reviews": 257,
+        "description": "Victory MMA & Muay Thai Padded Shin Guards feature multi-layered shock-absorbing EVA foam padding, ergonomic articulated instep shield, and secure compression sleeve fit for sparring protection."
+    },
+    {
+        "id": 374,
+        "name": "M2W Men's Tapered Fleece Workout Jogger Pants with Ankle Zips (Navy)",
+        "category": "Apparel",
+        "price": 1899.0,
+        "image": "assets/images/products/374/main.jpg",
+        "rating": 4.3,
+        "reviews": 319,
+        "description": "M2W Men's Tapered Fleece Workout Jogger Pants feature ultra-soft brushed fleece fabric, elastic waistband with internal drawcord, side pockets, and zippered ankle cuffs for customized athletic fit."
+    },
+    {
+        "id": 444,
+        "name": "Smart Touchscreen Fitness Tracker Smartwatch (Black)",
+        "category": "Fit Tech",
+        "price": 5159.0,
+        "image": "assets/images/products/444/main.jpg",
+        "rating": 4.3,
+        "reviews": 73,
+        "description": "Smart Touchscreen Fitness Tracker Smartwatch features high-definition color touchscreen, multi-sport activity tracking, optical heart rate sensor, sleep tracking, call notifications, and silicone strap."
+    },
+    {
+        "id": 584,
+        "name": "Manduka Commuter Organic Cotton Yoga Mat Carry Strap Sling (Sky Blue)",
+        "category": "Yoga",
+        "price": 1329.0,
+        "image": "assets/images/products/584/main.jpg",
+        "rating": 4.7,
+        "reviews": 446,
+        "description": "Manduka Commuter Organic Cotton Yoga Mat Carry Strap Sling features durable natural woven cotton webbing, gravity-cinch loop design, and padded shoulder strap to easily transport any yoga mat."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -2480,56 +2560,6 @@ var shopProducts = [
         "description": "The High Energy Pre-Workout Formula (Watermelon 30 Servings) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
-        "id": 583,
-        "name": "Spine Release Yoga Wheel (10-Inch)",
-        "category": "Yoga",
-        "price": 1279.0,
-        "image": "assets/images/products/583/main.jpg",
-        "rating": 4.7,
-        "reviews": 278,
-        "description": "The Spine Release Yoga Wheel (10-Inch) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 653,
-        "name": "Quick-Change Adjustable Dumbbells Pair (5-25 lbs)",
-        "category": "Home Gym",
-        "price": 26159.0,
-        "image": "assets/images/products/653/main.jpg",
-        "rating": 4.7,
-        "reviews": 150,
-        "description": "The Quick-Change Adjustable Dumbbells Pair (5-25 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 24,
-        "name": "Powder Coated Cast Iron Kettlebell (12kg)",
-        "category": "Strength",
-        "price": 4569.0,
-        "image": "assets/images/products/24/main.jpg",
-        "rating": 3.9,
-        "reviews": 346,
-        "description": "The Powder Coated Cast Iron Kettlebell (12kg) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 94,
-        "name": "Smart Interactive Spin Bike with Tablet Holder",
-        "category": "Cardio",
-        "price": 38799.0,
-        "image": "assets/images/products/94/main.jpg",
-        "rating": 4.3,
-        "reviews": 219,
-        "description": "The Smart Interactive Spin Bike with Tablet Holder is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 164,
-        "name": "Leather Muay Thai Belly Pad Guard",
-        "category": "Combat",
-        "price": 3179.0,
-        "image": "assets/images/products/164/main.jpg",
-        "rating": 4.6,
-        "reviews": 257,
-        "description": "The Leather Muay Thai Belly Pad Guard is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
         "id": 234,
         "name": "Ergonomic Contour Foam Roller (24-Inch)",
         "category": "Recovery",
@@ -2550,26 +2580,6 @@ var shopProducts = [
         "description": "The Long Pull-Up Assist Resistance Bands Set is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
-        "id": 374,
-        "name": "Classic Cotton Gym Graphic Tee",
-        "category": "Apparel",
-        "price": 1289.0,
-        "image": "assets/images/products/374/main.jpg",
-        "rating": 4.3,
-        "reviews": 319,
-        "description": "The Classic Cotton Gym Graphic Tee is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 444,
-        "name": "Smart Speed & Jump Counter Rope",
-        "category": "Fit Tech",
-        "price": 5159.0,
-        "image": "assets/images/products/444/main.jpg",
-        "rating": 4.3,
-        "reviews": 73,
-        "description": "The Smart Speed & Jump Counter Rope is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
         "id": 514,
         "name": "Pure Creatine Monohydrate Capsules (250 Capsules)",
         "category": "Supplements",
@@ -2578,16 +2588,6 @@ var shopProducts = [
         "rating": 5.0,
         "reviews": 483,
         "description": "The Pure Creatine Monohydrate Capsules (250 Capsules) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 584,
-        "name": "Non-Slip Microfiber Yoga Towel with Grip Dots",
-        "category": "Yoga",
-        "price": 1329.0,
-        "image": "assets/images/products/584/main.jpg",
-        "rating": 4.7,
-        "reviews": 446,
-        "description": "The Non-Slip Microfiber Yoga Towel with Grip Dots is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 654,
