@@ -80,7 +80,7 @@ class Auth {
         }, 800);
         return true;
     }
-
+    
     updateAvatar(avatarDataUrl) {
         if (!this.currentUser) return false;
         

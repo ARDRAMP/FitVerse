@@ -39,7 +39,7 @@ Total Products: **700**
 | 13 | Stainless Steel Powerlifting Barbell |
 | 14 | Commercial Smith Machine Rack System |
 | 15 | Adjustable Incline Flat Decline Bench |
-| 16 | Solid Rubber Bumper Plate (10kg) |
+| 16 | Pro-Gym Commercial 2-Tier Heavy-Duty Dumbbell Storage Rack |
 | 17 | Open Ended Trap Bar with Built-in Jack |
 | 18 | Rubber Hex Dumbbell Pair (40 lbs) |
 | 19 | Cast Iron Kettlebell (32kg / 70lbs) |
@@ -638,7 +638,7 @@ Total Products: **700**
 | 572 | Absorbent Microfiber Yoga Mat Towel |
 | 573 | Extra Thick Cushioning Yoga Mat (8mm) |
 | 574 | Recycled EVA Foam Yoga Block Pair |
-| 575 | Cotton Yoga Stretching Belt Strap (6 Feet) |
+| 575 | Ergonomic Slanted Meditation Wedge Cushion & Zabuton Mat Set (Grey) |
 | 576 | Rectangular Yoga Bolster Pillow Cushion |
 | 577 | Wood Grain Yoga Wheel Back Stretcher |
 | 578 | Waterproof Canvas Yoga Mat Bag with Pockets |
@@ -713,7 +713,7 @@ Total Products: **700**
 | 642 | Compact Foldable Incline Weight Bench |
 | 643 | Doorway Chin-Up & Pull-Up Bar |
 | 644 | Bodyweight Suspension Strap System with Anchor |
-| 645 | Multi-Grip Power Tower Dip Station |
+| 645 | Speediance Gym Monster Smart Interactive Home Gym System |
 | 646 | High-Density Rubber Gym Flooring Mats (4-Pack) |
 | 647 | Dial Adjustable Dumbbells Pair (10-90 lbs) |
 | 648 | Heavy Duty Foldable Flat Weight Bench |

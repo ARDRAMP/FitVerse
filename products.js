@@ -670,6 +670,36 @@ var shopProducts = [
         "description": "Garmin Tactix 7 Pro Multisport Tactical GPS Smartwatch features a rugged titanium bezel, solar sapphire display, multi-band GNSS tactical navigation, heart rate tracking, Night Vision compatibility, and comprehensive health & fitness metrics."
     },
     {
+        "id": 575,
+        "name": "Ergonomic Slanted Meditation Wedge Cushion & Zabuton Mat Set (Grey)",
+        "category": "Yoga",
+        "price": 2439.0,
+        "image": "assets/images/products/575/main.jpg",
+        "rating": 4.3,
+        "reviews": 95,
+        "description": "Ergonomic Slanted Meditation Wedge Cushion & Zabuton Mat Set is crafted with high-density supportive foam and breathable removable grey linen covers to relieve lower back tension and provide optimal alignment during long meditation sessions."
+    },
+    {
+        "id": 645,
+        "name": "Speediance Gym Monster Smart Interactive Home Gym System",
+        "category": "Home Gym",
+        "price": 84999.0,
+        "image": "assets/images/products/645/main.jpg",
+        "rating": 4.8,
+        "reviews": 308,
+        "description": "Speediance Gym Monster Smart Interactive Home Gym System features motor-powered dynamic digital resistance, high-definition smart touchscreen display, foldable multi-angle workout bench, rowing accessories, and integrated AI performance tracking."
+    },
+    {
+        "id": 16,
+        "name": "Pro-Gym Commercial 2-Tier Heavy-Duty Dumbbell Storage Rack",
+        "category": "Strength",
+        "price": 14999.0,
+        "image": "assets/images/products/16/main.jpg",
+        "rating": 5.0,
+        "reviews": 352,
+        "description": "Pro-Gym Commercial 2-Tier Heavy-Duty Dumbbell Storage Rack is built with heavy-gauge commercial steel, angled tiers for easy access and loading, rubberized foot pads, and reinforced dumbbell cradles for fitness clubs and home gyms."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -1688,36 +1718,6 @@ var shopProducts = [
         "rating": 4.7,
         "reviews": 299,
         "description": "The Extreme Mass Gainer Powder (Vanilla 10 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 575,
-        "name": "Cotton Yoga Stretching Belt Strap (6 Feet)",
-        "category": "Yoga",
-        "price": 2439.0,
-        "image": "assets/images/products/575/main.jpg",
-        "rating": 4.3,
-        "reviews": 95,
-        "description": "The Cotton Yoga Stretching Belt Strap (6 Feet) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 645,
-        "name": "Multi-Grip Power Tower Dip Station",
-        "category": "Home Gym",
-        "price": 2489.0,
-        "image": "assets/images/products/645/main.jpg",
-        "rating": 4.8,
-        "reviews": 308,
-        "description": "The Multi-Grip Power Tower Dip Station is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 16,
-        "name": "Solid Rubber Bumper Plate (10kg)",
-        "category": "Strength",
-        "price": 6289.0,
-        "image": "assets/images/products/16/main.jpg",
-        "rating": 5.0,
-        "reviews": 352,
-        "description": "The Solid Rubber Bumper Plate (10kg) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 86,
