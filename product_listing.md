@@ -62,8 +62,8 @@ Total Products: **700**
 | 36 | Ironwork Athletic Tri-Grip Rubber Coated Olympic Weight Plates (Pair) |
 | 37 | Titan Fitness Commercial Olympic Barbell with Black Bumper Plates Set |
 | 38 | Rubber Coated Hex Dumbbell (50 lbs) |
-| 39 | Ergonomic Handle Kettlebell (8kg) |
-| 40 | Commercial Leg Press Hack Squat Machine |
+| 39 | Heavy-Duty Commercial Power Rack Squat Cage Station (Olive Green) |
+| 40 | Solid Cast Iron Hex Dumbbells Set for Walking Lunges & Arm Curls |
 | 41 | Cerakote Coated Olympic Barbell (Red/Black) |
 | 42 | Fractional Steel Change Plate Set (0.25kg - 5kg) |
 | 43 | Adjustable Speed Bench with Transport Wheels |
@@ -137,8 +137,8 @@ Total Products: **700**
 | 106 | Motorized Treadmill with Bluetooth Speakers |
 | 107 | High-Capacity Air Resistance Bike |
 | 108 | Desk Treadmill Under-Desk Walking Pad |
-| 109 | Recumbent Bike with Magnetic Resistance and LCD |
-| 110 | Water Rower Machine with Real Wood Frame |
+| 109 | The PowerMax Dual-Action Air Fan Resistance Assault Exercise Bike (Black) |
+| 110 | Commercial Total-Body Magnetic Elliptical Cross-Trainer with Touchscreen Console |
 | 111 | Commercial Curved Manual Running Treadmill |
 | 112 | Indoor Studio Cycle Bike with Silent Belt Drive |
 | 113 | Heavy-Duty Elliptical Trainer with 20 Inch Stride |
@@ -212,8 +212,8 @@ Total Products: **700**
 | 176 | Muay Thai Leather Shin Guards (Large) |
 | 177 | Full Face Leather Sparring Headgear |
 | 178 | Leather Speed Bag (Small 8x5 Inch) |
-| 179 | Water-Filled Heavy Punching Bag (120 lbs) |
-| 180 | Hook & Loop Training Boxing Gloves (16 oz) |
+| 179 | Elastic Boxing Hand Wraps / Inner Wraps with Wrist Support (Royal Blue) |
+| 180 | Pro Leather Boxing Sparring Training Gloves (White with Gold Trim) |
 | 181 | Heavy Duty Ceiling Mount Swivel Hanger |
 | 182 | Curved Thai Kick Pads (Pair) |
 | 183 | Grappling Dummy for BJJ & MMA Training (70 lbs) |
@@ -287,8 +287,8 @@ Total Products: **700**
 | 246 | Deep Tissue Trigger Point Massage Stick Roller |
 | 247 | High-Density Smooth EVA Foam Roller (18-Inch) |
 | 248 | Percussive Massage Gun with Heated Massage Head |
-| 249 | Cold Therapy Ice Recovery Wrap for Knees & Ankles |
-| 250 | Stainless Steel IASTM Muscle Scraping Tool |
+| 249 | Graduated Compression Elbow & Forearm Sleeve (Blue & White Striped Pattern) |
+| 250 | Solid Oak Wood Barrel Cold Plunge Ice Bath Tub with Electric Water Chiller Unit |
 | 251 | Air Compression Calf & Foot Massager |
 | 252 | Pure Epsom Salt Muscle Recovery Soak (10 lbs) |
 | 253 | Electric Cordless Heated Neck & Shoulder Massager |
@@ -437,8 +437,8 @@ Total Products: **700**
 | 386 | Relaxed-Fit Fleece Cuffed Gym Jogger Sweatpants (Light Blue) |
 | 387 | Barefoot Style Cross-Training Shoes |
 | 388 | Relaxed Fit Heavy Weightlifting Graphic Tee |
-| 389 | Compression Long Sleeve Rashguard Shirt |
-| 390 | High-Waisted Squat-Proof Workout Leggings |
+| 389 | Women's High-Rise Seamless Athletic Workout Biker Shorts (Bubblegum Pink) |
+| 390 | Men's Minimalist Barefoot Weightlifting & Cross-Training Shoes (White / Black) |
 | 391 | Athletic Zip-Up Fleece Hoodie Jacket |
 | 392 | Lightweight 2-in-1 Running Shorts with Compression Liner |
 | 393 | Performance Muscle Tank Top with Drop Armholes |
@@ -512,8 +512,8 @@ Total Products: **700**
 | 456 | Smart Color Screen Activity & Workout Tracker Band (Black Strap) |
 | 457 | Wireless Open-Ear Bone Conduction Sport Headphones |
 | 458 | Smart Sensor Speedometer for Cycling |
-| 459 | Digital Hand Grip Dynamometer Tester (90kg / 200lbs) |
-| 460 | GPS Smartwatch with Solar Charging Lens |
+| 459 | Round AMOLED Smart Fitness Watch with Heart Rate & Calorie Activity Tracker (Black) |
+| 460 | Rugged Tactical Military Smartwatch with Heart Rate & Step Tracker (Desert Tan / Khaki) |
 | 461 | Precision Heart Rate Monitor Chest Strap |
 | 462 | Smart Bluetooth Body Composition Analyzer Scale |
 | 463 | Wearable Pulse Oximeter Sleep & Workout Tracker |
@@ -587,8 +587,8 @@ Total Products: **700**
 | 526 | Micronized Creatine Monohydrate Capsules (120 Capsules) |
 | 527 | Essential Amino Acid EAA Energy Powder (Peach Mango) |
 | 528 | High-Potency Vitamin D3 + K2 Softgels (120 Softgels) |
-| 529 | High Calorie Mass Gainer Powder (Chocolate Peanut Butter 6 lbs) |
-| 530 | Hydrolyzed Whey Protein Isolate (Cookies & Cream 5 lbs) |
+| 529 | Prime Labs Pure Creatine Monohydrate Capsules Bottle (Black / Gold Label) |
+| 530 | Rule One Active BCAA Performance & Hydration Powder Tub (Blue Raspberry / 30 Servings) |
 | 531 | High-Stim Pre-Workout Energy Powder (Green Apple) |
 | 532 | Pure Micronized Creatine Powder (500g Tub) |
 | 533 | BCAA 2:1:1 Intra-Workout Powder (Lemonade 30 Servings) |
@@ -661,9 +661,9 @@ Total Products: **700**
 | 595 | Traditional Round Pleated Zafu Meditation Cushion (Burgundy Maroon) |
 | 596 | Hugger Mugger Rectangular Meditation & Yoga Bolster Pillow (Navy Blue) |
 | 597 | Premium Natural Rubber Yoga Mat (6mm) |
-| 598 | High Density Cork Yoga Block Single |
-| 599 | Yoga Stretching Strap with Loop Handles |
-| 600 | Soft Velvet Meditation Bolster Cushion |
+| 598 | High-Density EVA Foam Yoga Support Block (Hot Pink / Magenta) |
+| 599 | Extra-Thick High-Density Non-Slip Yoga Exercise Mat with Carrying Strap (Purple) |
+| 600 | Organic Cotton Rectangular Meditation Cushion Floor Zafu (Burgundy / Maroon) |
 | 601 | Ergonomic Yoga Wheel Stretcher Device |
 | 602 | Canvas Yoga Mat Backpack Bag |
 | 603 | Non-Slip Travel Foldable Yoga Mat (1.5mm) |
@@ -736,9 +736,9 @@ Total Products: **700**
 | 665 | Apex Strength Multi-Function Power Tower Workout Dip Station with Push-Up Handles |
 | 666 | Centr Performance Multi-Angle Functional Trainer Dual Cable Crossover Station |
 | 667 | Heavy Duty Doorway Chin Up Pull Up Bar |
-| 668 | Professional Bodyweight Suspension Trainer Kit |
-| 669 | Power Tower Pull Up Dip Station with Padded Armrests |
-| 670 | High Density Rubber Gym Mat Roll (4ft x 10ft) |
+| 668 | Smart Interactive Full-Length Fitness Training Mirror with Digital Cable Arms |
+| 669 | Smart Digital Interactive Cable Resistance Squat & Deadlift Training Platform (LED Lit) |
+| 670 | Smart Interactive Fitness Mirror & Multi-Tier Dumbbell Storage Studio Locker (Black) |
 | 671 | Adjustable Weight Dumbbells Set (5-52.5 lbs Pair) |
 | 672 | Space-Saving Foldable Incline Decline Bench |
 | 673 | Wall-Mounted Heavy Steel Pull-Up Bar |
