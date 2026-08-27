@@ -2730,6 +2730,206 @@ var shopProducts = [
         "description": "Men's 2-in-1 Running Workout Shorts feature lightweight quick-dry outer shorts, built-in supportive compression liner with phone pocket, and elastic drawstring waistband."
     },
     {
+        "id": 479,
+        "name": "Smart Multisport GPS Watch with AMOLED Circular Touchscreen & White Strap",
+        "category": "Fit Tech",
+        "price": 9399.0,
+        "image": "assets/images/products/479/main.jpg",
+        "rating": 4.3,
+        "reviews": 101,
+        "description": "Smart Multisport GPS Watch features a brilliant circular AMOLED touchscreen, heart rate and activity metrics, satellite positioning, and durable white silicone sport strap."
+    },
+    {
+        "id": 549,
+        "name": "Iron Whey Ultra-Microfiltered Whey Protein Powder Tub (Vanilla / Chocolate)",
+        "category": "Supplements",
+        "price": 3299.0,
+        "image": "assets/images/products/549/main.jpg",
+        "rating": 4.7,
+        "reviews": 429,
+        "description": "Iron Whey delivers 22g of ultra-microfiltered whey protein per serving, rich in BCAAs and glutamine to support lean muscle development and faster recovery."
+    },
+    {
+        "id": 619,
+        "name": "Cotton Yoga Stretching Strap Belt for Hamstring & Flexibility Support (Lilac Purple)",
+        "category": "Yoga",
+        "price": 729.0,
+        "image": "assets/images/products/619/main.jpg",
+        "rating": 4.2,
+        "reviews": 96,
+        "description": "Cotton Yoga Stretching Strap Belt is woven from durable organic cotton webbing with rust-proof D-ring buckles in lilac purple to aid hamstring, leg, and back flexibility."
+    },
+    {
+        "id": 689,
+        "name": "Commercial Heavy-Duty Adjustable FID Weight Bench with Incline Shoulder Press",
+        "category": "Home Gym",
+        "price": 14999.0,
+        "image": "assets/images/products/689/main.jpg",
+        "rating": 4.6,
+        "reviews": 161,
+        "description": "Commercial Heavy-Duty Adjustable FID Weight Bench features multi-angle laser-cut ladder adjustments, tear-resistant vinyl upholstery, and rigid steel base for heavy dumbbell pressing."
+    },
+    {
+        "id": 60,
+        "name": "Olympic Barbell Squat & Deadlift Rubber Bumper Weight Plates (Pair)",
+        "category": "Strength",
+        "price": 5499.0,
+        "image": "assets/images/products/60/main.jpg",
+        "rating": 4.5,
+        "reviews": 186,
+        "description": "Olympic Rubber Bumper Weight Plates feature high-density virgin rubber formulation, stainless steel center sleeve insert, and minimal bounce for heavy powerlifting and CrossFit."
+    },
+    {
+        "id": 130,
+        "name": "Total-Body Vertical Mountain Climbing Cardio Stepper Machine with Dual Resistance",
+        "category": "Cardio",
+        "price": 25199.0,
+        "image": "assets/images/products/130/main.jpg",
+        "rating": 4.9,
+        "reviews": 228,
+        "description": "Total-Body Vertical Mountain Climbing Stepper engages full-body muscle groups with simulated rock climbing motion, adjustable height handles, and smooth hydraulic resistance."
+    },
+    {
+        "id": 200,
+        "name": "Martial Arts Elasticated Shin & Instep Guards with Ankle Support (Navy Blue Pair)",
+        "category": "Combat",
+        "price": 1499.0,
+        "image": "assets/images/products/200/main.jpg",
+        "rating": 4.2,
+        "reviews": 370,
+        "description": "Martial Arts Elasticated Shin & Instep Guards feature high-density molded foam padding, slip-on compression sleeve fit, and reinforced stitching for kickboxing sparring."
+    },
+    {
+        "id": 270,
+        "name": "Textured Grid Trigger-Point Foam Roller for Upper Back & Spine Mobility (Black)",
+        "category": "Recovery",
+        "price": 1809.0,
+        "image": "assets/images/products/270/main.jpg",
+        "rating": 4.6,
+        "reviews": 40,
+        "description": "Textured Grid Trigger-Point Foam Roller features multi-density grid surface channels to target tight trigger points, improve thoracic spine extension, and stimulate blood circulation."
+    },
+    {
+        "id": 340,
+        "name": "Leather Gymnastic Cross-Training Palm Grips with Padded Wrist Wraps (Pair / Black)",
+        "category": "Accessories",
+        "price": 1299.0,
+        "image": "assets/images/products/340/main.jpg",
+        "rating": 4.2,
+        "reviews": 59,
+        "description": "Leather Gymnastic Palm Grips feature 3-hole finger loops, textured split leather palm protection, and integrated padded neoprene wrist wraps for pull-ups and barbell cycling."
+    },
+    {
+        "id": 410,
+        "name": "Women's High-Waisted Seamless Full-Length Yoga & Athletic Leggings (Lilac Purple)",
+        "category": "Apparel",
+        "price": 2359.0,
+        "image": "assets/images/products/410/main.jpg",
+        "rating": 5.0,
+        "reviews": 323,
+        "description": "Women's High-Waisted Seamless Full-Length Leggings feature squat-proof compression knit, wide rib-knit tummy control waistband, and ultra-soft 4-way active stretch in pastel lilac purple."
+    },
+    {
+        "id": 480,
+        "name": "Smart Activity & Fitness Tracker Watch with Curved Color Screen & Gold Frame",
+        "category": "Fit Tech",
+        "price": 4829.0,
+        "image": "assets/images/products/480/main.jpg",
+        "rating": 4.4,
+        "reviews": 148,
+        "description": "Smart Activity & Fitness Tracker Watch features curved high-contrast color touchscreen, gold-tone aluminum alloy bezel, 24/7 pulse and sleep tracking, and black silicone strap."
+    },
+    {
+        "id": 550,
+        "name": "Steel Mass Gainer High-Calorie Protein & Carbohydrate Matrix Powder Tub (Yellow Label)",
+        "category": "Supplements",
+        "price": 3999.0,
+        "image": "assets/images/products/550/main.jpg",
+        "rating": 4.5,
+        "reviews": 323,
+        "description": "Steel Mass Gainer delivers ultra-premium protein, multi-source complex carbohydrates, and essential micronutrients for hardgainers looking to build lean muscle mass rapidly."
+    },
+    {
+        "id": 620,
+        "name": "Ergonomic Contoured Memory Foam Zafu Meditation Floor Seat Cushion (Light Grey)",
+        "category": "Yoga",
+        "price": 1809.0,
+        "image": "assets/images/products/620/main.jpg",
+        "rating": 4.1,
+        "reviews": 332,
+        "description": "Ergonomic Contoured Memory Foam Zafu Cushion promotes natural spinal alignment, relieves hip and lower back pressure, and features a washable light grey velvet cover."
+    },
+    {
+        "id": 690,
+        "name": "Commercial Multi-Position Incline Weight Bench with Seated Dumbbell Press",
+        "category": "Home Gym",
+        "price": 15999.0,
+        "image": "assets/images/products/690/main.jpg",
+        "rating": 5.0,
+        "reviews": 223,
+        "description": "Commercial Multi-Position Incline Weight Bench features robust commercial steel frame, laser-cut angle selectors, non-slip vinyl upholstery, and integrated transport wheels."
+    },
+    {
+        "id": 61,
+        "name": "Olympic EZ Curl Barbell with Bumper Plates for Bicep Curls (Chrome & Rubber Plates)",
+        "category": "Strength",
+        "price": 7499.0,
+        "image": "assets/images/products/61/main.jpg",
+        "rating": 4.2,
+        "reviews": 160,
+        "description": "Olympic EZ Curl Barbell features angled ergonomic cambered shaft to reduce wrist and forearm torque, brass bushings for smooth spin, and rubber Olympic bumper weight plates."
+    },
+    {
+        "id": 131,
+        "name": "Commercial Air Resistance Rowing Machine with Performance LCD Monitor",
+        "category": "Cardio",
+        "price": 34599.0,
+        "image": "assets/images/products/131/main.jpg",
+        "rating": 4.8,
+        "reviews": 149,
+        "description": "Commercial Air Resistance Rowing Machine features precision flywheel damper, nickel-plated steel chain, ergonomic rowing handle, aluminum monorail, and detailed LCD workout console."
+    },
+    {
+        "id": 201,
+        "name": "Heavy-Duty Steel Free-Standing Punching Bag Stand Station with Hanging Heavy Bag",
+        "category": "Combat",
+        "price": 18999.0,
+        "image": "assets/images/products/201/main.jpg",
+        "rating": 4.9,
+        "reviews": 274,
+        "description": "Heavy-Duty Steel Free-Standing Punching Bag Stand Station features triangular reinforced steel tubing, weight peg stabilizers, and hanging heavy bag for kickboxing training."
+    },
+    {
+        "id": 271,
+        "name": "Clinical TENS EMS Digital Muscle Stimulator & Electrotherapy Device with Electrode Pads",
+        "category": "Recovery",
+        "price": 3499.0,
+        "image": "assets/images/products/271/main.jpg",
+        "rating": 4.3,
+        "reviews": 257,
+        "description": "Clinical TENS EMS Digital Muscle Stimulator features dual isolated channels, multi-mode pulse programs, adjustable intensity dial, and reusable adhesive electrode pads for pain management."
+    },
+    {
+        "id": 341,
+        "name": "Non-Slip Heavy-Duty Fabric Booty & Hip Resistance Band (Pink)",
+        "category": "Accessories",
+        "price": 699.0,
+        "image": "assets/images/products/341/main.jpg",
+        "rating": 4.6,
+        "reviews": 420,
+        "description": "Non-Slip Heavy-Duty Fabric Booty & Hip Resistance Band is woven with thick cotton-elastic blend and inner grip strips to activate glutes and hips without snapping or rolling up."
+    },
+    {
+        "id": 411,
+        "name": "Men's Performance Athletic Fit Raglan Short-Sleeve Gym Workout T-Shirt (Light Grey)",
+        "category": "Apparel",
+        "price": 1249.0,
+        "image": "assets/images/products/411/main.jpg",
+        "rating": 4.6,
+        "reviews": 330,
+        "description": "Men's Performance Athletic Fit Raglan Workout T-Shirt features 4-way stretch moisture-wicking micro-mesh, raglan sleeves for full shoulder range of motion, and clean light heather grey tone."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -6668,206 +6868,6 @@ var shopProducts = [
         "rating": 4.4,
         "reviews": 33,
         "description": "The Breathable Mesh Muscle Cut Tank is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 479,
-        "name": "Advanced GPS Multisport Smartwatch",
-        "category": "Fit Tech",
-        "price": 9399.0,
-        "image": "assets/images/products/479/main.jpg",
-        "rating": 4.3,
-        "reviews": 101,
-        "description": "The Advanced GPS Multisport Smartwatch is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 549,
-        "name": "Pre-Workout Energy & Focus Powder (Sour Gummy)",
-        "category": "Supplements",
-        "price": 1979.0,
-        "image": "assets/images/products/549/main.jpg",
-        "rating": 4.7,
-        "reviews": 429,
-        "description": "The Pre-Workout Energy & Focus Powder (Sour Gummy) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 619,
-        "name": "Textured Spine Release Yoga Wheel",
-        "category": "Yoga",
-        "price": 729.0,
-        "image": "assets/images/products/619/main.jpg",
-        "rating": 4.2,
-        "reviews": 96,
-        "description": "The Textured Spine Release Yoga Wheel is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 689,
-        "name": "Quick-Select Adjustable Dumbbells Pair (10-40 lbs)",
-        "category": "Home Gym",
-        "price": 31919.0,
-        "image": "assets/images/products/689/main.jpg",
-        "rating": 4.6,
-        "reviews": 161,
-        "description": "The Quick-Select Adjustable Dumbbells Pair (10-40 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 60,
-        "name": "Adjustable FID Bench (Flat Incline Decline)",
-        "category": "Strength",
-        "price": 9679.0,
-        "image": "assets/images/products/60/main.jpg",
-        "rating": 4.5,
-        "reviews": 186,
-        "description": "The Adjustable FID Bench (Flat Incline Decline) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 130,
-        "name": "Heavy Duty Resistance Fan Bike",
-        "category": "Cardio",
-        "price": 25199.0,
-        "image": "assets/images/products/130/main.jpg",
-        "rating": 4.9,
-        "reviews": 228,
-        "description": "The Heavy Duty Resistance Fan Bike is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 200,
-        "name": "Heavy Duty Steel Heavy Bag Wall Hanger",
-        "category": "Combat",
-        "price": 4039.0,
-        "image": "assets/images/products/200/main.jpg",
-        "rating": 4.2,
-        "reviews": 370,
-        "description": "The Heavy Duty Steel Heavy Bag Wall Hanger is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 270,
-        "name": "High-Density Grid Foam Roller (30-Inch)",
-        "category": "Recovery",
-        "price": 1809.0,
-        "image": "assets/images/products/270/main.jpg",
-        "rating": 4.6,
-        "reviews": 40,
-        "description": "The High-Density Grid Foam Roller (30-Inch) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 340,
-        "name": "Quick-Lock Nylon Lifting Belt for Cross Training",
-        "category": "Accessories",
-        "price": 2509.0,
-        "image": "assets/images/products/340/main.jpg",
-        "rating": 4.2,
-        "reviews": 59,
-        "description": "The Quick-Lock Nylon Lifting Belt for Cross Training is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 410,
-        "name": "Compression Tights Shorts (6-Inch)",
-        "category": "Apparel",
-        "price": 2359.0,
-        "image": "assets/images/products/410/main.jpg",
-        "rating": 5.0,
-        "reviews": 323,
-        "description": "The Compression Tights Shorts (6-Inch) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 480,
-        "name": "Bluetooth Heart Rate Monitor Strap",
-        "category": "Fit Tech",
-        "price": 4829.0,
-        "image": "assets/images/products/480/main.jpg",
-        "rating": 4.4,
-        "reviews": 148,
-        "description": "The Bluetooth Heart Rate Monitor Strap is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 550,
-        "name": "Micronized Creatine Monohydrate Powder (500g Unflavored) (v60)",
-        "category": "Supplements",
-        "price": 1959.0,
-        "image": "assets/images/products/550/main.jpg",
-        "rating": 4.5,
-        "reviews": 323,
-        "description": "The Micronized Creatine Monohydrate Powder (500g Unflavored) (v60) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 620,
-        "name": "Full Length Microfiber Yoga Towel",
-        "category": "Yoga",
-        "price": 1809.0,
-        "image": "assets/images/products/620/main.jpg",
-        "rating": 4.1,
-        "reviews": 332,
-        "description": "The Full Length Microfiber Yoga Towel is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 690,
-        "name": "Space-Saving Foldable Utility Weight Bench (v60)",
-        "category": "Home Gym",
-        "price": 10479.0,
-        "image": "assets/images/products/690/main.jpg",
-        "rating": 5.0,
-        "reviews": 223,
-        "description": "The Space-Saving Foldable Utility Weight Bench (v60) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 61,
-        "name": "Cast Iron Competition Kettlebell (10kg)",
-        "category": "Strength",
-        "price": 3639.0,
-        "image": "assets/images/products/61/main.jpg",
-        "rating": 4.2,
-        "reviews": 160,
-        "description": "The Cast Iron Competition Kettlebell (10kg) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 131,
-        "name": "Under-Desk Walking Pad Treadmill with Armrests",
-        "category": "Cardio",
-        "price": 34599.0,
-        "image": "assets/images/products/131/main.jpg",
-        "rating": 4.8,
-        "reviews": 149,
-        "description": "The Under-Desk Walking Pad Treadmill with Armrests is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 201,
-        "name": "Leather Boxing Training Gloves (16 oz)",
-        "category": "Combat",
-        "price": 3449.0,
-        "image": "assets/images/products/201/main.jpg",
-        "rating": 4.9,
-        "reviews": 274,
-        "description": "The Leather Boxing Training Gloves (16 oz) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 271,
-        "name": "Stainless Steel Muscle Scraping Tool (Type 2)",
-        "category": "Recovery",
-        "price": 1179.0,
-        "image": "assets/images/products/271/main.jpg",
-        "rating": 4.3,
-        "reviews": 257,
-        "description": "The Stainless Steel Muscle Scraping Tool (Type 2) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 341,
-        "name": "Heavy Duty Steel Dip Belt with Chain Assembly",
-        "category": "Accessories",
-        "price": 1569.0,
-        "image": "assets/images/products/341/main.jpg",
-        "rating": 4.6,
-        "reviews": 420,
-        "description": "The Heavy Duty Steel Dip Belt with Chain Assembly is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 411,
-        "name": "Technical Quarter-Zip Training Top",
-        "category": "Apparel",
-        "price": 979.0,
-        "image": "assets/images/products/411/main.jpg",
-        "rating": 4.6,
-        "reviews": 330,
-        "description": "The Technical Quarter-Zip Training Top is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 418,
