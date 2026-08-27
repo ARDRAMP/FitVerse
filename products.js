@@ -650,6 +650,26 @@ var shopProducts = [
         "description": "FitGrip Contoured Leather Weightlifting Belt is crafted from genuine leather with suede interior lining, reinforced contrast double stitching, and a heavy-duty dual-prong stainless steel roller buckle for core stability during heavy lifts."
     },
     {
+        "id": 364,
+        "name": "Women's Fleece Cropped Full-Zip Workout Hoodie (Mocha)",
+        "category": "Apparel",
+        "price": 1589.0,
+        "image": "assets/images/products/364/main.jpg",
+        "rating": 4.5,
+        "reviews": 159,
+        "description": "Women's Fleece Cropped Full-Zip Workout Hoodie is crafted from ultra-soft heavyweight cotton fleece with front split kangaroo pockets, full-length zipper closure, and ribbed cuffs for cozy gym warmups and casual streetwear."
+    },
+    {
+        "id": 434,
+        "name": "Garmin Tactix 7 Pro Multisport Tactical GPS Smartwatch",
+        "category": "Fit Tech",
+        "price": 89999.0,
+        "image": "assets/images/products/434/main.jpg",
+        "rating": 4.1,
+        "reviews": 171,
+        "description": "Garmin Tactix 7 Pro Multisport Tactical GPS Smartwatch features a rugged titanium bezel, solar sapphire display, multi-band GNSS tactical navigation, heart rate tracking, Night Vision compatibility, and comprehensive health & fitness metrics."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -1598,26 +1618,6 @@ var shopProducts = [
         "rating": 4.6,
         "reviews": 384,
         "description": "The Commercial Smith Machine Rack System is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 364,
-        "name": "Oversized Cotton Heavy Weightlifting Tee",
-        "category": "Apparel",
-        "price": 1589.0,
-        "image": "assets/images/products/364/main.jpg",
-        "rating": 4.5,
-        "reviews": 159,
-        "description": "The Oversized Cotton Heavy Weightlifting Tee is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 434,
-        "name": "Handheld Percussive Body Composition Analyzer",
-        "category": "Fit Tech",
-        "price": 6359.0,
-        "image": "assets/images/products/434/main.jpg",
-        "rating": 4.1,
-        "reviews": 171,
-        "description": "The Handheld Percussive Body Composition Analyzer is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 504,

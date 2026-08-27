@@ -412,7 +412,7 @@ Total Products: **700**
 | 361 | Ribbed Crop Top Workout Tank |
 | 362 | Thermal Compression Tights Pants |
 | 363 | Minimalist Cross-Training Athletic Shoes |
-| 364 | Oversized Cotton Heavy Weightlifting Tee |
+| 364 | Women's Fleece Cropped Full-Zip Workout Hoodie (Mocha) |
 | 365 | High-Waisted Seamless Compression Workout Biker Shorts (Black) |
 | 366 | Lightweight Running Shorts with Phone Pocket |
 | 367 | Fleece Lined Athletic Training Sweatpants |
@@ -487,7 +487,7 @@ Total Products: **700**
 | 431 | Bluetooth Smart Body Analyzer Scale |
 | 432 | Wireless Heart Rate Chest Strap Sensor |
 | 433 | Smart Jump Rope with LED Jump Counter |
-| 434 | Handheld Percussive Body Composition Analyzer |
+| 434 | Garmin Tactix 7 Pro Multisport Tactical GPS Smartwatch |
 | 435 | Smart Workout Tracker Wristband with SpO2 Sensor |
 | 436 | Bluetooth Audio Sport Earbuds with Earhooks |
 | 437 | Smart Speedometer & Cadence Sensor for Bikes |
