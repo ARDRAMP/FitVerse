@@ -331,7 +331,7 @@ Total Products: **700**
 | 285 | Speed Cable Jump Rope with Ball Bearings & Spare Cable |
 | 286 | Neoprene Wrist Support Guard Brace with Thumb Loop |
 | 287 | Padded Weightlifting Straps Pair (Heavy Cotton) |
-| 288 | Fabric Resistance Hip Circle Booty Bands (Set of 3) |
+| 288 | Padded Leather Weightlifting Belt with Dual-Prong Buckle |
 | 289 | Sweet Sweat Aluminum Handle Speed Jump Rope |
 | 290 | Stainless Steel Vacuum Insulated Gym Shaker Bottle (24oz) |
 | 291 | Liftdex Pure Gym Chalk Powder & Refillable Chalk Ball Set |

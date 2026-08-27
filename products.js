@@ -570,6 +570,16 @@ var shopProducts = [
         "description": "Nike Pro Football Shin Guard & Calf Compression Sleeves feature ventilated Dri-FIT compression fabric, targeted impact-absorbing shin protection, ergonomic anatomical fit, and secure non-slip cuffs for football and athletic training."
     },
     {
+        "id": 288,
+        "name": "Padded Leather Weightlifting Belt with Dual-Prong Buckle",
+        "category": "Accessories",
+        "price": 2999.0,
+        "image": "assets/images/products/288/main.jpg",
+        "rating": 3.9,
+        "reviews": 286,
+        "description": "Padded Leather Weightlifting Belt is constructed from heavy-duty genuine leather featuring contoured white inner lumbar padding, reinforced contrast double-stitching, and a heavy-duty dual-prong stainless steel roller buckle for maximum core support during squats and deadlifts."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -1178,16 +1188,6 @@ var shopProducts = [
         "rating": 4.7,
         "reviews": 417,
         "description": "The Ocean Essential Oil Epsom Salt Muscle Recovery Bath Soak Bag is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 288,
-        "name": "Fabric Resistance Hip Circle Booty Bands (Set of 3)",
-        "category": "Accessories",
-        "price": 1469.0,
-        "image": "assets/images/products/288/main.jpg",
-        "rating": 3.9,
-        "reviews": 286,
-        "description": "The Fabric Resistance Hip Circle Booty Bands (Set of 3) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 428,
