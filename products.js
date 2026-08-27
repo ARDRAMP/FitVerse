@@ -590,6 +590,16 @@ var shopProducts = [
         "description": "Force USA G20 All-In-One Commercial Trainer combines a heavy-duty power rack, functional trainer dual weight stacks, commercial Smith machine, multi-grip pull-up station, dip handles, plate storage pegs, and heavy punching bag attachment."
     },
     {
+        "id": 634,
+        "name": "Yodha Fitness Tiger Commercial Power Cage Squat Rack",
+        "category": "Home Gym",
+        "price": 54999.0,
+        "image": "assets/images/products/634/main.jpg",
+        "rating": 4.9,
+        "reviews": 84,
+        "description": "Yodha Fitness Tiger Commercial Power Cage Squat Rack features heavy-gauge 11-gauge steel uprights, laser-cut hole spacing, reinforced J-cups, safety spotter arms, multi-grip pull-up bar, and durable red powder-coat finish for heavy powerlifting and squat training."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -908,16 +918,6 @@ var shopProducts = [
         "rating": 4.5,
         "reviews": 194,
         "description": "The Durable Cotton Yoga Stretching Strap (with D-Ring Buckle) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 634,
-        "name": "Suspension Bodyweight Trainer Straps Kit",
-        "category": "Home Gym",
-        "price": 1169.0,
-        "image": "assets/images/products/634/main.jpg",
-        "rating": 4.9,
-        "reviews": 84,
-        "description": "The Suspension Bodyweight Trainer Straps Kit is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 5,

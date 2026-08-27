@@ -702,7 +702,7 @@ Total Products: **700**
 | 631 | Commercial All-in-One Functional Trainer Power Rack System |
 | 632 | Space-Saving Foldable Utility Weight Bench |
 | 633 | Doorway Multi-Grip Pull-Up Bar Station |
-| 634 | Suspension Bodyweight Trainer Straps Kit |
+| 634 | Yodha Fitness Tiger Commercial Power Cage Squat Rack |
 | 635 | Multi-Station Heavy Duty Power Tower |
 | 636 | Quick-Select Adjustable Dumbbells Pair with Heavy-Duty Stand |
 | 637 | Adjustable Dumbbells Set with Stand (5-70 lbs) |
