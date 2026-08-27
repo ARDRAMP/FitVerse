@@ -185,7 +185,7 @@ Total Products: **700**
 | 149 | Muay Thai Kick Pads (Pair) |
 | 150 | Professional Leather Sparring Gloves (16 oz) |
 | 151 | Tear-Resistant Canvas Heavy Bag (80 lbs) |
-| 152 | Nike Guard Stay Shin Guard Compression Sleeves (White/Red) |
+| 152 | Nike Pro Football Shin Guard & Calf Compression Sleeves |
 | 153 | Rival Boxing Pro Leather Speed Bag (Black/Lime) |
 | 154 | Target Kick Shield for Martial Arts Training |
 | 155 | FujiMae Boxing Hand Wraps (White / 180-Inch) |

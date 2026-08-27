@@ -561,13 +561,13 @@ var shopProducts = [
     },
     {
         "id": 152,
-        "name": "Nike Guard Stay Shin Guard Compression Sleeves (White/Red)",
+        "name": "Nike Pro Football Shin Guard & Calf Compression Sleeves",
         "category": "Combat",
         "price": 1669.0,
         "image": "assets/images/products/152/main.jpg",
         "rating": 4.4,
         "reviews": 165,
-        "description": "Nike Guard Stay Shin Guard Compression Sleeves feature ventilated Dri-FIT stretch fabric, secure slip-in shin guard pocket, and signature red Nike swoosh branding to hold protective guards firmly in place during football/soccer matches."
+        "description": "Nike Pro Football Shin Guard & Calf Compression Sleeves feature ventilated Dri-FIT compression fabric, targeted impact-absorbing shin protection, ergonomic anatomical fit, and secure non-slip cuffs for football and athletic training."
     },
     {
         "id": 1,
