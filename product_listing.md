@@ -79,8 +79,8 @@ Total Products: **700**
 | 53 | Heavy Duty Adjustable Squat Stands Pair |
 | 54 | Cast Iron Kettlebell (14kg / 31lbs) |
 | 55 | Rubber Coated Hex Dumbbell (20 lbs) |
-| 56 | Commercial Functional Trainer Dual Pulley |
-| 57 | High-Tenacity Olympic Barbell Collar Clamp Pair |
+| 56 | Solid Cast Iron Round Urethane Dumbbell Pair (Yellow & Black Rings) |
+| 57 | Olympic Hex Trap Bar / Deadlift Shrug Bar with Knurled Neutral Grips |
 | 58 | Matrix Fitness Commercial Selectorized Adjustable Dumbbells System & Stand |
 | 59 | Cast Iron Kettlebell for Single-Arm Lateral Swings & Snatch Training (Red Handle) |
 | 60 | Olympic Barbell Squat & Deadlift Rubber Bumper Weight Plates (Pair) |
@@ -154,8 +154,8 @@ Total Products: **700**
 | 123 | Recumbent Exercise Bike with Quick-Adjust Seat |
 | 124 | Water Resistance Rower with Ergonomic Handle |
 | 125 | Heavy Duty Elliptical Cross Trainer with Power Incline |
-| 126 | Curved Manual Treadmill with Rubber Slat Belt |
-| 127 | Pro Studio Spin Bike with Dual SPD Pedals |
+| 126 | Smart Home Folding Motorized Running Treadmill with LCD Console (Black & Red) |
+| 127 | Liftdex Commercial High-Performance Magnetic Resistance Indoor Studio Spin Bike |
 | 128 | Bowflex Commercial Hybrid Elliptical Stepper Machine with Digital Console |
 | 129 | YESOUL S3 Commercial Magnetic Indoor Exercise Spin Bike (Smart Silent Flywheel) |
 | 130 | Total-Body Vertical Mountain Climbing Cardio Stepper Machine with Dual Resistance |
@@ -229,8 +229,8 @@ Total Products: **700**
 | 193 | Elasticized Boxing Hand Wraps (180-Inch) |
 | 194 | Freestanding Punching Tower with Water Base |
 | 195 | Pro Boxing Training Gloves (12 oz) |
-| 196 | Curved Leather Target Punch Mitts Pair |
-| 197 | Leather Headgear with Cheek & Chin Guard |
+| 196 | Full-Protection Leather Boxing Sparring Headgear with Cheek & Ear Guards (Black) |
+| 197 | Elasticated Cotton Boxing Hand Wraps / Bandages Pair (Red / 4.5m) |
 | 198 | Pro Leather Boxing Sparring Training Gloves (Black & Silver Trim) |
 | 199 | Pro Leather Curved Hook & Jab Punching Mitts / Focus Pads Pair (Blue & White) |
 | 200 | Martial Arts Elasticated Shin & Instep Guards with Ankle Support (Navy Blue Pair) |
@@ -303,8 +303,8 @@ Total Products: **700**
 | 262 | Targeted Plantar Fasciitis Foot Massage Roller |
 | 263 | Air Compression Leg Recovery Boots System |
 | 264 | Deep Muscle Massage Stick Roller with Handles |
-| 265 | Cold Plunge Tub Protection Cover & Pump Kit |
-| 266 | Professional Heavy-Duty Percussive Massager |
+| 265 | Sport Ready Post-Workout Muscle Recovery Gel Tube (Arnica & Menthol) |
+| 266 | Epsoak Sport Energizing Pure Epsom Salt Post-Workout Bath Soak Pouch |
 | 267 | Graduated Compression Arm & Forearm Protection Sleeve (White) |
 | 268 | The Ice Pod Portable Circular Insulated Cold Plunge Ice Bath Tub with Thermal Cover |
 | 269 | Deep Tissue Handheld Percussion Massage Gun with Interchangeable Attachment |
@@ -378,8 +378,8 @@ Total Products: **700**
 | 332 | Get RX'd Canvas Athletic Gym Duffel Bag (White) |
 | 333 | Mueller Gymnastic & Weightlifting Chalk 8-Block Box (1 lb) |
 | 334 | Genuine Leather Workout Gloves with Wrist Wraps |
-| 335 | Pull-Up Assistance Rubber Resistance Bands Set |
-| 336 | Professional Lever Powerlifting Belt (Custom Fit) |
+| 335 | SKLZ Resistance Cable Dual Foam Handles with Quick-Attach Door Anchor |
+| 336 | RDX Heavy-Duty Padded Weightlifting Lumbar Support Belt with Quick-Lock Buckle |
 | 337 | Speed Jump Rope with Mechanical Jump Counter |
 | 338 | Herschel Supply Co. Classic Barrel Gym Duffel Bag (Grey) |
 | 339 | Pure Magnesium Carbonate Gym Block Chalk Set |
@@ -453,8 +453,8 @@ Total Products: **700**
 | 402 | Stretch Woven Athletic Shorts (7-Inch) |
 | 403 | Fleece Athletic Hoodie with Kangaroo Pocket |
 | 404 | Tapered Cargo Gym Joggers with Zip Pockets |
-| 405 | High-Waisted Seamless Pocket Leggings |
-| 406 | Dry-Fit Short Sleeve Performance Training Shirt |
+| 405 | Men's Quick-Dry Breathable Athletic Gym Training T-Shirt (Slate Blue) |
+| 406 | Men's Full-Zip Athletic Training Hoodie with Graphic Sleeves (Black) |
 | 407 | Women's High-Waisted Seamless Athletic Workout Biker Shorts with Pockets (Burgundy) |
 | 408 | Men's High-Top Cross-Training Weightlifting Barefoot Sneaker Shoes (White / Gum Sole) |
 | 409 | Women's Athletic Racerback Breathable Workout Training Tank Top (Navy & White) |
@@ -528,8 +528,8 @@ Total Products: **700**
 | 472 | Smart Body Fat Scale with 8 Electrode Sensors |
 | 473 | Pneumatic Compression Recovery Pants System |
 | 474 | Smart Bluetooth Fitness Wristband |
-| 475 | Wearable EMS Muscle Toning Belt |
-| 476 | Open-Ear Bone Conduction Wireless Sport Headset |
+| 475 | Garmin Vívosmart Slim Waterproof Activity & Sleep Tracker Band (White) |
+| 476 | Multi-Channel Clinical ECG / EKG Machine Device with Lead Cables & Clamps |
 | 477 | Rapid Reboot Sequential Pneumatic Air Compression Full Leg Recovery Boots System |
 | 478 | Digital Tempered Glass Smart Bathroom Weight & Body Scale (White/Grey) |
 | 479 | Smart Multisport GPS Watch with AMOLED Circular Touchscreen & White Strap |
@@ -603,8 +603,8 @@ Total Products: **700**
 | 542 | 100% Whey Protein Isolate (Rich Chocolate 5 lbs) |
 | 543 | Stim-Free Pre-Workout Pump Formula (30 Servings) |
 | 544 | Pure Micronized Creatine Monohydrate (250g) |
-| 545 | BCAA Energy Intra-Workout Powder (Cherry Limeade) |
-| 546 | High-Yield Fish Oil Omega-3 Softgels (180 Count) |
+| 545 | Ultra Strength Pre-Workout Energy & Nitric Oxide Powder Tub |
+| 546 | One A Day Men's Pro Edge Daily Multivitamin Tablets Box (50-100 Tablets) |
 | 547 | One Nutrition Pure Micronized Creatine Monohydrate Powder (Unflavored) |
 | 548 | Breakthrough Vegan BOLD BCAA Branched Chain Amino Acid Powder Tub |
 | 549 | Iron Whey Ultra-Microfiltered Whey Protein Powder Tub (Vanilla / Chocolate) |
@@ -678,8 +678,8 @@ Total Products: **700**
 | 612 | Organic Cotton Yoga Bolster Pillow (Large) |
 | 613 | Deep Back Stretcher Yoga Wheel (12-Inch) |
 | 614 | Water Resistant Yoga Mat Bag Sleeve |
-| 615 | Alignment Marker Non-Slip Yoga Mat (6mm) |
-| 616 | High Density Foam Yoga Block Pair (3-Inch) |
+| 615 | Ergonomic Memory Foam Kneeling & Sitting Meditation Floor Cushion (Grey/White) |
+| 616 | Organic Cotton Cylindrical Yoga & Meditation Bolster Pillow (Deep Maroon) |
 | 617 | High-Density Foam Incline Slant Squat & Wrist/Calf Support Wedges Pair (Black) |
 | 618 | Eco-Friendly Non-Slip High-Density Dual-Tone Yoga Exercise Mats Pair (Mint Green & Charcoal) |
 | 619 | Cotton Yoga Stretching Strap Belt for Hamstring & Flexibility Support (Lilac Purple) |
@@ -753,8 +753,8 @@ Total Products: **700**
 | 682 | Interlocking Rubber Gym Matting Tiles (24-Pack) |
 | 683 | Adjustable Dumbbells Pair with Custom Rack (5-50 lbs) |
 | 684 | Foldable Multi-Position Weight Bench |
-| 685 | Heavy Duty Ceiling Mount Pull-Up Bar |
-| 686 | Commercial Suspension Trainer System |
+| 685 | Free-Standing Heavy-Duty Steel Power Tower Pull-Up & Dip Station |
+| 686 | Heavy-Duty Wall-Mounted Pull-Up & Chin-Up Bar with Multi-Grip Foam Handles (White) |
 | 687 | Commercial Multi-Position Incline Dumbbell Bench Press Station |
 | 688 | Commercial Incline Dumbbell Press Multi-Position Weight Bench |
 | 689 | Commercial Heavy-Duty Adjustable FID Weight Bench with Incline Shoulder Press |

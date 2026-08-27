@@ -3130,6 +3130,206 @@ var shopProducts = [
         "description": "Women's Athletic Racerback Workout Tank Top features 4-way stretch moisture-wicking fabric, flattering scoop neck with white trim, and breathable active fit in deep navy blue."
     },
     {
+        "id": 265,
+        "name": "Sport Ready Post-Workout Muscle Recovery Gel Tube (Arnica & Menthol)",
+        "category": "Recovery",
+        "price": 899.0,
+        "image": "assets/images/products/265/main.jpg",
+        "rating": 4.5,
+        "reviews": 438,
+        "description": "Sport Ready Post-Workout Muscle Recovery Gel features cooling menthol, natural arnica extract, and fast-absorbing soothing formula to relieve muscular stiffness and soreness."
+    },
+    {
+        "id": 335,
+        "name": "SKLZ Resistance Cable Dual Foam Handles with Quick-Attach Door Anchor",
+        "category": "Accessories",
+        "price": 1499.0,
+        "image": "assets/images/products/335/main.jpg",
+        "rating": 4.1,
+        "reviews": 98,
+        "description": "SKLZ Resistance Cable System features ergonomic rotating foam handles, quick-attach locking mechanism, and durable heavy-duty nylon door anchor for home workouts."
+    },
+    {
+        "id": 405,
+        "name": "Men's Quick-Dry Breathable Athletic Gym Training T-Shirt (Slate Blue)",
+        "category": "Apparel",
+        "price": 1199.0,
+        "image": "assets/images/products/405/main.jpg",
+        "rating": 4.2,
+        "reviews": 267,
+        "description": "Men's Quick-Dry Breathable Athletic T-Shirt features lightweight moisture-wicking micro-mesh, raglan sleeves, flatlock seams, and modern slate blue styling."
+    },
+    {
+        "id": 475,
+        "name": "Garmin V\u00edvosmart Slim Waterproof Activity & Sleep Tracker Band (White)",
+        "category": "Fit Tech",
+        "price": 4399.0,
+        "image": "assets/images/products/475/main.jpg",
+        "rating": 4.6,
+        "reviews": 189,
+        "description": "Garmin V\u00edvosmart features a slim, sleek design, bright touchscreen OLED display, 24/7 heart rate monitoring, Body Battery energy tracking, and waterproof silicone band in white."
+    },
+    {
+        "id": 545,
+        "name": "Ultra Strength Pre-Workout Energy & Nitric Oxide Powder Tub",
+        "category": "Supplements",
+        "price": 2389.0,
+        "image": "assets/images/products/545/main.jpg",
+        "rating": 4.0,
+        "reviews": 304,
+        "description": "Ultra Strength Pre-Workout Formula combines beta-alanine, citrulline malate, caffeine anhydrous, and electrolytes for explosive workout power, laser focus, and skin-splitting pumps."
+    },
+    {
+        "id": 615,
+        "name": "Ergonomic Memory Foam Kneeling & Sitting Meditation Floor Cushion (Grey/White)",
+        "category": "Yoga",
+        "price": 2339.0,
+        "image": "assets/images/products/615/main.jpg",
+        "rating": 4.6,
+        "reviews": 60,
+        "description": "Ergonomic Memory Foam Meditation Floor Cushion provides contoured support for kneeling (seiza) and cross-legged sitting poses, relieving pressure on knees and ankles."
+    },
+    {
+        "id": 685,
+        "name": "Free-Standing Heavy-Duty Steel Power Tower Pull-Up & Dip Station",
+        "category": "Home Gym",
+        "price": 18999.0,
+        "image": "assets/images/products/685/main.jpg",
+        "rating": 4.2,
+        "reviews": 303,
+        "description": "Free-Standing Heavy-Duty Steel Power Tower features multi-grip chin-up bar, cushioned dip station, push-up handles, and wide stable triangular steel base."
+    },
+    {
+        "id": 56,
+        "name": "Solid Cast Iron Round Urethane Dumbbell Pair (Yellow & Black Rings)",
+        "category": "Strength",
+        "price": 4999.0,
+        "image": "assets/images/products/56/main.jpg",
+        "rating": 3.9,
+        "reviews": 269,
+        "description": "Solid Cast Iron Round Urethane Dumbbell Pair features knurled chrome steel handles, impact-resistant urethane coating, and distinct yellow weight markings."
+    },
+    {
+        "id": 126,
+        "name": "Smart Home Folding Motorized Running Treadmill with LCD Console (Black & Red)",
+        "category": "Cardio",
+        "price": 37599.0,
+        "image": "assets/images/products/126/main.jpg",
+        "rating": 3.8,
+        "reviews": 103,
+        "description": "Smart Home Folding Motorized Treadmill features quiet high-torque motor, shock-absorbing running belt, red accent trim, integrated tablet holder, and clear LCD display."
+    },
+    {
+        "id": 196,
+        "name": "Full-Protection Leather Boxing Sparring Headgear with Cheek & Ear Guards (Black)",
+        "category": "Combat",
+        "price": 2859.0,
+        "image": "assets/images/products/196/main.jpg",
+        "rating": 4.0,
+        "reviews": 327,
+        "description": "Full-Protection Leather Boxing Sparring Headgear features high-density multi-layered padding, cheek and ear protection, and adjustable lace-up and velcro closure in matte black."
+    },
+    {
+        "id": 266,
+        "name": "Epsoak Sport Energizing Pure Epsom Salt Post-Workout Bath Soak Pouch",
+        "category": "Recovery",
+        "price": 999.0,
+        "image": "assets/images/products/266/main.jpg",
+        "rating": 4.8,
+        "reviews": 339,
+        "description": "Epsoak Sport Energizing Pure Epsom Salt Soak dissolves rapidly to infuse bath water with premium magnesium sulfate crystals, cooling peppermint, and eucalyptus essential oils."
+    },
+    {
+        "id": 336,
+        "name": "RDX Heavy-Duty Padded Weightlifting Lumbar Support Belt with Quick-Lock Buckle",
+        "category": "Accessories",
+        "price": 1899.0,
+        "image": "assets/images/products/336/main.jpg",
+        "rating": 4.2,
+        "reviews": 317,
+        "description": "RDX Heavy-Duty Weightlifting Belt features reinforced contoured lumbar padding, quick-lock steel roller buckle, and durable red and black ballistic nylon construction."
+    },
+    {
+        "id": 406,
+        "name": "Men's Full-Zip Athletic Training Hoodie with Graphic Sleeves (Black)",
+        "category": "Apparel",
+        "price": 2999.0,
+        "image": "assets/images/products/406/main.jpg",
+        "rating": 4.4,
+        "reviews": 192,
+        "description": "Men's Full-Zip Athletic Training Hoodie features technical moisture-wicking fleece, front zipper, adjustable hood, and modern graphic print on sleeves."
+    },
+    {
+        "id": 476,
+        "name": "Multi-Channel Clinical ECG / EKG Machine Device with Lead Cables & Clamps",
+        "category": "Fit Tech",
+        "price": 19999.0,
+        "image": "assets/images/products/476/main.jpg",
+        "rating": 5.0,
+        "reviews": 291,
+        "description": "Multi-Channel Clinical ECG / EKG Machine Device features color digital monitor, multi-lead patient cable, limb clamps, suction chest electrodes, and rechargeable battery."
+    },
+    {
+        "id": 546,
+        "name": "One A Day Men's Pro Edge Daily Multivitamin Tablets Box (50-100 Tablets)",
+        "category": "Supplements",
+        "price": 1499.0,
+        "image": "assets/images/products/546/main.jpg",
+        "rating": 3.8,
+        "reviews": 397,
+        "description": "One A Day Men's Pro Edge delivers complete daily vitamins, minerals, magnesium, and antioxidant support formulated specifically for active men and athletes."
+    },
+    {
+        "id": 616,
+        "name": "Organic Cotton Cylindrical Yoga & Meditation Bolster Pillow (Deep Maroon)",
+        "category": "Yoga",
+        "price": 1729.0,
+        "image": "assets/images/products/616/main.jpg",
+        "rating": 4.3,
+        "reviews": 394,
+        "description": "Organic Cotton Cylindrical Yoga Bolster Pillow features dense cotton filling, durable deep maroon canvas cover with carry handle, and supportive restorative back cushioning."
+    },
+    {
+        "id": 686,
+        "name": "Heavy-Duty Wall-Mounted Pull-Up & Chin-Up Bar with Multi-Grip Foam Handles (White)",
+        "category": "Home Gym",
+        "price": 2739.0,
+        "image": "assets/images/products/686/main.jpg",
+        "rating": 4.4,
+        "reviews": 223,
+        "description": "Heavy-Duty Wall-Mounted Pull-Up Bar features heavy steel tubular construction, wide and narrow multi-position foam grips, and wall-mounting hardware in clean white."
+    },
+    {
+        "id": 57,
+        "name": "Olympic Hex Trap Bar / Deadlift Shrug Bar with Knurled Neutral Grips",
+        "category": "Strength",
+        "price": 9199.0,
+        "image": "assets/images/products/57/main.jpg",
+        "rating": 3.9,
+        "reviews": 120,
+        "description": "Olympic Hex Trap Deadlift Bar features heavy-duty hexagonal steel frame, dual knurled neutral handles, and Olympic weight plate sleeves for deadlifts, shrugs, and farmer walks."
+    },
+    {
+        "id": 127,
+        "name": "Liftdex Commercial High-Performance Magnetic Resistance Indoor Studio Spin Bike",
+        "category": "Cardio",
+        "price": 22999.0,
+        "image": "assets/images/products/127/main.jpg",
+        "rating": 3.9,
+        "reviews": 136,
+        "description": "Liftdex Commercial Studio Spin Bike features smooth magnetic resistance flywheel, quiet poly-V belt drive, micro-adjustable handlebar and saddle, and heavy-duty frame."
+    },
+    {
+        "id": 197,
+        "name": "Elasticated Cotton Boxing Hand Wraps / Bandages Pair (Red / 4.5m)",
+        "category": "Combat",
+        "price": 599.0,
+        "image": "assets/images/products/197/main.jpg",
+        "rating": 4.3,
+        "reviews": 294,
+        "description": "Elasticated Cotton Boxing Hand Wraps feature 4.5-meter semi-elastic woven cotton blend, thumb loop, and secure velcro closure in bright red for knuckle and wrist protection."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -6668,206 +6868,6 @@ var shopProducts = [
         "rating": 4.8,
         "reviews": 358,
         "description": "The Pro Boxing Training Gloves (12 oz) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 265,
-        "name": "Cold Plunge Tub Protection Cover & Pump Kit",
-        "category": "Recovery",
-        "price": 13899.0,
-        "image": "assets/images/products/265/main.jpg",
-        "rating": 4.5,
-        "reviews": 438,
-        "description": "The Cold Plunge Tub Protection Cover & Pump Kit is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 335,
-        "name": "Pull-Up Assistance Rubber Resistance Bands Set",
-        "category": "Accessories",
-        "price": 1859.0,
-        "image": "assets/images/products/335/main.jpg",
-        "rating": 4.1,
-        "reviews": 98,
-        "description": "The Pull-Up Assistance Rubber Resistance Bands Set is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 405,
-        "name": "High-Waisted Seamless Pocket Leggings",
-        "category": "Apparel",
-        "price": 2589.0,
-        "image": "assets/images/products/405/main.jpg",
-        "rating": 4.2,
-        "reviews": 267,
-        "description": "The High-Waisted Seamless Pocket Leggings is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 475,
-        "name": "Wearable EMS Muscle Toning Belt",
-        "category": "Fit Tech",
-        "price": 4399.0,
-        "image": "assets/images/products/475/main.jpg",
-        "rating": 4.6,
-        "reviews": 189,
-        "description": "The Wearable EMS Muscle Toning Belt is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 545,
-        "name": "BCAA Energy Intra-Workout Powder (Cherry Limeade)",
-        "category": "Supplements",
-        "price": 2389.0,
-        "image": "assets/images/products/545/main.jpg",
-        "rating": 4.0,
-        "reviews": 304,
-        "description": "The BCAA Energy Intra-Workout Powder (Cherry Limeade) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 615,
-        "name": "Alignment Marker Non-Slip Yoga Mat (6mm)",
-        "category": "Yoga",
-        "price": 2339.0,
-        "image": "assets/images/products/615/main.jpg",
-        "rating": 4.6,
-        "reviews": 60,
-        "description": "The Alignment Marker Non-Slip Yoga Mat (6mm) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 685,
-        "name": "Heavy Duty Ceiling Mount Pull-Up Bar",
-        "category": "Home Gym",
-        "price": 2189.0,
-        "image": "assets/images/products/685/main.jpg",
-        "rating": 4.2,
-        "reviews": 303,
-        "description": "The Heavy Duty Ceiling Mount Pull-Up Bar is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 56,
-        "name": "Commercial Functional Trainer Dual Pulley",
-        "category": "Strength",
-        "price": 93799.0,
-        "image": "assets/images/products/56/main.jpg",
-        "rating": 3.9,
-        "reviews": 269,
-        "description": "The Commercial Functional Trainer Dual Pulley is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 126,
-        "name": "Curved Manual Treadmill with Rubber Slat Belt",
-        "category": "Cardio",
-        "price": 37599.0,
-        "image": "assets/images/products/126/main.jpg",
-        "rating": 3.8,
-        "reviews": 103,
-        "description": "The Curved Manual Treadmill with Rubber Slat Belt is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 196,
-        "name": "Curved Leather Target Punch Mitts Pair",
-        "category": "Combat",
-        "price": 2859.0,
-        "image": "assets/images/products/196/main.jpg",
-        "rating": 4.0,
-        "reviews": 327,
-        "description": "The Curved Leather Target Punch Mitts Pair is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 266,
-        "name": "Professional Heavy-Duty Percussive Massager",
-        "category": "Recovery",
-        "price": 7579.0,
-        "image": "assets/images/products/266/main.jpg",
-        "rating": 4.8,
-        "reviews": 339,
-        "description": "The Professional Heavy-Duty Percussive Massager is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 336,
-        "name": "Professional Lever Powerlifting Belt (Custom Fit)",
-        "category": "Accessories",
-        "price": 3319.0,
-        "image": "assets/images/products/336/main.jpg",
-        "rating": 4.2,
-        "reviews": 317,
-        "description": "The Professional Lever Powerlifting Belt (Custom Fit) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 406,
-        "name": "Dry-Fit Short Sleeve Performance Training Shirt",
-        "category": "Apparel",
-        "price": 1479.0,
-        "image": "assets/images/products/406/main.jpg",
-        "rating": 4.4,
-        "reviews": 192,
-        "description": "The Dry-Fit Short Sleeve Performance Training Shirt is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 476,
-        "name": "Open-Ear Bone Conduction Wireless Sport Headset",
-        "category": "Fit Tech",
-        "price": 4519.0,
-        "image": "assets/images/products/476/main.jpg",
-        "rating": 5.0,
-        "reviews": 291,
-        "description": "The Open-Ear Bone Conduction Wireless Sport Headset is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 546,
-        "name": "High-Yield Fish Oil Omega-3 Softgels (180 Count)",
-        "category": "Supplements",
-        "price": 829.0,
-        "image": "assets/images/products/546/main.jpg",
-        "rating": 3.8,
-        "reviews": 397,
-        "description": "The High-Yield Fish Oil Omega-3 Softgels (180 Count) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 616,
-        "name": "High Density Foam Yoga Block Pair (3-Inch)",
-        "category": "Yoga",
-        "price": 1729.0,
-        "image": "assets/images/products/616/main.jpg",
-        "rating": 4.3,
-        "reviews": 394,
-        "description": "The High Density Foam Yoga Block Pair (3-Inch) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 686,
-        "name": "Commercial Suspension Trainer System",
-        "category": "Home Gym",
-        "price": 2739.0,
-        "image": "assets/images/products/686/main.jpg",
-        "rating": 4.4,
-        "reviews": 223,
-        "description": "The Commercial Suspension Trainer System is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 57,
-        "name": "High-Tenacity Olympic Barbell Collar Clamp Pair",
-        "category": "Strength",
-        "price": 9199.0,
-        "image": "assets/images/products/57/main.jpg",
-        "rating": 3.9,
-        "reviews": 120,
-        "description": "The High-Tenacity Olympic Barbell Collar Clamp Pair is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 127,
-        "name": "Pro Studio Spin Bike with Dual SPD Pedals",
-        "category": "Cardio",
-        "price": 22999.0,
-        "image": "assets/images/products/127/main.jpg",
-        "rating": 3.9,
-        "reviews": 136,
-        "description": "The Pro Studio Spin Bike with Dual SPD Pedals is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 197,
-        "name": "Leather Headgear with Cheek & Chin Guard",
-        "category": "Combat",
-        "price": 5199.0,
-        "image": "assets/images/products/197/main.jpg",
-        "rating": 4.3,
-        "reviews": 294,
-        "description": "The Leather Headgear with Cheek & Chin Guard is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 418,
