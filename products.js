@@ -1560,6 +1560,126 @@ var shopProducts = [
         "description": "Martial Arts Padded Leather Shin & Instep Guards feature high-density shock-absorbing EVA foam cores, dual hook-and-loop security straps, and anatomical instep contouring for Muay Thai and kickboxing sparring."
     },
     {
+        "id": 450,
+        "name": "Stainless Steel Milanese Mesh Strap Smart Fitness Band (Silver)",
+        "category": "Fit Tech",
+        "price": 12099.0,
+        "image": "assets/images/products/450/main.jpg",
+        "rating": 4.9,
+        "reviews": 213,
+        "description": "Stainless Steel Milanese Mesh Strap Smart Fitness Band combines an angular metallic alloy chassis, magnetic loop stainless steel strap, and vibrant color touch display for daily activity and heart rate tracking."
+    },
+    {
+        "id": 590,
+        "name": "Cylindrical Microfiber Meditation & Yoga Bolster Pillow (Slate Blue)",
+        "category": "Yoga",
+        "price": 1959.0,
+        "image": "assets/images/products/590/main.jpg",
+        "rating": 4.7,
+        "reviews": 441,
+        "description": "Cylindrical Microfiber Meditation & Yoga Bolster Pillow is densely packed to provide deep restorative spinal support, relaxation cushioning, and long-lasting shape retention in a soft slate blue cover."
+    },
+    {
+        "id": 101,
+        "name": "WaterRower Commercial Water Resistance Rowing Machine (Black Edition)",
+        "category": "Cardio",
+        "price": 54999.0,
+        "image": "assets/images/products/101/main.jpg",
+        "rating": 4.7,
+        "reviews": 258,
+        "description": "WaterRower Commercial Water Resistance Rowing Machine simulates genuine on-water rowing dynamics with a self-regulating water flywheel tank, contoured ergonomic seat, and smooth dual rails."
+    },
+    {
+        "id": 171,
+        "name": "Freestanding Inflatable Boxing & Kickboxing Punching Bag with Water Base",
+        "category": "Combat",
+        "price": 2999.0,
+        "image": "assets/images/products/171/main.jpg",
+        "rating": 4.8,
+        "reviews": 319,
+        "description": "Freestanding Inflatable Punching Bag features durable multi-layer PVC construction with high-rebound air chamber and high-capacity water or sand fillable base for indoor boxing and kick drills."
+    },
+    {
+        "id": 241,
+        "name": "Professional Percussion Deep Tissue Muscle Massage Gun (Black)",
+        "category": "Recovery",
+        "price": 4999.0,
+        "image": "assets/images/products/241/main.jpg",
+        "rating": 4.5,
+        "reviews": 325,
+        "description": "Professional Percussion Deep Tissue Muscle Massage Gun delivers high-torque brushless motor percussive therapy, interchangeable massage heads, and multi-speed settings for rapid myofascial release."
+    },
+    {
+        "id": 311,
+        "name": "Bala Woven Fabric Resistance Booty Exercise Band (Blush Pink)",
+        "category": "Accessories",
+        "price": 1499.0,
+        "image": "assets/images/products/311/main.jpg",
+        "rating": 4.1,
+        "reviews": 417,
+        "description": "Bala Woven Fabric Resistance Booty Exercise Band provides progressive hip, glute, and thigh activation without slipping or pinching, crafted with premium blush pink elastic woven cotton blend."
+    },
+    {
+        "id": 381,
+        "name": "On Running Women's Lightweight Performance Short-Sleeve Workout Tee (Lilac)",
+        "category": "Apparel",
+        "price": 2769.0,
+        "image": "assets/images/products/381/main.jpg",
+        "rating": 4.4,
+        "reviews": 282,
+        "description": "On Running Women's Lightweight Performance T-Shirt is engineered with ultra-soft moisture-wicking technical fabric, taped minimalist seams, and breathable airflow mesh panels for running and fitness."
+    },
+    {
+        "id": 451,
+        "name": "Rechargeable Optical Heart Rate Monitor Armband with Breathable Silicone Strap",
+        "category": "Fit Tech",
+        "price": 3499.0,
+        "image": "assets/images/products/451/main.jpg",
+        "rating": 4.4,
+        "reviews": 257,
+        "description": "Rechargeable Optical Heart Rate Monitor Armband features multi-color LED zone indicator, precision optical sensor, and perforated breathable black silicone strap with Bluetooth and ANT+ connectivity."
+    },
+    {
+        "id": 591,
+        "name": "Organic Cotton Yoga & Meditation Bolster Pillow (Light Grey)",
+        "category": "Yoga",
+        "price": 2519.0,
+        "image": "assets/images/products/591/main.jpg",
+        "rating": 4.4,
+        "reviews": 330,
+        "description": "Organic Cotton Yoga & Meditation Bolster Pillow features 100% natural organic cotton fill, durable light grey removable washable canvas cover, and integrated side carry handle for restorative yoga postures."
+    },
+    {
+        "id": 661,
+        "name": "Apex Athletics Commercial Multi-Position Incline Workout Bench",
+        "category": "Home Gym",
+        "price": 18999.0,
+        "image": "assets/images/products/661/main.jpg",
+        "rating": 3.9,
+        "reviews": 364,
+        "description": "Apex Athletics Commercial Multi-Position Incline Workout Bench features an industrial heavy-duty steel frame, ladder-style backrest adjustment, and high-density tear-resistant vinyl upholstery."
+    },
+    {
+        "id": 32,
+        "name": "Commercial Heavy-Duty Rubber Hex Dumbbells Pair (Strength Training)",
+        "category": "Strength",
+        "price": 4449.0,
+        "image": "assets/images/products/32/main.jpg",
+        "rating": 4.9,
+        "reviews": 497,
+        "description": "Commercial Heavy-Duty Rubber Hex Dumbbells feature solid cast iron heads encased in virgin rubber to protect gym floors, paired with ergonomic chrome knurled contour steel handles."
+    },
+    {
+        "id": 102,
+        "name": "Commercial Motorized Touchscreen Running Treadmill (Foldable Studio Edition)",
+        "category": "Cardio",
+        "price": 51749.0,
+        "image": "assets/images/products/102/main.jpg",
+        "rating": 4.7,
+        "reviews": 221,
+        "description": "Commercial Motorized Touchscreen Running Treadmill offers high-horsepower quiet motor, power incline, spacious shock-absorbing running deck, and integrated high-definition interactive display."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -3160,16 +3280,6 @@ var shopProducts = [
         "description": "The Stretch Athletic Training Shorts (5-Inch) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
-        "id": 450,
-        "name": "GPS Multisport Watch with Sapphire Crystal Lens",
-        "category": "Fit Tech",
-        "price": 12099.0,
-        "image": "assets/images/products/450/main.jpg",
-        "rating": 4.9,
-        "reviews": 213,
-        "description": "The GPS Multisport Watch with Sapphire Crystal Lens is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
         "id": 520,
         "name": "Micronized Creatine Monohydrate Powder (300g)",
         "category": "Supplements",
@@ -3178,16 +3288,6 @@ var shopProducts = [
         "rating": 4.2,
         "reviews": 411,
         "description": "The Micronized Creatine Monohydrate Powder (300g) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 590,
-        "name": "Full Zip Canvas Yoga Mat Tote Bag",
-        "category": "Yoga",
-        "price": 1959.0,
-        "image": "assets/images/products/590/main.jpg",
-        "rating": 4.7,
-        "reviews": 441,
-        "description": "The Full Zip Canvas Yoga Mat Tote Bag is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 660,
@@ -3210,66 +3310,6 @@ var shopProducts = [
         "description": "The Rubber Hex Dumbbell Pair (15 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
-        "id": 101,
-        "name": "Smart Motorized Treadmill with Auto-Incline",
-        "category": "Cardio",
-        "price": 32599.0,
-        "image": "assets/images/products/101/main.jpg",
-        "rating": 4.7,
-        "reviews": 258,
-        "description": "The Smart Motorized Treadmill with Auto-Incline is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 171,
-        "name": "Heavy Canvas Wrecking Ball Punching Bag",
-        "category": "Combat",
-        "price": 5119.0,
-        "image": "assets/images/products/171/main.jpg",
-        "rating": 4.8,
-        "reviews": 319,
-        "description": "The Heavy Canvas Wrecking Ball Punching Bag is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 241,
-        "name": "Graduated Arm Compression Sleeves Pair",
-        "category": "Recovery",
-        "price": 1419.0,
-        "image": "assets/images/products/241/main.jpg",
-        "rating": 4.5,
-        "reviews": 325,
-        "description": "The Graduated Arm Compression Sleeves Pair is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 311,
-        "name": "Elastic Ankle Straps for Cable Machine Attachment",
-        "category": "Accessories",
-        "price": 54799.0,
-        "image": "assets/images/products/311/main.jpg",
-        "rating": 4.1,
-        "reviews": 417,
-        "description": "The Elastic Ankle Straps for Cable Machine Attachment is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 381,
-        "name": "Thermal Base Layer Compression Leggings",
-        "category": "Apparel",
-        "price": 2769.0,
-        "image": "assets/images/products/381/main.jpg",
-        "rating": 4.4,
-        "reviews": 282,
-        "description": "The Thermal Base Layer Compression Leggings is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 451,
-        "name": "Dual-Band Heart Rate Chest Strap (Bluetooth/ANT+)",
-        "category": "Fit Tech",
-        "price": 5639.0,
-        "image": "assets/images/products/451/main.jpg",
-        "rating": 4.4,
-        "reviews": 257,
-        "description": "The Dual-Band Heart Rate Chest Strap (Bluetooth/ANT+) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
         "id": 521,
         "name": "BCAA Energy Powder Drink Mix (Grape 30 Servings)",
         "category": "Supplements",
@@ -3278,46 +3318,6 @@ var shopProducts = [
         "rating": 4.4,
         "reviews": 202,
         "description": "The BCAA Energy Powder Drink Mix (Grape 30 Servings) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 591,
-        "name": "Alignment Line Non-Slip Yoga Mat (5mm)",
-        "category": "Yoga",
-        "price": 2519.0,
-        "image": "assets/images/products/591/main.jpg",
-        "rating": 4.4,
-        "reviews": 330,
-        "description": "The Alignment Line Non-Slip Yoga Mat (5mm) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 661,
-        "name": "Ceiling Mounted Steel Pull-Up Bar Station",
-        "category": "Home Gym",
-        "price": 1479.0,
-        "image": "assets/images/products/661/main.jpg",
-        "rating": 3.9,
-        "reviews": 364,
-        "description": "The Ceiling Mounted Steel Pull-Up Bar Station is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 32,
-        "name": "Cast Iron Kettlebell (20kg / 44lbs)",
-        "category": "Strength",
-        "price": 4449.0,
-        "image": "assets/images/products/32/main.jpg",
-        "rating": 4.9,
-        "reviews": 497,
-        "description": "The Cast Iron Kettlebell (20kg / 44lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 102,
-        "name": "Full Body Air Rower with Smartphone Mount",
-        "category": "Cardio",
-        "price": 51749.0,
-        "image": "assets/images/products/102/main.jpg",
-        "rating": 4.7,
-        "reviews": 221,
-        "description": "The Full Body Air Rower with Smartphone Mount is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 172,

@@ -55,7 +55,7 @@ Total Products: **700**
 | 29 | SolioFit Olympic EZ Curl Barbell with Cast Iron Weight Plates Set |
 | 30 | Multi-Angle Adjustable Incline Decline Weight Bench (Black/Red) |
 | 31 | Rubber Hex Dumbbell Pair (15 lbs) |
-| 32 | Cast Iron Kettlebell (20kg / 44lbs) |
+| 32 | Commercial Heavy-Duty Rubber Hex Dumbbells Pair (Strength Training) |
 | 33 | Black Oxide Olympic Barbell (7 Foot) |
 | 34 | Steel Plate Loaded Lat Pulldown Machine |
 | 35 | Heavy Duty Ab Slab Incline Bench |
@@ -129,8 +129,8 @@ Total Products: **700**
 | 98 | Equilibrium Commercial Magnetic Rear-Drive Elliptical Cross Trainer Machine |
 | 99 | Prasayu Fitness Commercial Magnetic Studio Indoor Cycling Exercise Bike |
 | 100 | Commercial Revolving Stair Climber Stepmill Cardio Machine |
-| 101 | Smart Motorized Treadmill with Auto-Incline |
-| 102 | Full Body Air Rower with Smartphone Mount |
+| 101 | WaterRower Commercial Water Resistance Rowing Machine (Black Edition) |
+| 102 | Commercial Motorized Touchscreen Running Treadmill (Foldable Studio Edition) |
 | 103 | Magnetic Spin Bike with 40lb Flywheel |
 | 104 | Commercial Grade Stair Climber Stepper |
 | 105 | Compact Foldable Magnetic Rower |
@@ -204,7 +204,7 @@ Total Products: **700**
 | 168 | Curved Micro Punch Mitts for Precision |
 | 169 | RDX Padded Curved Boxing Focus Punch Mitts (Pair) |
 | 170 | Martial Arts Padded Leather Shin & Instep Guards for Kickboxing & MMA (Black Pair) |
-| 171 | Heavy Canvas Wrecking Ball Punching Bag |
+| 171 | Freestanding Inflatable Boxing & Kickboxing Punching Bag with Water Base |
 | 172 | MMA Hybrid Training Gloves (7 oz) |
 | 173 | Mexican Style Cotton Hand Wraps (180-Inch) |
 | 174 | Heavy Duty Wall Mount Heavy Bag Hanger Bracket |
@@ -279,7 +279,7 @@ Total Products: **700**
 | 238 | Inflatable Cold Therapy Ice Plunge Tub |
 | 239 | Professional Percussive Massage Gun (8 Speeds) |
 | 240 | Textured Hollow Grid Foam Roller (13-Inch) |
-| 241 | Graduated Arm Compression Sleeves Pair |
+| 241 | Professional Percussion Deep Tissue Muscle Massage Gun (Black) |
 | 242 | Pure Magnesium Chloride Muscle Recovery Spray |
 | 243 | Electric Heating Pad for Lower Back Pain Relief |
 | 244 | Acupressure Foot Massager Roller & Mat Set |
@@ -354,7 +354,7 @@ Total Products: **700**
 | 308 | Convertible Gym Backpack & Duffel Bag |
 | 309 | Neoprene Knee Sleeves 7mm Pair for Squats |
 | 310 | Genuine Leather Contour Weightlifting Belt |
-| 311 | Elastic Ankle Straps for Cable Machine Attachment |
+| 311 | Bala Woven Fabric Resistance Booty Exercise Band (Blush Pink) |
 | 312 | Harbinger Padded Leather Weightlifting Belt |
 | 313 | Adjustable Leather Lifting Belt with Quick Release Lever |
 | 314 | Pro Speed Jump Rope with Anti-Slip Handles |
@@ -429,7 +429,7 @@ Total Products: **700**
 | 378 | Heavy-Duty Cowhide Leather & Suede Protective Work & Gym Gloves (Yellow/Grey) |
 | 379 | Men's Drop-Armhole Sleeveless Gym Workout Muscle Tank Top (Off-White) |
 | 380 | Stretch Athletic Training Shorts (5-Inch) |
-| 381 | Thermal Base Layer Compression Leggings |
+| 381 | On Running Women's Lightweight Performance Short-Sleeve Workout Tee (Lilac) |
 | 382 | Technical Windbreaker Running Jacket |
 | 383 | Ribbed Seamless Crop Workout Top |
 | 384 | Tapered Fit Fleece Gym Joggers |
@@ -503,8 +503,8 @@ Total Products: **700**
 | 447 | Biohackn Pneumatic Air Compression Leg Recovery Boots System with Travel Bag |
 | 448 | Smart Digital Body Fat & Composition Scale with LED Display (Black) |
 | 449 | Smart Touchscreen Fitness & Sport Tracker Smartwatch (Black/Red Strap) |
-| 450 | GPS Multisport Watch with Sapphire Crystal Lens |
-| 451 | Dual-Band Heart Rate Chest Strap (Bluetooth/ANT+) |
+| 450 | Stainless Steel Milanese Mesh Strap Smart Fitness Band (Silver) |
+| 451 | Rechargeable Optical Heart Rate Monitor Armband with Breathable Silicone Strap |
 | 452 | Smart Wi-Fi Body Composition Glass Scale |
 | 453 | Air Compression Recovery Boots with Control Unit |
 | 454 | Smart Fitness Tracker Ring (Titanium Edition) |
@@ -653,8 +653,8 @@ Total Products: **700**
 | 587 | High-Density EVA Foam Beveled Yoga Blocks (Purple Pair) |
 | 588 | Natural Eco-Friendly Cork Yoga Mat (Non-Slip Workout Mat) |
 | 589 | Organic Cotton Yoga Mat Carry Strap & Stretching Belt with D-Rings (Beige) |
-| 590 | Full Zip Canvas Yoga Mat Tote Bag |
-| 591 | Alignment Line Non-Slip Yoga Mat (5mm) |
+| 590 | Cylindrical Microfiber Meditation & Yoga Bolster Pillow (Slate Blue) |
+| 591 | Organic Cotton Yoga & Meditation Bolster Pillow (Light Grey) |
 | 592 | Lightweight Travel EVA Foam Yoga Block |
 | 593 | Cotton Yoga Strap with Metal D-Ring (8ft) |
 | 594 | Rectangular Meditation Pillow Cushion |
@@ -729,7 +729,7 @@ Total Products: **700**
 | 658 | Commercial Lat Pulldown & Low Row Cable Machine Tower |
 | 659 | LiftDex Commercial Heavy-Duty Half Rack Squat Stand with Pull-Up Bar |
 | 660 | Compact Folding Weight Bench Press |
-| 661 | Ceiling Mounted Steel Pull-Up Bar Station |
+| 661 | Apex Athletics Commercial Multi-Position Incline Workout Bench |
 | 662 | Bodyweight Suspension Trainer with Door Mount |
 | 663 | Heavy Duty Power Tower Station with Push-Up Handles |
 | 664 | Interlocking Foam & Rubber Gym Mats (8-Pack) |
