@@ -91,8 +91,8 @@ Total Products: **700**
 | 65 | Heavy Duty Power Rack Extension Conversion Kit |
 | 66 | Solid Steel Farmers Walk Handles Pair |
 | 67 | Rubber Coated Hex Dumbbell (60 lbs) |
-| 68 | Cast Iron Kettlebell (18kg / 40lbs) |
-| 69 | Steel Weight Plate Set (300lb Olympic Set) |
+| 68 | Standard Cast Iron Olympic Weight Plate (45 lbs / 20.4 kg Single) |
+| 69 | Cerakote Olympic Weightlifting Barbell (Pink Shaft / Chrome Sleeves) |
 | 70 | Commercial Heavy-Duty Flat Weightlifting Bench with Transport Wheels |
 
 ## Category: Cardio (70 products)
@@ -166,8 +166,8 @@ Total Products: **700**
 | 135 | Motorized Treadmill with Shock Absorption Deck |
 | 136 | Smart Air Rower with Bluetooth Connectivity |
 | 137 | Commercial Indoor Spin Bike with Heavy Flywheel |
-| 138 | Stair Climber Stepper with Multi-Grip Handles |
-| 139 | Foldable Space-Saving Magnetic Rower |
+| 138 | Enterprise Apex Commercial Motorized Running Treadmill with HD Console |
+| 139 | Assault AirBike Commercial Dual-Action Air Resistance Exercise Fan Bike |
 | 140 | Commercial Heavy-Duty Motorized Treadmill |
 
 ## Category: Combat (70 products)
@@ -241,7 +241,7 @@ Total Products: **700**
 | 205 | Pro Leather Focus Mitts for Trainer |
 | 206 | MMA Combat Sparring Gloves (5 oz) |
 | 207 | Competition Style Boxing Headgear |
-| 208 | Freestanding Reflex Boxing Punching Bag |
+| 208 | Soft-Shell Padded Rugby & Soccer Protective Headgear (Scrum Cap / Black) |
 | 209 | Heavy Leather Banana Bag (130 lbs / 6ft) |
 | 210 | Professional Lace-Up Boxing Gloves (14 oz) |
 
@@ -316,7 +316,7 @@ Total Products: **700**
 | 275 | Full Body Pneumatic Compression Massager |
 | 276 | Ergonomic Textured Foam Roller (14-Inch) |
 | 277 | Deep Tissue Muscle Massage Ball (Solid Rubber) |
-| 278 | Electric Infrared Heating Waist & Back Belt |
+| 278 | Dr Teal's Pure Epsom Salt Pre & Post Workout Soak Pouch (Menthol & Spearmint) |
 | 279 | Graduated Compression Elbow & Arm Support Sleeve (Black & Neon Green) |
 | 280 | Plunge Lab Portable Insulated Ice Bath Cold Plunge Tub with Inflatable Lid |
 
@@ -391,7 +391,7 @@ Total Products: **700**
 | 345 | Latex Free Fabric Resistance Loop Bands |
 | 346 | Liquid Gym Chalk Tube (100ml) |
 | 347 | Prong Buckle Leather Powerlifting Belt (10mm) |
-| 348 | Elasticated Heavy Wrist Wraps Pair (20-Inch) |
+| 348 | Neoprene Padded Weightlifting Waist & Lumbar Support Belt (Blue) |
 | 349 | Speed Cable Jump Rope with Aluminum Handles |
 | 350 | Aluminum Hard-Shell Gym Travel Backpack |
 
@@ -540,7 +540,7 @@ Total Products: **700**
 | 484 | Wireless Heart Rate Armband Monitor |
 | 485 | Portable TENS EMS Electronic Pulse Massager |
 | 486 | Waterproof Sport Earbuds with Secure Fit Hooks |
-| 487 | Smart Bike GPS Navigation Display |
+| 487 | Sequential Pneumatic Air Compression Leg Recovery Boots System (Black/Cyan) |
 | 488 | Continuous Heart Rate & Activity Tracker Ring |
 | 489 | GPS Smartwatch with AMOLED Display |
 | 490 | Chest Strap Heart Rate Sensor Transmitter |
@@ -615,8 +615,8 @@ Total Products: **700**
 | 554 | Hydrolyzed Whey Isolate Powder (Vanilla 5 lbs) |
 | 555 | Pre-Workout Nitric Oxide Booster (Unflavored Powder) |
 | 556 | Pure Creatine Monohydrate Powder (1000g Bulk) |
-| 557 | BCAA 2:1:1 Recovery Powder (Blue Raspberry 30 Servings) |
-| 558 | Superfood Greens & Berry Antioxidant Powder (300g) |
+| 557 | True+ PRE Natural High-Performance Pre-Workout Energy Powder Pouch |
+| 558 | Daily Essential Multivitamin & Multimineral Complex Tablets (Amber Glass Bottle) |
 | 559 | Organic Plant Protein Powder (Salted Caramel 2 lbs) |
 | 560 | Micellar Casein Nighttime Protein (Chocolate Milk 4 lbs) |
 
@@ -690,8 +690,8 @@ Total Products: **700**
 | 624 | Rectangular Yoga Bolster Pillow |
 | 625 | Ergonomic Yoga Wheel Back Roller |
 | 626 | Canvas Yoga Mat Carrying Shoulder Bag |
-| 627 | Eco TPE Non-Slip Yoga Mat (6mm) |
-| 628 | High Density EVA Foam Yoga Block |
+| 627 | High-Density Beveled Foam Yoga Support Blocks Pair (Black & Red) |
+| 628 | Manduka PRO Premium Non-Slip Yoga & Pilates Mat (Navy Blue) |
 | 629 | Adjustable Metal Buckle Yoga Strap (8ft) |
 | 630 | Organic Cotton Meditation Bolster Pillow (v70) |
 
@@ -765,7 +765,7 @@ Total Products: **700**
 | 694 | Interlocking High-Density Rubber Gym Tiles (8-Pack) |
 | 695 | Adjustable Dial Dumbbell Pair (5-52.5 lbs) |
 | 696 | Compact Foldable Incline Weight Bench (v66) |
-| 697 | Wall-Mounted Steel Pull-Up Bar System |
-| 698 | Bodyweight Suspension Trainer Straps Set |
+| 697 | Rogue Fitness Commercial Monster Functional Trainer & Dual Cable Crossover System |
+| 698 | Force USA Commercial Multi-Gym Functional Trainer & Power Rack Station |
 | 699 | Heavy Duty Power Tower Station (1000lb Limit) |
 | 700 | Marcy Pro Commercial Multi-Gym Power Rack Cage with Weight Bench & Pull-Up Bar |

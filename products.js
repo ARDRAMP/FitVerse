@@ -1990,6 +1990,146 @@ var shopProducts = [
         "description": "Marcy Pro Commercial Multi-Gym Power Rack features a heavy-duty steel squat cage, integrated multi-grip chin-up bar, adjustable safety spotter arms, and multi-position incline decline weight bench."
     },
     {
+        "id": 487,
+        "name": "Sequential Pneumatic Air Compression Leg Recovery Boots System (Black/Cyan)",
+        "category": "Fit Tech",
+        "price": 15399.0,
+        "image": "assets/images/products/487/main.jpg",
+        "rating": 4.9,
+        "reviews": 180,
+        "description": "Sequential Pneumatic Air Compression Leg Recovery Boots feature multi-chamber sequential compression, handheld digital control unit with customizable pressure modes, and full-length leg coverage."
+    },
+    {
+        "id": 557,
+        "name": "True+ PRE Natural High-Performance Pre-Workout Energy Powder Pouch",
+        "category": "Supplements",
+        "price": 1549.0,
+        "image": "assets/images/products/557/main.jpg",
+        "rating": 4.4,
+        "reviews": 372,
+        "description": "True+ PRE Natural High-Performance Pre-Workout Powder delivers clean plant-based energy, beta-alanine endurance boost, and nitric oxide pump matrix in an eco-friendly standing pouch."
+    },
+    {
+        "id": 627,
+        "name": "High-Density Beveled Foam Yoga Support Blocks Pair (Black & Red)",
+        "category": "Yoga",
+        "price": 1499.0,
+        "image": "assets/images/products/627/main.jpg",
+        "rating": 4.7,
+        "reviews": 419,
+        "description": "High-Density Beveled Foam Yoga Support Blocks Pair features firm non-slip EVA foam construction, beveled comfort edges, and two-tone black/red styling for deepening yoga stretches and poses."
+    },
+    {
+        "id": 697,
+        "name": "Rogue Fitness Commercial Monster Functional Trainer & Dual Cable Crossover System",
+        "category": "Home Gym",
+        "price": 94999.0,
+        "image": "assets/images/products/697/main.jpg",
+        "rating": 4.8,
+        "reviews": 469,
+        "description": "Rogue Fitness Commercial Monster Functional Trainer features industrial 3x3-inch steel uprights, dual precision weight stacks, multi-height swivel pulleys, and integrated multi-grip chin-up bar."
+    },
+    {
+        "id": 68,
+        "name": "Standard Cast Iron Olympic Weight Plate (45 lbs / 20.4 kg Single)",
+        "category": "Strength",
+        "price": 2409.0,
+        "image": "assets/images/products/68/main.jpg",
+        "rating": 4.9,
+        "reviews": 405,
+        "description": "Standard Cast Iron Olympic Weight Plate features heavy-duty solid cast iron construction, baked black enamel finish, deep rim lip for easy handling, and standard 2-inch Olympic center hole."
+    },
+    {
+        "id": 138,
+        "name": "Enterprise Apex Commercial Motorized Running Treadmill with HD Console",
+        "category": "Cardio",
+        "price": 59999.0,
+        "image": "assets/images/products/138/main.jpg",
+        "rating": 4.5,
+        "reviews": 190,
+        "description": "Enterprise Apex Commercial Motorized Running Treadmill features a high-torque brushless motor, multi-level power incline, shock-absorbing running surface, and large multimedia touchscreen console."
+    },
+    {
+        "id": 208,
+        "name": "Soft-Shell Padded Rugby & Soccer Protective Headgear (Scrum Cap / Black)",
+        "category": "Combat",
+        "price": 1999.0,
+        "image": "assets/images/products/208/main.jpg",
+        "rating": 4.0,
+        "reviews": 261,
+        "description": "Soft-Shell Padded Protective Headgear features high-density segmented EVA foam padding, multiple ventilation ear and scalp holes, and adjustable rear laces with chin strap for contact sports."
+    },
+    {
+        "id": 278,
+        "name": "Dr Teal's Pure Epsom Salt Pre & Post Workout Soak Pouch (Menthol & Spearmint)",
+        "category": "Recovery",
+        "price": 899.0,
+        "image": "assets/images/products/278/main.jpg",
+        "rating": 4.9,
+        "reviews": 417,
+        "description": "Dr Teal's Pure Epsom Salt Pre & Post Workout Soak combines natural magnesium sulfate crystals with cooling menthol and spearmint essential oils to soothe sore muscles and speed recovery."
+    },
+    {
+        "id": 348,
+        "name": "Neoprene Padded Weightlifting Waist & Lumbar Support Belt (Blue)",
+        "category": "Accessories",
+        "price": 1499.0,
+        "image": "assets/images/products/348/main.jpg",
+        "rating": 4.2,
+        "reviews": 88,
+        "description": "Neoprene Padded Weightlifting Waist & Lumbar Support Belt features a contoured ergonomic design, reinforced steel roller buckle, heavy-duty hook-and-loop closure, and breathable blue padded back panel."
+    },
+    {
+        "id": 558,
+        "name": "Daily Essential Multivitamin & Multimineral Complex Tablets (Amber Glass Bottle)",
+        "category": "Supplements",
+        "price": 2839.0,
+        "image": "assets/images/products/558/main.jpg",
+        "rating": 4.4,
+        "reviews": 176,
+        "description": "Daily Essential Multivitamin & Multimineral Complex delivers a comprehensive spectrum of vital vitamins, chelated minerals, and antioxidants in a protective UV-blocking amber glass apothecary bottle."
+    },
+    {
+        "id": 628,
+        "name": "Manduka PRO Premium Non-Slip Yoga & Pilates Mat (Navy Blue)",
+        "category": "Yoga",
+        "price": 3499.0,
+        "image": "assets/images/products/628/main.jpg",
+        "rating": 3.8,
+        "reviews": 135,
+        "description": "Manduka PRO Premium Yoga Mat features ultra-dense 6mm cushioning, closed-cell moisture-resistant surface, proprietary dot-pattern base grip, and lifetime durability in classic navy blue."
+    },
+    {
+        "id": 698,
+        "name": "Force USA Commercial Multi-Gym Functional Trainer & Power Rack Station",
+        "category": "Home Gym",
+        "price": 79999.0,
+        "image": "assets/images/products/698/main.jpg",
+        "rating": 4.5,
+        "reviews": 494,
+        "description": "Force USA Commercial Multi-Gym combines a heavy-duty power rack, dual adjustable cable pulleys, Smith machine, low row footplate, and multi-grip chin-up station for comprehensive home training."
+    },
+    {
+        "id": 69,
+        "name": "Cerakote Olympic Weightlifting Barbell (Pink Shaft / Chrome Sleeves)",
+        "category": "Strength",
+        "price": 12499.0,
+        "image": "assets/images/products/69/main.jpg",
+        "rating": 4.1,
+        "reviews": 200,
+        "description": "Cerakote Olympic Weightlifting Barbell features ceramic Cerakote corrosion-resistant pink shaft coating, dual knurl marks, smooth rotating hard chrome sleeves, and 190,000 PSI tensile strength."
+    },
+    {
+        "id": 139,
+        "name": "Assault AirBike Commercial Dual-Action Air Resistance Exercise Fan Bike",
+        "category": "Cardio",
+        "price": 34999.0,
+        "image": "assets/images/products/139/main.jpg",
+        "rating": 4.3,
+        "reviews": 409,
+        "description": "Assault AirBike Dual-Action Air Resistance Fan Bike delivers infinite wind resistance, heavy-duty steel frame, synchronized upper and lower body dual-action workout handles, and LCD fitness console."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -6730,96 +6870,6 @@ var shopProducts = [
         "description": "The Seamless Long Sleeve Crop Top is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
-        "id": 487,
-        "name": "Smart Bike GPS Navigation Display",
-        "category": "Fit Tech",
-        "price": 15399.0,
-        "image": "assets/images/products/487/main.jpg",
-        "rating": 4.9,
-        "reviews": 180,
-        "description": "The Smart Bike GPS Navigation Display is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 557,
-        "name": "BCAA 2:1:1 Recovery Powder (Blue Raspberry 30 Servings)",
-        "category": "Supplements",
-        "price": 1549.0,
-        "image": "assets/images/products/557/main.jpg",
-        "rating": 4.4,
-        "reviews": 372,
-        "description": "The BCAA 2:1:1 Recovery Powder (Blue Raspberry 30 Servings) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 627,
-        "name": "Eco TPE Non-Slip Yoga Mat (6mm)",
-        "category": "Yoga",
-        "price": 1499.0,
-        "image": "assets/images/products/627/main.jpg",
-        "rating": 4.7,
-        "reviews": 419,
-        "description": "The Eco TPE Non-Slip Yoga Mat (6mm) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 697,
-        "name": "Wall-Mounted Steel Pull-Up Bar System",
-        "category": "Home Gym",
-        "price": 1799.0,
-        "image": "assets/images/products/697/main.jpg",
-        "rating": 4.8,
-        "reviews": 469,
-        "description": "The Wall-Mounted Steel Pull-Up Bar System is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 68,
-        "name": "Cast Iron Kettlebell (18kg / 40lbs)",
-        "category": "Strength",
-        "price": 2409.0,
-        "image": "assets/images/products/68/main.jpg",
-        "rating": 4.9,
-        "reviews": 405,
-        "description": "The Cast Iron Kettlebell (18kg / 40lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 138,
-        "name": "Stair Climber Stepper with Multi-Grip Handles",
-        "category": "Cardio",
-        "price": 23399.0,
-        "image": "assets/images/products/138/main.jpg",
-        "rating": 4.5,
-        "reviews": 190,
-        "description": "The Stair Climber Stepper with Multi-Grip Handles is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 208,
-        "name": "Freestanding Reflex Boxing Punching Bag",
-        "category": "Combat",
-        "price": 7879.0,
-        "image": "assets/images/products/208/main.jpg",
-        "rating": 4.0,
-        "reviews": 261,
-        "description": "The Freestanding Reflex Boxing Punching Bag is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 278,
-        "name": "Electric Infrared Heating Waist & Back Belt",
-        "category": "Recovery",
-        "price": 2599.0,
-        "image": "assets/images/products/278/main.jpg",
-        "rating": 4.9,
-        "reviews": 417,
-        "description": "The Electric Infrared Heating Waist & Back Belt is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 348,
-        "name": "Elasticated Heavy Wrist Wraps Pair (20-Inch)",
-        "category": "Accessories",
-        "price": 779.0,
-        "image": "assets/images/products/348/main.jpg",
-        "rating": 4.2,
-        "reviews": 88,
-        "description": "The Elasticated Heavy Wrist Wraps Pair (20-Inch) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
         "id": 418,
         "name": "Tapered Performance Gym Joggers",
         "category": "Apparel",
@@ -6838,56 +6888,6 @@ var shopProducts = [
         "rating": 5.0,
         "reviews": 85,
         "description": "The Continuous Heart Rate & Activity Tracker Ring is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 558,
-        "name": "Superfood Greens & Berry Antioxidant Powder (300g)",
-        "category": "Supplements",
-        "price": 2839.0,
-        "image": "assets/images/products/558/main.jpg",
-        "rating": 4.4,
-        "reviews": 176,
-        "description": "The Superfood Greens & Berry Antioxidant Powder (300g) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 628,
-        "name": "High Density EVA Foam Yoga Block",
-        "category": "Yoga",
-        "price": 1169.0,
-        "image": "assets/images/products/628/main.jpg",
-        "rating": 3.8,
-        "reviews": 135,
-        "description": "The High Density EVA Foam Yoga Block is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 698,
-        "name": "Bodyweight Suspension Trainer Straps Set",
-        "category": "Home Gym",
-        "price": 919.0,
-        "image": "assets/images/products/698/main.jpg",
-        "rating": 4.5,
-        "reviews": 494,
-        "description": "The Bodyweight Suspension Trainer Straps Set is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 69,
-        "name": "Steel Weight Plate Set (300lb Olympic Set)",
-        "category": "Strength",
-        "price": 35799.0,
-        "image": "assets/images/products/69/main.jpg",
-        "rating": 4.1,
-        "reviews": 200,
-        "description": "The Steel Weight Plate Set (300lb Olympic Set) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 139,
-        "name": "Foldable Space-Saving Magnetic Rower",
-        "category": "Cardio",
-        "price": 25599.0,
-        "image": "assets/images/products/139/main.jpg",
-        "rating": 4.3,
-        "reviews": 409,
-        "description": "The Foldable Space-Saving Magnetic Rower is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
         "id": 209,
