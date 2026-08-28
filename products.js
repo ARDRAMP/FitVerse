@@ -4530,6 +4530,206 @@ var shopProducts = [
         "description": "Smart Interactive Fitness Mirror Studio features integrated multi-tier dumbbell and accessory shelving, full-length touch display with live metrics, and sleek black casing."
     },
     {
+        "id": 176,
+        "name": "VUSAGE Muay Thai & Kickboxing Padded Leather Shin & Instep Guards (Black Pair)",
+        "category": "Combat",
+        "price": 2059.0,
+        "image": "assets/images/products/176/main.jpg",
+        "rating": 4.4,
+        "reviews": 190,
+        "description": "VUSAGE Muay Thai Shin Guards feature contoured high-density impact foam, reinforced instep foot protection, and dual adjustable velcro calf straps in black."
+    },
+    {
+        "id": 246,
+        "name": "High-Density Spiky Grid Muscle Trigger Point Foam Roller (Black & Red Core)",
+        "category": "Recovery",
+        "price": 929.0,
+        "image": "assets/images/products/246/main.jpg",
+        "rating": 4.7,
+        "reviews": 310,
+        "description": "High-Density Spiky Grid Trigger Point Foam Roller features 3D textured pyramid nodules, hollow ABS core with red accents, and targeted myofascial release."
+    },
+    {
+        "id": 316,
+        "name": "Ergonomic Carpal Tunnel Wrist Support Brace with Thumb Hole & Splint (Charcoal Grey)",
+        "category": "Accessories",
+        "price": 899.0,
+        "image": "assets/images/products/316/main.jpg",
+        "rating": 4.5,
+        "reviews": 210,
+        "description": "Ergonomic Carpal Tunnel Wrist Support Brace features rigid removable aluminum stabilizing splint, breathable compression sleeve, and charcoal grey finish."
+    },
+    {
+        "id": 526,
+        "name": "Muscle Core Platinum Standard Mass Gainer High-Calorie Protein Powder Tub (Chocolate / 4 lbs)",
+        "category": "Supplements",
+        "price": 2139.0,
+        "image": "assets/images/products/526/main.jpg",
+        "rating": 4.9,
+        "reviews": 340,
+        "description": "Muscle Core Platinum Standard Mass Gainer delivers 50g protein, 256g clean complex carbs, and 1290 calories per serving for rapid muscular weight gain (Chocolate)."
+    },
+    {
+        "id": 107,
+        "name": "Hydrow Connected Smart Magnetic Resistance Indoor Rowing Machine with 22-Inch HD Touchscreen",
+        "category": "Cardio",
+        "price": 89999.0,
+        "image": "assets/images/products/107/main.jpg",
+        "rating": 4.8,
+        "reviews": 280,
+        "description": "Hydrow Connected Smart Magnetic Rowing Machine features whisper-quiet electromagnetic drag mechanism, 22-inch pivoting HD touchscreen, and sleek aluminum frame."
+    },
+    {
+        "id": 177,
+        "name": "BOX Escape Heavy-Duty Hanging Leather Boxing & Kickboxing Punching Bag (Black)",
+        "category": "Combat",
+        "price": 3999.0,
+        "image": "assets/images/products/177/main.jpg",
+        "rating": 4.7,
+        "reviews": 290,
+        "description": "BOX Escape Heavy-Duty Hanging Leather Punching Bag features reinforced 4-way steel hanging chains, shock-dispersing interior lining, and bold white typography."
+    },
+    {
+        "id": 247,
+        "name": "Equate Ultra Strength Deep Penetrating Muscle Rub Pain Relieving Cream (85g)",
+        "category": "Recovery",
+        "price": 599.0,
+        "image": "assets/images/products/247/main.jpg",
+        "rating": 4.6,
+        "reviews": 250,
+        "description": "Equate Ultra Strength Deep Penetrating Muscle Rub provides rapid warming and cooling relief from sore muscles, joint aches, and arthritis with capsaicin and menthol."
+    },
+    {
+        "id": 317,
+        "name": "merrithew Heavy-Duty Latex Resistance Loop Band for Pilates & Stretching (Green)",
+        "category": "Accessories",
+        "price": 649.0,
+        "image": "assets/images/products/317/main.jpg",
+        "rating": 4.3,
+        "reviews": 198,
+        "description": "merrithew Heavy-Duty Latex Resistance Loop Band delivers continuous progressive elastic tension for Pilates reformer conditioning, rehabilitation, and assisted pull-ups."
+    },
+    {
+        "id": 387,
+        "name": "Men's Performance Graphic Athletic Gym Training T-Shirt (Multicolor Neon Paint Splatter)",
+        "category": "Apparel",
+        "price": 1299.0,
+        "image": "assets/images/products/387/main.jpg",
+        "rating": 4.6,
+        "reviews": 105,
+        "description": "Men's Performance Athletic Training T-Shirt features moisture-wicking quick-dry polyester-spandex fabric, vibrant neon paint splatter print, and athletic crew neck."
+    },
+    {
+        "id": 457,
+        "name": "Therabody RecoveryAir JetBoots Wireless Pneumatic Compression Boots Pair (Black)",
+        "category": "Fit Tech",
+        "price": 39999.0,
+        "image": "assets/images/products/457/main.jpg",
+        "rating": 4.9,
+        "reviews": 253,
+        "description": "Therabody RecoveryAir JetBoots feature wireless integrated internal pumps, 4-chamber sequential pneumatic compression, and rapid lactic acid flush for legs."
+    },
+    {
+        "id": 527,
+        "name": "GAT Sport NITRAFLEX High-Intensity Pre-Workout Strength & Energy Powder Tub (Fruit Punch)",
+        "category": "Supplements",
+        "price": 2799.0,
+        "image": "assets/images/products/527/main.jpg",
+        "rating": 4.0,
+        "reviews": 224,
+        "description": "GAT Sport NITRAFLEX High-Intensity Pre-Workout features clinically tested testosterone-enhancing boron, intense energy stimulants, and nitric oxide vascular pump matrix."
+    },
+    {
+        "id": 597,
+        "name": "High-Density EVA Foam Yoga Balance Block (Light Baby Pink)",
+        "category": "Yoga",
+        "price": 699.0,
+        "image": "assets/images/products/597/main.jpg",
+        "rating": 4.6,
+        "reviews": 475,
+        "description": "High-Density EVA Foam Yoga Balance Block provides lightweight slip-resistant support, bevelled edges for comfortable hand grip, and gentle baby pink finish."
+    },
+    {
+        "id": 667,
+        "name": "Commercial Assisted Chin-Up & Dip Weight Stack Station",
+        "category": "Home Gym",
+        "price": 46999.0,
+        "image": "assets/images/products/667/main.jpg",
+        "rating": 4.8,
+        "reviews": 71,
+        "description": "Commercial Assisted Chin-Up & Dip Station features counterbalanced knee platform, dual multi-grip pull-up handles, padded dip handles, and selectorized weight stack."
+    },
+    {
+        "id": 38,
+        "name": "Commercial Heavy-Duty Adjustable Incline Weightlifting Bench",
+        "category": "Strength",
+        "price": 12999.0,
+        "image": "assets/images/products/38/main.jpg",
+        "rating": 5.0,
+        "reviews": 357,
+        "description": "Commercial Heavy-Duty Adjustable Incline Bench features ladder-style backrest adjustment (flat to 90\u00b0 incline), high-density tear-resistant vinyl, and transport wheels."
+    },
+    {
+        "id": 108,
+        "name": "Commercial Motorized Running Treadmill with Smart HD Console",
+        "category": "Cardio",
+        "price": 44399.0,
+        "image": "assets/images/products/108/main.jpg",
+        "rating": 4.0,
+        "reviews": 466,
+        "description": "Commercial Motorized Running Treadmill features 4.0 HP continuous-duty motor, multi-ply shock-absorbing running deck, motorized incline, and interactive HD display."
+    },
+    {
+        "id": 178,
+        "name": "Pro Leather Full-Face Boxing Sparring Headgear with Cheek Guards (Bright Red)",
+        "category": "Combat",
+        "price": 2799.0,
+        "image": "assets/images/products/178/main.jpg",
+        "rating": 4.3,
+        "reviews": 288,
+        "description": "Pro Leather Full-Face Sparring Headgear features high-density layered cheek and forehead padding, open-top ventilation, lace-up crown, and secure chin strap in bright red."
+    },
+    {
+        "id": 248,
+        "name": "Zechsal Pure Magnesium Bath Flakes / Crystals Large Jar (White)",
+        "category": "Recovery",
+        "price": 1899.0,
+        "image": "assets/images/products/248/main.jpg",
+        "rating": 4.9,
+        "reviews": 47,
+        "description": "Zechsal Pure Magnesium Bath Flakes provide high-concentration ancient Zechstein magnesium chloride for muscle relaxation, cramp relief, and post-workout recovery."
+    },
+    {
+        "id": 388,
+        "name": "Men's Lightweight Windproof Athletic Running & Training Hooded Jacket (Sage & Mint Green)",
+        "category": "Apparel",
+        "price": 1469.0,
+        "image": "assets/images/products/388/main.jpg",
+        "rating": 4.0,
+        "reviews": 335,
+        "description": "Men's Lightweight Athletic Hooded Jacket features water-resistant windbreaker fabric, full front zipper, adjustable hood, and dual-tone sage with mint green panelling."
+    },
+    {
+        "id": 458,
+        "name": "ACCUNIQ Commercial Bioelectrical Impedance Body Composition Analyzer Station",
+        "category": "Fit Tech",
+        "price": 18639.0,
+        "image": "assets/images/products/458/main.jpg",
+        "rating": 4.3,
+        "reviews": 313,
+        "description": "ACCUNIQ Commercial Body Composition Analyzer provides multi-frequency 8-point tactile electrode impedance testing, segmental muscle/fat mass tracking, and printed reports."
+    },
+    {
+        "id": 528,
+        "name": "AdvaLife Multivitamin & Minerals Daily Dietary Supplement Capsules Bottle (Green Cap)",
+        "category": "Supplements",
+        "price": 1169.0,
+        "image": "assets/images/products/528/main.jpg",
+        "rating": 3.8,
+        "reviews": 182,
+        "description": "AdvaLife Multivitamin & Minerals Daily Supplement delivers 24 essential vitamins and trace minerals for immune defense, cellular metabolism, and vitality."
+    },
+    {
         "id": 1,
         "name": "Zinc-Coated Olympic Hex Trap Bar",
         "category": "Strength",
@@ -6350,209 +6550,8 @@ var shopProducts = [
         "description": "The Motorized Treadmill with Bluetooth Speakers is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
     },
     {
-        "id": 176,
-        "name": "Muay Thai Leather Shin Guards (Large)",
-        "category": "Combat",
-        "price": 2059.0,
-        "image": "assets/images/products/176/main.jpg",
-        "rating": 4.4,
-        "reviews": 364,
-        "description": "The Muay Thai Leather Shin Guards (Large) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 246,
-        "name": "Deep Tissue Trigger Point Massage Stick Roller",
-        "category": "Recovery",
-        "price": 929.0,
-        "image": "assets/images/products/246/main.jpg",
-        "rating": 4.0,
-        "reviews": 240,
-        "description": "The Deep Tissue Trigger Point Massage Stick Roller is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 316,
-        "name": "Ergonomic Wrist Support Guard Brace with Thumb Loop",
-        "category": "Accessories",
-        "price": 3659.0,
-        "image": "assets/images/products/316/main.jpg",
-        "rating": 4.3,
-        "reviews": 371,
-        "description": "The Ergonomic Wrist Support Guard Brace with Thumb Loop is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 526,
-        "name": "Micronized Creatine Monohydrate Capsules (120 Capsules)",
-        "category": "Supplements",
-        "price": 2139.0,
-        "image": "assets/images/products/526/main.jpg",
-        "rating": 3.9,
-        "reviews": 103,
-        "description": "The Micronized Creatine Monohydrate Capsules (120 Capsules) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 107,
-        "name": "High-Capacity Air Resistance Bike",
-        "category": "Cardio",
-        "price": 34999.0,
-        "image": "assets/images/products/107/main.jpg",
-        "rating": 4.7,
-        "reviews": 283,
-        "description": "The High-Capacity Air Resistance Bike is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 177,
-        "name": "Full Face Leather Sparring Headgear",
-        "category": "Combat",
-        "price": 3999.0,
-        "image": "assets/images/products/177/main.jpg",
-        "rating": 3.9,
-        "reviews": 154,
-        "description": "The Full Face Leather Sparring Headgear is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 247,
-        "name": "High-Density Smooth EVA Foam Roller (18-Inch)",
-        "category": "Recovery",
-        "price": 1299.0,
-        "image": "assets/images/products/247/main.jpg",
-        "rating": 4.3,
-        "reviews": 210,
-        "description": "The High-Density Smooth EVA Foam Roller (18-Inch) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 317,
-        "name": "Fabric Resistance Loop Bands Pack of 4",
-        "category": "Accessories",
-        "price": 649.0,
-        "image": "assets/images/products/317/main.jpg",
-        "rating": 4.7,
-        "reviews": 426,
-        "description": "The Fabric Resistance Loop Bands Pack of 4 is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 387,
-        "name": "Barefoot Style Cross-Training Shoes",
-        "category": "Apparel",
-        "price": 6699.0,
-        "image": "assets/images/products/387/main.jpg",
-        "rating": 4.6,
-        "reviews": 105,
-        "description": "The Barefoot Style Cross-Training Shoes is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 457,
-        "name": "Wireless Open-Ear Bone Conduction Sport Headphones",
-        "category": "Fit Tech",
-        "price": 4399.0,
-        "image": "assets/images/products/457/main.jpg",
-        "rating": 4.9,
-        "reviews": 253,
-        "description": "The Wireless Open-Ear Bone Conduction Sport Headphones is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 527,
-        "name": "Essential Amino Acid EAA Energy Powder (Peach Mango)",
-        "category": "Supplements",
-        "price": 1399.0,
-        "image": "assets/images/products/527/main.jpg",
-        "rating": 4.0,
-        "reviews": 224,
-        "description": "The Essential Amino Acid EAA Energy Powder (Peach Mango) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 597,
-        "name": "Premium Natural Rubber Yoga Mat (6mm)",
-        "category": "Yoga",
-        "price": 2849.0,
-        "image": "assets/images/products/597/main.jpg",
-        "rating": 4.6,
-        "reviews": 475,
-        "description": "The Premium Natural Rubber Yoga Mat (6mm) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 667,
-        "name": "Heavy Duty Doorway Chin Up Pull Up Bar",
-        "category": "Home Gym",
-        "price": 2699.0,
-        "image": "assets/images/products/667/main.jpg",
-        "rating": 4.8,
-        "reviews": 71,
-        "description": "The Heavy Duty Doorway Chin Up Pull Up Bar is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 38,
-        "name": "Rubber Coated Hex Dumbbell (50 lbs)",
-        "category": "Strength",
-        "price": 1639.0,
-        "image": "assets/images/products/38/main.jpg",
-        "rating": 5.0,
-        "reviews": 357,
-        "description": "The Rubber Coated Hex Dumbbell (50 lbs) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 108,
-        "name": "Desk Treadmill Under-Desk Walking Pad",
-        "category": "Cardio",
-        "price": 44399.0,
-        "image": "assets/images/products/108/main.jpg",
-        "rating": 4.0,
-        "reviews": 466,
-        "description": "The Desk Treadmill Under-Desk Walking Pad is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 178,
-        "name": "Leather Speed Bag (Small 8x5 Inch)",
-        "category": "Combat",
-        "price": 2799.0,
-        "image": "assets/images/products/178/main.jpg",
-        "rating": 4.3,
-        "reviews": 288,
-        "description": "The Leather Speed Bag (Small 8x5 Inch) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 248,
-        "name": "Percussive Massage Gun with Heated Massage Head",
-        "category": "Recovery",
-        "price": 9619.0,
-        "image": "assets/images/products/248/main.jpg",
-        "rating": 4.9,
-        "reviews": 47,
-        "description": "The Percussive Massage Gun with Heated Massage Head is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 388,
-        "name": "Relaxed Fit Heavy Weightlifting Graphic Tee",
-        "category": "Apparel",
-        "price": 1469.0,
-        "image": "assets/images/products/388/main.jpg",
-        "rating": 4.0,
-        "reviews": 335,
-        "description": "The Relaxed Fit Heavy Weightlifting Graphic Tee is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 458,
-        "name": "Smart Sensor Speedometer for Cycling",
-        "category": "Fit Tech",
-        "price": 18639.0,
-        "image": "assets/images/products/458/main.jpg",
-        "rating": 4.3,
-        "reviews": 313,
-        "description": "The Smart Sensor Speedometer for Cycling is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
-        "id": 528,
-        "name": "High-Potency Vitamin D3 + K2 Softgels (120 Softgels)",
-        "category": "Supplements",
-        "price": 1169.0,
-        "image": "assets/images/products/528/main.jpg",
-        "rating": 3.8,
-        "reviews": 182,
-        "description": "The High-Potency Vitamin D3 + K2 Softgels (120 Softgels) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
-    },
-    {
         "id": 41,
         "name": "Cerakote Coated Olympic Barbell (Red/Black)",
-        "price": 10159.0,
         "image": "assets/images/products/41/main.jpg",
         "rating": 4.6,
         "reviews": 142,
