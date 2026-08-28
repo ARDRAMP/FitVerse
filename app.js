@@ -600,7 +600,7 @@ categoryCards.forEach(card => {
 /* ==========================================================================
    Cart Logic
    ========================================================================== */
-function addToCart(productId, quantity = 5) {
+function addToCart(productId, quantity = 5, showToastNotify = true) {
     const product = (typeof shopProducts !== 'undefined' ? shopProducts.find(p => String(p.id) === String(productId)) : null) || products.find(p => String(p.id) === String(productId));
     if (!product) return;
 
@@ -611,18 +611,22 @@ function addToCart(productId, quantity = 5) {
         const currentQty = existingItem.qty || 5;
         const newQty = currentQty + addAmount;
         existingItem.qty = newQty;
-        if (window.auth && typeof auth.showToast === 'function') {
-            auth.showToast(`${product.name} (+${addAmount}) added to cart! Total: ${existingItem.qty}`, 'success');
-        } else if (typeof showToast === 'function') {
-            showToast(`${product.name} (+${addAmount}) added to cart! Total: ${existingItem.qty}`);
+        if (showToastNotify) {
+            if (window.auth && typeof auth.showToast === 'function') {
+                auth.showToast(`${product.name} (+${addAmount}) added to cart! Total: ${existingItem.qty}`, 'success');
+            } else if (typeof showToast === 'function') {
+                showToast(`${product.name} (+${addAmount}) added to cart! Total: ${existingItem.qty}`);
+            }
         }
     } else {
         const initQty = Math.max(5, addAmount);
         cart.push({ ...product, qty: initQty });
-        if (window.auth && typeof auth.showToast === 'function') {
-            auth.showToast(`${product.name} (Qty: ${initQty}) added to cart!`, 'success');
-        } else if (typeof showToast === 'function') {
-            showToast(`${product.name} (Qty: ${initQty}) added to cart!`);
+        if (showToastNotify) {
+            if (window.auth && typeof auth.showToast === 'function') {
+                auth.showToast(`${product.name} (Qty: ${initQty}) added to cart!`, 'success');
+            } else if (typeof showToast === 'function') {
+                showToast(`${product.name} (Qty: ${initQty}) added to cart!`);
+            }
         }
     }
 
