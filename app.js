@@ -736,7 +736,6 @@ function ensureGlobalOverlays() {
                     <a href="shop.html?category=Strength">Strength</a>
                     <a href="shop.html?category=Cardio">Cardio</a>
                     <a href="shop.html?category=Combat">Combat</a>
-                    <a href="shop.html?category=Home Gym">Home Gym</a>
                     <a href="bundles.html">Bundles</a>
                 </div>
             </div>
@@ -747,6 +746,12 @@ function ensureGlobalOverlays() {
 
 // Global open / close drawer handlers
 window.openCart = function () {
+    // Force close any other competing overlays
+    window.closeWishlist();
+    window.closeSearch();
+    const menu = document.querySelector('.mobile-menu');
+    if (menu) menu.classList.remove('open', 'active');
+
     ensureGlobalOverlays();
     const cartEl = document.getElementById('cart-overlay');
     if (cartEl) {
@@ -760,11 +765,21 @@ window.closeCart = function () {
     const cartEl = document.getElementById('cart-overlay');
     if (cartEl) {
         cartEl.classList.remove('active');
+    }
+    const wishEl = document.getElementById('wishlist-overlay');
+    const searchModal = document.getElementById('search-modal');
+    if ((!wishEl || !wishEl.classList.contains('active')) && (!searchModal || !searchModal.classList.contains('active'))) {
         document.body.style.overflow = '';
     }
 };
 
 window.openWishlist = function () {
+    // Force close any other competing overlays
+    window.closeCart();
+    window.closeSearch();
+    const menu = document.querySelector('.mobile-menu');
+    if (menu) menu.classList.remove('open', 'active');
+
     ensureGlobalOverlays();
     const wishEl = document.getElementById('wishlist-overlay');
     if (wishEl) {
@@ -778,11 +793,17 @@ window.closeWishlist = function () {
     const wishEl = document.getElementById('wishlist-overlay');
     if (wishEl) {
         wishEl.classList.remove('active');
+    }
+    const cartEl = document.getElementById('cart-overlay');
+    const searchModal = document.getElementById('search-modal');
+    if ((!cartEl || !cartEl.classList.contains('active')) && (!searchModal || !searchModal.classList.contains('active'))) {
         document.body.style.overflow = '';
     }
 };
 
 window.openSearch = function () {
+    window.closeCart();
+    window.closeWishlist();
     ensureGlobalOverlays();
     const modal = document.getElementById('search-modal');
     if (modal) {
@@ -799,6 +820,11 @@ window.closeSearch = function () {
         modal.style.display = 'none';
         modal.classList.remove('active');
     }
+    const cartEl = document.getElementById('cart-overlay');
+    const wishEl = document.getElementById('wishlist-overlay');
+    if ((!cartEl || !cartEl.classList.contains('active')) && (!wishEl || !wishEl.classList.contains('active'))) {
+        document.body.style.overflow = '';
+    }
 };
 
 window.toggleMobileMenu = function (e) {
@@ -813,7 +839,8 @@ window.toggleMobileMenu = function (e) {
 // Global Delegated Click Listener for ALL Header & Drawer Actions
 document.addEventListener('click', (e) => {
     // 1. Cart Toggle Click
-    if (e.target.closest('.cart-toggle')) {
+    const cartBtn = e.target.closest('.cart-toggle, #cart-toggle-btn, [data-action="open-cart"]');
+    if (cartBtn) {
         e.preventDefault();
         e.stopPropagation();
         window.openCart();
@@ -821,7 +848,8 @@ document.addEventListener('click', (e) => {
     }
 
     // 2. Wishlist Toggle Click
-    if (e.target.closest('.wishlist-toggle')) {
+    const wishBtn = e.target.closest('.wishlist-toggle, #wishlist-toggle-btn, [data-action="open-wishlist"]');
+    if (wishBtn) {
         e.preventDefault();
         e.stopPropagation();
         window.openWishlist();
@@ -829,7 +857,8 @@ document.addEventListener('click', (e) => {
     }
 
     // 3. Search Toggle Click
-    if (e.target.closest('.search-toggle')) {
+    const searchBtn = e.target.closest('.search-toggle, #search-toggle-btn, [data-action="open-search"]');
+    if (searchBtn) {
         e.preventDefault();
         e.stopPropagation();
         window.openSearch();
@@ -839,6 +868,7 @@ document.addEventListener('click', (e) => {
     // 4. Cart Close Click
     if (e.target.closest('.cart-close-btn')) {
         e.preventDefault();
+        e.stopPropagation();
         window.closeCart();
         return;
     }
@@ -846,6 +876,7 @@ document.addEventListener('click', (e) => {
     // 5. Wishlist Close Click
     if (e.target.closest('.wishlist-close-btn')) {
         e.preventDefault();
+        e.stopPropagation();
         window.closeWishlist();
         return;
     }
@@ -853,6 +884,7 @@ document.addEventListener('click', (e) => {
     // 6. Search Close Click
     if (e.target.closest('.search-close-btn') || e.target.closest('.close-search-btn')) {
         e.preventDefault();
+        e.stopPropagation();
         window.closeSearch();
         return;
     }
@@ -989,9 +1021,13 @@ window.toggleWishlist = function (id, btnElement) {
 
 window.wishlistToCart = function (id) {
     if (typeof addToCart !== 'undefined') {
-        addToCart(id);
+        addToCart(id, 5);
         wishlist.delete(id);
         updateWishlistUI();
+        window.closeWishlist();
+        setTimeout(() => {
+            window.openCart();
+        }, 120);
     }
 };
 
