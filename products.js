@@ -1,7 +1,7 @@
 var shopProducts = [
     {
         "id": 422,
-        "name": "Air Compression Leg Recovery Boots System",
+        "name": "Air Compression Leg Boots System",
         "category": "Fit Tech",
         "price": 3449.0,
         "image": "assets/images/products/422/main.jpg",
@@ -11,7 +11,7 @@ var shopProducts = [
     },
     {
         "id": 492,
-        "name": "Body Builder Super Multivitamin Once Daily (60 Tablets)",
+        "name": "Body Builder Daily Multivitamin (60 Tab)",
         "category": "Supplements",
         "price": 1799.0,
         "image": "assets/images/products/492/main.jpg",
@@ -21,7 +21,7 @@ var shopProducts = [
     },
     {
         "id": 283,
-        "name": "Adjustable Speed Jump Rope with Foam Handles",
+        "name": "Adjustable Speed Jump Rope",
         "category": "Accessories",
         "price": 759.0,
         "image": "assets/images/products/283/main.jpg",
@@ -31,7 +31,7 @@ var shopProducts = [
     },
     {
         "id": 74,
-        "name": "Commercial Touchscreen Magnetic Elliptical Cross Trainer",
+        "name": "Commercial Touchscreen Elliptical",
         "category": "Cardio",
         "price": 29799.0,
         "image": "assets/images/products/74/main.jpg",
@@ -41,7 +41,7 @@ var shopProducts = [
     },
     {
         "id": 284,
-        "name": "Heavy-Duty Athletic Gym Duffel Bag",
+        "name": "Heavy-Duty Athletic Gym Duffel",
         "category": "Accessories",
         "price": 539.0,
         "image": "assets/images/products/284/main.jpg",
@@ -51,7 +51,7 @@ var shopProducts = [
     },
     {
         "id": 424,
-        "name": "GPS Sports Smartwatch with ZoneSense VO2Max Tracker",
+        "name": "GPS Sports Smartwatch",
         "category": "Fit Tech",
         "price": 2829.0,
         "image": "assets/images/products/424/main.jpg",
@@ -61,7 +61,7 @@ var shopProducts = [
     },
     {
         "id": 495,
-        "name": "Optimum Nutrition Gold Standard 100% Whey Protein (5 lbs / 74 Servings)",
+        "name": "ON Gold Standard 100% Whey (5 lbs)",
         "category": "Supplements",
         "price": 6999.0,
         "image": "assets/images/products/495/main.jpg",
@@ -71,7 +71,7 @@ var shopProducts = [
     },
     {
         "id": 286,
-        "name": "Neoprene Wrist Support Guard Brace with Thumb Loop",
+        "name": "Neoprene Wrist Support Guard Brace",
         "category": "Accessories",
         "price": 3559.0,
         "image": "assets/images/products/286/main.jpg",
@@ -81,7 +81,7 @@ var shopProducts = [
     },
     {
         "id": 636,
-        "name": "Quick-Select Adjustable Dumbbells Pair with Heavy-Duty Stand",
+        "name": "Quick-Select Adjustable Dumbbells",
         "category": "Home Gym",
         "price": 3989.0,
         "image": "assets/images/products/636/main.jpg",
@@ -91,7 +91,7 @@ var shopProducts = [
     },
     {
         "id": 566,
-        "name": "Organic Cotton Yoga Meditation Bolster Pillow",
+        "name": "Organic Cotton Yoga Bolster",
         "category": "Yoga",
         "price": 2139.0,
         "image": "assets/images/products/566/main.jpg",
@@ -101,7 +101,7 @@ var shopProducts = [
     },
     {
         "id": 7,
-        "name": "Commercial Olympic Half Rack System with Plate Storage",
+        "name": "Commercial Olympic Half Rack",
         "category": "Strength",
         "price": 49999.0,
         "image": "assets/images/products/7/main.jpg",
@@ -111,7 +111,7 @@ var shopProducts = [
     },
     {
         "id": 10,
-        "name": "Horizon Fitness Precision Adjustable Dumbbells Pair",
+        "name": "Horizon Adjustable Dumbbells",
         "category": "Strength",
         "price": 27499.0,
         "image": "assets/images/products/10/main.jpg",
@@ -121,7 +121,7 @@ var shopProducts = [
     },
     {
         "id": 220,
-        "name": "Kula Recovery Portable Cold Plunge Ice Bath Tub",
+        "name": "Kula Portable Cold Plunge Tub",
         "category": "Recovery",
         "price": 7459.0,
         "image": "assets/images/products/220/main.jpg",
@@ -131,7 +131,7 @@ var shopProducts = [
     },
     {
         "id": 360,
-        "name": "Pro Weightlifting Shoes with Raised Heel & Midfoot Strap",
+        "name": "Pro Weightlifting Shoes",
         "category": "Apparel",
         "price": 8999.0,
         "image": "assets/images/products/360/main.jpg",
@@ -141,7 +141,7 @@ var shopProducts = [
     },
     {
         "id": 500,
-        "name": "Nutricost Performance BCAA Powder (Orange Mango, 60 Servings)",
+        "name": "Nutricost BCAA Powder (60 Serv)",
         "category": "Supplements",
         "price": 3029.0,
         "image": "assets/images/products/500/main.jpg",
@@ -151,7 +151,7 @@ var shopProducts = [
     },
     {
         "id": 349,
-        "name": "Speed Cable Jump Rope with Aluminum Handles",
+        "name": "Speed Cable Jump Rope",
         "category": "Accessories",
         "price": 2179.0,
         "image": "assets/images/products/349/main.jpg",
@@ -161,7 +161,7 @@ var shopProducts = [
     },
     {
         "id": 350,
-        "name": "Aluminum Hard-Shell Gym Travel Backpack",
+        "name": "Aluminum Hard-Shell Gym Backpack",
         "category": "Accessories",
         "price": 7999.0,
         "image": "assets/images/products/350/main.jpg",
@@ -171,7 +171,7 @@ var shopProducts = [
     },
     {
         "id": 291,
-        "name": "Liftdex Pure Gym Chalk Powder & Refillable Chalk Ball Set",
+        "name": "Liftdex Pure Gym Chalk & Ball Set",
         "category": "Accessories",
         "price": 999.0,
         "image": "assets/images/products/291/main.jpg",
@@ -181,7 +181,7 @@ var shopProducts = [
     },
     {
         "id": 292,
-        "name": "Body Builder Super Multivitamin Once Daily (60 Tablets)",
+        "name": "Body Builder Daily Multivitamin (60 Tab)",
         "category": "Supplements",
         "price": 1369.0,
         "image": "assets/images/products/292/main.jpg",
@@ -191,7 +191,7 @@ var shopProducts = [
     },
     {
         "id": 293,
-        "name": "York Fitness Heavy-Duty Powerlifting Resistance Loop Band",
+        "name": "York Heavy Powerlifting Loop Band",
         "category": "Accessories",
         "price": 919.0,
         "image": "assets/images/products/293/main.jpg",
@@ -201,7 +201,7 @@ var shopProducts = [
     },
     {
         "id": 295,
-        "name": "LivePro Premium Speed Jump Rope with Aluminum Handles",
+        "name": "LivePro Premium Speed Jump Rope",
         "category": "Accessories",
         "price": 2899.0,
         "image": "assets/images/products/295/main.jpg",
@@ -211,7 +211,7 @@ var shopProducts = [
     },
     {
         "id": 296,
-        "name": "Gym Leader Nutrition Cylinder Duffel Bag",
+        "name": "Gym Leader Cylinder Duffel Bag",
         "category": "Accessories",
         "price": 1429.0,
         "image": "assets/images/products/296/main.jpg",
@@ -221,7 +221,7 @@ var shopProducts = [
     },
     {
         "id": 312,
-        "name": "Harbinger Padded Leather Weightlifting Belt",
+        "name": "Harbinger Padded Leather Belt",
         "category": "Accessories",
         "price": 3499.0,
         "image": "assets/images/products/312/main.jpg",
@@ -231,7 +231,7 @@ var shopProducts = [
     },
     {
         "id": 318,
-        "name": "Jay Cutler Signature Leather Weightlifting Belt",
+        "name": "Jay Cutler Leather Lifting Belt",
         "category": "Accessories",
         "price": 3239.0,
         "image": "assets/images/products/318/main.jpg",
@@ -241,7 +241,7 @@ var shopProducts = [
     },
     {
         "id": 319,
-        "name": "Domyos Ergonomic Foam Handle Speed Jump Rope",
+        "name": "Domyos Foam Handle Speed Rope",
         "category": "Accessories",
         "price": 1249.0,
         "image": "assets/images/products/319/main.jpg",
@@ -251,7 +251,7 @@ var shopProducts = [
     },
     {
         "id": 321,
-        "name": "Rugged Strength & Fitness 2 oz Gym Chalk Block",
+        "name": "Rugged Strength Gym Chalk Block",
         "category": "Accessories",
         "price": 499.0,
         "image": "assets/images/products/321/main.jpg",
@@ -261,7 +261,7 @@ var shopProducts = [
     },
     {
         "id": 322,
-        "name": "Mueller Sports Medicine Wrist & Thumb Stabilizer Brace",
+        "name": "Mueller Wrist & Thumb Stabilizer",
         "category": "Accessories",
         "price": 1149.0,
         "image": "assets/images/products/322/main.jpg",
@@ -271,7 +271,7 @@ var shopProducts = [
     },
     {
         "id": 323,
-        "name": "Non-Slip Pastel Fabric Booty Resistance Bands Set (3-Pack)",
+        "name": "Pastel Fabric Booty Bands (3-Pack)",
         "category": "Accessories",
         "price": 1019.0,
         "image": "assets/images/products/323/main.jpg",
@@ -281,7 +281,7 @@ var shopProducts = [
     },
     {
         "id": 324,
-        "name": "Factory Weights Red Suede Lever Powerlifting Belt",
+        "name": "Factory Weights Lever Lifting Belt",
         "category": "Accessories",
         "price": 4299.0,
         "image": "assets/images/products/324/main.jpg",
@@ -291,7 +291,7 @@ var shopProducts = [
     },
     {
         "id": 325,
-        "name": "Digital Jump Rope with Calorie Counter & LCD Screen",
+        "name": "Digital Jump Rope",
         "category": "Accessories",
         "price": 799.0,
         "image": "assets/images/products/325/main.jpg",
@@ -301,7 +301,7 @@ var shopProducts = [
     },
     {
         "id": 326,
-        "name": "Water-Resistant Athletic Gym Duffel Bag (Black)",
+        "name": "Water-Resistant Athletic Gym Duffel Bag",
         "category": "Accessories",
         "price": 1529.0,
         "image": "assets/images/products/326/main.jpg",
@@ -311,7 +311,7 @@ var shopProducts = [
     },
     {
         "id": 328,
-        "name": "Breathable Mesh Compression Wrist Wrap Guard",
+        "name": "Mesh Compression Wrist Wrap Guard",
         "category": "Accessories",
         "price": 699.0,
         "image": "assets/images/products/328/main.jpg",
@@ -321,7 +321,7 @@ var shopProducts = [
     },
     {
         "id": 329,
-        "name": "Flat Latex Resistance Loop Bands Set with Pouch",
+        "name": "Flat Latex Resistance Loop Bands Set",
         "category": "Accessories",
         "price": 1289.0,
         "image": "assets/images/products/329/main.jpg",
@@ -331,7 +331,7 @@ var shopProducts = [
     },
     {
         "id": 330,
-        "name": "Sporter Padded Nylon Weightlifting Belt (Yellow/Black)",
+        "name": "Sporter Padded Nylon Lifting Belt",
         "category": "Accessories",
         "price": 1899.0,
         "image": "assets/images/products/330/main.jpg",
@@ -341,7 +341,7 @@ var shopProducts = [
     },
     {
         "id": 332,
-        "name": "Get RX'd Canvas Athletic Gym Duffel Bag (White)",
+        "name": "Get RX'd Canvas Athletic Gym Duffel Bag",
         "category": "Accessories",
         "price": 1349.0,
         "image": "assets/images/products/332/main.jpg",
@@ -351,7 +351,7 @@ var shopProducts = [
     },
     {
         "id": 333,
-        "name": "Mueller Gymnastic & Weightlifting Chalk 8-Block Box (1 lb)",
+        "name": "Mueller Gym Chalk (8-Block Box)",
         "category": "Accessories",
         "price": 1499.0,
         "image": "assets/images/products/333/main.jpg",
@@ -361,7 +361,7 @@ var shopProducts = [
     },
     {
         "id": 337,
-        "name": "Speed Jump Rope with Mechanical Jump Counter",
+        "name": "Speed Jump Rope",
         "category": "Accessories",
         "price": 849.0,
         "image": "assets/images/products/337/main.jpg",
@@ -371,7 +371,7 @@ var shopProducts = [
     },
     {
         "id": 338,
-        "name": "Herschel Supply Co. Classic Barrel Gym Duffel Bag (Grey)",
+        "name": "Herschel Classic Barrel Duffel Bag",
         "category": "Accessories",
         "price": 3999.0,
         "image": "assets/images/products/338/main.jpg",
@@ -381,7 +381,7 @@ var shopProducts = [
     },
     {
         "id": 339,
-        "name": "Pure Magnesium Carbonate Gym Block Chalk Set",
+        "name": "Pure Magnesium Gym Chalk Set",
         "category": "Accessories",
         "price": 1199.0,
         "image": "assets/images/products/339/main.jpg",
@@ -391,7 +391,7 @@ var shopProducts = [
     },
     {
         "id": 320,
-        "name": "Matte Black Water-Resistant Travel Gym Duffel Bag",
+        "name": "Water-Resistant Travel Gym Duffel",
         "category": "Accessories",
         "price": 1899.0,
         "image": "assets/images/products/320/main.jpg",
@@ -401,7 +401,7 @@ var shopProducts = [
     },
     {
         "id": 631,
-        "name": "Commercial All-in-One Functional Trainer Power Rack System",
+        "name": "All-in-One Functional Power Rack",
         "category": "Home Gym",
         "price": 89999.0,
         "image": "assets/images/products/631/main.jpg",
@@ -411,7 +411,7 @@ var shopProducts = [
     },
     {
         "id": 427,
-        "name": "Therabody RecoveryAir JetBoots Compression System",
+        "name": "Therabody RecoveryAir JetBoots",
         "category": "Fit Tech",
         "price": 49999.0,
         "image": "assets/images/products/427/main.jpg",
@@ -421,7 +421,7 @@ var shopProducts = [
     },
     {
         "id": 358,
-        "name": "Adidas Tiro Athletic Fleece Pullover Hoodie (Black/White)",
+        "name": "Adidas Tiro Fleece Pullover Hoodie",
         "category": "Apparel",
         "price": 3999.0,
         "image": "assets/images/products/358/main.jpg",
@@ -431,7 +431,7 @@ var shopProducts = [
     },
     {
         "id": 568,
-        "name": "Hanging Commercial Fitness & Yoga Mat with Eyelets",
+        "name": "Hanging Commercial Fitness & Yoga Mat",
         "category": "Yoga",
         "price": 1899.0,
         "image": "assets/images/products/568/main.jpg",
@@ -461,7 +461,7 @@ var shopProducts = [
     },
     {
         "id": 79,
-        "name": "Commercial Air Fan Exercise Bike with LCD Monitor",
+        "name": "Commercial Air Fan Exercise Bike",
         "category": "Cardio",
         "price": 38999.0,
         "image": "assets/images/products/79/main.jpg",
@@ -471,7 +471,7 @@ var shopProducts = [
     },
     {
         "id": 219,
-        "name": "Therabody RecoveryPulse Vibration Arm Compression Sleeve",
+        "name": "Therabody RecoveryPulse Arm Sleeve",
         "category": "Recovery",
         "price": 12499.0,
         "image": "assets/images/products/219/main.jpg",
@@ -491,7 +491,7 @@ var shopProducts = [
     },
     {
         "id": 639,
-        "name": "Commercial Dual-Stack Cable Crossover Functional Trainer",
+        "name": "Dual-Stack Cable Functional Trainer",
         "category": "Home Gym",
         "price": 84999.0,
         "image": "assets/images/products/639/main.jpg",
@@ -501,7 +501,7 @@ var shopProducts = [
     },
     {
         "id": 80,
-        "name": "Horizon Fitness Andes Folding Elliptical Cross Trainer",
+        "name": "Horizon Andes Folding Elliptical",
         "category": "Cardio",
         "price": 54999.0,
         "image": "assets/images/products/80/main.jpg",
@@ -511,7 +511,7 @@ var shopProducts = [
     },
     {
         "id": 221,
-        "name": "Aptonia Handheld Deep Tissue Percussion Massage Gun",
+        "name": "Aptonia Deep Tissue Massage Gun",
         "category": "Recovery",
         "price": 4999.0,
         "image": "assets/images/products/221/main.jpg",
@@ -521,7 +521,7 @@ var shopProducts = [
     },
     {
         "id": 153,
-        "name": "Rival Boxing Pro Leather Speed Bag (Black/Lime)",
+        "name": "Rival Boxing Pro Leather Speed Bag",
         "category": "Combat",
         "price": 3039.0,
         "image": "assets/images/products/153/main.jpg",
@@ -531,7 +531,7 @@ var shopProducts = [
     },
     {
         "id": 155,
-        "name": "FujiMae Boxing Hand Wraps (White / 180-Inch)",
+        "name": "FujiMae Boxing Hand Wraps",
         "category": "Combat",
         "price": 799.0,
         "image": "assets/images/products/155/main.jpg",
@@ -541,7 +541,7 @@ var shopProducts = [
     },
     {
         "id": 225,
-        "name": "Athletic Support Elastic Arm & Elbow Compression Sleeve",
+        "name": "Elastic Arm Compression Sleeve",
         "category": "Recovery",
         "price": 899.0,
         "image": "assets/images/products/225/main.jpg",
@@ -551,7 +551,7 @@ var shopProducts = [
     },
     {
         "id": 365,
-        "name": "High-Waisted Seamless Compression Workout Biker Shorts (Black)",
+        "name": "High-Waisted Seamless Biker Shorts",
         "category": "Apparel",
         "price": 1389.0,
         "image": "assets/images/products/365/main.jpg",
@@ -561,7 +561,7 @@ var shopProducts = [
     },
     {
         "id": 152,
-        "name": "Nike Pro Football Shin Guard & Calf Compression Sleeves",
+        "name": "Nike Pro Shin Guards & Sleeves",
         "category": "Combat",
         "price": 1669.0,
         "image": "assets/images/products/152/main.jpg",
@@ -571,7 +571,7 @@ var shopProducts = [
     },
     {
         "id": 288,
-        "name": "Padded Leather Weightlifting Belt with Dual-Prong Buckle",
+        "name": "Padded Leather Weightlifting Belt",
         "category": "Accessories",
         "price": 2999.0,
         "image": "assets/images/products/288/main.jpg",
@@ -581,7 +581,7 @@ var shopProducts = [
     },
     {
         "id": 640,
-        "name": "Force USA G20 All-In-One Commercial Trainer & Power Rack",
+        "name": "Force USA G20 Commercial Trainer",
         "category": "Home Gym",
         "price": 99999.0,
         "image": "assets/images/products/640/main.jpg",
@@ -591,7 +591,7 @@ var shopProducts = [
     },
     {
         "id": 634,
-        "name": "Yodha Fitness Tiger Commercial Power Cage Squat Rack",
+        "name": "Yodha Fitness Power Cage Squat Rack",
         "category": "Home Gym",
         "price": 54999.0,
         "image": "assets/images/products/634/main.jpg",
@@ -601,7 +601,7 @@ var shopProducts = [
     },
     {
         "id": 151,
-        "name": "Sting Armalite Curved Boxing Focus Mitts Pair",
+        "name": "Sting Armalite Focus Mitts Pair",
         "category": "Combat",
         "price": 4299.0,
         "image": "assets/images/products/151/main.jpg",
@@ -611,7 +611,7 @@ var shopProducts = [
     },
     {
         "id": 84,
-        "name": "Axox Commercial Self-Powered Curved Manual Treadmill",
+        "name": "Axox Curved Manual Treadmill",
         "category": "Cardio",
         "price": 79999.0,
         "image": "assets/images/products/84/main.jpg",
@@ -621,7 +621,7 @@ var shopProducts = [
     },
     {
         "id": 154,
-        "name": "Full Face Sparring Headgear with Clear Face Shield (Blue)",
+        "name": "Full Face Sparring Headgear",
         "category": "Combat",
         "price": 3779.0,
         "image": "assets/images/products/154/main.jpg",
@@ -631,7 +631,7 @@ var shopProducts = [
     },
     {
         "id": 224,
-        "name": "Trioxi Pure Epsom Salt Muscle Recovery Bath Soak (10kg Tub)",
+        "name": "Trioxi Epsom Salt Soak (10kg)",
         "category": "Recovery",
         "price": 2499.0,
         "image": "assets/images/products/224/main.jpg",
@@ -641,7 +641,7 @@ var shopProducts = [
     },
     {
         "id": 294,
-        "name": "FitGrip Contoured Leather Weightlifting Belt with Dual-Prong Buckle",
+        "name": "FitGrip Contoured Leather Weightlifting Belt",
         "category": "Accessories",
         "price": 2799.0,
         "image": "assets/images/products/294/main.jpg",
@@ -651,7 +651,7 @@ var shopProducts = [
     },
     {
         "id": 364,
-        "name": "Women's Fleece Cropped Full-Zip Workout Hoodie (Mocha)",
+        "name": "Women's Fleece Cropped Zip Hoodie",
         "category": "Apparel",
         "price": 1589.0,
         "image": "assets/images/products/364/main.jpg",
@@ -661,7 +661,7 @@ var shopProducts = [
     },
     {
         "id": 434,
-        "name": "Garmin Tactix 7 Pro Multisport Tactical GPS Smartwatch",
+        "name": "Garmin Tactix 7 Pro Smartwatch",
         "category": "Fit Tech",
         "price": 89999.0,
         "image": "assets/images/products/434/main.jpg",
@@ -671,7 +671,7 @@ var shopProducts = [
     },
     {
         "id": 575,
-        "name": "Ergonomic Slanted Meditation Wedge Cushion & Zabuton Mat Set (Grey)",
+        "name": "Slanted Meditation Cushion & Mat",
         "category": "Yoga",
         "price": 2439.0,
         "image": "assets/images/products/575/main.jpg",
@@ -681,7 +681,7 @@ var shopProducts = [
     },
     {
         "id": 645,
-        "name": "Speediance Gym Monster Smart Interactive Home Gym System",
+        "name": "Speediance Gym Monster Smart Gym",
         "category": "Home Gym",
         "price": 84999.0,
         "image": "assets/images/products/645/main.jpg",
@@ -691,7 +691,7 @@ var shopProducts = [
     },
     {
         "id": 16,
-        "name": "Pro-Gym Commercial 2-Tier Heavy-Duty Dumbbell Storage Rack",
+        "name": "Pro-Gym 2-Tier Dumbbell Rack",
         "category": "Strength",
         "price": 14999.0,
         "image": "assets/images/products/16/main.jpg",
@@ -701,7 +701,7 @@ var shopProducts = [
     },
     {
         "id": 86,
-        "name": "Sunny Health & Fitness Magnetic Elliptical Cross Trainer",
+        "name": "Sunny Magnetic Elliptical Trainer",
         "category": "Cardio",
         "price": 22959.0,
         "image": "assets/images/products/86/main.jpg",
@@ -711,7 +711,7 @@ var shopProducts = [
     },
     {
         "id": 156,
-        "name": "Eliza Pro Leather Boxing Sparring Gloves (Black/Gold)",
+        "name": "Eliza Pro Leather Boxing Sparring Gloves",
         "category": "Combat",
         "price": 4689.0,
         "image": "assets/images/products/156/main.jpg",
@@ -721,7 +721,7 @@ var shopProducts = [
     },
     {
         "id": 226,
-        "name": "Teckwave Inflatable Insulated Cold Plunge Ice Bath Tub with Cover",
+        "name": "Teckwave Inflatable Cold Plunge",
         "category": "Recovery",
         "price": 24999.0,
         "image": "assets/images/products/226/main.jpg",
@@ -731,7 +731,7 @@ var shopProducts = [
     },
     {
         "id": 366,
-        "name": "Pro Olympic Weightlifting Shoes with Dual Midfoot Straps (White/Black)",
+        "name": "Pro Olympic Weightlifting Shoes",
         "category": "Apparel",
         "price": 8999.0,
         "image": "assets/images/products/366/main.jpg",
@@ -741,7 +741,7 @@ var shopProducts = [
     },
     {
         "id": 436,
-        "name": "CooSpo Bluetooth & ANT+ Heart Rate Monitor Chest Strap",
+        "name": "CooSpo Heart Rate Chest Strap",
         "category": "Fit Tech",
         "price": 3499.0,
         "image": "assets/images/products/436/main.jpg",
@@ -751,7 +751,7 @@ var shopProducts = [
     },
     {
         "id": 506,
-        "name": "Applied Nutrition BCAA Amino Hydrate Powder (Fruit Burst)",
+        "name": "Applied Nutrition BCAA Hydrate",
         "category": "Supplements",
         "price": 2999.0,
         "image": "assets/images/products/506/main.jpg",
@@ -761,7 +761,7 @@ var shopProducts = [
     },
     {
         "id": 367,
-        "name": "Nike Dri-FIT Women's Running Tank Top (Royal Blue)",
+        "name": "Nike Dri-FIT Women's Running Tank Top",
         "category": "Apparel",
         "price": 2499.0,
         "image": "assets/images/products/367/main.jpg",
@@ -771,7 +771,7 @@ var shopProducts = [
     },
     {
         "id": 159,
-        "name": "Fortis Athletica Canvas & Leather Hanging Heavy Punching Bag",
+        "name": "Fortis Hanging Heavy Punching Bag",
         "category": "Combat",
         "price": 12999.0,
         "image": "assets/images/products/159/main.jpg",
@@ -781,7 +781,7 @@ var shopProducts = [
     },
     {
         "id": 229,
-        "name": "Rechargeable Textured Vibrating Massage Ball Roller",
+        "name": "Vibrating Massage Ball Roller",
         "category": "Recovery",
         "price": 6999.0,
         "image": "assets/images/products/229/main.jpg",
@@ -791,7 +791,7 @@ var shopProducts = [
     },
     {
         "id": 579,
-        "name": "Manduka Unfold Organic Cotton Yoga Strap (Purple)",
+        "name": "Manduka Unfold Organic Cotton Yoga Strap",
         "category": "Yoga",
         "price": 1859.0,
         "image": "assets/images/products/579/main.jpg",
@@ -801,7 +801,7 @@ var shopProducts = [
     },
     {
         "id": 649,
-        "name": "NordicTrack Commercial Recumbent Exercise Bike with Touchscreen",
+        "name": "NordicTrack Recumbent Exercise Bike",
         "category": "Home Gym",
         "price": 79999.0,
         "image": "assets/images/products/649/main.jpg",
@@ -811,7 +811,7 @@ var shopProducts = [
     },
     {
         "id": 20,
-        "name": "York Fitness Olympic Barbell & Tri-Grip Weight Plates Set",
+        "name": "York Olympic Barbell & Plates Set",
         "category": "Strength",
         "price": 24999.0,
         "image": "assets/images/products/20/main.jpg",
@@ -821,7 +821,7 @@ var shopProducts = [
     },
     {
         "id": 90,
-        "name": "Smart Ultra-Thin Folding Motorized Treadmill with Digital Display",
+        "name": "Smart Ultra-Thin Folding Motorized Treadmill",
         "category": "Cardio",
         "price": 29199.0,
         "image": "assets/images/products/90/main.jpg",
@@ -831,7 +831,7 @@ var shopProducts = [
     },
     {
         "id": 160,
-        "name": "Venture Tactical Full Face FAST Helmet with Goggles & Mask",
+        "name": "Venture Tactical Full Face FAST Helmet",
         "category": "Combat",
         "price": 4999.0,
         "image": "assets/images/products/160/main.jpg",
@@ -841,7 +841,7 @@ var shopProducts = [
     },
     {
         "id": 230,
-        "name": "Dr Teal's Pure Epsom Salt Soaking Solution (Eucalyptus & Spearmint 3 lbs)",
+        "name": "Dr Teal's Pure Epsom Salt Soaking Solution",
         "category": "Recovery",
         "price": 1249.0,
         "image": "assets/images/products/230/main.jpg",
@@ -851,7 +851,7 @@ var shopProducts = [
     },
     {
         "id": 440,
-        "name": "EH108 Digital Hand Dynamometer Electronic Grip Strength Tester",
+        "name": "EH108 Digital Hand Dynamometer",
         "category": "Fit Tech",
         "price": 2499.0,
         "image": "assets/images/products/440/main.jpg",
@@ -861,7 +861,7 @@ var shopProducts = [
     },
     {
         "id": 580,
-        "name": "Round Striped Cotton Zafu Yoga Meditation Cushion (Grey/White)",
+        "name": "Striped Cotton Zafu Cushion",
         "category": "Yoga",
         "price": 1409.0,
         "image": "assets/images/products/580/main.jpg",
@@ -881,7 +881,7 @@ var shopProducts = [
     },
     {
         "id": 91,
-        "name": "Commercial Dual-Action Air Fan Resistance Exercise Bike",
+        "name": "Commercial Dual-Action Air Bike",
         "category": "Cardio",
         "price": 31599.0,
         "image": "assets/images/products/91/main.jpg",
@@ -891,7 +891,7 @@ var shopProducts = [
     },
     {
         "id": 161,
-        "name": "Pro Boxing Elastic Hand Wraps & Wrist Support Guards (Black)",
+        "name": "Pro Boxing Elastic Hand Wraps",
         "category": "Combat",
         "price": 1299.0,
         "image": "assets/images/products/161/main.jpg",
@@ -901,7 +901,7 @@ var shopProducts = [
     },
     {
         "id": 231,
-        "name": "Ultra-Stabilize The Elbow-Guard Ultra Compression Support Brace",
+        "name": "Ultra Compression Elbow Brace",
         "category": "Recovery",
         "price": 1899.0,
         "image": "assets/images/products/231/main.jpg",
@@ -911,7 +911,7 @@ var shopProducts = [
     },
     {
         "id": 371,
-        "name": "HYPD 2-in-1 Athletic Workout Running Shorts (Charcoal Grey)",
+        "name": "HYPD 2-in-1 Athletic Workout Running Shorts",
         "category": "Apparel",
         "price": 1179.0,
         "image": "assets/images/products/371/main.jpg",
@@ -921,7 +921,7 @@ var shopProducts = [
     },
     {
         "id": 581,
-        "name": "Cylindrical Organic Cotton Yoga Meditation Bolster Pillow (Grey)",
+        "name": "Organic Cotton Yoga Bolster Pillow",
         "category": "Yoga",
         "price": 1899.0,
         "image": "assets/images/products/581/main.jpg",
@@ -931,7 +931,7 @@ var shopProducts = [
     },
     {
         "id": 651,
-        "name": "Multi-Position Adjustable Incline Workout Bench with Preacher Curl & Leg Developer",
+        "name": "Adjustable Incline Workout Bench",
         "category": "Home Gym",
         "price": 18999.0,
         "image": "assets/images/products/651/main.jpg",
@@ -941,7 +941,7 @@ var shopProducts = [
     },
     {
         "id": 22,
-        "name": "Precor Commercial Multi-Angle Adjustable Incline Dumbbell Bench",
+        "name": "Precor Adjustable Incline Bench",
         "category": "Strength",
         "price": 24999.0,
         "image": "assets/images/products/22/main.jpg",
@@ -951,7 +951,7 @@ var shopProducts = [
     },
     {
         "id": 92,
-        "name": "Commercial Magnetic Elliptical Cross Trainer Machine",
+        "name": "Commercial Magnetic Elliptical",
         "category": "Cardio",
         "price": 49999.0,
         "image": "assets/images/products/92/main.jpg",
@@ -961,7 +961,7 @@ var shopProducts = [
     },
     {
         "id": 232,
-        "name": "The Cold Pod Portable Cold Plunge Ice Bath Tub with Thermal Lid",
+        "name": "The Cold Pod Cold Plunge Ice Tub",
         "category": "Recovery",
         "price": 9999.0,
         "image": "assets/images/products/232/main.jpg",
@@ -971,7 +971,7 @@ var shopProducts = [
     },
     {
         "id": 302,
-        "name": "GoZone Athletic Travel Gym Duffel Bag with Shoe Pocket (Black/Neon)",
+        "name": "GoZone Athletic Travel Gym Duffel Bag",
         "category": "Accessories",
         "price": 2499.0,
         "image": "assets/images/products/302/main.jpg",
@@ -981,7 +981,7 @@ var shopProducts = [
     },
     {
         "id": 372,
-        "name": "Bullrock Podium Olympic Weightlifting Shoes (Red/Black)",
+        "name": "Bullrock Podium Olympic Weightlifting Shoes",
         "category": "Apparel",
         "price": 8999.0,
         "image": "assets/images/products/372/main.jpg",
@@ -991,7 +991,7 @@ var shopProducts = [
     },
     {
         "id": 442,
-        "name": "Pneumatic Multi-Chamber Air Compression Leg & Foot Recovery Boots",
+        "name": "Pneumatic Air Compression Boots",
         "category": "Fit Tech",
         "price": 12499.0,
         "image": "assets/images/products/442/main.jpg",
@@ -1011,7 +1011,7 @@ var shopProducts = [
     },
     {
         "id": 652,
-        "name": "Marcy Diamond Elite Smith Machine & Multi-Function Home Gym Cage",
+        "name": "Marcy Smith Machine Home Gym Cage",
         "category": "Home Gym",
         "price": 89999.0,
         "image": "assets/images/products/652/main.jpg",
@@ -1021,7 +1021,7 @@ var shopProducts = [
     },
     {
         "id": 23,
-        "name": "Commercial Heavy-Duty Power Half Rack Squat Cage",
+        "name": "Commercial Power Half Rack Squat Cage",
         "category": "Strength",
         "price": 44999.0,
         "image": "assets/images/products/23/main.jpg",
@@ -1031,7 +1031,7 @@ var shopProducts = [
     },
     {
         "id": 233,
-        "name": "Revive Percussion Therapy Professional Deep Tissue Massage Gun",
+        "name": "Revive Deep Tissue Massage Gun",
         "category": "Recovery",
         "price": 6319.0,
         "image": "assets/images/products/233/main.jpg",
@@ -1041,7 +1041,7 @@ var shopProducts = [
     },
     {
         "id": 373,
-        "name": "Full-Coverage Tactical Sparring Protective Helmet Mask",
+        "name": "Tactical Sparring Helmet Mask",
         "category": "Apparel",
         "price": 5619.0,
         "image": "assets/images/products/373/main.jpg",
@@ -1051,7 +1051,7 @@ var shopProducts = [
     },
     {
         "id": 583,
-        "name": "Bohemian Vintage Persian Pattern Non-Slip Printed Yoga Mat",
+        "name": "Vintage Persian Print Yoga Mat",
         "category": "Yoga",
         "price": 2499.0,
         "image": "assets/images/products/583/main.jpg",
@@ -1061,7 +1061,7 @@ var shopProducts = [
     },
     {
         "id": 653,
-        "name": "Multi-Station Power Cage Home Gym System with Cable Crossover & Bench",
+        "name": "Multi-Station Power Cage Home Gym System",
         "category": "Home Gym",
         "price": 69999.0,
         "image": "assets/images/products/653/main.jpg",
@@ -1071,7 +1071,7 @@ var shopProducts = [
     },
     {
         "id": 24,
-        "name": "Ukiyo Commercial 3-Tier Heavy-Duty Dumbbell Storage Rack",
+        "name": "Ukiyo 3-Tier Dumbbell Storage Rack",
         "category": "Strength",
         "price": 18999.0,
         "image": "assets/images/products/24/main.jpg",
@@ -1081,7 +1081,7 @@ var shopProducts = [
     },
     {
         "id": 94,
-        "name": "Lifespan Fitness ST-15 Vertex Commercial Stair Climber Stepmill",
+        "name": "Lifespan ST-15 Commercial Stepmill",
         "category": "Cardio",
         "price": 89999.0,
         "image": "assets/images/products/94/main.jpg",
@@ -1091,7 +1091,7 @@ var shopProducts = [
     },
     {
         "id": 164,
-        "name": "Victory MMA & Muay Thai Padded Shin Guards with Instep Protection (Black)",
+        "name": "Victory MMA & Muay Thai Padded Shin Guards",
         "category": "Combat",
         "price": 3179.0,
         "image": "assets/images/products/164/main.jpg",
@@ -1101,7 +1101,7 @@ var shopProducts = [
     },
     {
         "id": 374,
-        "name": "M2W Men's Tapered Fleece Workout Jogger Pants with Ankle Zips (Navy)",
+        "name": "M2W Men's Tapered Fleece Workout Jogger Pants",
         "category": "Apparel",
         "price": 1899.0,
         "image": "assets/images/products/374/main.jpg",
@@ -1111,7 +1111,7 @@ var shopProducts = [
     },
     {
         "id": 444,
-        "name": "Smart Touchscreen Fitness Tracker Smartwatch (Black)",
+        "name": "Smart Touchscreen Fitness Tracker Smartwatch",
         "category": "Fit Tech",
         "price": 5159.0,
         "image": "assets/images/products/444/main.jpg",
@@ -1121,7 +1121,7 @@ var shopProducts = [
     },
     {
         "id": 584,
-        "name": "Manduka Commuter Organic Cotton Yoga Mat Carry Strap Sling (Sky Blue)",
+        "name": "Manduka Cotton Yoga Mat Strap",
         "category": "Yoga",
         "price": 1329.0,
         "image": "assets/images/products/584/main.jpg",
@@ -1131,7 +1131,7 @@ var shopProducts = [
     },
     {
         "id": 654,
-        "name": "Sunny Health & Fitness Power Zone Half Rack Squat Stand with Plate Storage",
+        "name": "Sunny Health Power Zone Half Rack",
         "category": "Home Gym",
         "price": 24999.0,
         "image": "assets/images/products/654/main.jpg",
@@ -1141,7 +1141,7 @@ var shopProducts = [
     },
     {
         "id": 25,
-        "name": "Olympic Hex Trap Bar with Dual Knurled Handles (Deadlift & Shrug Bar)",
+        "name": "Olympic Hex Trap Bar",
         "category": "Strength",
         "price": 12499.0,
         "image": "assets/images/products/25/main.jpg",
@@ -1151,7 +1151,7 @@ var shopProducts = [
     },
     {
         "id": 305,
-        "name": "Merrithew Non-Latex Flex-Band Resistance Exerciser (Extra Strength Green)",
+        "name": "Merrithew Flex-Band Resistance Band",
         "category": "Accessories",
         "price": 1389.0,
         "image": "assets/images/products/305/main.jpg",
@@ -1161,7 +1161,7 @@ var shopProducts = [
     },
     {
         "id": 375,
-        "name": "Zenith Men's Breathable Athletic Performance Tennis & Gym T-Shirt (White)",
+        "name": "Zenith Performance Athletic T-Shirt",
         "category": "Apparel",
         "price": 1499.0,
         "image": "assets/images/products/375/main.jpg",
@@ -1171,7 +1171,7 @@ var shopProducts = [
     },
     {
         "id": 445,
-        "name": "ArmFit Bluetooth & ANT+ Optical Heart Rate Monitor Armband (Blue)",
+        "name": "ArmFit Optical Heart Rate Armband",
         "category": "Fit Tech",
         "price": 2999.0,
         "image": "assets/images/products/445/main.jpg",
@@ -1181,7 +1181,7 @@ var shopProducts = [
     },
     {
         "id": 585,
-        "name": "Sage Soul Round Floral Mandala Cotton Meditation Zafu Cushion (Orange)",
+        "name": "Mandala Cotton Meditation Cushion",
         "category": "Yoga",
         "price": 2189.0,
         "image": "assets/images/products/585/main.jpg",
@@ -1191,7 +1191,7 @@ var shopProducts = [
     },
     {
         "id": 655,
-        "name": "AXDX Commercial All-In-One Smith Machine & Functional Trainer Home Gym",
+        "name": "AXDX Smith Machine Functional Gym",
         "category": "Home Gym",
         "price": 94999.0,
         "image": "assets/images/products/655/main.jpg",
@@ -1201,7 +1201,7 @@ var shopProducts = [
     },
     {
         "id": 26,
-        "name": "Core Home Fitness Quick-Select Adjustable Dumbbells Pair (5-50 lbs) with Cradles",
+        "name": "Core Home Adjustable Dumbbells Pair",
         "category": "Strength",
         "price": 24999.0,
         "image": "assets/images/products/26/main.jpg",
@@ -1211,7 +1211,7 @@ var shopProducts = [
     },
     {
         "id": 96,
-        "name": "SportE Commercial Multi-Function Motorized Folding Treadmill with Massager",
+        "name": "SportE Motorized Folding Treadmill",
         "category": "Cardio",
         "price": 33599.0,
         "image": "assets/images/products/96/main.jpg",
@@ -1221,7 +1221,7 @@ var shopProducts = [
     },
     {
         "id": 236,
-        "name": "Browe Pure Magnesium Epsom Salt Foot Soak & Bath Salts (2 lbs / 907g)",
+        "name": "Browe Pure Magnesium Epsom Soak",
         "category": "Recovery",
         "price": 899.0,
         "image": "assets/images/products/236/main.jpg",
@@ -1231,7 +1231,7 @@ var shopProducts = [
     },
     {
         "id": 306,
-        "name": "Bulk Self-Locking Nylon Weightlifting Belt with Quick-Release Buckle (Black)",
+        "name": "Bulk Self-Locking Nylon Weightlifting Belt",
         "category": "Accessories",
         "price": 2499.0,
         "image": "assets/images/products/306/main.jpg",
@@ -1241,7 +1241,7 @@ var shopProducts = [
     },
     {
         "id": 376,
-        "name": "Nike Sportswear Club Fleece Women's Pullover Workout Hoodie (Mint Green)",
+        "name": "Nike Club Fleece Women's Hoodie",
         "category": "Apparel",
         "price": 3999.0,
         "image": "assets/images/products/376/main.jpg",
@@ -1251,7 +1251,7 @@ var shopProducts = [
     },
     {
         "id": 446,
-        "name": "Garmin HRM-Dual Wireless Heart Rate Monitor Chest Strap",
+        "name": "Garmin HRM-Dual Heart Rate Strap",
         "category": "Fit Tech",
         "price": 5999.0,
         "image": "assets/images/products/446/main.jpg",
@@ -1261,7 +1261,7 @@ var shopProducts = [
     },
     {
         "id": 516,
-        "name": "Pure Encapsulations Men's Nutrients Multivitamin Supplement (180 Capsules)",
+        "name": "Pure Encapsulations Multivitamin",
         "category": "Supplements",
         "price": 4999.0,
         "image": "assets/images/products/516/main.jpg",
@@ -1271,7 +1271,7 @@ var shopProducts = [
     },
     {
         "id": 586,
-        "name": "Round Cylindrical Yoga Meditation Bolster Pillow (Pink/Purple)",
+        "name": "Cylindrical Yoga Bolster Pillow",
         "category": "Yoga",
         "price": 1629.0,
         "image": "assets/images/products/586/main.jpg",
@@ -1281,7 +1281,7 @@ var shopProducts = [
     },
     {
         "id": 656,
-        "name": "Commercial Multi-Grip Half Rack Squat Power Cage with Spotter Arms",
+        "name": "Commercial Half Rack Squat Cage",
         "category": "Home Gym",
         "price": 39999.0,
         "image": "assets/images/products/656/main.jpg",
@@ -1291,7 +1291,7 @@ var shopProducts = [
     },
     {
         "id": 27,
-        "name": "Solid Cast Iron Competition Kettlebell (Overhead Training)",
+        "name": "Cast Iron Competition Kettlebell",
         "category": "Strength",
         "price": 5499.0,
         "image": "assets/images/products/27/main.jpg",
@@ -1301,7 +1301,7 @@ var shopProducts = [
     },
     {
         "id": 97,
-        "name": "High-Performance All-Terrain Mountain Bike (Trail Edition)",
+        "name": "All-Terrain Trail Mountain Bike",
         "category": "Cardio",
         "price": 42999.0,
         "image": "assets/images/products/97/main.jpg",
@@ -1311,7 +1311,7 @@ var shopProducts = [
     },
     {
         "id": 167,
-        "name": "Camo Green Padded Boxing Hand Wraps & Knuckle Guard Gloves",
+        "name": "Padded Boxing Hand Wraps Gloves",
         "category": "Combat",
         "price": 1999.0,
         "image": "assets/images/products/167/main.jpg",
@@ -1321,7 +1321,7 @@ var shopProducts = [
     },
     {
         "id": 237,
-        "name": "Bauerfeind GenuTrain Targeted Compression Knee Support Brace (White)",
+        "name": "Bauerfeind Targeted Knee Brace",
         "category": "Recovery",
         "price": 3999.0,
         "image": "assets/images/products/237/main.jpg",
@@ -1331,7 +1331,7 @@ var shopProducts = [
     },
     {
         "id": 377,
-        "name": "Vivobarefoot Motus Strength Barefoot Training Shoes (Olive Green)",
+        "name": "Vivobarefoot Motus Strength Shoes",
         "category": "Apparel",
         "price": 14999.0,
         "image": "assets/images/products/377/main.jpg",
@@ -1341,7 +1341,7 @@ var shopProducts = [
     },
     {
         "id": 447,
-        "name": "Biohackn Pneumatic Air Compression Leg Recovery Boots System with Travel Bag",
+        "name": "Biohackn Air Compression Boots",
         "category": "Fit Tech",
         "price": 19999.0,
         "image": "assets/images/products/447/main.jpg",
@@ -1351,7 +1351,7 @@ var shopProducts = [
     },
     {
         "id": 517,
-        "name": "Combat Fuel Pure Micronized Creatine Monohydrate Powder (500g / 100 Servings)",
+        "name": "Combat Fuel Micronized Creatine",
         "category": "Supplements",
         "price": 2499.0,
         "image": "assets/images/products/517/main.jpg",
@@ -1361,7 +1361,7 @@ var shopProducts = [
     },
     {
         "id": 587,
-        "name": "High-Density EVA Foam Beveled Yoga Blocks (Purple Pair)",
+        "name": "High-Density EVA Foam Beveled Yoga Blocks",
         "category": "Yoga",
         "price": 1599.0,
         "image": "assets/images/products/587/main.jpg",
@@ -1371,7 +1371,7 @@ var shopProducts = [
     },
     {
         "id": 657,
-        "name": "Commercial Heavy-Duty Full Power Cage Squat Rack with Pull-Up Bar",
+        "name": "Commercial Full Power Cage Squat Rack",
         "category": "Home Gym",
         "price": 49999.0,
         "image": "assets/images/products/657/main.jpg",
@@ -1381,7 +1381,7 @@ var shopProducts = [
     },
     {
         "id": 28,
-        "name": "Commercial Cast Iron Olympic Barbell Weight Plates Loading Set",
+        "name": "Commercial Cast Iron Olympic Plates",
         "category": "Strength",
         "price": 12439.0,
         "image": "assets/images/products/28/main.jpg",
@@ -1391,7 +1391,7 @@ var shopProducts = [
     },
     {
         "id": 98,
-        "name": "Equilibrium Commercial Magnetic Rear-Drive Elliptical Cross Trainer Machine",
+        "name": "Equilibrium Rear-Drive Elliptical",
         "category": "Cardio",
         "price": 27399.0,
         "image": "assets/images/products/98/main.jpg",
@@ -1401,7 +1401,7 @@ var shopProducts = [
     },
     {
         "id": 378,
-        "name": "Heavy-Duty Cowhide Leather & Suede Protective Work & Gym Gloves (Yellow/Grey)",
+        "name": "Cowhide Leather Work & Gym Gloves",
         "category": "Apparel",
         "price": 1249.0,
         "image": "assets/images/products/378/main.jpg",
@@ -1411,7 +1411,7 @@ var shopProducts = [
     },
     {
         "id": 448,
-        "name": "Smart Digital Body Fat & Composition Scale with LED Display (Black)",
+        "name": "Smart Digital Body Fat & Composition Scale",
         "category": "Fit Tech",
         "price": 3499.0,
         "image": "assets/images/products/448/main.jpg",
@@ -1421,7 +1421,7 @@ var shopProducts = [
     },
     {
         "id": 518,
-        "name": "Puhdas+ BCAA 2:1:1 Amino Acid Recovery Powder Tub (300g)",
+        "name": "Puhdas+ BCAA 2:1:1 Recovery Powder",
         "category": "Supplements",
         "price": 2499.0,
         "image": "assets/images/products/518/main.jpg",
@@ -1431,7 +1431,7 @@ var shopProducts = [
     },
     {
         "id": 588,
-        "name": "Natural Eco-Friendly Cork Yoga Mat (Non-Slip Workout Mat)",
+        "name": "Natural Cork Non-Slip Yoga Mat",
         "category": "Yoga",
         "price": 2049.0,
         "image": "assets/images/products/588/main.jpg",
@@ -1441,7 +1441,7 @@ var shopProducts = [
     },
     {
         "id": 658,
-        "name": "Commercial Lat Pulldown & Low Row Cable Machine Tower",
+        "name": "Commercial Lat Pulldown & Row Tower",
         "category": "Home Gym",
         "price": 74999.0,
         "image": "assets/images/products/658/main.jpg",
@@ -1451,7 +1451,7 @@ var shopProducts = [
     },
     {
         "id": 29,
-        "name": "SolioFit Olympic EZ Curl Barbell with Cast Iron Weight Plates Set",
+        "name": "SolioFit Olympic EZ Curl Barbell",
         "category": "Strength",
         "price": 12919.0,
         "image": "assets/images/products/29/main.jpg",
@@ -1461,7 +1461,7 @@ var shopProducts = [
     },
     {
         "id": 99,
-        "name": "Prasayu Fitness Commercial Magnetic Studio Indoor Cycling Exercise Bike",
+        "name": "Prasayu Magnetic Indoor Spin Bike",
         "category": "Cardio",
         "price": 28599.0,
         "image": "assets/images/products/99/main.jpg",
@@ -1471,7 +1471,7 @@ var shopProducts = [
     },
     {
         "id": 169,
-        "name": "RDX Padded Curved Boxing Focus Punch Mitts (Pair)",
+        "name": "RDX Curved Boxing Focus Mitts Pair",
         "category": "Combat",
         "price": 3499.0,
         "image": "assets/images/products/169/main.jpg",
@@ -1481,7 +1481,7 @@ var shopProducts = [
     },
     {
         "id": 379,
-        "name": "Men's Drop-Armhole Sleeveless Gym Workout Muscle Tank Top (Off-White)",
+        "name": "Drop-Armhole Muscle Gym Tank Top",
         "category": "Apparel",
         "price": 1489.0,
         "image": "assets/images/products/379/main.jpg",
@@ -1491,7 +1491,7 @@ var shopProducts = [
     },
     {
         "id": 449,
-        "name": "Smart Touchscreen Fitness & Sport Tracker Smartwatch (Black/Red Strap)",
+        "name": "Smart Touchscreen Fitness Watch",
         "category": "Fit Tech",
         "price": 4559.0,
         "image": "assets/images/products/449/main.jpg",
@@ -1501,7 +1501,7 @@ var shopProducts = [
     },
     {
         "id": 519,
-        "name": "Enervit Pure Pro Isolate Grass-Fed Whey Protein Powder (Cyan Tub)",
+        "name": "Enervit Pure Pro Whey Isolate",
         "category": "Supplements",
         "price": 4999.0,
         "image": "assets/images/products/519/main.jpg",
@@ -1511,7 +1511,7 @@ var shopProducts = [
     },
     {
         "id": 589,
-        "name": "Organic Cotton Yoga Mat Carry Strap & Stretching Belt with D-Rings (Beige)",
+        "name": "Cotton Yoga Mat Strap & Belt",
         "category": "Yoga",
         "price": 899.0,
         "image": "assets/images/products/589/main.jpg",
@@ -1521,7 +1521,7 @@ var shopProducts = [
     },
     {
         "id": 659,
-        "name": "LiftDex Commercial Heavy-Duty Half Rack Squat Stand with Pull-Up Bar",
+        "name": "LiftDex Commercial Half Rack Squat Stand",
         "category": "Home Gym",
         "price": 30119.0,
         "image": "assets/images/products/659/main.jpg",
@@ -1531,7 +1531,7 @@ var shopProducts = [
     },
     {
         "id": 30,
-        "name": "Multi-Angle Adjustable Incline Decline Weight Bench (Black/Red)",
+        "name": "Adjustable Incline Decline Bench",
         "category": "Strength",
         "price": 8879.0,
         "image": "assets/images/products/30/main.jpg",
@@ -1541,7 +1541,7 @@ var shopProducts = [
     },
     {
         "id": 100,
-        "name": "Commercial Revolving Stair Climber Stepmill Cardio Machine",
+        "name": "Commercial Revolving Stepmill",
         "category": "Cardio",
         "price": 64999.0,
         "image": "assets/images/products/100/main.jpg",
@@ -1551,7 +1551,7 @@ var shopProducts = [
     },
     {
         "id": 170,
-        "name": "Martial Arts Padded Leather Shin & Instep Guards for Kickboxing & MMA (Black Pair)",
+        "name": "Padded Leather Shin & Instep Guards",
         "category": "Combat",
         "price": 4499.0,
         "image": "assets/images/products/170/main.jpg",
@@ -1561,7 +1561,7 @@ var shopProducts = [
     },
     {
         "id": 450,
-        "name": "Stainless Steel Milanese Mesh Strap Smart Fitness Band (Silver)",
+        "name": "Milanese Mesh Smart Fitness Band",
         "category": "Fit Tech",
         "price": 12099.0,
         "image": "assets/images/products/450/main.jpg",
@@ -1571,7 +1571,7 @@ var shopProducts = [
     },
     {
         "id": 590,
-        "name": "Cylindrical Microfiber Meditation & Yoga Bolster Pillow (Slate Blue)",
+        "name": "Microfiber Yoga Bolster Pillow",
         "category": "Yoga",
         "price": 1959.0,
         "image": "assets/images/products/590/main.jpg",
@@ -1581,7 +1581,7 @@ var shopProducts = [
     },
     {
         "id": 101,
-        "name": "WaterRower Commercial Water Resistance Rowing Machine (Black Edition)",
+        "name": "WaterRower Water Rowing Machine",
         "category": "Cardio",
         "price": 54999.0,
         "image": "assets/images/products/101/main.jpg",
@@ -1591,7 +1591,7 @@ var shopProducts = [
     },
     {
         "id": 171,
-        "name": "Freestanding Inflatable Boxing & Kickboxing Punching Bag with Water Base",
+        "name": "Inflatable Punching Bag Tower",
         "category": "Combat",
         "price": 2999.0,
         "image": "assets/images/products/171/main.jpg",
@@ -1601,7 +1601,7 @@ var shopProducts = [
     },
     {
         "id": 241,
-        "name": "Professional Percussion Deep Tissue Muscle Massage Gun (Black)",
+        "name": "Deep Tissue Muscle Massage Gun",
         "category": "Recovery",
         "price": 4999.0,
         "image": "assets/images/products/241/main.jpg",
@@ -1611,7 +1611,7 @@ var shopProducts = [
     },
     {
         "id": 311,
-        "name": "Bala Woven Fabric Resistance Booty Exercise Band (Blush Pink)",
+        "name": "Bala Woven Booty Resistance Band",
         "category": "Accessories",
         "price": 1499.0,
         "image": "assets/images/products/311/main.jpg",
@@ -1621,7 +1621,7 @@ var shopProducts = [
     },
     {
         "id": 381,
-        "name": "On Running Women's Lightweight Performance Short-Sleeve Workout Tee (Lilac)",
+        "name": "On Running Lightweight Tee",
         "category": "Apparel",
         "price": 2769.0,
         "image": "assets/images/products/381/main.jpg",
@@ -1631,7 +1631,7 @@ var shopProducts = [
     },
     {
         "id": 451,
-        "name": "Rechargeable Optical Heart Rate Monitor Armband with Breathable Silicone Strap",
+        "name": "Optical Heart Rate Monitor Armband",
         "category": "Fit Tech",
         "price": 3499.0,
         "image": "assets/images/products/451/main.jpg",
@@ -1641,7 +1641,7 @@ var shopProducts = [
     },
     {
         "id": 591,
-        "name": "Organic Cotton Yoga & Meditation Bolster Pillow (Light Grey)",
+        "name": "Organic Cotton Yoga Bolster",
         "category": "Yoga",
         "price": 2519.0,
         "image": "assets/images/products/591/main.jpg",
@@ -1651,7 +1651,7 @@ var shopProducts = [
     },
     {
         "id": 661,
-        "name": "Apex Athletics Commercial Multi-Position Incline Workout Bench",
+        "name": "Apex Multi-Position Incline Bench",
         "category": "Home Gym",
         "price": 18999.0,
         "image": "assets/images/products/661/main.jpg",
@@ -1661,7 +1661,7 @@ var shopProducts = [
     },
     {
         "id": 32,
-        "name": "Commercial Heavy-Duty Rubber Hex Dumbbells Pair (Strength Training)",
+        "name": "Rubber Hex Dumbbells Pair",
         "category": "Strength",
         "price": 4449.0,
         "image": "assets/images/products/32/main.jpg",
@@ -1671,7 +1671,7 @@ var shopProducts = [
     },
     {
         "id": 102,
-        "name": "Commercial Motorized Touchscreen Running Treadmill (Foldable Studio Edition)",
+        "name": "Commercial Touchscreen Treadmill",
         "category": "Cardio",
         "price": 51749.0,
         "image": "assets/images/products/102/main.jpg",
@@ -1681,7 +1681,7 @@ var shopProducts = [
     },
     {
         "id": 172,
-        "name": "Pro Padded Leather Boxing Sparring Headgear with Cheek Guards (Red)",
+        "name": "Pro Padded Leather Boxing Sparring Headgear",
         "category": "Combat",
         "price": 3499.0,
         "image": "assets/images/products/172/main.jpg",
@@ -1691,7 +1691,7 @@ var shopProducts = [
     },
     {
         "id": 242,
-        "name": "Pure Relaxing Epsom Bath Salt Crystals Pouch (Muscle Recovery Soak)",
+        "name": "Pure Relaxing Epsom Salt Soak",
         "category": "Recovery",
         "price": 899.0,
         "image": "assets/images/products/242/main.jpg",
@@ -1701,7 +1701,7 @@ var shopProducts = [
     },
     {
         "id": 452,
-        "name": "Normatec Pneumatic Dynamic Air Compression Leg Recovery Boots System",
+        "name": "Normatec Air Compression Boots",
         "category": "Fit Tech",
         "price": 49999.0,
         "image": "assets/images/products/452/main.jpg",
@@ -1711,7 +1711,7 @@ var shopProducts = [
     },
     {
         "id": 383,
-        "name": "Women's High-Waisted Seamless Athletic Gym Biker Shorts (Grey)",
+        "name": "Seamless Athletic Biker Shorts",
         "category": "Apparel",
         "price": 1619.0,
         "image": "assets/images/products/383/main.jpg",
@@ -1721,7 +1721,7 @@ var shopProducts = [
     },
     {
         "id": 453,
-        "name": "Professional Segmental Multi-Frequency Body Composition Analyzer Scale with Hand Grips",
+        "name": "Segmental Body Composition Scale",
         "category": "Fit Tech",
         "price": 84999.0,
         "image": "assets/images/products/453/main.jpg",
@@ -1731,7 +1731,7 @@ var shopProducts = [
     },
     {
         "id": 523,
-        "name": "Creapure 100% Pure Micronized Creatine Monohydrate Powder (400g Tub)",
+        "name": "Creapure Micronized Creatine (400g)",
         "category": "Supplements",
         "price": 2199.0,
         "image": "assets/images/products/523/main.jpg",
@@ -1741,7 +1741,7 @@ var shopProducts = [
     },
     {
         "id": 593,
-        "name": "Dual-Layer Non-Slip Eco-Friendly TPE Yoga & Exercise Mat (Sky Blue / Beige)",
+        "name": "Non-Slip TPE Yoga Mat",
         "category": "Yoga",
         "price": 1999.0,
         "image": "assets/images/products/593/main.jpg",
@@ -1751,7 +1751,7 @@ var shopProducts = [
     },
     {
         "id": 34,
-        "name": "Rapid-Select Adjustable Dumbbells Pair with Storage Tray (Red & Black)",
+        "name": "Rapid-Select Adjustable Dumbbells Pair",
         "category": "Strength",
         "price": 21999.0,
         "image": "assets/images/products/34/main.jpg",
@@ -1761,7 +1761,7 @@ var shopProducts = [
     },
     {
         "id": 244,
-        "name": "Portable Insulated Folding Cold Plunge Ice Bath Tub with Thermal Lid",
+        "name": "Folding Insulated Cold Plunge Tub",
         "category": "Recovery",
         "price": 6739.0,
         "image": "assets/images/products/244/main.jpg",
@@ -1771,7 +1771,7 @@ var shopProducts = [
     },
     {
         "id": 664,
-        "name": "Marcy Pro Multi-Grip Pull-Up & Dip Power Tower Station with VKR",
+        "name": "Marcy Pro Multi-Grip Power Tower",
         "category": "Home Gym",
         "price": 19999.0,
         "image": "assets/images/products/664/main.jpg",
@@ -1781,7 +1781,7 @@ var shopProducts = [
     },
     {
         "id": 665,
-        "name": "Apex Strength Multi-Function Power Tower Workout Dip Station with Push-Up Handles",
+        "name": "Apex Multi-Function Power Tower",
         "category": "Home Gym",
         "price": 21999.0,
         "image": "assets/images/products/665/main.jpg",
@@ -1791,7 +1791,7 @@ var shopProducts = [
     },
     {
         "id": 666,
-        "name": "Centr Performance Multi-Angle Functional Trainer Dual Cable Crossover Station",
+        "name": "Centr Multi-Angle Cable Trainer",
         "category": "Home Gym",
         "price": 89999.0,
         "image": "assets/images/products/666/main.jpg",
@@ -1801,7 +1801,7 @@ var shopProducts = [
     },
     {
         "id": 662,
-        "name": "LIF-ITAL Commercial Multi-Grip Pull-Up & Dip Power Tower Station",
+        "name": "LIF-ITAL Power Tower Station",
         "category": "Home Gym",
         "price": 24999.0,
         "image": "assets/images/products/662/main.jpg",
@@ -1811,7 +1811,7 @@ var shopProducts = [
     },
     {
         "id": 33,
-        "name": "Olympic Hex Trap Deadlift Bar with Dual Knurled Handles",
+        "name": "Olympic Hex Trap Deadlift Bar",
         "category": "Strength",
         "price": 10639.0,
         "image": "assets/images/products/33/main.jpg",
@@ -1821,7 +1821,7 @@ var shopProducts = [
     },
     {
         "id": 243,
-        "name": "EGL Graduated Arm Compression Sleeve (Single / Black)",
+        "name": "EGL Compression Arm Sleeve",
         "category": "Recovery",
         "price": 1299.0,
         "image": "assets/images/products/243/main.jpg",
@@ -1831,7 +1831,7 @@ var shopProducts = [
     },
     {
         "id": 174,
-        "name": "Venum Pro Boxing Training & Sparring Gloves (Matte Black)",
+        "name": "Venum Pro Sparring Gloves",
         "category": "Combat",
         "price": 5559.0,
         "image": "assets/images/products/174/main.jpg",
@@ -1841,7 +1841,7 @@ var shopProducts = [
     },
     {
         "id": 384,
-        "name": "Squat Machine Pro Weightlifting & Powerlifting Shoes (White/Orange)",
+        "name": "Squat Machine Pro Lifting Shoes",
         "category": "Apparel",
         "price": 4999.0,
         "image": "assets/images/products/384/main.jpg",
@@ -1851,7 +1851,7 @@ var shopProducts = [
     },
     {
         "id": 454,
-        "name": "Garmin GPS Multisport Smartwatch with AMOLED Display (Black)",
+        "name": "Garmin AMOLED GPS Smartwatch",
         "category": "Fit Tech",
         "price": 24990.0,
         "image": "assets/images/products/454/main.jpg",
@@ -1861,7 +1861,7 @@ var shopProducts = [
     },
     {
         "id": 594,
-        "name": "Adjustable Yoga Mat Carry Sling Strap & Stretching Belt (Black)",
+        "name": "Yoga Mat Carry Strap & Belt",
         "category": "Yoga",
         "price": 799.0,
         "image": "assets/images/products/594/main.jpg",
@@ -1871,7 +1871,7 @@ var shopProducts = [
     },
     {
         "id": 455,
-        "name": "Slim OLED Activity & Fitness Tracker Smart Band with Heart Rate Sensor",
+        "name": "Slim OLED Fitness Tracker Band",
         "category": "Fit Tech",
         "price": 4079.0,
         "image": "assets/images/products/455/main.jpg",
@@ -1881,7 +1881,7 @@ var shopProducts = [
     },
     {
         "id": 595,
-        "name": "Traditional Round Pleated Zafu Meditation Cushion (Burgundy Maroon)",
+        "name": "Pleated Zafu Meditation Cushion",
         "category": "Yoga",
         "price": 1059.0,
         "image": "assets/images/products/595/main.jpg",
@@ -1891,7 +1891,7 @@ var shopProducts = [
     },
     {
         "id": 36,
-        "name": "Ironwork Athletic Tri-Grip Rubber Coated Olympic Weight Plates (Pair)",
+        "name": "Ironwork Tri-Grip Olympic Plates",
         "category": "Strength",
         "price": 4499.0,
         "image": "assets/images/products/36/main.jpg",
@@ -1901,7 +1901,7 @@ var shopProducts = [
     },
     {
         "id": 386,
-        "name": "Relaxed-Fit Fleece Cuffed Gym Jogger Sweatpants (Light Blue)",
+        "name": "Fleece Cuffed Jogger Sweatpants",
         "category": "Apparel",
         "price": 2539.0,
         "image": "assets/images/products/386/main.jpg",
@@ -1911,7 +1911,7 @@ var shopProducts = [
     },
     {
         "id": 456,
-        "name": "Smart Color Screen Activity & Workout Tracker Band (Black Strap)",
+        "name": "Smart Color Fitness Tracker Band",
         "category": "Fit Tech",
         "price": 4319.0,
         "image": "assets/images/products/456/main.jpg",
@@ -1921,7 +1921,7 @@ var shopProducts = [
     },
     {
         "id": 596,
-        "name": "Hugger Mugger Rectangular Meditation & Yoga Bolster Pillow (Navy Blue)",
+        "name": "Hugger Mugger Yoga Bolster",
         "category": "Yoga",
         "price": 2289.0,
         "image": "assets/images/products/596/main.jpg",
@@ -1931,7 +1931,7 @@ var shopProducts = [
     },
     {
         "id": 37,
-        "name": "Titan Fitness Commercial Olympic Barbell with Black Bumper Plates Set",
+        "name": "Titan Olympic Barbell & Bumper Set",
         "category": "Strength",
         "price": 18999.0,
         "image": "assets/images/products/37/main.jpg",
@@ -1941,7 +1941,7 @@ var shopProducts = [
     },
     {
         "id": 279,
-        "name": "Graduated Compression Elbow & Arm Support Sleeve (Black & Neon Green)",
+        "name": "Graduated Compression Elbow Sleeve",
         "category": "Recovery",
         "price": 1299.0,
         "image": "assets/images/products/279/main.jpg",
@@ -1951,7 +1951,7 @@ var shopProducts = [
     },
     {
         "id": 419,
-        "name": "Women's High-Waisted Seamless Compression Athletic Biker Shorts (Dark Teal)",
+        "name": "Seamless Compression Biker Shorts",
         "category": "Apparel",
         "price": 1249.0,
         "image": "assets/images/products/419/main.jpg",
@@ -1961,7 +1961,7 @@ var shopProducts = [
     },
     {
         "id": 70,
-        "name": "Commercial Heavy-Duty Flat Weightlifting Bench with Transport Wheels",
+        "name": "Commercial Flat Weightlifting Bench",
         "category": "Strength",
         "price": 14999.0,
         "image": "assets/images/products/70/main.jpg",
@@ -1971,7 +1971,7 @@ var shopProducts = [
     },
     {
         "id": 280,
-        "name": "Plunge Lab Portable Insulated Ice Bath Cold Plunge Tub with Inflatable Lid",
+        "name": "Plunge Lab Insulated Cold Plunge",
         "category": "Recovery",
         "price": 7499.0,
         "image": "assets/images/products/280/main.jpg",
@@ -1981,7 +1981,7 @@ var shopProducts = [
     },
     {
         "id": 700,
-        "name": "Marcy Pro Commercial Multi-Gym Power Rack Cage with Weight Bench & Pull-Up Bar",
+        "name": "Marcy Pro Commercial Power Rack",
         "category": "Home Gym",
         "price": 64999.0,
         "image": "assets/images/products/700/main.jpg",
@@ -1991,7 +1991,7 @@ var shopProducts = [
     },
     {
         "id": 487,
-        "name": "Sequential Pneumatic Air Compression Leg Recovery Boots System (Black/Cyan)",
+        "name": "Air Compression Leg Boots System",
         "category": "Fit Tech",
         "price": 15399.0,
         "image": "assets/images/products/487/main.jpg",
@@ -2001,7 +2001,7 @@ var shopProducts = [
     },
     {
         "id": 557,
-        "name": "True+ PRE Natural High-Performance Pre-Workout Energy Powder Pouch",
+        "name": "True+ PRE Pre-Workout Powder",
         "category": "Supplements",
         "price": 1549.0,
         "image": "assets/images/products/557/main.jpg",
@@ -2011,7 +2011,7 @@ var shopProducts = [
     },
     {
         "id": 627,
-        "name": "High-Density Beveled Foam Yoga Support Blocks Pair (Black & Red)",
+        "name": "High-Density Foam Yoga Blocks Pair",
         "category": "Yoga",
         "price": 1499.0,
         "image": "assets/images/products/627/main.jpg",
@@ -2021,7 +2021,7 @@ var shopProducts = [
     },
     {
         "id": 697,
-        "name": "Rogue Fitness Commercial Monster Functional Trainer & Dual Cable Crossover System",
+        "name": "Rogue Monster Functional Trainer",
         "category": "Home Gym",
         "price": 94999.0,
         "image": "assets/images/products/697/main.jpg",
@@ -2031,7 +2031,7 @@ var shopProducts = [
     },
     {
         "id": 68,
-        "name": "Standard Cast Iron Olympic Weight Plate (45 lbs / 20.4 kg Single)",
+        "name": "Cast Iron Olympic Plate (45 lbs)",
         "category": "Strength",
         "price": 2409.0,
         "image": "assets/images/products/68/main.jpg",
@@ -2041,7 +2041,7 @@ var shopProducts = [
     },
     {
         "id": 138,
-        "name": "Enterprise Apex Commercial Motorized Running Treadmill with HD Console",
+        "name": "Enterprise Apex Motorized Treadmill",
         "category": "Cardio",
         "price": 59999.0,
         "image": "assets/images/products/138/main.jpg",
@@ -2051,7 +2051,7 @@ var shopProducts = [
     },
     {
         "id": 208,
-        "name": "Soft-Shell Padded Rugby & Soccer Protective Headgear (Scrum Cap / Black)",
+        "name": "Padded Rugby Protective Headgear",
         "category": "Combat",
         "price": 1999.0,
         "image": "assets/images/products/208/main.jpg",
@@ -2061,7 +2061,7 @@ var shopProducts = [
     },
     {
         "id": 278,
-        "name": "Dr Teal's Pure Epsom Salt Pre & Post Workout Soak Pouch (Menthol & Spearmint)",
+        "name": "Dr Teal's Epsom Salt Soak",
         "category": "Recovery",
         "price": 899.0,
         "image": "assets/images/products/278/main.jpg",
@@ -2071,7 +2071,7 @@ var shopProducts = [
     },
     {
         "id": 348,
-        "name": "Neoprene Padded Weightlifting Waist & Lumbar Support Belt (Blue)",
+        "name": "Neoprene Weightlifting Lumbar Belt",
         "category": "Accessories",
         "price": 1499.0,
         "image": "assets/images/products/348/main.jpg",
@@ -2081,7 +2081,7 @@ var shopProducts = [
     },
     {
         "id": 558,
-        "name": "Daily Essential Multivitamin & Multimineral Complex Tablets (Amber Glass Bottle)",
+        "name": "Daily Multivitamin Complex",
         "category": "Supplements",
         "price": 2839.0,
         "image": "assets/images/products/558/main.jpg",
@@ -2091,7 +2091,7 @@ var shopProducts = [
     },
     {
         "id": 628,
-        "name": "Manduka PRO Premium Non-Slip Yoga & Pilates Mat (Navy Blue)",
+        "name": "Manduka PRO Non-Slip Yoga Mat",
         "category": "Yoga",
         "price": 3499.0,
         "image": "assets/images/products/628/main.jpg",
@@ -2101,7 +2101,7 @@ var shopProducts = [
     },
     {
         "id": 698,
-        "name": "Force USA Commercial Multi-Gym Functional Trainer & Power Rack Station",
+        "name": "Force USA Functional Multi-Gym",
         "category": "Home Gym",
         "price": 79999.0,
         "image": "assets/images/products/698/main.jpg",
@@ -2111,7 +2111,7 @@ var shopProducts = [
     },
     {
         "id": 69,
-        "name": "Cerakote Olympic Weightlifting Barbell (Pink Shaft / Chrome Sleeves)",
+        "name": "Cerakote Olympic Weightlifting Barbell",
         "category": "Strength",
         "price": 12499.0,
         "image": "assets/images/products/69/main.jpg",
@@ -2121,7 +2121,7 @@ var shopProducts = [
     },
     {
         "id": 139,
-        "name": "Assault AirBike Commercial Dual-Action Air Resistance Exercise Fan Bike",
+        "name": "Assault AirBike Fan Exercise Bike",
         "category": "Cardio",
         "price": 34999.0,
         "image": "assets/images/products/139/main.jpg",
@@ -2131,7 +2131,7 @@ var shopProducts = [
     },
     {
         "id": 485,
-        "name": "Titanium Smart Health & Sleep Tracking Sensor Ring (Brushed Silver)",
+        "name": "Titanium Smart Health Tracking Ring",
         "category": "Fit Tech",
         "price": 7759.0,
         "image": "assets/images/products/485/main.jpg",
@@ -2141,7 +2141,7 @@ var shopProducts = [
     },
     {
         "id": 555,
-        "name": "NutriJa 100% Pure Whey Protein Isolate Powder Tub (2 lbs / Unflavored)",
+        "name": "NutriJa 100% Whey Isolate Powder",
         "category": "Supplements",
         "price": 3499.0,
         "image": "assets/images/products/555/main.jpg",
@@ -2151,7 +2151,7 @@ var shopProducts = [
     },
     {
         "id": 625,
-        "name": "Round Velvet Floor Cushion / Zabuton Meditation Mat & Bolster (Black)",
+        "name": "Velvet Floor Meditation Cushion",
         "category": "Yoga",
         "price": 1159.0,
         "image": "assets/images/products/625/main.jpg",
@@ -2161,7 +2161,7 @@ var shopProducts = [
     },
     {
         "id": 695,
-        "name": "3-in-1 High-Density Anti-Slip Foam Plyometric Jump Box (Soft Plyo Box)",
+        "name": "3-in-1 Foam Plyometric Jump Box",
         "category": "Home Gym",
         "price": 8999.0,
         "image": "assets/images/products/695/main.jpg",
@@ -2171,7 +2171,7 @@ var shopProducts = [
     },
     {
         "id": 66,
-        "name": "Adjustable Dial Selectorized Dumbbell with Anti-Roll Storage Cradle Stand (Pair)",
+        "name": "Adjustable Dial Selectorized Dumbbell",
         "category": "Strength",
         "price": 24999.0,
         "image": "assets/images/products/66/main.jpg",
@@ -2181,7 +2181,7 @@ var shopProducts = [
     },
     {
         "id": 136,
-        "name": "Commercial Revolving Stair Climber Stepmill Cardio Machine with LED Display",
+        "name": "Commercial Revolving Stepmill",
         "category": "Cardio",
         "price": 74999.0,
         "image": "assets/images/products/136/main.jpg",
@@ -2191,7 +2191,7 @@ var shopProducts = [
     },
     {
         "id": 206,
-        "name": "Martial Arts Padded Leather Shin & Instep Guards for Kickboxing (White Pair)",
+        "name": "Padded Leather Shin & Instep Guards",
         "category": "Combat",
         "price": 3999.0,
         "image": "assets/images/products/206/main.jpg",
@@ -2201,7 +2201,7 @@ var shopProducts = [
     },
     {
         "id": 276,
-        "name": "High-Density Solid EVA Foam Roller for Deep Tissue Back & Myofascial Release (Black)",
+        "name": "High-Density Solid EVA Foam Roller",
         "category": "Recovery",
         "price": 1029.0,
         "image": "assets/images/products/276/main.jpg",
@@ -2211,7 +2211,7 @@ var shopProducts = [
     },
     {
         "id": 346,
-        "name": "Adjustable Compression Ankle Support Brace with Speed Lace-Up & Stabilizer Straps (Black)",
+        "name": "Adjustable Compression Ankle Support Brace",
         "category": "Accessories",
         "price": 1499.0,
         "image": "assets/images/products/346/main.jpg",
@@ -2221,7 +2221,7 @@ var shopProducts = [
     },
     {
         "id": 416,
-        "name": "Men's Slim-Fit Athletic Tapered Gym Jogger Sweatpants with Drawstring (Navy Blue)",
+        "name": "Slim-Fit Tapered Gym Joggers",
         "category": "Apparel",
         "price": 2689.0,
         "image": "assets/images/products/416/main.jpg",
@@ -2231,7 +2231,7 @@ var shopProducts = [
     },
     {
         "id": 486,
-        "name": "Rugged Waterproof Bluetooth Smartwatch with Color AMOLED Display & Blue Silicone Strap",
+        "name": "Rugged Waterproof Bluetooth Smartwatch",
         "category": "Fit Tech",
         "price": 7319.0,
         "image": "assets/images/products/486/main.jpg",
@@ -2241,7 +2241,7 @@ var shopProducts = [
     },
     {
         "id": 556,
-        "name": "Weider Mega Mass 4000 High-Calorie Mass Gainer Protein Powder Tub (3 kg / Vanilla)",
+        "name": "Weider Mega Mass 4000 (3kg)",
         "category": "Supplements",
         "price": 4999.0,
         "image": "assets/images/products/556/main.jpg",
@@ -2251,7 +2251,7 @@ var shopProducts = [
     },
     {
         "id": 626,
-        "name": "High-Density Foam Yoga & Pilates Neck/Spine Cervical Support Roller",
+        "name": "EVA Cervical Support Foam Roller",
         "category": "Yoga",
         "price": 2439.0,
         "image": "assets/images/products/626/main.jpg",
@@ -2261,7 +2261,7 @@ var shopProducts = [
     },
     {
         "id": 696,
-        "name": "Commercial Heavy-Duty 3-Tier Dumbbell Storage Rack Stand (Heavy-Duty Steel)",
+        "name": "Commercial 3-Tier Dumbbell Rack",
         "category": "Home Gym",
         "price": 16999.0,
         "image": "assets/images/products/696/main.jpg",
@@ -2271,7 +2271,7 @@ var shopProducts = [
     },
     {
         "id": 67,
-        "name": "Competition Powder-Coated Cast Iron Kettlebell (Baby Blue Handle)",
+        "name": "Powder-Coated Cast Iron Kettlebell",
         "category": "Strength",
         "price": 3099.0,
         "image": "assets/images/products/67/main.jpg",
@@ -2281,7 +2281,7 @@ var shopProducts = [
     },
     {
         "id": 137,
-        "name": "Commercial Magnetic Resistance Recumbent Exercise Rowing Machine with Studio Console",
+        "name": "Commercial Magnetic Recumbent Rower",
         "category": "Cardio",
         "price": 36999.0,
         "image": "assets/images/products/137/main.jpg",
@@ -2291,7 +2291,7 @@ var shopProducts = [
     },
     {
         "id": 207,
-        "name": "Rdx Pro Heavy-Duty Hanging Leather Punching Bag (Red & Black)",
+        "name": "RDX Pro Leather Punching Bag",
         "category": "Combat",
         "price": 4299.0,
         "image": "assets/images/products/207/main.jpg",
@@ -2301,7 +2301,7 @@ var shopProducts = [
     },
     {
         "id": 277,
-        "name": "RUB\u00b7A535 Regular Strength Heating Lotion (Muscle & Joint Pain Relief Cream)",
+        "name": "RUB A535 Heating Lotion",
         "category": "Recovery",
         "price": 749.0,
         "image": "assets/images/products/277/main.jpg",
@@ -2311,7 +2311,7 @@ var shopProducts = [
     },
     {
         "id": 347,
-        "name": "Non-Slip Elastic Fabric Booty Resistance Loop Bands Set (3-Pack: Black, Grey, Pink)",
+        "name": "Fabric Booty Resistance Bands Set",
         "category": "Accessories",
         "price": 1299.0,
         "image": "assets/images/products/347/main.jpg",
@@ -2321,7 +2321,7 @@ var shopProducts = [
     },
     {
         "id": 417,
-        "name": "Men's Crewneck Short-Sleeve Breathable Gym Workout T-Shirt (Heather Rose)",
+        "name": "Crewneck Breathable Gym T-Shirt",
         "category": "Apparel",
         "price": 1559.0,
         "image": "assets/images/products/417/main.jpg",
@@ -2331,7 +2331,7 @@ var shopProducts = [
     },
     {
         "id": 483,
-        "name": "Smart Body Fat Digital Bluetooth Bathroom Scale with LED Display (Black)",
+        "name": "Smart Bluetooth Body Fat Scale",
         "category": "Fit Tech",
         "price": 2499.0,
         "image": "assets/images/products/483/main.jpg",
@@ -2341,7 +2341,7 @@ var shopProducts = [
     },
     {
         "id": 553,
-        "name": "Pure Micronized Creatine Monohydrate Powder Tub (500g / Unflavored)",
+        "name": "Pure Micronized Creatine Powder",
         "category": "Supplements",
         "price": 1499.0,
         "image": "assets/images/products/553/main.jpg",
@@ -2351,7 +2351,7 @@ var shopProducts = [
     },
     {
         "id": 623,
-        "name": "Sildurx Non-Slip Eco-Friendly Textured Yoga & Exercise Mat (Marble Pink)",
+        "name": "Sildurx Textured Yoga Mat",
         "category": "Yoga",
         "price": 2299.0,
         "image": "assets/images/products/623/main.jpg",
@@ -2361,7 +2361,7 @@ var shopProducts = [
     },
     {
         "id": 693,
-        "name": "Commercial Multi-Station Functional Trainer Dual Cable Crossover Machine",
+        "name": "Commercial Functional Cable Trainer",
         "category": "Home Gym",
         "price": 89999.0,
         "image": "assets/images/products/693/main.jpg",
@@ -2371,7 +2371,7 @@ var shopProducts = [
     },
     {
         "id": 64,
-        "name": "Solid Cast Iron Round Urethane Dumbbell Single (Yellow & Black)",
+        "name": "Solid Cast Iron Round Urethane Dumbbell",
         "category": "Strength",
         "price": 2499.0,
         "image": "assets/images/products/64/main.jpg",
@@ -2381,7 +2381,7 @@ var shopProducts = [
     },
     {
         "id": 134,
-        "name": "Commercial Magnetic Resistance Elliptical Cross Trainer Machine with Tablet Mount",
+        "name": "Commercial Magnetic Elliptical",
         "category": "Cardio",
         "price": 49999.0,
         "image": "assets/images/products/134/main.jpg",
@@ -2391,7 +2391,7 @@ var shopProducts = [
     },
     {
         "id": 204,
-        "name": "Pro Leather Heavy Bag Boxing Training Gloves (Black & Orange / Pair)",
+        "name": "Pro Leather Heavy Bag Boxing Training Gloves",
         "category": "Combat",
         "price": 3499.0,
         "image": "assets/images/products/204/main.jpg",
@@ -2401,7 +2401,7 @@ var shopProducts = [
     },
     {
         "id": 274,
-        "name": "VEVOR Portable Foldable Insulated Cold Plunge Ice Bath Tub with Thermal Lid",
+        "name": "VEVOR Portable Cold Plunge Tub",
         "category": "Recovery",
         "price": 6999.0,
         "image": "assets/images/products/274/main.jpg",
@@ -2411,7 +2411,7 @@ var shopProducts = [
     },
     {
         "id": 344,
-        "name": "Heavy-Duty Tactical Gym Duffle Bag with Shoe Compartment (Heather Grey / Black)",
+        "name": "Heavy-Duty Tactical Gym Duffle Bag",
         "category": "Accessories",
         "price": 2379.0,
         "image": "assets/images/products/344/main.jpg",
@@ -2421,7 +2421,7 @@ var shopProducts = [
     },
     {
         "id": 414,
-        "name": "Barefoot Minimalist Zero-Drop Cross-Training Shoes with Hook-and-Loop Strap (Olive Green)",
+        "name": "Minimalist Barefoot Training Shoes",
         "category": "Apparel",
         "price": 2379.0,
         "image": "assets/images/products/414/main.jpg",
@@ -2431,7 +2431,7 @@ var shopProducts = [
     },
     {
         "id": 484,
-        "name": "Smartwatch with AMOLED Curved Touchscreen Display & Black Silicone Strap",
+        "name": "Smartwatch",
         "category": "Fit Tech",
         "price": 3269.0,
         "image": "assets/images/products/484/main.jpg",
@@ -2441,7 +2441,7 @@ var shopProducts = [
     },
     {
         "id": 554,
-        "name": "BCAA Supreme 2:1:1 Branched Chain Amino Acid Recovery Powder Tub (Fruit Punch)",
+        "name": "BCAA Supreme 2:1:1 Powder",
         "category": "Supplements",
         "price": 1999.0,
         "image": "assets/images/products/554/main.jpg",
@@ -2451,7 +2451,7 @@ var shopProducts = [
     },
     {
         "id": 624,
-        "name": "Cotton Yoga Stretching Strap with Adjustable D-Ring Buckle (Sage Green)",
+        "name": "Cotton Yoga Stretching Strap",
         "category": "Yoga",
         "price": 899.0,
         "image": "assets/images/products/624/main.jpg",
@@ -2461,7 +2461,7 @@ var shopProducts = [
     },
     {
         "id": 694,
-        "name": "Commercial Multi-Function Cable Crossover & Smith Machine Functional Trainer Gym Station",
+        "name": "Commercial Smith Machine & Trainer",
         "category": "Home Gym",
         "price": 84999.0,
         "image": "assets/images/products/694/main.jpg",
@@ -2471,7 +2471,7 @@ var shopProducts = [
     },
     {
         "id": 65,
-        "name": "Olympic Hex Trap Deadlift Shrug Bar with Knurled Neutral Grips (Black Powder Coat)",
+        "name": "Olympic Hex Trap Deadlift Shrug Bar",
         "category": "Strength",
         "price": 9499.0,
         "image": "assets/images/products/65/main.jpg",
@@ -2481,7 +2481,7 @@ var shopProducts = [
     },
     {
         "id": 135,
-        "name": "Commercial High-Performance Magnetic Resistance Indoor Spin Bike (Red/Black)",
+        "name": "Commercial Magnetic Spin Bike",
         "category": "Cardio",
         "price": 44199.0,
         "image": "assets/images/products/135/main.jpg",
@@ -2491,7 +2491,7 @@ var shopProducts = [
     },
     {
         "id": 205,
-        "name": "Rival Boxing Hook and Jab Curved Punching Mitts / Focus Pads Pair",
+        "name": "Rival Boxing Focus Mitts Pair",
         "category": "Combat",
         "price": 5079.0,
         "image": "assets/images/products/205/main.jpg",
@@ -2501,7 +2501,7 @@ var shopProducts = [
     },
     {
         "id": 275,
-        "name": "Deep Tissue Percussion Massage Gun with Interchangeable Heads (Handheld Massager)",
+        "name": "Deep Tissue Percussion Massage Gun",
         "category": "Recovery",
         "price": 9559.0,
         "image": "assets/images/products/275/main.jpg",
@@ -2511,7 +2511,7 @@ var shopProducts = [
     },
     {
         "id": 345,
-        "name": "WOD Nation 100% Pure Magnesium Carbonate Gym Chalk 8-Block Box (400g Total)",
+        "name": "WOD Nation Gym Chalk (8-Block)",
         "category": "Accessories",
         "price": 1199.0,
         "image": "assets/images/products/345/main.jpg",
@@ -2521,7 +2521,7 @@ var shopProducts = [
     },
     {
         "id": 415,
-        "name": "Men's Quick-Dry Breathable Sleeveless Compression Training Tank Top (Black)",
+        "name": "Quick-Dry Compression Training Tank",
         "category": "Apparel",
         "price": 1249.0,
         "image": "assets/images/products/415/main.jpg",
@@ -2531,7 +2531,7 @@ var shopProducts = [
     },
     {
         "id": 481,
-        "name": "Wireless Optical Heart Rate Armband Fitness Tracker Strap (Lime Green)",
+        "name": "Optical Heart Rate Armband Strap",
         "category": "Fit Tech",
         "price": 3959.0,
         "image": "assets/images/products/481/main.jpg",
@@ -2541,7 +2541,7 @@ var shopProducts = [
     },
     {
         "id": 551,
-        "name": "Granite Supplements GX Pre-Workout Energy Matrix Powder Pouch (Watermelon)",
+        "name": "Granite GX Pre-Workout Matrix",
         "category": "Supplements",
         "price": 2719.0,
         "image": "assets/images/products/551/main.jpg",
@@ -2551,7 +2551,7 @@ var shopProducts = [
     },
     {
         "id": 621,
-        "name": "Organic Cotton Cylindrical Restorative Yoga Bolster Pillow (Purple)",
+        "name": "Organic Cotton Yoga Bolster",
         "category": "Yoga",
         "price": 2669.0,
         "image": "assets/images/products/621/main.jpg",
@@ -2561,7 +2561,7 @@ var shopProducts = [
     },
     {
         "id": 691,
-        "name": "Force USA Commercial All-In-One Functional Trainer Cable Crossover Power Rack",
+        "name": "Force USA Commercial Functional Power Rack",
         "category": "Home Gym",
         "price": 89999.0,
         "image": "assets/images/products/691/main.jpg",
@@ -2571,7 +2571,7 @@ var shopProducts = [
     },
     {
         "id": 62,
-        "name": "Adjustable Incline Decline Foldable FID Weight Bench with Transport Wheels (Black)",
+        "name": "Adjustable FID Weight Bench",
         "category": "Strength",
         "price": 8999.0,
         "image": "assets/images/products/62/main.jpg",
@@ -2581,7 +2581,7 @@ var shopProducts = [
     },
     {
         "id": 132,
-        "name": "Modern Smart Compact Folding Motorized Treadmill with Integrated Console (White)",
+        "name": "Smart Compact Folding Treadmill",
         "category": "Cardio",
         "price": 38999.0,
         "image": "assets/images/products/132/main.jpg",
@@ -2591,7 +2591,7 @@ var shopProducts = [
     },
     {
         "id": 202,
-        "name": "Full-Coverage Leather Boxing & MMA Sparring Headgear with Cheek Protectors (Matte Black)",
+        "name": "Full-Coverage Leather Headgear",
         "category": "Combat",
         "price": 3299.0,
         "image": "assets/images/products/202/main.jpg",
@@ -2601,7 +2601,7 @@ var shopProducts = [
     },
     {
         "id": 272,
-        "name": "Muscle Rehab Pure Epsom Salt Dead Sea Mineral Recovery Bath Soak Pouch (Menthol & Mint)",
+        "name": "Muscle Rehab Epsom Salt Soak",
         "category": "Recovery",
         "price": 999.0,
         "image": "assets/images/products/272/main.jpg",
@@ -2611,7 +2611,7 @@ var shopProducts = [
     },
     {
         "id": 342,
-        "name": "Nylon Weightlifting Lumbar Support Belt with Quick-Lock Steel Buckle (Pink/Black)",
+        "name": "Nylon Weightlifting Lumbar Support Belt",
         "category": "Accessories",
         "price": 1499.0,
         "image": "assets/images/products/342/main.jpg",
@@ -2621,7 +2621,7 @@ var shopProducts = [
     },
     {
         "id": 412,
-        "name": "Heavyweight Fleece Pullover Gym Workout Hoodie (Black & Grey Two-Tone)",
+        "name": "Heavyweight Fleece Pullover Hoodie",
         "category": "Apparel",
         "price": 2799.0,
         "image": "assets/images/products/412/main.jpg",
@@ -2631,7 +2631,7 @@ var shopProducts = [
     },
     {
         "id": 482,
-        "name": "Wireless Calf & Leg Air Compression Recovery Massager Sleeves with Digital Pump (Pair)",
+        "name": "Wireless Leg Air Compression Sleeves",
         "category": "Fit Tech",
         "price": 7099.0,
         "image": "assets/images/products/482/main.jpg",
@@ -2641,7 +2641,7 @@ var shopProducts = [
     },
     {
         "id": 552,
-        "name": "Animal Pak / Daily Comprehensive Multivitamin & Micronutrient Complex Tablets (White Bottle)",
+        "name": "Animal Pak Multivitamin Complex",
         "category": "Supplements",
         "price": 2199.0,
         "image": "assets/images/products/552/main.jpg",
@@ -2651,7 +2651,7 @@ var shopProducts = [
     },
     {
         "id": 622,
-        "name": "High-Density EVA Foam Yoga Support Blocks Pair (Deep Purple)",
+        "name": "High-Density EVA Yoga Blocks Pair",
         "category": "Yoga",
         "price": 949.0,
         "image": "assets/images/products/622/main.jpg",
@@ -2661,7 +2661,7 @@ var shopProducts = [
     },
     {
         "id": 692,
-        "name": "Commercial Curved Non-Motorized Slat Belt Manual Treadmill with Handrails",
+        "name": "Commercial Curved Manual Treadmill",
         "category": "Home Gym",
         "price": 79999.0,
         "image": "assets/images/products/692/main.jpg",
@@ -2671,7 +2671,7 @@ var shopProducts = [
     },
     {
         "id": 63,
-        "name": "Commercial Heavy-Duty Power Rack Squat Cage with Barbell & Weight Horns",
+        "name": "Commercial Power Rack Squat Cage",
         "category": "Strength",
         "price": 54999.0,
         "image": "assets/images/products/63/main.jpg",
@@ -2681,7 +2681,7 @@ var shopProducts = [
     },
     {
         "id": 133,
-        "name": "Commercial Dual-Action Upright Air Fan Bike / Stationary Exercise Bike",
+        "name": "Commercial Dual-Action Air Bike",
         "category": "Cardio",
         "price": 22299.0,
         "image": "assets/images/products/133/main.jpg",
@@ -2691,7 +2691,7 @@ var shopProducts = [
     },
     {
         "id": 203,
-        "name": "Men's Long-Sleeve Compression Rash Guard / MMA Training Top (Black)",
+        "name": "Long-Sleeve Compression Rash Guard",
         "category": "Combat",
         "price": 1899.0,
         "image": "assets/images/products/203/main.jpg",
@@ -2701,7 +2701,7 @@ var shopProducts = [
     },
     {
         "id": 273,
-        "name": "Graduated Compression Arm & Elbow Recovery Sleeve (Black & Grey)",
+        "name": "Compression Arm & Elbow Sleeve",
         "category": "Recovery",
         "price": 1199.0,
         "image": "assets/images/products/273/main.jpg",
@@ -2711,7 +2711,7 @@ var shopProducts = [
     },
     {
         "id": 343,
-        "name": "Ultra-Speed Ball Bearing Weighted Aluminum Jump Rope with Steel Cable",
+        "name": "Weighted Aluminum Speed Jump Rope",
         "category": "Accessories",
         "price": 1299.0,
         "image": "assets/images/products/343/main.jpg",
@@ -2721,7 +2721,7 @@ var shopProducts = [
     },
     {
         "id": 413,
-        "name": "Men's 2-in-1 Running Workout Shorts with Built-In Compression Liner (Grey & Black)",
+        "name": "Men's 2-in-1 Running Workout Shorts",
         "category": "Apparel",
         "price": 2529.0,
         "image": "assets/images/products/413/main.jpg",
@@ -2731,7 +2731,7 @@ var shopProducts = [
     },
     {
         "id": 479,
-        "name": "Smart Multisport GPS Watch with AMOLED Circular Touchscreen & White Strap",
+        "name": "Smart Multisport GPS Watch",
         "category": "Fit Tech",
         "price": 9399.0,
         "image": "assets/images/products/479/main.jpg",
@@ -2741,7 +2741,7 @@ var shopProducts = [
     },
     {
         "id": 549,
-        "name": "Iron Whey Ultra-Microfiltered Whey Protein Powder Tub (Vanilla / Chocolate)",
+        "name": "Iron Whey Ultra-Filtered Protein",
         "category": "Supplements",
         "price": 3299.0,
         "image": "assets/images/products/549/main.jpg",
@@ -2751,7 +2751,7 @@ var shopProducts = [
     },
     {
         "id": 619,
-        "name": "Cotton Yoga Stretching Strap Belt for Hamstring & Flexibility Support (Lilac Purple)",
+        "name": "Cotton Yoga Stretching Strap Belt",
         "category": "Yoga",
         "price": 729.0,
         "image": "assets/images/products/619/main.jpg",
@@ -2761,7 +2761,7 @@ var shopProducts = [
     },
     {
         "id": 689,
-        "name": "Commercial Heavy-Duty Adjustable FID Weight Bench with Incline Shoulder Press",
+        "name": "Commercial Adjustable FID Weight Bench",
         "category": "Home Gym",
         "price": 14999.0,
         "image": "assets/images/products/689/main.jpg",
@@ -2771,7 +2771,7 @@ var shopProducts = [
     },
     {
         "id": 60,
-        "name": "Olympic Barbell Squat & Deadlift Rubber Bumper Weight Plates (Pair)",
+        "name": "Olympic Rubber Bumper Plates Pair",
         "category": "Strength",
         "price": 5499.0,
         "image": "assets/images/products/60/main.jpg",
@@ -2781,7 +2781,7 @@ var shopProducts = [
     },
     {
         "id": 130,
-        "name": "Total-Body Vertical Mountain Climbing Cardio Stepper Machine with Dual Resistance",
+        "name": "Vertical Mountain Climber Stepper",
         "category": "Cardio",
         "price": 25199.0,
         "image": "assets/images/products/130/main.jpg",
@@ -2791,7 +2791,7 @@ var shopProducts = [
     },
     {
         "id": 200,
-        "name": "Martial Arts Elasticated Shin & Instep Guards with Ankle Support (Navy Blue Pair)",
+        "name": "Martial Arts Elasticated Shin & Instep Guards",
         "category": "Combat",
         "price": 1499.0,
         "image": "assets/images/products/200/main.jpg",
@@ -2801,7 +2801,7 @@ var shopProducts = [
     },
     {
         "id": 270,
-        "name": "Textured Grid Trigger-Point Foam Roller for Upper Back & Spine Mobility (Black)",
+        "name": "Textured Grid Trigger-Point Foam Roller",
         "category": "Recovery",
         "price": 1809.0,
         "image": "assets/images/products/270/main.jpg",
@@ -2811,7 +2811,7 @@ var shopProducts = [
     },
     {
         "id": 340,
-        "name": "Leather Gymnastic Cross-Training Palm Grips with Padded Wrist Wraps (Pair / Black)",
+        "name": "Leather Gymnastic Cross-Training Palm Grips",
         "category": "Accessories",
         "price": 1299.0,
         "image": "assets/images/products/340/main.jpg",
@@ -2821,7 +2821,7 @@ var shopProducts = [
     },
     {
         "id": 410,
-        "name": "Women's High-Waisted Seamless Full-Length Yoga & Athletic Leggings (Lilac Purple)",
+        "name": "Seamless Full-Length Leggings",
         "category": "Apparel",
         "price": 2359.0,
         "image": "assets/images/products/410/main.jpg",
@@ -2831,7 +2831,7 @@ var shopProducts = [
     },
     {
         "id": 480,
-        "name": "Smart Activity & Fitness Tracker Watch with Curved Color Screen & Gold Frame",
+        "name": "Smart Activity & Fitness Tracker Watch",
         "category": "Fit Tech",
         "price": 4829.0,
         "image": "assets/images/products/480/main.jpg",
@@ -2841,7 +2841,7 @@ var shopProducts = [
     },
     {
         "id": 550,
-        "name": "Steel Mass Gainer High-Calorie Protein & Carbohydrate Matrix Powder Tub (Yellow Label)",
+        "name": "Steel Mass Gainer Powder",
         "category": "Supplements",
         "price": 3999.0,
         "image": "assets/images/products/550/main.jpg",
@@ -2851,7 +2851,7 @@ var shopProducts = [
     },
     {
         "id": 620,
-        "name": "Ergonomic Contoured Memory Foam Zafu Meditation Floor Seat Cushion (Light Grey)",
+        "name": "Contoured Zafu Meditation Cushion",
         "category": "Yoga",
         "price": 1809.0,
         "image": "assets/images/products/620/main.jpg",
@@ -2861,7 +2861,7 @@ var shopProducts = [
     },
     {
         "id": 690,
-        "name": "Commercial Multi-Position Incline Weight Bench with Seated Dumbbell Press",
+        "name": "Commercial Incline Weight Bench",
         "category": "Home Gym",
         "price": 15999.0,
         "image": "assets/images/products/690/main.jpg",
@@ -2871,7 +2871,7 @@ var shopProducts = [
     },
     {
         "id": 61,
-        "name": "Olympic EZ Curl Barbell with Bumper Plates for Bicep Curls (Chrome & Rubber Plates)",
+        "name": "Olympic EZ Curl Barbell",
         "category": "Strength",
         "price": 7499.0,
         "image": "assets/images/products/61/main.jpg",
@@ -2881,7 +2881,7 @@ var shopProducts = [
     },
     {
         "id": 131,
-        "name": "Commercial Air Resistance Rowing Machine with Performance LCD Monitor",
+        "name": "Commercial Air Resistance Rowing Machine",
         "category": "Cardio",
         "price": 34599.0,
         "image": "assets/images/products/131/main.jpg",
@@ -2891,7 +2891,7 @@ var shopProducts = [
     },
     {
         "id": 201,
-        "name": "Heavy-Duty Steel Free-Standing Punching Bag Stand Station with Hanging Heavy Bag",
+        "name": "Free-Standing Punching Bag Stand",
         "category": "Combat",
         "price": 18999.0,
         "image": "assets/images/products/201/main.jpg",
@@ -2901,7 +2901,7 @@ var shopProducts = [
     },
     {
         "id": 271,
-        "name": "Clinical TENS EMS Digital Muscle Stimulator & Electrotherapy Device with Electrode Pads",
+        "name": "Digital TENS EMS Muscle Stimulator",
         "category": "Recovery",
         "price": 3499.0,
         "image": "assets/images/products/271/main.jpg",
@@ -2911,7 +2911,7 @@ var shopProducts = [
     },
     {
         "id": 341,
-        "name": "Non-Slip Heavy-Duty Fabric Booty & Hip Resistance Band (Pink)",
+        "name": "Heavy-Duty Fabric Booty Band",
         "category": "Accessories",
         "price": 699.0,
         "image": "assets/images/products/341/main.jpg",
@@ -2921,7 +2921,7 @@ var shopProducts = [
     },
     {
         "id": 411,
-        "name": "Men's Performance Athletic Fit Raglan Short-Sleeve Gym Workout T-Shirt (Light Grey)",
+        "name": "Raglan Performance Gym T-Shirt",
         "category": "Apparel",
         "price": 1249.0,
         "image": "assets/images/products/411/main.jpg",
@@ -2931,7 +2931,7 @@ var shopProducts = [
     },
     {
         "id": 267,
-        "name": "Graduated Compression Arm & Forearm Protection Sleeve (White)",
+        "name": "Compression Forearm & Arm Sleeve",
         "category": "Recovery",
         "price": 899.0,
         "image": "assets/images/products/267/main.jpg",
@@ -2941,7 +2941,7 @@ var shopProducts = [
     },
     {
         "id": 407,
-        "name": "Women's High-Waisted Seamless Athletic Workout Biker Shorts with Pockets (Burgundy)",
+        "name": "Seamless Athletic Biker Shorts",
         "category": "Apparel",
         "price": 1179.0,
         "image": "assets/images/products/407/main.jpg",
@@ -2951,7 +2951,7 @@ var shopProducts = [
     },
     {
         "id": 477,
-        "name": "Rapid Reboot Sequential Pneumatic Air Compression Full Leg Recovery Boots System",
+        "name": "Rapid Reboot Compression Boots",
         "category": "Fit Tech",
         "price": 32999.0,
         "image": "assets/images/products/477/main.jpg",
@@ -2961,7 +2961,7 @@ var shopProducts = [
     },
     {
         "id": 547,
-        "name": "One Nutrition Pure Micronized Creatine Monohydrate Powder (Unflavored)",
+        "name": "One Nutrition Micronized Creatine",
         "category": "Supplements",
         "price": 1499.0,
         "image": "assets/images/products/547/main.jpg",
@@ -2971,7 +2971,7 @@ var shopProducts = [
     },
     {
         "id": 617,
-        "name": "High-Density Foam Incline Slant Squat & Wrist/Calf Support Wedges Pair (Black)",
+        "name": "High-Density Slant Squat Wedges",
         "category": "Yoga",
         "price": 939.0,
         "image": "assets/images/products/617/main.jpg",
@@ -2981,7 +2981,7 @@ var shopProducts = [
     },
     {
         "id": 687,
-        "name": "Commercial Multi-Position Incline Dumbbell Bench Press Station",
+        "name": "Commercial Incline Bench Station",
         "category": "Home Gym",
         "price": 14999.0,
         "image": "assets/images/products/687/main.jpg",
@@ -2991,7 +2991,7 @@ var shopProducts = [
     },
     {
         "id": 58,
-        "name": "Matrix Fitness Commercial Selectorized Adjustable Dumbbells System & Stand",
+        "name": "Matrix Adjustable Dumbbells & Stand",
         "category": "Strength",
         "price": 24999.0,
         "image": "assets/images/products/58/main.jpg",
@@ -3001,7 +3001,7 @@ var shopProducts = [
     },
     {
         "id": 128,
-        "name": "Bowflex Commercial Hybrid Elliptical Stepper Machine with Digital Console",
+        "name": "Bowflex Commercial Hybrid Stepper",
         "category": "Cardio",
         "price": 49999.0,
         "image": "assets/images/products/128/main.jpg",
@@ -3011,7 +3011,7 @@ var shopProducts = [
     },
     {
         "id": 198,
-        "name": "Pro Leather Boxing Sparring Training Gloves (Black & Silver Trim)",
+        "name": "Pro Leather Boxing Sparring Training Gloves",
         "category": "Combat",
         "price": 3499.0,
         "image": "assets/images/products/198/main.jpg",
@@ -3021,7 +3021,7 @@ var shopProducts = [
     },
     {
         "id": 268,
-        "name": "The Ice Pod Portable Circular Insulated Cold Plunge Ice Bath Tub with Thermal Cover",
+        "name": "The Ice Pod Cold Plunge Tub",
         "category": "Recovery",
         "price": 6499.0,
         "image": "assets/images/products/268/main.jpg",
@@ -3031,7 +3031,7 @@ var shopProducts = [
     },
     {
         "id": 408,
-        "name": "Men's High-Top Cross-Training Weightlifting Barefoot Sneaker Shoes (White / Gum Sole)",
+        "name": "High-Top Barefoot Lifting Shoes",
         "category": "Apparel",
         "price": 3499.0,
         "image": "assets/images/products/408/main.jpg",
@@ -3041,7 +3041,7 @@ var shopProducts = [
     },
     {
         "id": 478,
-        "name": "Digital Tempered Glass Smart Bathroom Weight & Body Scale (White/Grey)",
+        "name": "Tempered Glass Smart Body Scale",
         "category": "Fit Tech",
         "price": 1999.0,
         "image": "assets/images/products/478/main.jpg",
@@ -3051,7 +3051,7 @@ var shopProducts = [
     },
     {
         "id": 548,
-        "name": "Breakthrough Vegan BOLD BCAA Branched Chain Amino Acid Powder Tub",
+        "name": "Breakthrough Vegan BOLD BCAA",
         "category": "Supplements",
         "price": 2299.0,
         "image": "assets/images/products/548/main.jpg",
@@ -3061,7 +3061,7 @@ var shopProducts = [
     },
     {
         "id": 618,
-        "name": "Eco-Friendly Non-Slip High-Density Dual-Tone Yoga Exercise Mats Pair (Mint Green & Charcoal)",
+        "name": "Dual-Tone Yoga Exercise Mats Pair",
         "category": "Yoga",
         "price": 2199.0,
         "image": "assets/images/products/618/main.jpg",
@@ -3071,7 +3071,7 @@ var shopProducts = [
     },
     {
         "id": 688,
-        "name": "Commercial Incline Dumbbell Press Multi-Position Weight Bench",
+        "name": "Commercial Incline Weight Bench",
         "category": "Home Gym",
         "price": 14999.0,
         "image": "assets/images/products/688/main.jpg",
@@ -3081,7 +3081,7 @@ var shopProducts = [
     },
     {
         "id": 59,
-        "name": "Cast Iron Kettlebell for Single-Arm Lateral Swings & Snatch Training (Red Handle)",
+        "name": "Cast Iron Kettlebell",
         "category": "Strength",
         "price": 2999.0,
         "image": "assets/images/products/59/main.jpg",
@@ -3091,7 +3091,7 @@ var shopProducts = [
     },
     {
         "id": 129,
-        "name": "YESOUL S3 Commercial Magnetic Indoor Exercise Spin Bike (Smart Silent Flywheel)",
+        "name": "YESOUL S3 Magnetic Spin Bike",
         "category": "Cardio",
         "price": 51499.0,
         "image": "assets/images/products/129/main.jpg",
@@ -3101,7 +3101,7 @@ var shopProducts = [
     },
     {
         "id": 199,
-        "name": "Pro Leather Curved Hook & Jab Punching Mitts / Focus Pads Pair (Blue & White)",
+        "name": "Pro Leather Curved Focus Mitts Pair",
         "category": "Combat",
         "price": 3299.0,
         "image": "assets/images/products/199/main.jpg",
@@ -3111,7 +3111,7 @@ var shopProducts = [
     },
     {
         "id": 269,
-        "name": "Deep Tissue Handheld Percussion Massage Gun with Interchangeable Attachment",
+        "name": "Deep Tissue Handheld Percussion Massage Gun",
         "category": "Recovery",
         "price": 5999.0,
         "image": "assets/images/products/269/main.jpg",
@@ -3121,7 +3121,7 @@ var shopProducts = [
     },
     {
         "id": 409,
-        "name": "Women's Athletic Racerback Breathable Workout Training Tank Top (Navy & White)",
+        "name": "Racerback Workout Training Tank",
         "category": "Apparel",
         "price": 1239.0,
         "image": "assets/images/products/409/main.jpg",
@@ -3131,7 +3131,7 @@ var shopProducts = [
     },
     {
         "id": 265,
-        "name": "Sport Ready Post-Workout Muscle Recovery Gel Tube (Arnica & Menthol)",
+        "name": "Sport Ready Muscle Recovery Gel",
         "category": "Recovery",
         "price": 899.0,
         "image": "assets/images/products/265/main.jpg",
@@ -3141,7 +3141,7 @@ var shopProducts = [
     },
     {
         "id": 335,
-        "name": "SKLZ Resistance Cable Dual Foam Handles with Quick-Attach Door Anchor",
+        "name": "SKLZ Resistance Cable Dual Foam Handles",
         "category": "Accessories",
         "price": 1499.0,
         "image": "assets/images/products/335/main.jpg",
@@ -3151,7 +3151,7 @@ var shopProducts = [
     },
     {
         "id": 405,
-        "name": "Men's Quick-Dry Breathable Athletic Gym Training T-Shirt (Slate Blue)",
+        "name": "Quick-Dry Athletic Gym T-Shirt",
         "category": "Apparel",
         "price": 1199.0,
         "image": "assets/images/products/405/main.jpg",
@@ -3161,7 +3161,7 @@ var shopProducts = [
     },
     {
         "id": 475,
-        "name": "Garmin V\u00edvosmart Slim Waterproof Activity & Sleep Tracker Band (White)",
+        "name": "Garmin Vivosmart Tracker Band",
         "category": "Fit Tech",
         "price": 4399.0,
         "image": "assets/images/products/475/main.jpg",
@@ -3171,7 +3171,7 @@ var shopProducts = [
     },
     {
         "id": 545,
-        "name": "Ultra Strength Pre-Workout Energy & Nitric Oxide Powder Tub",
+        "name": "Ultra Strength Pre-Workout Powder",
         "category": "Supplements",
         "price": 2389.0,
         "image": "assets/images/products/545/main.jpg",
@@ -3181,7 +3181,7 @@ var shopProducts = [
     },
     {
         "id": 615,
-        "name": "Ergonomic Memory Foam Kneeling & Sitting Meditation Floor Cushion (Grey/White)",
+        "name": "Memory Foam Meditation Cushion",
         "category": "Yoga",
         "price": 2339.0,
         "image": "assets/images/products/615/main.jpg",
@@ -3191,7 +3191,7 @@ var shopProducts = [
     },
     {
         "id": 685,
-        "name": "Free-Standing Heavy-Duty Steel Power Tower Pull-Up & Dip Station",
+        "name": "Heavy-Duty Steel Power Tower",
         "category": "Home Gym",
         "price": 18999.0,
         "image": "assets/images/products/685/main.jpg",
@@ -3201,7 +3201,7 @@ var shopProducts = [
     },
     {
         "id": 56,
-        "name": "Solid Cast Iron Round Urethane Dumbbell Pair (Yellow & Black Rings)",
+        "name": "Solid Cast Iron Round Urethane Dumbbell Pair",
         "category": "Strength",
         "price": 4999.0,
         "image": "assets/images/products/56/main.jpg",
@@ -3211,7 +3211,7 @@ var shopProducts = [
     },
     {
         "id": 126,
-        "name": "Smart Home Folding Motorized Running Treadmill with LCD Console (Black & Red)",
+        "name": "Smart Folding Motorized Treadmill",
         "category": "Cardio",
         "price": 37599.0,
         "image": "assets/images/products/126/main.jpg",
@@ -3221,7 +3221,7 @@ var shopProducts = [
     },
     {
         "id": 196,
-        "name": "Full-Protection Leather Boxing Sparring Headgear with Cheek & Ear Guards (Black)",
+        "name": "Full-Protection Leather Headgear",
         "category": "Combat",
         "price": 2859.0,
         "image": "assets/images/products/196/main.jpg",
@@ -3231,7 +3231,7 @@ var shopProducts = [
     },
     {
         "id": 266,
-        "name": "Epsoak Sport Energizing Pure Epsom Salt Post-Workout Bath Soak Pouch",
+        "name": "Epsoak Sport Epsom Salt Soak",
         "category": "Recovery",
         "price": 999.0,
         "image": "assets/images/products/266/main.jpg",
@@ -3241,7 +3241,7 @@ var shopProducts = [
     },
     {
         "id": 336,
-        "name": "RDX Heavy-Duty Padded Weightlifting Lumbar Support Belt with Quick-Lock Buckle",
+        "name": "RDX Padded Weightlifting Belt",
         "category": "Accessories",
         "price": 1899.0,
         "image": "assets/images/products/336/main.jpg",
@@ -3251,7 +3251,7 @@ var shopProducts = [
     },
     {
         "id": 406,
-        "name": "Men's Full-Zip Athletic Training Hoodie with Graphic Sleeves (Black)",
+        "name": "Men's Full-Zip Athletic Training Hoodie",
         "category": "Apparel",
         "price": 2999.0,
         "image": "assets/images/products/406/main.jpg",
@@ -3261,7 +3261,7 @@ var shopProducts = [
     },
     {
         "id": 476,
-        "name": "Multi-Channel Clinical ECG / EKG Machine Device with Lead Cables & Clamps",
+        "name": "Clinical Multi-Channel ECG Device",
         "category": "Fit Tech",
         "price": 19999.0,
         "image": "assets/images/products/476/main.jpg",
@@ -3271,7 +3271,7 @@ var shopProducts = [
     },
     {
         "id": 546,
-        "name": "One A Day Men's Pro Edge Daily Multivitamin Tablets Box (50-100 Tablets)",
+        "name": "One A Day Men's Pro Edge",
         "category": "Supplements",
         "price": 1499.0,
         "image": "assets/images/products/546/main.jpg",
@@ -3281,7 +3281,7 @@ var shopProducts = [
     },
     {
         "id": 616,
-        "name": "Organic Cotton Cylindrical Yoga & Meditation Bolster Pillow (Deep Maroon)",
+        "name": "Organic Cotton Yoga Bolster",
         "category": "Yoga",
         "price": 1729.0,
         "image": "assets/images/products/616/main.jpg",
@@ -3291,7 +3291,7 @@ var shopProducts = [
     },
     {
         "id": 686,
-        "name": "Heavy-Duty Wall-Mounted Pull-Up & Chin-Up Bar with Multi-Grip Foam Handles (White)",
+        "name": "Heavy-Duty Wall-Mounted Pull-Up & Chin-Up Bar",
         "category": "Home Gym",
         "price": 2739.0,
         "image": "assets/images/products/686/main.jpg",
@@ -3301,7 +3301,7 @@ var shopProducts = [
     },
     {
         "id": 57,
-        "name": "Olympic Hex Trap Bar / Deadlift Shrug Bar with Knurled Neutral Grips",
+        "name": "Olympic Hex Trap Bar / Deadlift Shrug Bar",
         "category": "Strength",
         "price": 9199.0,
         "image": "assets/images/products/57/main.jpg",
@@ -3311,7 +3311,7 @@ var shopProducts = [
     },
     {
         "id": 127,
-        "name": "Liftdex Commercial High-Performance Magnetic Resistance Indoor Studio Spin Bike",
+        "name": "Liftdex Commercial Magnetic Studio Spin Bike",
         "category": "Cardio",
         "price": 22999.0,
         "image": "assets/images/products/127/main.jpg",
@@ -3321,7 +3321,7 @@ var shopProducts = [
     },
     {
         "id": 197,
-        "name": "Elasticated Cotton Boxing Hand Wraps / Bandages Pair (Red / 4.5m)",
+        "name": "Elastic Cotton Boxing Hand Wraps",
         "category": "Combat",
         "price": 599.0,
         "image": "assets/images/products/197/main.jpg",
@@ -3331,7 +3331,7 @@ var shopProducts = [
     },
     {
         "id": 193,
-        "name": "Pro Leather Curved Hook & Jab Focus Mitts Pair (Baby Blue / Grey)",
+        "name": "Pro Leather Curved Focus Mitts Pair",
         "category": "Combat",
         "price": 3299.0,
         "image": "assets/images/products/193/main.jpg",
@@ -3341,7 +3341,7 @@ var shopProducts = [
     },
     {
         "id": 263,
-        "name": "Deep Tissue Handheld Percussion Massage Gun with Interchangeable Heads (Black/Green)",
+        "name": "Deep Tissue Handheld Percussion Massage Gun",
         "category": "Recovery",
         "price": 6499.0,
         "image": "assets/images/products/263/main.jpg",
@@ -3351,7 +3351,7 @@ var shopProducts = [
     },
     {
         "id": 403,
-        "name": "Men's Sleeveless Athletic Muscle Gym Workout Tank Top (Black)",
+        "name": "Sleeveless Muscle Workout Tank",
         "category": "Apparel",
         "price": 1199.0,
         "image": "assets/images/products/403/main.jpg",
@@ -3361,7 +3361,7 @@ var shopProducts = [
     },
     {
         "id": 473,
-        "name": "InBody Commercial Multi-Frequency Bioelectrical Body Composition Analyzer Scale Station",
+        "name": "InBody Body Composition Analyzer",
         "category": "Fit Tech",
         "price": 89999.0,
         "image": "assets/images/products/473/main.jpg",
@@ -3371,7 +3371,7 @@ var shopProducts = [
     },
     {
         "id": 543,
-        "name": "Optimum Nutrition Platinum HydroWhey Hydrolyzed Whey Protein Powder Tub (Vanilla / Chocolate)",
+        "name": "ON Platinum HydroWhey (3.5 lbs)",
         "category": "Supplements",
         "price": 3539.0,
         "image": "assets/images/products/543/main.jpg",
@@ -3381,7 +3381,7 @@ var shopProducts = [
     },
     {
         "id": 613,
-        "name": "Eco-Friendly Textured TPE Non-Slip Yoga Mat with Lotus Mandala Alignment Print (Magenta Pink)",
+        "name": "Eco-Friendly Textured TPE Non-Slip Yoga Mat",
         "category": "Yoga",
         "price": 2529.0,
         "image": "assets/images/products/613/main.jpg",
@@ -3391,7 +3391,7 @@ var shopProducts = [
     },
     {
         "id": 683,
-        "name": "Doorway Multi-Grip Chin-Up & Pull-Up Bar with Padded Handles",
+        "name": "Doorway Multi-Grip Chin-Up & Pull-Up Bar",
         "category": "Home Gym",
         "price": 1999.0,
         "image": "assets/images/products/683/main.jpg",
@@ -3401,7 +3401,7 @@ var shopProducts = [
     },
     {
         "id": 54,
-        "name": "Commercial Hyperextension Roman Chair / 45-Degree Back Extension Bench",
+        "name": "Commercial Roman Chair Hyperextension",
         "category": "Strength",
         "price": 14999.0,
         "image": "assets/images/products/54/main.jpg",
@@ -3411,7 +3411,7 @@ var shopProducts = [
     },
     {
         "id": 124,
-        "name": "Life Fitness PowerMill Commercial Stair Climber Stepmill Cardio Machine with Discover Console",
+        "name": "Life Fitness PowerMill Stepmill",
         "category": "Cardio",
         "price": 55249.0,
         "image": "assets/images/products/124/main.jpg",
@@ -3421,7 +3421,7 @@ var shopProducts = [
     },
     {
         "id": 194,
-        "name": "Martial Arts Ergonomic Padded Leather Shin & Instep Guards for Kickboxing (White Pair)",
+        "name": "Ergonomic Leather Shin Guards",
         "category": "Combat",
         "price": 3499.0,
         "image": "assets/images/products/194/main.jpg",
@@ -3431,7 +3431,7 @@ var shopProducts = [
     },
     {
         "id": 264,
-        "name": "Hollow Core Deep Tissue Trigger Point Foam Roller for Hamstrings & Calves (Grey/Lime Green)",
+        "name": "Hollow Core Trigger Foam Roller",
         "category": "Recovery",
         "price": 1589.0,
         "image": "assets/images/products/264/main.jpg",
@@ -3441,7 +3441,7 @@ var shopProducts = [
     },
     {
         "id": 334,
-        "name": "Heavy-Duty Elastic Weightlifting Wrist Wraps with Thumb Loop (Olive Green & Black Pair)",
+        "name": "Heavy-Duty Elastic Weightlifting Wrist Wraps",
         "category": "Accessories",
         "price": 999.0,
         "image": "assets/images/products/334/main.jpg",
@@ -3451,7 +3451,7 @@ var shopProducts = [
     },
     {
         "id": 404,
-        "name": "Men's Lightweight Athletic Tapered Gym Joggers with Zipper Pockets (Black)",
+        "name": "Men's Lightweight Tapered Joggers",
         "category": "Apparel",
         "price": 2029.0,
         "image": "assets/images/products/404/main.jpg",
@@ -3461,7 +3461,7 @@ var shopProducts = [
     },
     {
         "id": 474,
-        "name": "Garmin F\u0113nix Rugged Multisport GPS Outdoor Smartwatch with Titanium Bezel",
+        "name": "Garmin Fenix Multisport Smartwatch",
         "category": "Fit Tech",
         "price": 34999.0,
         "image": "assets/images/products/474/main.jpg",
@@ -3471,7 +3471,7 @@ var shopProducts = [
     },
     {
         "id": 544,
-        "name": "Muscle Impact Nutrition Impact Mass Gainer High-Calorie Protein Powder Tub (Belgian Chocolate)",
+        "name": "Muscle Impact Mass Gainer (Chocolate)",
         "category": "Supplements",
         "price": 2999.0,
         "image": "assets/images/products/544/main.jpg",
@@ -3481,7 +3481,7 @@ var shopProducts = [
     },
     {
         "id": 614,
-        "name": "Adjustable Yoga Mat Sling Carrier Shoulder Strap (Cyan Blue / Woven Webbing)",
+        "name": "Yoga Mat Carrier Shoulder Strap",
         "category": "Yoga",
         "price": 699.0,
         "image": "assets/images/products/614/main.jpg",
@@ -3491,7 +3491,7 @@ var shopProducts = [
     },
     {
         "id": 684,
-        "name": "Multi-Grip Wall-Mounted / Doorway Pull-Up Bar Station",
+        "name": "Multi-Grip Wall Pull-Up Bar",
         "category": "Home Gym",
         "price": 4359.0,
         "image": "assets/images/products/684/main.jpg",
@@ -3501,7 +3501,7 @@ var shopProducts = [
     },
     {
         "id": 55,
-        "name": "Commercial Heavy-Duty Power Rack Squat Cage with Barbell & Weight Plates",
+        "name": "Commercial Power Rack Squat Cage",
         "category": "Strength",
         "price": 49999.0,
         "image": "assets/images/products/55/main.jpg",
@@ -3511,7 +3511,7 @@ var shopProducts = [
     },
     {
         "id": 125,
-        "name": "Commercial Total-Body Dual-Action Recumbent Elliptical Cross Trainer Machine",
+        "name": "Commercial Recumbent Cross Trainer",
         "category": "Cardio",
         "price": 27199.0,
         "image": "assets/images/products/125/main.jpg",
@@ -3521,7 +3521,7 @@ var shopProducts = [
     },
     {
         "id": 195,
-        "name": "Heavy-Duty Free-Standing Heavy Punching Bag Tower with Fillable Base (Black)",
+        "name": "Free-Standing Punching Bag Tower",
         "category": "Combat",
         "price": 14999.0,
         "image": "assets/images/products/195/main.jpg",
@@ -3531,7 +3531,7 @@ var shopProducts = [
     },
     {
         "id": 121,
-        "name": "Commercial Air Fan Assault Resistance Exercise Bike with Dual-Action Arms (Black & Yellow)",
+        "name": "Commercial Air Assault Bike",
         "category": "Cardio",
         "price": 38599.0,
         "image": "assets/images/products/121/main.jpg",
@@ -3541,7 +3541,7 @@ var shopProducts = [
     },
     {
         "id": 191,
-        "name": "Quick-Gel Padded Boxing Inner Hand Wraps Gloves Pair (Red with Wrist Strap)",
+        "name": "Quick-Gel Inner Boxing Gloves",
         "category": "Combat",
         "price": 1499.0,
         "image": "assets/images/products/191/main.jpg",
@@ -3551,7 +3551,7 @@ var shopProducts = [
     },
     {
         "id": 261,
-        "name": "Graduated Compression Arm & Forearm Protection Sleeve (Slate Charcoal Grey)",
+        "name": "Compression Forearm & Arm Sleeve",
         "category": "Recovery",
         "price": 899.0,
         "image": "assets/images/products/261/main.jpg",
@@ -3561,7 +3561,7 @@ var shopProducts = [
     },
     {
         "id": 331,
-        "name": "High-Speed Weighted PVC Jump Rope with Ball-Bearing Ergonomic Handles (Yellow/Black)",
+        "name": "High-Speed Weighted PVC Jump Rope",
         "category": "Accessories",
         "price": 899.0,
         "image": "assets/images/products/331/main.jpg",
@@ -3571,7 +3571,7 @@ var shopProducts = [
     },
     {
         "id": 401,
-        "name": "Men's 2-in-1 Athletic Workout Running Shorts with Compression Liner (Sage Green)",
+        "name": "Men's 2-in-1 Athletic Workout Running Shorts",
         "category": "Apparel",
         "price": 1659.0,
         "image": "assets/images/products/401/main.jpg",
@@ -3581,7 +3581,7 @@ var shopProducts = [
     },
     {
         "id": 471,
-        "name": "Garmin HRM-Dual Premium Soft Fabric Heart Rate Monitor Chest Strap Sensor (Black)",
+        "name": "Garmin HRM-Dual Chest Strap",
         "category": "Fit Tech",
         "price": 3839.0,
         "image": "assets/images/products/471/main.jpg",
@@ -3591,7 +3591,7 @@ var shopProducts = [
     },
     {
         "id": 541,
-        "name": "BioTechUSA 100% Micronized Creatine Monohydrate Powder Tub (Unflavoured / 500g)",
+        "name": "BioTechUSA Micronized Creatine",
         "category": "Supplements",
         "price": 1899.0,
         "image": "assets/images/products/541/main.jpg",
@@ -3601,7 +3601,7 @@ var shopProducts = [
     },
     {
         "id": 611,
-        "name": "Organic Cotton Cylindrical Yoga & Meditation Bolster Pillow (Black / Large)",
+        "name": "Organic Cotton Yoga Bolster",
         "category": "Yoga",
         "price": 1729.0,
         "image": "assets/images/products/611/main.jpg",
@@ -3611,7 +3611,7 @@ var shopProducts = [
     },
     {
         "id": 681,
-        "name": "Commercial Wall-Mounted Steel Pull-Up & Chin-Up Bar Station (Grey / Multi-Grip)",
+        "name": "Wall-Mounted Steel Pull-Up Bar",
         "category": "Home Gym",
         "price": 2969.0,
         "image": "assets/images/products/681/main.jpg",
@@ -3621,7 +3621,7 @@ var shopProducts = [
     },
     {
         "id": 52,
-        "name": "Olympic Barbell T-Bar Row Platform System with Blue Bumper Plates",
+        "name": "Olympic Barbell T-Bar Row Platform System",
         "category": "Strength",
         "price": 8999.0,
         "image": "assets/images/products/52/main.jpg",
@@ -3631,7 +3631,7 @@ var shopProducts = [
     },
     {
         "id": 122,
-        "name": "Commercial Total-Body Hybrid Elliptical Stepper Machine with Console Display",
+        "name": "Commercial Hybrid Stepper Trainer",
         "category": "Cardio",
         "price": 27999.0,
         "image": "assets/images/products/122/main.jpg",
@@ -3641,7 +3641,7 @@ var shopProducts = [
     },
     {
         "id": 192,
-        "name": "Pro Leather Boxing Sparring Training Gloves (Black & Grey Trim)",
+        "name": "Pro Leather Boxing Sparring Training Gloves",
         "category": "Combat",
         "price": 3499.0,
         "image": "assets/images/products/192/main.jpg",
@@ -3651,7 +3651,7 @@ var shopProducts = [
     },
     {
         "id": 262,
-        "name": "The Pod Portable Insulated Circular Ice Bath Cold Plunge Tub with Weather Cover (Black)",
+        "name": "The Pod Insulated Cold Plunge",
         "category": "Recovery",
         "price": 6499.0,
         "image": "assets/images/products/262/main.jpg",
@@ -3661,7 +3661,7 @@ var shopProducts = [
     },
     {
         "id": 402,
-        "name": "Men's Minimalist Barefoot Weightlifting & Cross-Training Shoes (Black / Gum Sole)",
+        "name": "Barefoot Weightlifting Shoes",
         "category": "Apparel",
         "price": 2419.0,
         "image": "assets/images/products/402/main.jpg",
@@ -3671,7 +3671,7 @@ var shopProducts = [
     },
     {
         "id": 472,
-        "name": "Sequential Pneumatic Air Compression Full Leg Recovery Boots Pair (Black)",
+        "name": "Air Compression Full Leg Boots",
         "category": "Fit Tech",
         "price": 24999.0,
         "image": "assets/images/products/472/main.jpg",
@@ -3681,7 +3681,7 @@ var shopProducts = [
     },
     {
         "id": 542,
-        "name": "Raw Nutrition High-Performance Pre-Workout Energy Powder Tub (Black/Yellow)",
+        "name": "Raw Nutrition Pre-Workout Powder",
         "category": "Supplements",
         "price": 2999.0,
         "image": "assets/images/products/542/main.jpg",
@@ -3691,7 +3691,7 @@ var shopProducts = [
     },
     {
         "id": 612,
-        "name": "Natural Cork Yoga Blocks Pair with Non-Slip Cork Yoga Mat",
+        "name": "Natural Cork Yoga Blocks Pair",
         "category": "Yoga",
         "price": 1869.0,
         "image": "assets/images/products/612/main.jpg",
@@ -3701,7 +3701,7 @@ var shopProducts = [
     },
     {
         "id": 682,
-        "name": "Heavy-Duty Wall-Mounted Multi-Grip Pull-Up & Chin-Up Bar Station (Black)",
+        "name": "Wall-Mounted Multi-Grip Pull-Up Bar",
         "category": "Home Gym",
         "price": 2019.0,
         "image": "assets/images/products/682/main.jpg",
@@ -3711,7 +3711,7 @@ var shopProducts = [
     },
     {
         "id": 53,
-        "name": "Solid Chrome EZ Curl Barbell with Weight Plates for Bicep Curls",
+        "name": "Solid Chrome EZ Curl Barbell",
         "category": "Strength",
         "price": 11959.0,
         "image": "assets/images/products/53/main.jpg",
@@ -3721,7 +3721,7 @@ var shopProducts = [
     },
     {
         "id": 123,
-        "name": "Smart Indoor Studio Magnetic Resistance Spin Exercise Bike with HD Tablet Display",
+        "name": "Smart Studio Magnetic Spin Bike",
         "category": "Cardio",
         "price": 19239.0,
         "image": "assets/images/products/123/main.jpg",
@@ -3731,7 +3731,7 @@ var shopProducts = [
     },
     {
         "id": 678,
-        "name": "High-Density EVA Interlocking Puzzle Exercise Gym Flooring Mat Tiles (Grey & Black)",
+        "name": "EVA Interlocking Gym Floor Tiles",
         "category": "Home Gym",
         "price": 2999.0,
         "image": "assets/images/products/678/main.jpg",
@@ -3741,7 +3741,7 @@ var shopProducts = [
     },
     {
         "id": 49,
-        "name": "Rock Solid Olympic Hex Trap Bar / Deadlift Shrug Bar with Heavy Bumper Plates",
+        "name": "Rock Solid Olympic Hex Trap Bar",
         "category": "Strength",
         "price": 11999.0,
         "image": "assets/images/products/49/main.jpg",
@@ -3751,7 +3751,7 @@ var shopProducts = [
     },
     {
         "id": 119,
-        "name": "Powergun Commercial Magnetic & Air Resistance Indoor Rowing Machine with Performance Monitor",
+        "name": "Powergun Magnetic Air Rower",
         "category": "Cardio",
         "price": 67399.0,
         "image": "assets/images/products/119/main.jpg",
@@ -3761,7 +3761,7 @@ var shopProducts = [
     },
     {
         "id": 189,
-        "name": "Heavy-Duty Vinyl Hanging Heavy Boxing & Kickboxing Punching Bag (Bright Red)",
+        "name": "Heavy-Duty Vinyl Punching Bag",
         "category": "Combat",
         "price": 5319.0,
         "image": "assets/images/products/189/main.jpg",
@@ -3771,7 +3771,7 @@ var shopProducts = [
     },
     {
         "id": 259,
-        "name": "Cervical Neck & Suboccipital Trigger Point Foam Roller Pillow (Black)",
+        "name": "Cervical Neck Foam Roller Pillow",
         "category": "Recovery",
         "price": 919.0,
         "image": "assets/images/products/259/main.jpg",
@@ -3781,7 +3781,7 @@ var shopProducts = [
     },
     {
         "id": 399,
-        "name": "Women's Seamless Long-Sleeve Athletic Cropped Workout Top (Lilac Lavender Purple)",
+        "name": "Seamless Long-Sleeve Cropped Top",
         "category": "Apparel",
         "price": 1539.0,
         "image": "assets/images/products/399/main.jpg",
@@ -3791,7 +3791,7 @@ var shopProducts = [
     },
     {
         "id": 469,
-        "name": "Apple Watch Ultra Style Rugged Titanium Smartwatch with Ocean Silicone Band (Black)",
+        "name": "Ultra Rugged Titanium Smartwatch",
         "category": "Fit Tech",
         "price": 4999.0,
         "image": "assets/images/products/469/main.jpg",
@@ -3801,7 +3801,7 @@ var shopProducts = [
     },
     {
         "id": 539,
-        "name": "Skill Nutrition Blue Raspberry High-Performance Pre-Workout Powder Tub",
+        "name": "Skill Nutrition Pre-Workout",
         "category": "Supplements",
         "price": 2059.0,
         "image": "assets/images/products/539/main.jpg",
@@ -3811,7 +3811,7 @@ var shopProducts = [
     },
     {
         "id": 609,
-        "name": "Multi-Loop Yoga Stretching Strap Belt for Hamstring & Flexibility (Black)",
+        "name": "Multi-Loop Yoga Stretching Strap Belt",
         "category": "Yoga",
         "price": 899.0,
         "image": "assets/images/products/609/main.jpg",
@@ -3821,7 +3821,7 @@ var shopProducts = [
     },
     {
         "id": 679,
-        "name": "Heavy-Duty Interlocking Textured Rubber Gym Floor Matting System",
+        "name": "Interlocking Rubber Gym Matting",
         "category": "Home Gym",
         "price": 2999.0,
         "image": "assets/images/products/679/main.jpg",
@@ -3831,7 +3831,7 @@ var shopProducts = [
     },
     {
         "id": 50,
-        "name": "Chrome Adjustable Dumbbells Set with Spinlock Star Collars",
+        "name": "Chrome Adjustable Dumbbells Set",
         "category": "Strength",
         "price": 3499.0,
         "image": "assets/images/products/50/main.jpg",
@@ -3841,7 +3841,7 @@ var shopProducts = [
     },
     {
         "id": 120,
-        "name": "Ultra-Thin Foldable Walking Pad Under-Desk Treadmill with Remote (Silver/Black)",
+        "name": "Foldable Walking Pad Treadmill",
         "category": "Cardio",
         "price": 43249.0,
         "image": "assets/images/products/120/main.jpg",
@@ -3851,7 +3851,7 @@ var shopProducts = [
     },
     {
         "id": 190,
-        "name": "Vanguard Pro Leather Full-Face Boxing Sparring Headgear with Cheek & Chin Guard",
+        "name": "Vanguard Full-Face Boxing Headgear",
         "category": "Combat",
         "price": 3999.0,
         "image": "assets/images/products/190/main.jpg",
@@ -3861,7 +3861,7 @@ var shopProducts = [
     },
     {
         "id": 260,
-        "name": "100% Pure Epsom Salt Foot Soak Crystals Pouch with Tea Tree & Peppermint Oils",
+        "name": "100% Pure Epsom Salt Foot Soak Crystals Pouch",
         "category": "Recovery",
         "price": 899.0,
         "image": "assets/images/products/260/main.jpg",
@@ -3871,7 +3871,7 @@ var shopProducts = [
     },
     {
         "id": 400,
-        "name": "Women's Cropped Full-Zip Athletic Workout Fleece Hoodie (Mocha Brown)",
+        "name": "Women's Cropped Full-Zip Hoodie",
         "category": "Apparel",
         "price": 1899.0,
         "image": "assets/images/products/400/main.jpg",
@@ -3881,7 +3881,7 @@ var shopProducts = [
     },
     {
         "id": 470,
-        "name": "Curved AMOLED Smart Fitness Watch with Heart Rate & Calorie Activity Tracker (Black)",
+        "name": "Curved AMOLED Smart Fitness Watch",
         "category": "Fit Tech",
         "price": 16099.0,
         "image": "assets/images/products/470/main.jpg",
@@ -3891,7 +3891,7 @@ var shopProducts = [
     },
     {
         "id": 540,
-        "name": "Super Multivitamin Once Daily Dietary Supplement Tablets Bottle (Amber Glass)",
+        "name": "Super Daily Multivitamin Tablets",
         "category": "Supplements",
         "price": 1299.0,
         "image": "assets/images/products/540/main.jpg",
@@ -3901,7 +3901,7 @@ var shopProducts = [
     },
     {
         "id": 610,
-        "name": "High-Density Foam Incline Slant Squat & Pelvic/Calf Wedge Pillow (Red & Charcoal)",
+        "name": "Foam Incline Slant Squat Wedges",
         "category": "Yoga",
         "price": 1509.0,
         "image": "assets/images/products/610/main.jpg",
@@ -3911,7 +3911,7 @@ var shopProducts = [
     },
     {
         "id": 680,
-        "name": "Heavy-Duty Commercial Rubber Gym Flooring Interlocking Tiles (Black Speckled)",
+        "name": "Interlocking Rubber Gym Floor Tiles",
         "category": "Home Gym",
         "price": 3499.0,
         "image": "assets/images/products/680/main.jpg",
@@ -3921,7 +3921,7 @@ var shopProducts = [
     },
     {
         "id": 51,
-        "name": "Cast Iron Kettlebell for Two-Arm Swings & Core Training (Grey)",
+        "name": "Cast Iron Kettlebell",
         "category": "Strength",
         "price": 2999.0,
         "image": "assets/images/products/51/main.jpg",
@@ -3931,7 +3931,7 @@ var shopProducts = [
     },
     {
         "id": 606,
-        "name": "Organic Cotton Cylindrical Meditation & Yoga Bolster Pillow (Burgundy / Maroon)",
+        "name": "Organic Cotton Yoga Bolster",
         "category": "Yoga",
         "price": 1539.0,
         "image": "assets/images/products/606/main.jpg",
@@ -3941,7 +3941,7 @@ var shopProducts = [
     },
     {
         "id": 676,
-        "name": "Fusion Pro-Grade Diamond Plate High-Density Rubber Gym Flooring Mat (Black)",
+        "name": "Fusion Rubber Gym Flooring Mat",
         "category": "Home Gym",
         "price": 3389.0,
         "image": "assets/images/products/676/main.jpg",
@@ -3951,7 +3951,7 @@ var shopProducts = [
     },
     {
         "id": 47,
-        "name": "Commercial Adjustable Squat Rack & Half Cage with Pull-Up Bar & J-Hooks",
+        "name": "Commercial Half Rack Squat Cage",
         "category": "Strength",
         "price": 12799.0,
         "image": "assets/images/products/47/main.jpg",
@@ -3961,7 +3961,7 @@ var shopProducts = [
     },
     {
         "id": 117,
-        "name": "SPARNOD FITNESS Commercial Magnetic Indoor Studio Exercise Spin Bike (Black & Gold)",
+        "name": "SPARNOD Magnetic Studio Spin Bike",
         "category": "Cardio",
         "price": 27999.0,
         "image": "assets/images/products/117/main.jpg",
@@ -3971,7 +3971,7 @@ var shopProducts = [
     },
     {
         "id": 187,
-        "name": "FIVING Pro Leather Curved Hook & Jab Focus Mitts Pair (Olive Green & Black)",
+        "name": "FIVING Leather Focus Mitts Pair",
         "category": "Combat",
         "price": 3099.0,
         "image": "assets/images/products/187/main.jpg",
@@ -3981,7 +3981,7 @@ var shopProducts = [
     },
     {
         "id": 257,
-        "name": "Mini Handheld Deep Tissue Percussion Massage Gun for Deltoids & Shoulders (Gunmetal Blue)",
+        "name": "Mini Deep Tissue Massage Gun",
         "category": "Recovery",
         "price": 5599.0,
         "image": "assets/images/products/257/main.jpg",
@@ -3991,7 +3991,7 @@ var shopProducts = [
     },
     {
         "id": 327,
-        "name": "ADER Gym Chalk 100% Pure Magnesium Carbonate Blocks Box (1 lb / 8 Blocks)",
+        "name": "ADER Pure Gym Chalk (8 Blocks)",
         "category": "Accessories",
         "price": 1299.0,
         "image": "assets/images/products/327/main.jpg",
@@ -4001,7 +4001,7 @@ var shopProducts = [
     },
     {
         "id": 397,
-        "name": "Women's High-Neck Longline Seamless Athletic Workout Sports Bra Tank (Hot Pink)",
+        "name": "Seamless High-Neck Sports Bra Tank",
         "category": "Apparel",
         "price": 3599.0,
         "image": "assets/images/products/397/main.jpg",
@@ -4011,7 +4011,7 @@ var shopProducts = [
     },
     {
         "id": 467,
-        "name": "IKEEPFIT Sequential Pneumatic Air Compression Leg & Calf Recovery Boots System (Black/Orange)",
+        "name": "IKEEPFIT Air Compression Boots",
         "category": "Fit Tech",
         "price": 24999.0,
         "image": "assets/images/products/467/main.jpg",
@@ -4021,7 +4021,7 @@ var shopProducts = [
     },
     {
         "id": 537,
-        "name": "Freak's Pump High-Stim Nitric Oxide Pre-Workout Powder Tub",
+        "name": "Freak's Pump Pre-Workout Powder",
         "category": "Supplements",
         "price": 3099.0,
         "image": "assets/images/products/537/main.jpg",
@@ -4031,7 +4031,7 @@ var shopProducts = [
     },
     {
         "id": 607,
-        "name": "Ergonomic Wrist-Relief Yoga Support Push-Up Blocks Pair (Sky Blue)",
+        "name": "Wrist-Relief Yoga Push-Up Blocks",
         "category": "Yoga",
         "price": 1499.0,
         "image": "assets/images/products/607/main.jpg",
@@ -4041,7 +4041,7 @@ var shopProducts = [
     },
     {
         "id": 677,
-        "name": "Gorilla Mats Extra Large Heavy-Duty High-Density Exercise Workout Floor Mat (Black)",
+        "name": "Gorilla Mats Large Workout Floor Mat",
         "category": "Home Gym",
         "price": 6999.0,
         "image": "assets/images/products/677/main.jpg",
@@ -4051,7 +4051,7 @@ var shopProducts = [
     },
     {
         "id": 48,
-        "name": "Cast Iron Hex Dumbbell Pair with Ergonomic Chrome Handles",
+        "name": "Cast Iron Hex Dumbbells Pair",
         "category": "Strength",
         "price": 4499.0,
         "image": "assets/images/products/48/main.jpg",
@@ -4061,7 +4061,7 @@ var shopProducts = [
     },
     {
         "id": 118,
-        "name": "Industrial Heavy-Duty Benchtop Belt Sander & Grinder Machine Station",
+        "name": "Industrial Benchtop Belt Sander",
         "category": "Cardio",
         "price": 21039.0,
         "image": "assets/images/products/118/main.jpg",
@@ -4071,7 +4071,7 @@ var shopProducts = [
     },
     {
         "id": 188,
-        "name": "Martial Arts Padded Leather Shin & Instep Guards with Red Accents (Black Pair)",
+        "name": "Padded Leather Shin Guards",
         "category": "Combat",
         "price": 3499.0,
         "image": "assets/images/products/188/main.jpg",
@@ -4081,7 +4081,7 @@ var shopProducts = [
     },
     {
         "id": 258,
-        "name": "High-Density Textured Grid Trigger Point Foam Roller (Grey & Purple Core)",
+        "name": "Textured Grid Trigger Foam Roller",
         "category": "Recovery",
         "price": 1499.0,
         "image": "assets/images/products/258/main.jpg",
@@ -4091,7 +4091,7 @@ var shopProducts = [
     },
     {
         "id": 398,
-        "name": "Men's Gradient Dip-Dye Fleece Athletic Baggy Sweatpants (White / Pastel Yellow)",
+        "name": "Gradient Fleece Baggy Sweatpants",
         "category": "Apparel",
         "price": 2299.0,
         "image": "assets/images/products/398/main.jpg",
@@ -4101,7 +4101,7 @@ var shopProducts = [
     },
     {
         "id": 468,
-        "name": "Smart Bluetooth Digital Body Fat Scale with LED Display & App Sync (Black)",
+        "name": "Smart Bluetooth Body Fat Scale",
         "category": "Fit Tech",
         "price": 2499.0,
         "image": "assets/images/products/468/main.jpg",
@@ -4111,7 +4111,7 @@ var shopProducts = [
     },
     {
         "id": 538,
-        "name": "Nutravex Apex Mass Gainer High-Calorie Protein Powder Tub (Chocolate Fudge)",
+        "name": "Nutravex Apex Mass Gainer",
         "category": "Supplements",
         "price": 2999.0,
         "image": "assets/images/products/538/main.jpg",
@@ -4121,7 +4121,7 @@ var shopProducts = [
     },
     {
         "id": 608,
-        "name": "Eco-Friendly Non-Slip Alignment Pattern Yoga Exercise Mat (Cyan Blue)",
+        "name": "Eco Non-Slip Alignment Yoga Mat",
         "category": "Yoga",
         "price": 2649.0,
         "image": "assets/images/products/608/main.jpg",
@@ -4131,7 +4131,7 @@ var shopProducts = [
     },
     {
         "id": 464,
-        "name": "Garmin Forerunner GPS Running & Multisport Smartwatch (Volt Yellow / Black)",
+        "name": "Garmin Forerunner GPS Smartwatch",
         "category": "Fit Tech",
         "price": 16999.0,
         "image": "assets/images/products/464/main.jpg",
@@ -4141,7 +4141,7 @@ var shopProducts = [
     },
     {
         "id": 534,
-        "name": "Body Builder Super Multivitamin Once Daily Dietary Supplement Tablets Bottle",
+        "name": "Body Builder Daily Multivitamin",
         "category": "Supplements",
         "price": 1389.0,
         "image": "assets/images/products/534/main.jpg",
@@ -4151,7 +4151,7 @@ var shopProducts = [
     },
     {
         "id": 604,
-        "name": "ekotex yoga Adjustable Organic Cotton Yoga Stretching Strap with Metal D-Ring Buckle (Lilac Lavender)",
+        "name": "ekotex Organic Cotton Yoga Strap",
         "category": "Yoga",
         "price": 899.0,
         "image": "assets/images/products/604/main.jpg",
@@ -4161,7 +4161,7 @@ var shopProducts = [
     },
     {
         "id": 674,
-        "name": "Commercial Multi-Station Home Gym Strength Machine with Lat Pulldown & Chest Press Station",
+        "name": "Commercial Multi-Station Home Gym",
         "category": "Home Gym",
         "price": 34999.0,
         "image": "assets/images/products/674/main.jpg",
@@ -4171,7 +4171,7 @@ var shopProducts = [
     },
     {
         "id": 45,
-        "name": "Cerakote Olympic Weightlifting Barbell (Metallic Blue Shaft with Black Sleeves)",
+        "name": "Cerakote Olympic Barbell (Blue)",
         "category": "Strength",
         "price": 15919.0,
         "image": "assets/images/products/45/main.jpg",
@@ -4181,7 +4181,7 @@ var shopProducts = [
     },
     {
         "id": 115,
-        "name": "Boardman Pro Carbon Aero Road Racing Bicycle (Black & Yellow)",
+        "name": "Boardman Pro Carbon Road Bike",
         "category": "Cardio",
         "price": 46999.0,
         "image": "assets/images/products/115/main.jpg",
@@ -4191,7 +4191,7 @@ var shopProducts = [
     },
     {
         "id": 185,
-        "name": "Outshock Gel Padded Boxing Hand Wraps / Inner Gloves Pair with Wrist Support (Black)",
+        "name": "Outshock Gel Inner Boxing Gloves",
         "category": "Combat",
         "price": 1499.0,
         "image": "assets/images/products/185/main.jpg",
@@ -4201,7 +4201,7 @@ var shopProducts = [
     },
     {
         "id": 255,
-        "name": "DR.BORA Graduated Compression Arm & Elbow Protection Sleeve (Royal Blue)",
+        "name": "DR.BORA Compression Arm Sleeve",
         "category": "Recovery",
         "price": 899.0,
         "image": "assets/images/products/255/main.jpg",
@@ -4211,7 +4211,7 @@ var shopProducts = [
     },
     {
         "id": 395,
-        "name": "Women's High-Waisted Seamless Athletic Biker Spandex Shorts (Sage Green)",
+        "name": "Seamless Athletic Biker Shorts (Sage)",
         "category": "Apparel",
         "price": 1389.0,
         "image": "assets/images/products/395/main.jpg",
@@ -4221,7 +4221,7 @@ var shopProducts = [
     },
     {
         "id": 465,
-        "name": "Garmin Instinct Rugged GPS Outdoor Smartwatch with Solar Charging (Mint Green & Navy)",
+        "name": "Garmin Instinct Solar Smartwatch",
         "category": "Fit Tech",
         "price": 18999.0,
         "image": "assets/images/products/465/main.jpg",
@@ -4231,7 +4231,7 @@ var shopProducts = [
     },
     {
         "id": 535,
-        "name": "NutraBio 100% Pure Creatine Monohydrate Powder Tub (Unflavored / 500g)",
+        "name": "NutraBio Pure Creatine (500g)",
         "category": "Supplements",
         "price": 1999.0,
         "image": "assets/images/products/535/main.jpg",
@@ -4241,7 +4241,7 @@ var shopProducts = [
     },
     {
         "id": 605,
-        "name": "Ergonomic Contoured Meditation Floor Cushion & Support Chair (Beige / Light Grey)",
+        "name": "Contoured Meditation Floor Cushion",
         "category": "Yoga",
         "price": 2589.0,
         "image": "assets/images/products/605/main.jpg",
@@ -4251,7 +4251,7 @@ var shopProducts = [
     },
     {
         "id": 675,
-        "name": "Commercial All-in-One Multi-Gym Dual Stack Functional Trainer Station",
+        "name": "All-in-One Functional Multi-Gym",
         "category": "Home Gym",
         "price": 38999.0,
         "image": "assets/images/products/675/main.jpg",
@@ -4261,7 +4261,7 @@ var shopProducts = [
     },
     {
         "id": 46,
-        "name": "Commercial Heavy-Duty Flat Weightlifting Utility Bench",
+        "name": "Commercial Flat Weight Bench",
         "category": "Strength",
         "price": 7239.0,
         "image": "assets/images/products/46/main.jpg",
@@ -4271,7 +4271,7 @@ var shopProducts = [
     },
     {
         "id": 116,
-        "name": "Commercial Elliptical Cross-Trainer with Smart Interactive Console",
+        "name": "Commercial Elliptical Cross-Trainer",
         "category": "Cardio",
         "price": 41599.0,
         "image": "assets/images/products/116/main.jpg",
@@ -4281,7 +4281,7 @@ var shopProducts = [
     },
     {
         "id": 186,
-        "name": "Pro Leather Boxing Sparring Training Gloves (White with Blue Wrist Strap)",
+        "name": "Pro Leather Sparring Gloves",
         "category": "Combat",
         "price": 4989.0,
         "image": "assets/images/products/186/main.jpg",
@@ -4291,7 +4291,7 @@ var shopProducts = [
     },
     {
         "id": 256,
-        "name": "KULA Portable Insulated Ice Bath Cold Plunge Tub with Thermal Weather Cover (Black)",
+        "name": "KULA Insulated Cold Plunge Tub",
         "category": "Recovery",
         "price": 7999.0,
         "image": "assets/images/products/256/main.jpg",
@@ -4301,7 +4301,7 @@ var shopProducts = [
     },
     {
         "id": 396,
-        "name": "Reebok Instapump Fury / Weightlifting Cross-Training Shoes (Black / Cyan Blue)",
+        "name": "Reebok Instapump Fury Trainers",
         "category": "Apparel",
         "price": 4999.0,
         "image": "assets/images/products/396/main.jpg",
@@ -4311,7 +4311,7 @@ var shopProducts = [
     },
     {
         "id": 466,
-        "name": "Handheld Multi-Parameter SpO2 Pulse Oximeter & Vital Signs Monitor (Blue & Orange Pair)",
+        "name": "Handheld SpO2 Pulse Oximeter",
         "category": "Fit Tech",
         "price": 7579.0,
         "image": "assets/images/products/466/main.jpg",
@@ -4321,7 +4321,7 @@ var shopProducts = [
     },
     {
         "id": 536,
-        "name": "Ultimate Nutrition Flavored BCAA 12,000 Powder Tub (Purple / Blue Raspberry)",
+        "name": "Ultimate Nutrition BCAA 12,000",
         "category": "Supplements",
         "price": 3989.0,
         "image": "assets/images/products/536/main.jpg",
@@ -4331,7 +4331,7 @@ var shopProducts = [
     },
     {
         "id": 598,
-        "name": "High-Density EVA Foam Yoga Support Block (Hot Pink / Magenta)",
+        "name": "High-Density EVA Yoga Block (Pink)",
         "category": "Yoga",
         "price": 1069.0,
         "image": "assets/images/products/598/main.jpg",
@@ -4341,7 +4341,7 @@ var shopProducts = [
     },
     {
         "id": 668,
-        "name": "Smart Interactive Full-Length Fitness Training Mirror with Digital Cable Arms",
+        "name": "Smart Fitness Training Mirror",
         "category": "Home Gym",
         "price": 44999.0,
         "image": "assets/images/products/668/main.jpg",
@@ -4351,7 +4351,7 @@ var shopProducts = [
     },
     {
         "id": 39,
-        "name": "Heavy-Duty Commercial Power Rack Squat Cage Station (Olive Green)",
+        "name": "Commercial Power Rack Squat Cage",
         "category": "Strength",
         "price": 32999.0,
         "image": "assets/images/products/39/main.jpg",
@@ -4361,7 +4361,7 @@ var shopProducts = [
     },
     {
         "id": 109,
-        "name": "The PowerMax Dual-Action Air Fan Resistance Assault Exercise Bike (Black)",
+        "name": "PowerMax Dual-Action Air Bike",
         "category": "Cardio",
         "price": 34999.0,
         "image": "assets/images/products/109/main.jpg",
@@ -4371,7 +4371,7 @@ var shopProducts = [
     },
     {
         "id": 179,
-        "name": "Elastic Boxing Hand Wraps / Inner Wraps with Wrist Support (Royal Blue)",
+        "name": "Elastic Boxing Hand Wraps (Blue)",
         "category": "Combat",
         "price": 899.0,
         "image": "assets/images/products/179/main.jpg",
@@ -4381,7 +4381,7 @@ var shopProducts = [
     },
     {
         "id": 249,
-        "name": "Graduated Compression Elbow & Forearm Sleeve (Blue & White Striped Pattern)",
+        "name": "Graduated Compression Elbow Sleeve",
         "category": "Recovery",
         "price": 899.0,
         "image": "assets/images/products/249/main.jpg",
@@ -4391,7 +4391,7 @@ var shopProducts = [
     },
     {
         "id": 389,
-        "name": "Women's High-Rise Seamless Athletic Workout Biker Shorts (Bubblegum Pink)",
+        "name": "Seamless Athletic Biker Shorts (Pink)",
         "category": "Apparel",
         "price": 2329.0,
         "image": "assets/images/products/389/main.jpg",
@@ -4401,7 +4401,7 @@ var shopProducts = [
     },
     {
         "id": 459,
-        "name": "Round AMOLED Smart Fitness Watch with Heart Rate & Calorie Activity Tracker (Black)",
+        "name": "Round AMOLED Smart Fitness Watch",
         "category": "Fit Tech",
         "price": 7359.0,
         "image": "assets/images/products/459/main.jpg",
@@ -4411,7 +4411,7 @@ var shopProducts = [
     },
     {
         "id": 529,
-        "name": "Prime Labs Pure Creatine Monohydrate Capsules Bottle (Black / Gold Label)",
+        "name": "Prime Labs Creatine Capsules",
         "category": "Supplements",
         "price": 1499.0,
         "image": "assets/images/products/529/main.jpg",
@@ -4421,7 +4421,7 @@ var shopProducts = [
     },
     {
         "id": 599,
-        "name": "Extra-Thick High-Density Non-Slip Yoga Exercise Mat with Carrying Strap (Purple)",
+        "name": "Extra-Thick Non-Slip Yoga Mat",
         "category": "Yoga",
         "price": 1209.0,
         "image": "assets/images/products/599/main.jpg",
@@ -4431,7 +4431,7 @@ var shopProducts = [
     },
     {
         "id": 669,
-        "name": "Smart Digital Interactive Cable Resistance Squat & Deadlift Training Platform (LED Lit)",
+        "name": "Smart Digital Resistance Platform",
         "category": "Home Gym",
         "price": 49999.0,
         "image": "assets/images/products/669/main.jpg",
@@ -4441,7 +4441,7 @@ var shopProducts = [
     },
     {
         "id": 40,
-        "name": "Solid Cast Iron Hex Dumbbells Set for Walking Lunges & Arm Curls",
+        "name": "Cast Iron Hex Dumbbells Set",
         "category": "Strength",
         "price": 3999.0,
         "image": "assets/images/products/40/main.jpg",
@@ -4451,7 +4451,7 @@ var shopProducts = [
     },
     {
         "id": 110,
-        "name": "Commercial Total-Body Magnetic Elliptical Cross-Trainer with Touchscreen Console",
+        "name": "Commercial Magnetic Elliptical",
         "category": "Cardio",
         "price": 50749.0,
         "image": "assets/images/products/110/main.jpg",
@@ -4461,7 +4461,7 @@ var shopProducts = [
     },
     {
         "id": 180,
-        "name": "Pro Leather Boxing Sparring Training Gloves (White with Gold Trim)",
+        "name": "Pro Leather Sparring Gloves",
         "category": "Combat",
         "price": 3999.0,
         "image": "assets/images/products/180/main.jpg",
@@ -4471,7 +4471,7 @@ var shopProducts = [
     },
     {
         "id": 250,
-        "name": "Solid Oak Wood Barrel Cold Plunge Ice Bath Tub with Electric Water Chiller Unit",
+        "name": "Oak Barrel Cold Plunge & Chiller",
         "category": "Recovery",
         "price": 39999.0,
         "image": "assets/images/products/250/main.jpg",
@@ -4481,7 +4481,7 @@ var shopProducts = [
     },
     {
         "id": 390,
-        "name": "Men's Minimalist Barefoot Weightlifting & Cross-Training Shoes (White / Black)",
+        "name": "Barefoot Weightlifting Shoes",
         "category": "Apparel",
         "price": 2499.0,
         "image": "assets/images/products/390/main.jpg",
@@ -4491,7 +4491,7 @@ var shopProducts = [
     },
     {
         "id": 460,
-        "name": "Rugged Tactical Military Smartwatch with Heart Rate & Step Tracker (Desert Tan / Khaki)",
+        "name": "Tactical Military Smartwatch",
         "category": "Fit Tech",
         "price": 9099.0,
         "image": "assets/images/products/460/main.jpg",
@@ -4501,7 +4501,7 @@ var shopProducts = [
     },
     {
         "id": 530,
-        "name": "Rule One Active BCAA Performance & Hydration Powder Tub (Blue Raspberry / 30 Servings)",
+        "name": "Rule One Active BCAA Powder",
         "category": "Supplements",
         "price": 2199.0,
         "image": "assets/images/products/530/main.jpg",
@@ -4511,7 +4511,7 @@ var shopProducts = [
     },
     {
         "id": 600,
-        "name": "Organic Cotton Rectangular Meditation Cushion Floor Zafu (Burgundy / Maroon)",
+        "name": "Rectangular Meditation Zafu",
         "category": "Yoga",
         "price": 1209.0,
         "image": "assets/images/products/600/main.jpg",
@@ -4521,7 +4521,7 @@ var shopProducts = [
     },
     {
         "id": 670,
-        "name": "Smart Interactive Fitness Mirror & Multi-Tier Dumbbell Storage Studio Locker (Black)",
+        "name": "Smart Fitness Mirror & Locker Studio",
         "category": "Home Gym",
         "price": 48999.0,
         "image": "assets/images/products/670/main.jpg",
@@ -4531,7 +4531,7 @@ var shopProducts = [
     },
     {
         "id": 176,
-        "name": "VUSAGE Muay Thai & Kickboxing Padded Leather Shin & Instep Guards (Black Pair)",
+        "name": "VUSAGE Muay Thai Shin Guards",
         "category": "Combat",
         "price": 2059.0,
         "image": "assets/images/products/176/main.jpg",
@@ -4541,7 +4541,7 @@ var shopProducts = [
     },
     {
         "id": 246,
-        "name": "High-Density Spiky Grid Muscle Trigger Point Foam Roller (Black & Red Core)",
+        "name": "Spiky Grid Trigger Point Roller",
         "category": "Recovery",
         "price": 929.0,
         "image": "assets/images/products/246/main.jpg",
@@ -4551,7 +4551,7 @@ var shopProducts = [
     },
     {
         "id": 316,
-        "name": "Ergonomic Carpal Tunnel Wrist Support Brace with Thumb Hole & Splint (Charcoal Grey)",
+        "name": "Carpal Tunnel Wrist Brace",
         "category": "Accessories",
         "price": 899.0,
         "image": "assets/images/products/316/main.jpg",
@@ -4561,7 +4561,7 @@ var shopProducts = [
     },
     {
         "id": 526,
-        "name": "Muscle Core Platinum Standard Mass Gainer High-Calorie Protein Powder Tub (Chocolate / 4 lbs)",
+        "name": "Muscle Core Mass Gainer (4 lbs)",
         "category": "Supplements",
         "price": 2139.0,
         "image": "assets/images/products/526/main.jpg",
@@ -4571,7 +4571,7 @@ var shopProducts = [
     },
     {
         "id": 107,
-        "name": "Hydrow Connected Smart Magnetic Resistance Indoor Rowing Machine with 22-Inch HD Touchscreen",
+        "name": "Hydrow Connected Smart Rower",
         "category": "Cardio",
         "price": 89999.0,
         "image": "assets/images/products/107/main.jpg",
@@ -4581,7 +4581,7 @@ var shopProducts = [
     },
     {
         "id": 177,
-        "name": "BOX Escape Heavy-Duty Hanging Leather Boxing & Kickboxing Punching Bag (Black)",
+        "name": "BOX Escape Leather Punching Bag",
         "category": "Combat",
         "price": 3999.0,
         "image": "assets/images/products/177/main.jpg",
@@ -4591,7 +4591,7 @@ var shopProducts = [
     },
     {
         "id": 247,
-        "name": "Equate Ultra Strength Deep Penetrating Muscle Rub Pain Relieving Cream (85g)",
+        "name": "Equate Ultra Muscle Rub (85g)",
         "category": "Recovery",
         "price": 599.0,
         "image": "assets/images/products/247/main.jpg",
@@ -4601,7 +4601,7 @@ var shopProducts = [
     },
     {
         "id": 317,
-        "name": "merrithew Heavy-Duty Latex Resistance Loop Band for Pilates & Stretching (Green)",
+        "name": "merrithew Pilates Resistance Band",
         "category": "Accessories",
         "price": 649.0,
         "image": "assets/images/products/317/main.jpg",
@@ -4611,7 +4611,7 @@ var shopProducts = [
     },
     {
         "id": 387,
-        "name": "Men's Performance Graphic Athletic Gym Training T-Shirt (Multicolor Neon Paint Splatter)",
+        "name": "Neon Graphic Athletic Gym T-Shirt",
         "category": "Apparel",
         "price": 1299.0,
         "image": "assets/images/products/387/main.jpg",
@@ -4621,7 +4621,7 @@ var shopProducts = [
     },
     {
         "id": 457,
-        "name": "Therabody RecoveryAir JetBoots Wireless Pneumatic Compression Boots Pair (Black)",
+        "name": "Therabody RecoveryAir JetBoots",
         "category": "Fit Tech",
         "price": 39999.0,
         "image": "assets/images/products/457/main.jpg",
@@ -4631,7 +4631,7 @@ var shopProducts = [
     },
     {
         "id": 527,
-        "name": "GAT Sport NITRAFLEX High-Intensity Pre-Workout Strength & Energy Powder Tub (Fruit Punch)",
+        "name": "GAT Sport NITRAFLEX Pre-Workout",
         "category": "Supplements",
         "price": 2799.0,
         "image": "assets/images/products/527/main.jpg",
@@ -4641,7 +4641,7 @@ var shopProducts = [
     },
     {
         "id": 597,
-        "name": "High-Density EVA Foam Yoga Balance Block (Light Baby Pink)",
+        "name": "High-Density EVA Yoga Block",
         "category": "Yoga",
         "price": 699.0,
         "image": "assets/images/products/597/main.jpg",
@@ -4651,7 +4651,7 @@ var shopProducts = [
     },
     {
         "id": 667,
-        "name": "Commercial Assisted Chin-Up & Dip Weight Stack Station",
+        "name": "Commercial Assisted Chin & Dip Station",
         "category": "Home Gym",
         "price": 46999.0,
         "image": "assets/images/products/667/main.jpg",
@@ -4661,7 +4661,7 @@ var shopProducts = [
     },
     {
         "id": 38,
-        "name": "Commercial Heavy-Duty Adjustable Incline Weightlifting Bench",
+        "name": "Commercial Adjustable Incline Bench",
         "category": "Strength",
         "price": 12999.0,
         "image": "assets/images/products/38/main.jpg",
@@ -4671,7 +4671,7 @@ var shopProducts = [
     },
     {
         "id": 108,
-        "name": "Commercial Motorized Running Treadmill with Smart HD Console",
+        "name": "Commercial Motorized Treadmill",
         "category": "Cardio",
         "price": 44399.0,
         "image": "assets/images/products/108/main.jpg",
@@ -4681,7 +4681,7 @@ var shopProducts = [
     },
     {
         "id": 178,
-        "name": "Pro Leather Full-Face Boxing Sparring Headgear with Cheek Guards (Bright Red)",
+        "name": "Pro Leather Full-Face Headgear",
         "category": "Combat",
         "price": 2799.0,
         "image": "assets/images/products/178/main.jpg",
@@ -4691,7 +4691,7 @@ var shopProducts = [
     },
     {
         "id": 248,
-        "name": "Zechsal Pure Magnesium Bath Flakes / Crystals Large Jar (White)",
+        "name": "Zechsal Pure Magnesium Flakes",
         "category": "Recovery",
         "price": 1899.0,
         "image": "assets/images/products/248/main.jpg",
@@ -4701,7 +4701,7 @@ var shopProducts = [
     },
     {
         "id": 388,
-        "name": "Men's Lightweight Windproof Athletic Running & Training Hooded Jacket (Sage & Mint Green)",
+        "name": "Windproof Running Hooded Jacket",
         "category": "Apparel",
         "price": 1469.0,
         "image": "assets/images/products/388/main.jpg",
@@ -4711,7 +4711,7 @@ var shopProducts = [
     },
     {
         "id": 458,
-        "name": "ACCUNIQ Commercial Bioelectrical Impedance Body Composition Analyzer Station",
+        "name": "ACCUNIQ Body Composition Analyzer",
         "category": "Fit Tech",
         "price": 18639.0,
         "image": "assets/images/products/458/main.jpg",
@@ -4721,7 +4721,7 @@ var shopProducts = [
     },
     {
         "id": 528,
-        "name": "AdvaLife Multivitamin & Minerals Daily Dietary Supplement Capsules Bottle (Green Cap)",
+        "name": "AdvaLife Multivitamin & Minerals",
         "category": "Supplements",
         "price": 1169.0,
         "image": "assets/images/products/528/main.jpg",
@@ -4731,7 +4731,7 @@ var shopProducts = [
     },
     {
         "id": 1,
-        "name": "Zinc-Coated Olympic Hex Trap Bar",
+        "name": "Zinc Olympic Hex Trap Bar",
         "category": "Strength",
         "price": 7019.0,
         "image": "assets/images/products/1/main.jpg",
@@ -4741,7 +4741,7 @@ var shopProducts = [
     },
     {
         "id": 71,
-        "name": "Commercial Motorized Treadmill with 15.6 Inch HD Touchscreen",
+        "name": "Commercial Touchscreen Treadmill",
         "category": "Cardio",
         "price": 81799.0,
         "image": "assets/images/products/71/main.jpg",
@@ -4751,7 +4751,7 @@ var shopProducts = [
     },
     {
         "id": 141,
-        "name": "Heavy Leather Punching Bag (100 lbs / 4ft)",
+        "name": "Heavy Leather Punching Bag (100 lbs)",
         "category": "Combat",
         "price": 4719.0,
         "image": "assets/images/products/141/main.jpg",
@@ -4761,7 +4761,7 @@ var shopProducts = [
     },
     {
         "id": 211,
-        "name": "QM.1 Sports Care Pre-Sports Warming Muscle Cream",
+        "name": "QM.1 Warming Muscle Cream",
         "category": "Recovery",
         "price": 979.0,
         "image": "assets/images/products/211/main.jpg",
@@ -4771,7 +4771,7 @@ var shopProducts = [
     },
     {
         "id": 281,
-        "name": "Heavy-Duty Resistance Loop Bands Set (5 Resistance Levels)",
+        "name": "Resistance Loop Bands (5-Pack)",
         "category": "Accessories",
         "price": 1879.0,
         "image": "assets/images/products/281/main.jpg",
@@ -4781,7 +4781,7 @@ var shopProducts = [
     },
     {
         "id": 351,
-        "name": "Sweat-Wicking Performance Training Tee",
+        "name": "Sweat-Wicking Performance Tee",
         "category": "Apparel",
         "price": 1779.0,
         "image": "assets/images/products/351/main.jpg",
@@ -4791,7 +4791,7 @@ var shopProducts = [
     },
     {
         "id": 421,
-        "name": "GPS Sports Smartwatch with Heart Rate Monitor",
+        "name": "GPS Sports Smartwatch",
         "category": "Fit Tech",
         "price": 14799.0,
         "image": "assets/images/products/421/main.jpg",
@@ -4801,7 +4801,7 @@ var shopProducts = [
     },
     {
         "id": 491,
-        "name": "100% Whey Protein Isolate Powder (Vanilla 5 lbs)",
+        "name": "100% Whey Isolate (5 lbs)",
         "category": "Supplements",
         "price": 7719.0,
         "image": "assets/images/products/491/main.jpg",
@@ -4811,7 +4811,7 @@ var shopProducts = [
     },
     {
         "id": 561,
-        "name": "Organic Cotton Yoga Meditation Bolster Pillow",
+        "name": "Organic Cotton Yoga Bolster",
         "category": "Yoga",
         "price": 2369.0,
         "image": "assets/images/products/561/main.jpg",
@@ -4821,7 +4821,7 @@ var shopProducts = [
     },
     {
         "id": 2,
-        "name": "Quick-Select Adjustable Dumbbells Pair",
+        "name": "Quick-Select Adjustable Dumbbells",
         "category": "Strength",
         "price": 16999.0,
         "image": "assets/images/products/2/main.jpg",
@@ -4831,7 +4831,7 @@ var shopProducts = [
     },
     {
         "id": 72,
-        "name": "Air Resistance Rowing Machine with Performance Monitor",
+        "name": "Air Resistance Rowing Machine",
         "category": "Cardio",
         "price": 49249.0,
         "image": "assets/images/products/72/main.jpg",
@@ -4851,7 +4851,7 @@ var shopProducts = [
     },
     {
         "id": 212,
-        "name": "Health Smart Natural Epsom Salt Sport Soak (Spearmint & Menthol)",
+        "name": "Health Smart Natural Epsom Salt Sport Soak",
         "category": "Recovery",
         "price": 7699.0,
         "image": "assets/images/products/212/main.jpg",
@@ -4861,7 +4861,7 @@ var shopProducts = [
     },
     {
         "id": 282,
-        "name": "Genuine Grain Leather Powerlifting Belt (10mm Thickness)",
+        "name": "Leather Powerlifting Belt 10mm",
         "category": "Accessories",
         "price": 3369.0,
         "image": "assets/images/products/282/main.jpg",
@@ -4871,7 +4871,7 @@ var shopProducts = [
     },
     {
         "id": 352,
-        "name": "Lightweight Zip-Up Gym Track Jacket & Hoodie",
+        "name": "Zip-Up Gym Track Jacket & Hoodie",
         "category": "Apparel",
         "price": 1669.0,
         "image": "assets/images/products/352/main.jpg",
@@ -4881,7 +4881,7 @@ var shopProducts = [
     },
     {
         "id": 562,
-        "name": "High-Density EVA Foam Yoga Blocks (Set of 2)",
+        "name": "High-Density EVA Yoga Blocks (Pair)",
         "category": "Yoga",
         "price": 1749.0,
         "image": "assets/images/products/562/main.jpg",
@@ -4891,7 +4891,7 @@ var shopProducts = [
     },
     {
         "id": 632,
-        "name": "Space-Saving Foldable Utility Weight Bench",
+        "name": "Foldable Utility Weight Bench",
         "category": "Home Gym",
         "price": 14799.0,
         "image": "assets/images/products/632/main.jpg",
@@ -4901,7 +4901,7 @@ var shopProducts = [
     },
     {
         "id": 3,
-        "name": "Chrome Olympic Barbell (220K PSI Steel)",
+        "name": "Chrome Olympic Barbell",
         "category": "Strength",
         "price": 2259.0,
         "image": "assets/images/products/3/main.jpg",
@@ -4911,7 +4911,7 @@ var shopProducts = [
     },
     {
         "id": 73,
-        "name": "Heavy-Duty Fan Blade Air Bike with LCD Console",
+        "name": "Heavy-Duty Fan Blade Air Bike",
         "category": "Cardio",
         "price": 23399.0,
         "image": "assets/images/products/73/main.jpg",
@@ -4921,7 +4921,7 @@ var shopProducts = [
     },
     {
         "id": 143,
-        "name": "Elasticated Cotton Hand Wraps (180-Inch Pair)",
+        "name": "Elastic Cotton Hand Wraps (180-Inch)",
         "category": "Combat",
         "price": 859.0,
         "image": "assets/images/products/143/main.jpg",
@@ -4931,7 +4931,7 @@ var shopProducts = [
     },
     {
         "id": 213,
-        "name": "Gradient Athletic Compression Arm & Elbow Sleeve Pair",
+        "name": "Athletic Compression Arm Sleeves",
         "category": "Recovery",
         "price": 25299.0,
         "image": "assets/images/products/213/main.jpg",
@@ -4941,7 +4941,7 @@ var shopProducts = [
     },
     {
         "id": 353,
-        "name": "High-Waisted Athletic Drawstring Workout Shorts",
+        "name": "High-Waisted Athletic Workout Shorts",
         "category": "Apparel",
         "price": 3239.0,
         "image": "assets/images/products/353/main.jpg",
@@ -4951,7 +4951,7 @@ var shopProducts = [
     },
     {
         "id": 423,
-        "name": "Smart Body Fat & Composition Digital Scale",
+        "name": "Smart Digital Body Fat Scale",
         "category": "Fit Tech",
         "price": 3039.0,
         "image": "assets/images/products/423/main.jpg",
@@ -4961,7 +4961,7 @@ var shopProducts = [
     },
     {
         "id": 493,
-        "name": "Micronized Creatine Monohydrate Powder (500g Unflavored)",
+        "name": "Micronized Creatine Monohydrate Powder",
         "category": "Supplements",
         "price": 1829.0,
         "image": "assets/images/products/493/main.jpg",
@@ -4971,7 +4971,7 @@ var shopProducts = [
     },
     {
         "id": 563,
-        "name": "Purple Non-Slip Textured Alignment Yoga Mat (6mm)",
+        "name": "Textured Alignment Yoga Mat (6mm)",
         "category": "Yoga",
         "price": 959.0,
         "image": "assets/images/products/563/main.jpg",
@@ -4981,7 +4981,7 @@ var shopProducts = [
     },
     {
         "id": 633,
-        "name": "Doorway Multi-Grip Pull-Up Bar Station",
+        "name": "Doorway Multi-Grip Pull-Up Bar",
         "category": "Home Gym",
         "price": 1829.0,
         "image": "assets/images/products/633/main.jpg",
@@ -4991,7 +4991,7 @@ var shopProducts = [
     },
     {
         "id": 4,
-        "name": "Rubber Coated Hex Dumbbell (30 lbs)",
+        "name": "Rubber Hex Dumbbell (30 lbs)",
         "category": "Strength",
         "price": 2479.0,
         "image": "assets/images/products/4/main.jpg",
@@ -5011,7 +5011,7 @@ var shopProducts = [
     },
     {
         "id": 214,
-        "name": "HOROW Portable Cold Plunge Cryotherapy Ice Bath Tub Container",
+        "name": "HOROW Portable Cold Plunge Tub",
         "category": "Recovery",
         "price": 1429.0,
         "image": "assets/images/products/214/main.jpg",
@@ -5021,7 +5021,7 @@ var shopProducts = [
     },
     {
         "id": 354,
-        "name": "Leather Olympic Weightlifting Shoes with Raised Heel",
+        "name": "Leather Olympic Weightlifting Shoes",
         "category": "Apparel",
         "price": 11439.0,
         "image": "assets/images/products/354/main.jpg",
@@ -5031,7 +5031,7 @@ var shopProducts = [
     },
     {
         "id": 494,
-        "name": "Instantized BCAA 2:1:1 Energy Powder (Blue Raspberry 300g)",
+        "name": "Instantized BCAA 2:1:1 Energy Powder",
         "category": "Supplements",
         "price": 2579.0,
         "image": "assets/images/products/494/main.jpg",
@@ -5041,7 +5041,7 @@ var shopProducts = [
     },
     {
         "id": 564,
-        "name": "Durable Cotton Yoga Stretching Strap (with D-Ring Buckle)",
+        "name": "Cotton Yoga Stretching Strap",
         "category": "Yoga",
         "price": 2229.0,
         "image": "assets/images/products/564/main.jpg",
@@ -5051,7 +5051,7 @@ var shopProducts = [
     },
     {
         "id": 5,
-        "name": "Heavy-Duty Commercial Squat Rack",
+        "name": "Commercial Squat Rack",
         "category": "Strength",
         "price": 77999.0,
         "image": "assets/images/products/5/main.jpg",
@@ -5081,7 +5081,7 @@ var shopProducts = [
     },
     {
         "id": 215,
-        "name": "Beurer Deep Tissue Percussive Massage Gun with 6 Attachments",
+        "name": "Beurer Deep Tissue Percussive Massage Gun",
         "category": "Recovery",
         "price": 3119.0,
         "image": "assets/images/products/215/main.jpg",
@@ -5091,7 +5091,7 @@ var shopProducts = [
     },
     {
         "id": 285,
-        "name": "Magnesium Carbonate Pure Gym Chalk Block (8-Pack)",
+        "name": "Gym Chalk Blocks (8-Pack)",
         "category": "Accessories",
         "price": 959.0,
         "image": "assets/images/products/285/main.jpg",
@@ -5121,7 +5121,7 @@ var shopProducts = [
     },
     {
         "id": 565,
-        "name": "Inflatable Wobble Balance Stability Cushion Disc",
+        "name": "Inflatable Balance Cushion Disc",
         "category": "Yoga",
         "price": 749.0,
         "image": "assets/images/products/565/main.jpg",
@@ -5131,7 +5131,7 @@ var shopProducts = [
     },
     {
         "id": 635,
-        "name": "Multi-Station Heavy Duty Power Tower",
+        "name": "Multi-Station Heavy-Duty Power Tower",
         "category": "Home Gym",
         "price": 2939.0,
         "image": "assets/images/products/635/main.jpg",
@@ -5151,7 +5151,7 @@ var shopProducts = [
     },
     {
         "id": 76,
-        "name": "Commercial Indoor Cycling Spin Bike with Magnetic Flywheel",
+        "name": "Commercial Indoor Cycling Spin Bike",
         "category": "Cardio",
         "price": 25599.0,
         "image": "assets/images/products/76/main.jpg",
@@ -5191,7 +5191,7 @@ var shopProducts = [
     },
     {
         "id": 426,
-        "name": "Smart Fitness Tracker Ring with Sleep Analysis",
+        "name": "Smart Fitness Tracker Ring",
         "category": "Fit Tech",
         "price": 6519.0,
         "image": "assets/images/products/426/main.jpg",
@@ -5201,7 +5201,7 @@ var shopProducts = [
     },
     {
         "id": 496,
-        "name": "Advanced Clean Mass Gainer Powder (Chocolate 6 lbs)",
+        "name": "Clean Mass Gainer Powder (6 lbs)",
         "category": "Supplements",
         "price": 4589.0,
         "image": "assets/images/products/496/main.jpg",
@@ -5211,7 +5211,7 @@ var shopProducts = [
     },
     {
         "id": 77,
-        "name": "Stair Climber Stepper Machine with Ergonomic Handrails",
+        "name": "Stair Climber Stepper Machine",
         "category": "Cardio",
         "price": 31999.0,
         "image": "assets/images/products/77/main.jpg",
@@ -5221,7 +5221,7 @@ var shopProducts = [
     },
     {
         "id": 147,
-        "name": "Heavy Duty Speed Bag Swivel Assembly Kit",
+        "name": "Heavy-Duty Speed Bag Swivel Assembly Kit",
         "category": "Combat",
         "price": 2099.0,
         "image": "assets/images/products/147/main.jpg",
@@ -5231,7 +5231,7 @@ var shopProducts = [
     },
     {
         "id": 217,
-        "name": "Vibrating Foam Roller for Deep Tissue Recovery",
+        "name": "Vibrating Foam Roller",
         "category": "Recovery",
         "price": 1199.0,
         "image": "assets/images/products/217/main.jpg",
@@ -5241,7 +5241,7 @@ var shopProducts = [
     },
     {
         "id": 287,
-        "name": "Padded Weightlifting Straps Pair (Heavy Cotton)",
+        "name": "Padded Cotton Lifting Straps Pair",
         "category": "Accessories",
         "price": 2199.0,
         "image": "assets/images/products/287/main.jpg",
@@ -5261,7 +5261,7 @@ var shopProducts = [
     },
     {
         "id": 497,
-        "name": "Pure Hydrolyzed Collagen Peptides Powder (450g)",
+        "name": "Hydrolyzed Collagen Peptides (450g)",
         "category": "Supplements",
         "price": 3699.0,
         "image": "assets/images/products/497/main.jpg",
@@ -5281,7 +5281,7 @@ var shopProducts = [
     },
     {
         "id": 637,
-        "name": "Adjustable Dumbbells Set with Stand (5-70 lbs)",
+        "name": "Adjustable Dumbbells Set",
         "category": "Home Gym",
         "price": 27599.0,
         "image": "assets/images/products/637/main.jpg",
@@ -5301,7 +5301,7 @@ var shopProducts = [
     },
     {
         "id": 78,
-        "name": "Self-Powered Curved Manual Treadmill",
+        "name": "Self-Powered Curved Treadmill",
         "category": "Cardio",
         "price": 42399.0,
         "image": "assets/images/products/78/main.jpg",
@@ -5311,7 +5311,7 @@ var shopProducts = [
     },
     {
         "id": 148,
-        "name": "Freestanding Heavy Punching Bag with Water Base",
+        "name": "Freestanding Heavy Punching Bag",
         "category": "Combat",
         "price": 7079.0,
         "image": "assets/images/products/148/main.jpg",
@@ -5321,7 +5321,7 @@ var shopProducts = [
     },
     {
         "id": 218,
-        "name": "Ocean Essential Oil Epsom Salt Muscle Recovery Bath Soak Bag",
+        "name": "Ocean Essential Epsom Salt Soak",
         "category": "Recovery",
         "price": 829.0,
         "image": "assets/images/products/218/main.jpg",
@@ -5341,7 +5341,7 @@ var shopProducts = [
     },
     {
         "id": 498,
-        "name": "Electrolyte Hydration Powder Sticks (Lemon Lime 30 Packs)",
+        "name": "Electrolyte Hydration Powder Sticks",
         "category": "Supplements",
         "price": 2439.0,
         "image": "assets/images/products/498/main.jpg",
@@ -5361,7 +5361,7 @@ var shopProducts = [
     },
     {
         "id": 359,
-        "name": "Technical Training Shorts with Liner (7-Inch)",
+        "name": "Technical Training Shorts",
         "category": "Apparel",
         "price": 2559.0,
         "image": "assets/images/products/359/main.jpg",
@@ -5381,7 +5381,7 @@ var shopProducts = [
     },
     {
         "id": 499,
-        "name": "Plant-Based Vegan Organic Protein Powder (Chocolate 2 lbs)",
+        "name": "Plant-Based Vegan Protein (2 lbs)",
         "category": "Supplements",
         "price": 4919.0,
         "image": "assets/images/products/499/main.jpg",
@@ -5411,7 +5411,7 @@ var shopProducts = [
     },
     {
         "id": 290,
-        "name": "Tactical Gym Duffel & Yoga Mat Carrier Tote Bag",
+        "name": "Tactical Gym Duffel & Mat Tote",
         "category": "Accessories",
         "price": 1209.0,
         "image": "assets/images/products/290/main.jpg",
@@ -5421,7 +5421,7 @@ var shopProducts = [
     },
     {
         "id": 430,
-        "name": "Wearable GPS Multisport Watch with Map Navigation",
+        "name": "Wearable GPS Multisport Watch",
         "category": "Fit Tech",
         "price": 8099.0,
         "image": "assets/images/products/430/main.jpg",
@@ -5451,7 +5451,7 @@ var shopProducts = [
     },
     {
         "id": 81,
-        "name": "Recumbent Exercise Bike with Padded Lumbar Support",
+        "name": "Recumbent Exercise Bike",
         "category": "Cardio",
         "price": 24759.0,
         "image": "assets/images/products/81/main.jpg",
@@ -5481,7 +5481,7 @@ var shopProducts = [
     },
     {
         "id": 501,
-        "name": "Nitric Oxide Pump Pre-Workout Booster (Fruit Punch)",
+        "name": "Nitric Oxide Pump Booster",
         "category": "Supplements",
         "price": 2459.0,
         "image": "assets/images/products/501/main.jpg",
@@ -5501,7 +5501,7 @@ var shopProducts = [
     },
     {
         "id": 641,
-        "name": "Heavy Duty Interlocking Rubber Gym Matting (1/2 Inch)",
+        "name": "Interlocking Rubber Gym Matting",
         "category": "Home Gym",
         "price": 1769.0,
         "image": "assets/images/products/641/main.jpg",
@@ -5521,7 +5521,7 @@ var shopProducts = [
     },
     {
         "id": 82,
-        "name": "Commercial Grade Air Bike with Dual-Action Arms",
+        "name": "Commercial Air Bike",
         "category": "Cardio",
         "price": 29999.0,
         "image": "assets/images/products/82/main.jpg",
@@ -5531,7 +5531,7 @@ var shopProducts = [
     },
     {
         "id": 222,
-        "name": "Infrared Thermal Heating Pad for Back & Joints",
+        "name": "Infrared Thermal Heating Pad",
         "category": "Recovery",
         "price": 2099.0,
         "image": "assets/images/products/222/main.jpg",
@@ -5611,7 +5611,7 @@ var shopProducts = [
     },
     {
         "id": 223,
-        "name": "Stainless Steel Scraping Muscle Gua Sha Tool Set",
+        "name": "Stainless Steel Muscle Scraping Tool",
         "category": "Recovery",
         "price": 1419.0,
         "image": "assets/images/products/223/main.jpg",
@@ -5631,7 +5631,7 @@ var shopProducts = [
     },
     {
         "id": 433,
-        "name": "Smart Jump Rope with LED Jump Counter",
+        "name": "Smart Jump Rope",
         "category": "Fit Tech",
         "price": 719.0,
         "image": "assets/images/products/433/main.jpg",
@@ -5641,7 +5641,7 @@ var shopProducts = [
     },
     {
         "id": 503,
-        "name": "Fermented Essential Amino Acids EAA Powder (Watermelon)",
+        "name": "Fermented EAA Powder (Watermelon)",
         "category": "Supplements",
         "price": 1579.0,
         "image": "assets/images/products/503/main.jpg",
@@ -5681,7 +5681,7 @@ var shopProducts = [
     },
     {
         "id": 504,
-        "name": "High-Potency Omega-3 Fish Oil Softgels (120 Softgels)",
+        "name": "Omega-3 Fish Oil (120 Softgels)",
         "category": "Supplements",
         "price": 1289.0,
         "image": "assets/images/products/504/main.jpg",
@@ -5701,7 +5701,7 @@ var shopProducts = [
     },
     {
         "id": 644,
-        "name": "Bodyweight Suspension Strap System with Anchor",
+        "name": "Bodyweight Suspension Strap System",
         "category": "Home Gym",
         "price": 929.0,
         "image": "assets/images/products/644/main.jpg",
@@ -5721,7 +5721,7 @@ var shopProducts = [
     },
     {
         "id": 85,
-        "name": "Heavy-Duty Commercial Elliptical Trainer",
+        "name": "Commercial Elliptical Trainer",
         "category": "Cardio",
         "price": 31199.0,
         "image": "assets/images/products/85/main.jpg",
@@ -5731,7 +5731,7 @@ var shopProducts = [
     },
     {
         "id": 435,
-        "name": "Smart Workout Tracker Wristband with SpO2 Sensor",
+        "name": "Smart Workout Tracker Wristband",
         "category": "Fit Tech",
         "price": 979.0,
         "image": "assets/images/products/435/main.jpg",
@@ -5741,7 +5741,7 @@ var shopProducts = [
     },
     {
         "id": 505,
-        "name": "Extreme Mass Gainer Powder (Vanilla 10 lbs)",
+        "name": "Extreme Mass Gainer Powder",
         "category": "Supplements",
         "price": 5579.0,
         "image": "assets/images/products/505/main.jpg",
@@ -5761,7 +5761,7 @@ var shopProducts = [
     },
     {
         "id": 646,
-        "name": "High-Density Rubber Gym Flooring Mats (4-Pack)",
+        "name": "Rubber Gym Flooring Mats (4-Pack)",
         "category": "Home Gym",
         "price": 1539.0,
         "image": "assets/images/products/646/main.jpg",
@@ -5771,7 +5771,7 @@ var shopProducts = [
     },
     {
         "id": 17,
-        "name": "Open Ended Trap Bar with Built-in Jack",
+        "name": "Open Ended Trap Bar",
         "category": "Strength",
         "price": 11599.0,
         "image": "assets/images/products/17/main.jpg",
@@ -5801,7 +5801,7 @@ var shopProducts = [
     },
     {
         "id": 227,
-        "name": "High-Density EVA Foam Roller (36-Inch Full Size)",
+        "name": "High-Density EVA Foam Roller (36\")",
         "category": "Recovery",
         "price": 899.0,
         "image": "assets/images/products/227/main.jpg",
@@ -5811,7 +5811,7 @@ var shopProducts = [
     },
     {
         "id": 297,
-        "name": "Magnesium Carbonate Pure Gym Chalk Block (8-Pack)",
+        "name": "Gym Chalk Blocks (8-Pack)",
         "category": "Accessories",
         "price": 4749.0,
         "image": "assets/images/products/297/main.jpg",
@@ -5821,7 +5821,7 @@ var shopProducts = [
     },
     {
         "id": 437,
-        "name": "Smart Speedometer & Cadence Sensor for Bikes",
+        "name": "Smart Speedometer & Cadence Sensor",
         "category": "Fit Tech",
         "price": 21399.0,
         "image": "assets/images/products/437/main.jpg",
@@ -5831,7 +5831,7 @@ var shopProducts = [
     },
     {
         "id": 507,
-        "name": "Stimulant-Free Pump Pre-Workout Powder (Unflavored)",
+        "name": "Stimulant-Free Pump Pre-Workout Powder",
         "category": "Supplements",
         "price": 2899.0,
         "image": "assets/images/products/507/main.jpg",
@@ -5901,7 +5901,7 @@ var shopProducts = [
     },
     {
         "id": 298,
-        "name": "Heavy Cotton Wrist Wraps with Thumb Loop (24-Inch)",
+        "name": "Heavy Cotton Wrist Wraps",
         "category": "Accessories",
         "price": 529.0,
         "image": "assets/images/products/298/main.jpg",
@@ -5931,7 +5931,7 @@ var shopProducts = [
     },
     {
         "id": 508,
-        "name": "Micronized Creatine Monohydrate Powder (1kg Bulk)",
+        "name": "Micronized Creatine Powder (1kg)",
         "category": "Supplements",
         "price": 2649.0,
         "image": "assets/images/products/508/main.jpg",
@@ -5941,7 +5941,7 @@ var shopProducts = [
     },
     {
         "id": 578,
-        "name": "Waterproof Canvas Yoga Mat Bag with Pockets",
+        "name": "Waterproof Canvas Yoga Mat Bag",
         "category": "Yoga",
         "price": 2799.0,
         "image": "assets/images/products/578/main.jpg",
@@ -5951,7 +5951,7 @@ var shopProducts = [
     },
     {
         "id": 648,
-        "name": "Heavy Duty Foldable Flat Weight Bench",
+        "name": "Heavy-Duty Foldable Flat Weight Bench",
         "category": "Home Gym",
         "price": 7079.0,
         "image": "assets/images/products/648/main.jpg",
@@ -5971,7 +5971,7 @@ var shopProducts = [
     },
     {
         "id": 89,
-        "name": "Heavy-Duty Treadmill with 3.5 HP Continuous Motor",
+        "name": "Heavy-Duty Treadmill",
         "category": "Cardio",
         "price": 43799.0,
         "image": "assets/images/products/89/main.jpg",
@@ -5981,7 +5981,7 @@ var shopProducts = [
     },
     {
         "id": 299,
-        "name": "Heavy-Duty Resistance Loop Bands Set (5 Resistance Levels)",
+        "name": "Resistance Loop Bands (5-Pack)",
         "category": "Accessories",
         "price": 3179.0,
         "image": "assets/images/products/299/main.jpg",
@@ -6001,7 +6001,7 @@ var shopProducts = [
     },
     {
         "id": 439,
-        "name": "Wireless Digital Grip Strength Dynamometer Tester",
+        "name": "Digital Grip Strength Dynamometer",
         "category": "Fit Tech",
         "price": 5759.0,
         "image": "assets/images/products/439/main.jpg",
@@ -6011,7 +6011,7 @@ var shopProducts = [
     },
     {
         "id": 509,
-        "name": "BCAA Intra-Workout Powder with Electrolytes (Mango 400g)",
+        "name": "BCAA Intra-Workout Powder",
         "category": "Supplements",
         "price": 1909.0,
         "image": "assets/images/products/509/main.jpg",
@@ -6021,7 +6021,7 @@ var shopProducts = [
     },
     {
         "id": 300,
-        "name": "Self-Locking Nylon Weightlifting Belt (4-Inch)",
+        "name": "Self-Locking Nylon Lifting Belt",
         "category": "Accessories",
         "price": 1309.0,
         "image": "assets/images/products/300/main.jpg",
@@ -6041,7 +6041,7 @@ var shopProducts = [
     },
     {
         "id": 510,
-        "name": "Athlete Joint Support Complex Capsules (90 Capsules)",
+        "name": "Joint Support Capsules (90 Caps)",
         "category": "Supplements",
         "price": 3319.0,
         "image": "assets/images/products/510/main.jpg",
@@ -6071,7 +6071,7 @@ var shopProducts = [
     },
     {
         "id": 441,
-        "name": "Chest Harness Heart Rate Sensor for Training",
+        "name": "Chest Harness Heart Rate Sensor",
         "category": "Fit Tech",
         "price": 3539.0,
         "image": "assets/images/products/441/main.jpg",
@@ -6081,7 +6081,7 @@ var shopProducts = [
     },
     {
         "id": 511,
-        "name": "Organic Plant Protein Powder (Vanilla Bean 2 lbs)",
+        "name": "Organic Plant Protein (2 lbs)",
         "category": "Supplements",
         "price": 3239.0,
         "image": "assets/images/products/511/main.jpg",
@@ -6101,7 +6101,7 @@ var shopProducts = [
     },
     {
         "id": 512,
-        "name": "Slow-Digesting Micellar Casein Powder (Vanilla 4 lbs)",
+        "name": "Micellar Casein Powder (4 lbs)",
         "category": "Supplements",
         "price": 2799.0,
         "image": "assets/images/products/512/main.jpg",
@@ -6111,7 +6111,7 @@ var shopProducts = [
     },
     {
         "id": 93,
-        "name": "Commercial Fluid Rower with Adjustable Resistance",
+        "name": "Commercial Fluid Rower",
         "category": "Cardio",
         "price": 25299.0,
         "image": "assets/images/products/93/main.jpg",
@@ -6131,7 +6131,7 @@ var shopProducts = [
     },
     {
         "id": 303,
-        "name": "Magnesium Carbonate Pure Gym Chalk Block (8-Pack)",
+        "name": "Gym Chalk Blocks (8-Pack)",
         "category": "Accessories",
         "price": 1479.0,
         "image": "assets/images/products/303/main.jpg",
@@ -6151,7 +6151,7 @@ var shopProducts = [
     },
     {
         "id": 513,
-        "name": "High Energy Pre-Workout Formula (Watermelon 30 Servings)",
+        "name": "High Energy Pre-Workout Formula",
         "category": "Supplements",
         "price": 3339.0,
         "image": "assets/images/products/513/main.jpg",
@@ -6181,7 +6181,7 @@ var shopProducts = [
     },
     {
         "id": 514,
-        "name": "Pure Creatine Monohydrate Capsules (250 Capsules)",
+        "name": "Creatine Capsules (250 Caps)",
         "category": "Supplements",
         "price": 1479.0,
         "image": "assets/images/products/514/main.jpg",
@@ -6191,7 +6191,7 @@ var shopProducts = [
     },
     {
         "id": 95,
-        "name": "Incline Trainer Treadmill with 0-40 Percent Incline",
+        "name": "Incline Trainer Treadmill",
         "category": "Cardio",
         "price": 28199.0,
         "image": "assets/images/products/95/main.jpg",
@@ -6211,7 +6211,7 @@ var shopProducts = [
     },
     {
         "id": 235,
-        "name": "Stainless Steel Muscle Scraper Soft Tissue Tool",
+        "name": "Stainless Steel Muscle Scraper",
         "category": "Recovery",
         "price": 1859.0,
         "image": "assets/images/products/235/main.jpg",
@@ -6221,7 +6221,7 @@ var shopProducts = [
     },
     {
         "id": 515,
-        "name": "EAA + Electrolyte Recovery Powder (Fruit Punch 30 Servings)",
+        "name": "EAA + Electrolyte Recovery Powder",
         "category": "Supplements",
         "price": 2239.0,
         "image": "assets/images/products/515/main.jpg",
@@ -6251,7 +6251,7 @@ var shopProducts = [
     },
     {
         "id": 168,
-        "name": "Curved Micro Punch Mitts for Precision",
+        "name": "Curved Micro Punch Mitts",
         "category": "Combat",
         "price": 3009.0,
         "image": "assets/images/products/168/main.jpg",
@@ -6281,7 +6281,7 @@ var shopProducts = [
     },
     {
         "id": 239,
-        "name": "Professional Percussive Massage Gun (8 Speeds)",
+        "name": "Professional Percussive Massage Gun",
         "category": "Recovery",
         "price": 7639.0,
         "image": "assets/images/products/239/main.jpg",
@@ -6291,7 +6291,7 @@ var shopProducts = [
     },
     {
         "id": 309,
-        "name": "Smto Sports Liquid Grip Gym Chalk (250ml Bottle)",
+        "name": "Smto Sports Liquid Gym Chalk",
         "category": "Accessories",
         "price": 1609.0,
         "image": "assets/images/products/309/main.jpg",
@@ -6361,7 +6361,7 @@ var shopProducts = [
     },
     {
         "id": 521,
-        "name": "BCAA Energy Powder Drink Mix (Grape 30 Servings)",
+        "name": "BCAA Energy Drink Mix (Grape)",
         "category": "Supplements",
         "price": 2569.0,
         "image": "assets/images/products/521/main.jpg",
@@ -6401,7 +6401,7 @@ var shopProducts = [
     },
     {
         "id": 103,
-        "name": "Magnetic Spin Bike with 40lb Flywheel",
+        "name": "Magnetic Spin Bike",
         "category": "Cardio",
         "price": 25399.0,
         "image": "assets/images/products/103/main.jpg",
@@ -6411,7 +6411,7 @@ var shopProducts = [
     },
     {
         "id": 173,
-        "name": "Mexican Style Cotton Hand Wraps (180-Inch)",
+        "name": "Mexican Style Hand Wraps (180-Inch)",
         "category": "Combat",
         "price": 409.0,
         "image": "assets/images/products/173/main.jpg",
@@ -6421,7 +6421,7 @@ var shopProducts = [
     },
     {
         "id": 313,
-        "name": "Speed Cable Jump Rope with Ball Bearings & Anti-Slip Handles",
+        "name": "Speed Cable Jump Rope",
         "category": "Accessories",
         "price": 4549.0,
         "image": "assets/images/products/313/main.jpg",
@@ -6431,7 +6431,7 @@ var shopProducts = [
     },
     {
         "id": 663,
-        "name": "Heavy Duty Power Tower Station with Push-Up Handles",
+        "name": "Heavy-Duty Power Tower Station",
         "category": "Home Gym",
         "price": 1979.0,
         "image": "assets/images/products/663/main.jpg",
@@ -6441,7 +6441,7 @@ var shopProducts = [
     },
     {
         "id": 104,
-        "name": "Commercial Grade Stair Climber Stepper",
+        "name": "Commercial Stair Climber Stepper",
         "category": "Cardio",
         "price": 31799.0,
         "image": "assets/images/products/104/main.jpg",
@@ -6461,7 +6461,7 @@ var shopProducts = [
     },
     {
         "id": 524,
-        "name": "Micellar Casein Protein Powder (Salted Caramel 2 lbs)",
+        "name": "Micellar Casein Protein (2 lbs)",
         "category": "Supplements",
         "price": 5669.0,
         "image": "assets/images/products/524/main.jpg",
@@ -6471,7 +6471,7 @@ var shopProducts = [
     },
     {
         "id": 35,
-        "name": "Heavy Duty Ab Slab Incline Bench",
+        "name": "Heavy-Duty Ab Slab Incline Bench",
         "category": "Strength",
         "price": 7839.0,
         "image": "assets/images/products/35/main.jpg",
@@ -6501,7 +6501,7 @@ var shopProducts = [
     },
     {
         "id": 245,
-        "name": "Air Compression Arm & Shoulder Recovery Sleeve",
+        "name": "Air Compression Arm Sleeve",
         "category": "Recovery",
         "price": 1989.0,
         "image": "assets/images/products/245/main.jpg",
@@ -6531,7 +6531,7 @@ var shopProducts = [
     },
     {
         "id": 525,
-        "name": "Advanced Pre-Workout Powder Formula (Blue Raspberry)",
+        "name": "Advanced Pre-Workout Powder Formula",
         "category": "Supplements",
         "price": 2219.0,
         "image": "assets/images/products/525/main.jpg",
@@ -6541,7 +6541,7 @@ var shopProducts = [
     },
     {
         "id": 106,
-        "name": "Motorized Treadmill with Bluetooth Speakers",
+        "name": "Motorized Treadmill",
         "category": "Cardio",
         "price": 29599.0,
         "image": "assets/images/products/106/main.jpg",
@@ -6551,15 +6551,17 @@ var shopProducts = [
     },
     {
         "id": 41,
-        "name": "Cerakote Coated Olympic Barbell (Red/Black)",
+        "name": "Cerakote Coated Olympic Barbell",
         "image": "assets/images/products/41/main.jpg",
         "rating": 4.6,
         "reviews": 142,
-        "description": "The Cerakote Coated Olympic Barbell (Red/Black) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "The Cerakote Coated Olympic Barbell (Red/Black) is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities.",
+        "category": "Strength",
+        "price": 10159.0
     },
     {
         "id": 111,
-        "name": "Commercial Curved Manual Running Treadmill",
+        "name": "Curved Manual Running Treadmill",
         "category": "Cardio",
         "price": 69799.0,
         "image": "assets/images/products/111/main.jpg",
@@ -6569,7 +6571,7 @@ var shopProducts = [
     },
     {
         "id": 181,
-        "name": "Heavy Duty Ceiling Mount Swivel Hanger",
+        "name": "Heavy-Duty Ceiling Mount Swivel Hanger",
         "category": "Combat",
         "price": 5439.0,
         "image": "assets/images/products/181/main.jpg",
@@ -6579,7 +6581,7 @@ var shopProducts = [
     },
     {
         "id": 251,
-        "name": "Air Compression Calf & Foot Massager",
+        "name": "Air Compression Calf Massager",
         "category": "Recovery",
         "price": 10279.0,
         "image": "assets/images/products/251/main.jpg",
@@ -6589,7 +6591,7 @@ var shopProducts = [
     },
     {
         "id": 391,
-        "name": "Athletic Zip-Up Fleece Hoodie Jacket",
+        "name": "Athletic Zip-Up Fleece Hoodie",
         "category": "Apparel",
         "price": 3359.0,
         "image": "assets/images/products/391/main.jpg",
@@ -6599,7 +6601,7 @@ var shopProducts = [
     },
     {
         "id": 461,
-        "name": "Precision Heart Rate Monitor Chest Strap",
+        "name": "Heart Rate Monitor Chest Strap",
         "category": "Fit Tech",
         "price": 4739.0,
         "image": "assets/images/products/461/main.jpg",
@@ -6609,7 +6611,7 @@ var shopProducts = [
     },
     {
         "id": 531,
-        "name": "High-Stim Pre-Workout Energy Powder (Green Apple)",
+        "name": "High-Stim Pre-Workout Energy Powder",
         "category": "Supplements",
         "price": 2659.0,
         "image": "assets/images/products/531/main.jpg",
@@ -6619,7 +6621,7 @@ var shopProducts = [
     },
     {
         "id": 601,
-        "name": "Ergonomic Yoga Wheel Stretcher Device",
+        "name": "Ergonomic Yoga Wheel Stretcher",
         "category": "Yoga",
         "price": 1869.0,
         "image": "assets/images/products/601/main.jpg",
@@ -6629,7 +6631,7 @@ var shopProducts = [
     },
     {
         "id": 671,
-        "name": "Adjustable Weight Dumbbells Set (5-52.5 lbs Pair)",
+        "name": "Adjustable Dumbbells Set (5-52.5 lbs)",
         "category": "Home Gym",
         "price": 20039.0,
         "image": "assets/images/products/671/main.jpg",
@@ -6639,7 +6641,7 @@ var shopProducts = [
     },
     {
         "id": 42,
-        "name": "Fractional Steel Change Plate Set (0.25kg - 5kg)",
+        "name": "Fractional Steel Change Plates Set",
         "category": "Strength",
         "price": 1449.0,
         "image": "assets/images/products/42/main.jpg",
@@ -6649,7 +6651,7 @@ var shopProducts = [
     },
     {
         "id": 112,
-        "name": "Indoor Studio Cycle Bike with Silent Belt Drive",
+        "name": "Indoor Studio Cycle Bike",
         "category": "Cardio",
         "price": 18399.0,
         "image": "assets/images/products/112/main.jpg",
@@ -6669,7 +6671,7 @@ var shopProducts = [
     },
     {
         "id": 252,
-        "name": "Pure Epsom Salt Muscle Recovery Soak (10 lbs)",
+        "name": "Pure Epsom Salt Soak (10 lbs)",
         "category": "Recovery",
         "price": 2499.0,
         "image": "assets/images/products/252/main.jpg",
@@ -6679,7 +6681,7 @@ var shopProducts = [
     },
     {
         "id": 392,
-        "name": "Lightweight 2-in-1 Running Shorts with Compression Liner",
+        "name": "Lightweight 2-in-1 Running Shorts",
         "category": "Apparel",
         "price": 1369.0,
         "image": "assets/images/products/392/main.jpg",
@@ -6689,7 +6691,7 @@ var shopProducts = [
     },
     {
         "id": 462,
-        "name": "Smart Bluetooth Body Composition Analyzer Scale",
+        "name": "Smart Body Composition Scale",
         "category": "Fit Tech",
         "price": 3899.0,
         "image": "assets/images/products/462/main.jpg",
@@ -6699,7 +6701,7 @@ var shopProducts = [
     },
     {
         "id": 532,
-        "name": "Pure Micronized Creatine Powder (500g Tub)",
+        "name": "Pure Creatine Powder (500g)",
         "category": "Supplements",
         "price": 25749.0,
         "image": "assets/images/products/532/main.jpg",
@@ -6719,7 +6721,7 @@ var shopProducts = [
     },
     {
         "id": 672,
-        "name": "Space-Saving Foldable Incline Decline Bench",
+        "name": "Foldable Incline Decline Bench",
         "category": "Home Gym",
         "price": 6599.0,
         "image": "assets/images/products/672/main.jpg",
@@ -6729,7 +6731,7 @@ var shopProducts = [
     },
     {
         "id": 43,
-        "name": "Adjustable Speed Bench with Transport Wheels",
+        "name": "Adjustable Speed Bench",
         "category": "Strength",
         "price": 15359.0,
         "image": "assets/images/products/43/main.jpg",
@@ -6739,7 +6741,7 @@ var shopProducts = [
     },
     {
         "id": 113,
-        "name": "Heavy-Duty Elliptical Trainer with 20 Inch Stride",
+        "name": "Heavy-Duty Elliptical Trainer",
         "category": "Cardio",
         "price": 38399.0,
         "image": "assets/images/products/113/main.jpg",
@@ -6749,7 +6751,7 @@ var shopProducts = [
     },
     {
         "id": 183,
-        "name": "Grappling Dummy for BJJ & MMA Training (70 lbs)",
+        "name": "Grappling Dummy",
         "category": "Combat",
         "price": 4659.0,
         "image": "assets/images/products/183/main.jpg",
@@ -6759,7 +6761,7 @@ var shopProducts = [
     },
     {
         "id": 253,
-        "name": "Electric Cordless Heated Neck & Shoulder Massager",
+        "name": "Heated Neck & Shoulder Massager",
         "category": "Recovery",
         "price": 8719.0,
         "image": "assets/images/products/253/main.jpg",
@@ -6769,7 +6771,7 @@ var shopProducts = [
     },
     {
         "id": 393,
-        "name": "Performance Muscle Tank Top with Drop Armholes",
+        "name": "Performance Muscle Tank Top",
         "category": "Apparel",
         "price": 1319.0,
         "image": "assets/images/products/393/main.jpg",
@@ -6779,7 +6781,7 @@ var shopProducts = [
     },
     {
         "id": 463,
-        "name": "Wearable Pulse Oximeter Sleep & Workout Tracker",
+        "name": "Wearable Pulse Oximeter Tracker",
         "category": "Fit Tech",
         "price": 5279.0,
         "image": "assets/images/products/463/main.jpg",
@@ -6789,7 +6791,7 @@ var shopProducts = [
     },
     {
         "id": 533,
-        "name": "BCAA 2:1:1 Intra-Workout Powder (Lemonade 30 Servings)",
+        "name": "BCAA 2:1:1 Intra-Workout Powder",
         "category": "Supplements",
         "price": 1729.0,
         "image": "assets/images/products/533/main.jpg",
@@ -6799,7 +6801,7 @@ var shopProducts = [
     },
     {
         "id": 603,
-        "name": "Non-Slip Travel Foldable Yoga Mat (1.5mm)",
+        "name": "Travel Foldable Yoga Mat (1.5mm)",
         "category": "Yoga",
         "price": 1679.0,
         "image": "assets/images/products/603/main.jpg",
@@ -6809,7 +6811,7 @@ var shopProducts = [
     },
     {
         "id": 673,
-        "name": "Wall-Mounted Heavy Steel Pull-Up Bar",
+        "name": "Wall-Mounted Steel Pull-Up Bar",
         "category": "Home Gym",
         "price": 919.0,
         "image": "assets/images/products/673/main.jpg",
@@ -6819,7 +6821,7 @@ var shopProducts = [
     },
     {
         "id": 44,
-        "name": "Cast Iron Kettlebell (28kg / 62lbs)",
+        "name": "Cast Iron Kettlebell (28kg)",
         "category": "Strength",
         "price": 2769.0,
         "image": "assets/images/products/44/main.jpg",
@@ -6829,7 +6831,7 @@ var shopProducts = [
     },
     {
         "id": 114,
-        "name": "Foldable Electric Treadmill with Cushioning System",
+        "name": "Foldable Electric Treadmill",
         "category": "Cardio",
         "price": 28799.0,
         "image": "assets/images/products/114/main.jpg",
@@ -6839,7 +6841,7 @@ var shopProducts = [
     },
     {
         "id": 184,
-        "name": "Gel Padded Boxing Hand Wraps Pair",
+        "name": "Gel Padded Boxing Hand Wraps",
         "category": "Combat",
         "price": 1979.0,
         "image": "assets/images/products/184/main.jpg",
@@ -6849,7 +6851,7 @@ var shopProducts = [
     },
     {
         "id": 254,
-        "name": "Soft Density Foam Roller for Gentle Muscle Release",
+        "name": "Soft Density Foam Roller",
         "category": "Recovery",
         "price": 1889.0,
         "image": "assets/images/products/254/main.jpg",
@@ -6859,7 +6861,7 @@ var shopProducts = [
     },
     {
         "id": 394,
-        "name": "Tapered Athletic Sweatpants with Zipper Pockets",
+        "name": "Tapered Athletic Sweatpants",
         "category": "Apparel",
         "price": 2479.0,
         "image": "assets/images/products/394/main.jpg",
@@ -6873,7 +6875,9 @@ var shopProducts = [
         "image": "assets/images/products/418/main.jpg",
         "rating": 4.6,
         "reviews": 294,
-        "description": "The Tapered Performance Gym Joggers is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities."
+        "description": "The Tapered Performance Gym Joggers is engineered to deliver peak durability, high performance, and ergonomic comfort for athletes and training facilities.",
+        "category": "Apparel",
+        "price": 2499.0
     },
     {
         "id": 488,
@@ -6897,7 +6901,7 @@ var shopProducts = [
     },
     {
         "id": 489,
-        "name": "GPS Smartwatch with AMOLED Display",
+        "name": "GPS Smartwatch",
         "category": "Fit Tech",
         "price": 16399.0,
         "image": "assets/images/products/489/main.jpg",
@@ -6907,7 +6911,7 @@ var shopProducts = [
     },
     {
         "id": 559,
-        "name": "Organic Plant Protein Powder (Salted Caramel 2 lbs)",
+        "name": "Organic Plant Protein (2 lbs)",
         "category": "Supplements",
         "price": 5519.0,
         "image": "assets/images/products/559/main.jpg",
@@ -6927,7 +6931,7 @@ var shopProducts = [
     },
     {
         "id": 699,
-        "name": "Heavy Duty Power Tower Station (1000lb Limit)",
+        "name": "Heavy-Duty Power Tower Station (1000lb Limit)",
         "category": "Home Gym",
         "price": 2459.0,
         "image": "assets/images/products/699/main.jpg",
@@ -6937,7 +6941,7 @@ var shopProducts = [
     },
     {
         "id": 140,
-        "name": "Commercial Heavy-Duty Motorized Treadmill",
+        "name": "Commercial Motorized Treadmill",
         "category": "Cardio",
         "price": 113599.0,
         "image": "assets/images/products/140/main.jpg",
@@ -6957,7 +6961,7 @@ var shopProducts = [
     },
     {
         "id": 420,
-        "name": "Heavy Duty Leather Powerlifting Shoes",
+        "name": "Heavy-Duty Leather Powerlifting Shoes",
         "category": "Apparel",
         "price": 7959.0,
         "image": "assets/images/products/420/main.jpg",
@@ -6977,7 +6981,7 @@ var shopProducts = [
     },
     {
         "id": 560,
-        "name": "Micellar Casein Nighttime Protein (Chocolate Milk 4 lbs)",
+        "name": "Micellar Casein Protein (4 lbs)",
         "category": "Supplements",
         "price": 3629.0,
         "image": "assets/images/products/560/main.jpg",
@@ -6987,7 +6991,7 @@ var shopProducts = [
     },
     {
         "id": 630,
-        "name": "Organic Cotton Meditation Bolster Pillow (v70)",
+        "name": "Organic Cotton Meditation Bolster",
         "category": "Yoga",
         "price": 1359.0,
         "image": "assets/images/products/630/main.jpg",
