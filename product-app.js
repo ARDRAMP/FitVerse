@@ -201,7 +201,7 @@ function renderProduct(product, container) {
             <div class="premium-actions">
                 <div class="actions-top-row">
                     <div class="premium-qty">
-                        <button class="qty-btn minus" aria-label="Decrease quantity">−</button>
+                        <button class="qty-btn minus" aria-label="Decrease quantity" disabled style="opacity: 0.35; cursor: not-allowed; pointer-events: none;">−</button>
                         <input type="number" class="qty-input" value="5" min="5" max="99" aria-label="Quantity">
                         <button class="qty-btn plus" aria-label="Increase quantity">+</button>
                     </div>
@@ -209,6 +209,9 @@ function renderProduct(product, container) {
                         <i class="fas fa-shopping-bag"></i>
                         <span class="btn-text">Add to Cart</span>
                     </button>
+                </div>
+                <div style="display: flex; align-items: center; gap: 0.4rem; color: #ffd700; font-size: 0.78rem; font-weight: 700; margin: 0.3rem 0; background: rgba(255,215,0,0.08); border: 1px solid rgba(255,215,0,0.22); padding: 0.35rem 0.75rem; border-radius: 6px; width: fit-content;">
+                    <i class="fas fa-shield-alt"></i> Minimum Order Quantity (MOQ): 5 units
                 </div>
                 <button class="btn premium-buy-now" id="buy-now-main">
                     <i class="fas fa-bolt"></i>
@@ -347,7 +350,7 @@ function renderRelatedProducts(currentProduct, gridElement) {
                     <div class="quick-add-overlay">
                         <button class="quick-add-btn"
                             onclick="event.preventDefault(); event.stopPropagation();
-                            typeof addToCart !== 'undefined' ? addToCart(${p.id}) : null;">
+                            typeof addToCart !== 'undefined' ? addToCart(${p.id}, 5) : null;">
                             Add to Cart
                         </button>
                     </div>
@@ -372,24 +375,90 @@ function renderRelatedProducts(currentProduct, gridElement) {
 // ─── Interactions ────────────────────────────────────────────────────────────
 
 function initProductInteractions(product) {
-    // ── Quantity controls ──────────────────────────────────────────────────
-    const minusBtn = document.querySelector('.qty-btn.minus');
-    const plusBtn  = document.querySelector('.qty-btn.plus');
-    const input    = document.querySelector('.qty-input');
+    // ── Quantity controls (Minimum Order Quantity: 5) ────────────────────────
+    const minusBtn = document.querySelector('.premium-qty .qty-btn.minus') || document.querySelector('.qty-btn.minus');
+    const plusBtn  = document.querySelector('.premium-qty .qty-btn.plus') || document.querySelector('.qty-btn.plus');
+    const input    = document.querySelector('.premium-qty .qty-input') || document.querySelector('.qty-input');
+
+    const updateMinusBtnState = () => {
+        if (!input) return;
+        let val = parseInt(input.value);
+        if (isNaN(val) || val < 5) {
+            val = 5;
+            input.value = 5;
+        }
+        if (minusBtn) {
+            const isMin = (val <= 5);
+            minusBtn.disabled = isMin;
+            if (isMin) {
+                minusBtn.setAttribute('disabled', 'true');
+                minusBtn.style.opacity = '0.35';
+                minusBtn.style.cursor = 'not-allowed';
+                minusBtn.style.pointerEvents = 'none';
+            } else {
+                minusBtn.removeAttribute('disabled');
+                minusBtn.style.opacity = '1';
+                minusBtn.style.cursor = 'pointer';
+                minusBtn.style.pointerEvents = 'auto';
+            }
+        }
+    };
 
     if (minusBtn && plusBtn && input) {
-        minusBtn.addEventListener('click', () => {
-            const val = parseInt(input.value) || 5;
-            if (val > 5) input.value = val - 1;
+        updateMinusBtnState();
+
+        minusBtn.addEventListener('click', (e) => {
+            e.preventDefault();
+            let val = parseInt(input.value) || 5;
+            if (val > 5) {
+                input.value = val - 1;
+            } else {
+                input.value = 5;
+            }
+            updateMinusBtnState();
         });
-        plusBtn.addEventListener('click', () => {
-            const val = parseInt(input.value) || 5;
-            if (val < 99) input.value = val + 1;
+
+        plusBtn.addEventListener('click', (e) => {
+            e.preventDefault();
+            let val = parseInt(input.value) || 5;
+            if (val < 5) val = 5;
+            if (val < 99) {
+                input.value = val + 1;
+            }
+            updateMinusBtnState();
         });
+
+        input.addEventListener('input', () => {
+            let val = parseInt(input.value);
+            if (!isNaN(val) && val < 5) {
+                input.setCustomValidity('Minimum order quantity is 5');
+            } else {
+                input.setCustomValidity('');
+            }
+            updateMinusBtnState();
+        });
+
         input.addEventListener('change', () => {
             let val = parseInt(input.value);
-            if (isNaN(val) || val < 5) input.value = 5;
-            if (val > 99) input.value = 99;
+            if (isNaN(val) || val < 5) {
+                input.value = 5;
+                if (window.auth && typeof auth.showToast === 'function') {
+                    auth.showToast('Minimum order quantity is 5', 'warning');
+                } else if (typeof showToast === 'function') {
+                    showToast('Minimum order quantity is 5');
+                }
+            } else if (val > 99) {
+                input.value = 99;
+            }
+            updateMinusBtnState();
+        });
+
+        input.addEventListener('blur', () => {
+            let val = parseInt(input.value);
+            if (isNaN(val) || val < 5) {
+                input.value = 5;
+            }
+            updateMinusBtnState();
         });
     }
 

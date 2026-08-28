@@ -6,7 +6,8 @@ var products = typeof shopProducts !== 'undefined' ? shopProducts : [];
 /* ==========================================================================
    State Management
    ========================================================================== */
-let cart = (JSON.parse(localStorage.getItem('fitverse_cart')) || []).map(item => ({ ...item, qty: Math.max(5, item.qty || 5) }));
+let cart = (JSON.parse(localStorage.getItem('fitverse_cart')) || []).map(item => ({ ...item, qty: Math.max(5, Number(item.qty) || 5) }));
+try { localStorage.setItem('fitverse_cart', JSON.stringify(cart)); } catch(e) {}
 let wishlist = new Set(JSON.parse(localStorage.getItem('fitverse_wishlist')) || []);
 let currentFilter = 'All';
 let currentSort = 'popular';
@@ -291,7 +292,15 @@ window.addBundleToCart = function (bundleKey) {
     const bundleId = 'bundle-' + (bundle.id || bundleKey);
     const existingItem = cart.find(item => String(item.id) === String(bundleId));
     if (existingItem) {
-        existingItem.qty = (existingItem.qty || 1) + 1;
+        if ((existingItem.qty || 1) >= 5) {
+            if (window.auth && typeof auth.showToast === 'function') {
+                auth.showToast(`Maximum quantity of 5 reached for ${bundle.title}`, 'warning');
+            } else if (typeof showToast === 'function') {
+                showToast(`Maximum quantity of 5 reached for ${bundle.title}`);
+            }
+            return;
+        }
+        existingItem.qty = Math.min(5, (existingItem.qty || 1) + 1);
     } else {
         cart.push({
             id: bundleId,
@@ -526,7 +535,7 @@ function renderShop() {
                     <div class="ec-product-price-row">
                         <span class="ec-product-price">₹${p.price.toFixed(2)}</span>
                     </div>
-                    <button class="ec-add-to-cart-btn" onclick="event.preventDefault(); event.stopPropagation(); typeof addToCart !== 'undefined' ? addToCart(${p.id}) : null;">
+                    <button class="ec-add-to-cart-btn" onclick="event.preventDefault(); event.stopPropagation(); typeof addToCart !== 'undefined' ? addToCart(${p.id}, 5) : null;">
                         <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="21" r="1"></circle><circle cx="20" cy="21" r="1"></circle><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path></svg>
                         <span>ADD TO CART</span>
                     </button>
@@ -591,26 +600,34 @@ categoryCards.forEach(card => {
 /* ==========================================================================
    Cart Logic
    ========================================================================== */
-function addToCart(productId, quantity = 1) {
+function addToCart(productId, quantity = 5) {
     const product = (typeof shopProducts !== 'undefined' ? shopProducts.find(p => String(p.id) === String(productId)) : null) || products.find(p => String(p.id) === String(productId));
     if (!product) return;
 
-    const addAmount = typeof quantity === 'number' && quantity >= 1 ? quantity : 1;
+    const addAmount = typeof quantity === 'number' && quantity >= 1 ? quantity : 5;
 
     const existingItem = cart.find(item => String(item.id) === String(productId));
     if (existingItem) {
-        existingItem.qty = (existingItem.qty || 1) + addAmount;
+        const currentQty = existingItem.qty || 5;
+        const newQty = currentQty + addAmount;
+        existingItem.qty = newQty;
+        if (window.auth && typeof auth.showToast === 'function') {
+            auth.showToast(`${product.name} (+${addAmount}) added to cart! Total: ${existingItem.qty}`, 'success');
+        } else if (typeof showToast === 'function') {
+            showToast(`${product.name} (+${addAmount}) added to cart! Total: ${existingItem.qty}`);
+        }
     } else {
-        cart.push({ ...product, qty: addAmount });
+        const initQty = Math.max(5, addAmount);
+        cart.push({ ...product, qty: initQty });
+        if (window.auth && typeof auth.showToast === 'function') {
+            auth.showToast(`${product.name} (Qty: ${initQty}) added to cart!`, 'success');
+        } else if (typeof showToast === 'function') {
+            showToast(`${product.name} (Qty: ${initQty}) added to cart!`);
+        }
     }
 
     saveCart();
     window.updateCartUI();
-    if (window.auth && typeof auth.showToast === 'function') {
-        auth.showToast(`${product.name} (x${addAmount}) added to cart!`, 'success');
-    } else if (typeof showToast === 'function') {
-        showToast(`${product.name} (x${addAmount}) added to cart!`, 'success');
-    }
 
     // Animate cart badge
     document.querySelectorAll('.cart-badge').forEach(b => {
@@ -628,13 +645,23 @@ function removeFromCart(productId) {
 function updateQty(productId, delta) {
     const item = cart.find(i => String(i.id) === String(productId));
     if (item) {
-        item.qty = (item.qty || 1) + delta;
-        if (item.qty <= 0) {
-            removeFromCart(productId);
-        } else {
-            saveCart();
-            window.updateCartUI();
+        const currentQty = item.qty || 5;
+        if (delta < 0 && currentQty <= 5) {
+            if (window.auth && typeof auth.showToast === 'function') {
+                auth.showToast('Minimum order quantity is 5. Click Remove to delete.', 'warning');
+            } else if (typeof showToast === 'function') {
+                showToast('Minimum order quantity is 5');
+            }
+            return;
         }
+        const targetQty = currentQty + delta;
+        if (targetQty < 5) {
+            item.qty = 5;
+        } else {
+            item.qty = targetQty;
+        }
+        saveCart();
+        window.updateCartUI();
     }
 }
 
@@ -883,11 +910,15 @@ function saveCart() {
 }
 
 window.updateCartUI = function () {
-    cart.forEach(item => {
-        if (!item.qty || item.qty < 1) item.qty = 1;
-    });
-    const totalItems = cart.reduce((sum, item) => sum + (item.qty || 1), 0);
-    const totalPrice = cart.reduce((sum, item) => sum + ((Number(item.price) || 0) * (item.qty || 1)), 0);
+    if (!Array.isArray(cart)) cart = [];
+    cart = cart.map(item => ({
+        ...item,
+        qty: Math.max(5, Number(item.qty) || 5)
+    }));
+    saveCart();
+
+    const totalItems = cart.reduce((sum, item) => sum + (item.qty || 5), 0);
+    const totalPrice = cart.reduce((sum, item) => sum + ((Number(item.price) || 0) * (item.qty || 5)), 0);
 
     document.querySelectorAll('.cart-badge').forEach(badge => {
         badge.textContent = totalItems;
@@ -900,36 +931,41 @@ window.updateCartUI = function () {
         }
     });
 
-    const cartCountTitle = document.getElementById('cart-count-title');
-    const cartTotalPrice = document.getElementById('cart-total-price');
-    const cartItemsContainer = document.getElementById('cart-items');
+    document.querySelectorAll('#cart-count-title, .cart-count-title').forEach(el => {
+        el.textContent = totalItems;
+    });
+    document.querySelectorAll('#cart-total-price, .cart-total-price').forEach(el => {
+        el.textContent = `₹${totalPrice.toLocaleString('en-IN', {minimumFractionDigits: 2, maximumFractionDigits: 2})}`;
+    });
 
-    if (cartCountTitle) cartCountTitle.textContent = totalItems;
-    if (cartTotalPrice) cartTotalPrice.textContent = `₹${totalPrice.toLocaleString('en-IN', {minimumFractionDigits: 2, maximumFractionDigits: 2})}`;
-
-    if (cart.length === 0) {
-        if (cartItemsContainer) cartItemsContainer.innerHTML = '<div class="cart-empty-msg" style="color: #94a3b8; text-align: center; margin-top: 2rem;">Your cart is empty. Let\'s equip your journey.</div>';
-    } else {
-        if (cartItemsContainer) {
-            cartItemsContainer.innerHTML = cart.map(item => `
-                <div class="cart-item" style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.08); border-radius: 12px; padding: 1rem; margin-bottom: 1rem; display: flex; gap: 1rem; align-items: center;">
-                    <div class="ci-img" style="width: 70px; height: 70px; border-radius: 10px; overflow: hidden; background: #060911; border: 1px solid rgba(255,255,255,0.12); flex-shrink: 0;">
-                        <img src="${item.image || 'assets/images/products/' + item.id + '/main.jpg'}" alt="${item.name}" style="width:100%; height:100%; object-fit:contain; padding: 4px;" onerror="this.onerror=null; this.src='images/logo.png';">
-                    </div>
-                    <div class="ci-details" style="flex:1;">
-                        <div class="ci-name" style="color: #ffffff !important; font-weight: 700; font-size: 0.92rem; line-height: 1.3; margin-bottom: 0.3rem;">${item.name}</div>
-                        <div class="ci-price" style="color: #FFD700 !important; font-family: 'JetBrains Mono', monospace; font-weight: 700; font-size: 1rem; margin-bottom: 0.5rem;">₹${(Number(item.price) || 0).toLocaleString('en-IN', {minimumFractionDigits: 2, maximumFractionDigits: 2})}</div>
-                        <div class="ci-controls" style="display: flex; align-items: center; gap: 0.6rem; color: #ffffff;">
-                            <button class="icon-btn qty-btn" onclick="updateQty('${item.id}', -1)" style="background: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.25); color: #ffffff; border-radius: 6px; width: 26px; height: 26px; cursor: pointer; display: inline-flex; align-items: center; justify-content: center; font-weight: bold;">-</button>
-                            <span style="color: #ffffff; font-weight: bold; font-size: 0.9rem;">${item.qty || 1}</span>
-                            <button class="icon-btn qty-btn" onclick="updateQty('${item.id}', 1)" style="background: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.25); color: #ffffff; border-radius: 6px; width: 26px; height: 26px; cursor: pointer; display: inline-flex; align-items: center; justify-content: center; font-weight: bold;">+</button>
-                            <button class="ci-remove" onclick="removeFromCart('${item.id}')" style="color: #ef4444 !important; background: none; border: none; text-decoration: underline; cursor: pointer; font-size: 0.82rem; margin-left: 0.5rem; font-weight: 600;">Remove</button>
-                        </div>
+    const itemsHTML = (cart.length === 0)
+        ? '<div class="cart-empty-msg" style="color: #94a3b8; text-align: center; margin-top: 2rem;">Your cart is empty. Let\'s equip your journey.</div>'
+        : cart.map(item => {
+            const itemQty = Math.max(5, Number(item.qty) || 5);
+            const isMinQty = itemQty <= 5;
+            return `
+            <div class="cart-item" style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.08); border-radius: 12px; padding: 1rem; margin-bottom: 1rem; display: flex; gap: 1rem; align-items: center;">
+                <div class="ci-img" style="width: 70px; height: 70px; border-radius: 10px; overflow: hidden; background: #060911; border: 1px solid rgba(255,255,255,0.12); flex-shrink: 0;">
+                    <img src="${item.image || 'assets/images/products/' + item.id + '/main.jpg'}" alt="${item.name}" style="width:100%; height:100%; object-fit:contain; padding: 4px;" onerror="this.onerror=null; this.src='images/logo.png';">
+                </div>
+                <div class="ci-details" style="flex:1;">
+                    <div class="ci-name" style="color: #ffffff !important; font-weight: 700; font-size: 0.92rem; line-height: 1.3; margin-bottom: 0.3rem;">${item.name}</div>
+                    <div class="ci-price" style="color: #FFD700 !important; font-family: 'JetBrains Mono', monospace; font-weight: 700; font-size: 1rem; margin-bottom: 0.5rem;">₹${(Number(item.price) || 0).toLocaleString('en-IN', {minimumFractionDigits: 2, maximumFractionDigits: 2})}</div>
+                    <div class="ci-controls" style="display: flex; align-items: center; gap: 0.6rem; color: #ffffff;">
+                        <button class="icon-btn qty-btn" onclick="updateQty('${item.id}', -1)" ${isMinQty ? 'disabled title="Minimum order quantity is 5"' : ''} style="${isMinQty ? 'background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); color: rgba(255,255,255,0.3); opacity: 0.35; cursor: not-allowed; pointer-events: none;' : 'background: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.25); color: #ffffff; cursor: pointer;'} border-radius: 6px; width: 26px; height: 26px; display: inline-flex; align-items: center; justify-content: center; font-weight: bold;">-</button>
+                        <span style="color: #ffffff; font-weight: bold; font-size: 0.9rem;">${itemQty}</span>
+                        <button class="icon-btn qty-btn" onclick="updateQty('${item.id}', 1)" style="background: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.25); color: #ffffff; border-radius: 6px; width: 26px; height: 26px; cursor: pointer; display: inline-flex; align-items: center; justify-content: center; font-weight: bold;">+</button>
+                        <button class="ci-remove" onclick="removeFromCart('${item.id}')" style="color: #ef4444 !important; background: none; border: none; text-decoration: underline; cursor: pointer; font-size: 0.82rem; margin-left: 0.5rem; font-weight: 600;">Remove</button>
                     </div>
                 </div>
-            `).join('');
-        }
-    }
+            </div>
+            `;
+        }).join('');
+
+    document.querySelectorAll('#cart-items, .cart-items').forEach(container => {
+        if (container.id === 'wishlist-items' || container.closest('#wishlist-overlay')) return;
+        container.innerHTML = itemsHTML;
+    });
 };
 
 window.toggleWishlist = function (id, btnElement) {

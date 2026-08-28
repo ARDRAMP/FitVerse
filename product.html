@@ -17,7 +17,7 @@
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
-    <link rel="stylesheet" href="styles.css?v=1787896429">
+    <link rel="stylesheet" href="styles.css?v=1787896450">
 
     <style>
         *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -276,7 +276,8 @@
             align-items: center;
             justify-content: center;
         }
-        .qty-btn:hover { background: rgba(255,215,0,0.2); color: #ffd700; }
+        .qty-btn:hover:not(:disabled) { background: rgba(255,215,0,0.2); color: #ffd700; }
+        .qty-btn:disabled, .qty-btn[disabled] { opacity: 0.35; cursor: not-allowed; pointer-events: none; }
 
         .qty-input {
             width: 38px;
@@ -628,9 +629,9 @@
     <button id="back-to-top" class="back-to-top icon-btn" aria-label="Back to top">↑</button>
 
     <!-- Scripts (order matters: data → shared logic → page logic) -->
-    <script src="products.js?v=1787896429"></script>
-    <script src="app.js?v=1787896429"></script>
-    <script src="product-app.js?v=1787896429"></script>
-    <script src="auth.js?v=1787896429"></script>
+    <script src="products.js?v=1787896450"></script>
+    <script src="app.js?v=1787896450"></script>
+    <script src="product-app.js?v=1787896450"></script>
+    <script src="auth.js?v=1787896450"></script>
 </body>
 </html>

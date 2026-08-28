@@ -2991,6 +2991,12 @@ section {
     justify-content: center;
 }
 
+.qty-btn:disabled, .qty-btn[disabled] {
+    opacity: 0.35;
+    cursor: not-allowed !important;
+    pointer-events: none;
+}
+
 .ci-remove {
     font-size: 0.875rem;
     color: var(--ink-mute);

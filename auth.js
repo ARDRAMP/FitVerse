@@ -190,7 +190,7 @@ class Auth {
     syncBadges() {
         try {
             const cart = JSON.parse(localStorage.getItem('fitverse_cart') || '[]');
-            const totalCart = Array.isArray(cart) ? cart.reduce((sum, item) => sum + (item.qty || 1), 0) : 0;
+            const totalCart = Array.isArray(cart) ? cart.reduce((sum, item) => sum + Math.max(5, Number(item.qty) || 5), 0) : 0;
             document.querySelectorAll('.cart-badge').forEach(b => {
                 b.textContent = totalCart;
                 if (totalCart > 0) {
