@@ -340,7 +340,7 @@ window.openBundleModal = function (bundleKey) {
         modalDiv.style.cssText = 'display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.85); backdrop-filter: blur(8px); z-index: 3000; justify-content: center; align-items: center; padding: 1.5rem;';
         modalDiv.innerHTML = `
             <div style="background: #0f1622; border: 1px solid rgba(255,215,0,0.3); border-radius: 20px; width: 100%; max-width: 650px; max-height: 90vh; overflow-y: auto; position: relative; box-shadow: 0 25px 50px rgba(0,0,0,0.9);">
-                <button onclick="window.closeBundleModal()" style="position: absolute; top: 1rem; right: 1.25rem; background: rgba(0,0,0,0.6); border: 1px solid rgba(255,255,255,0.2); color: #fff; width: 36px; height: 36px; border-radius: 50%; font-size: 1.5rem; cursor: pointer; display: flex; align-items: center; justify-content: center; z-index: 10;">&times;</button>
+                <button onclick="window.closeBundleModal()" aria-label="Close Modal" class="bundle-modal-close-btn" style="position: absolute; top: 1rem; right: 1rem; background: #060a10; border: 2px solid #ffd700; color: #ffd700; width: 42px; height: 42px; border-radius: 50%; font-size: 1.6rem; font-weight: 900; line-height: 1; cursor: pointer; display: flex; align-items: center; justify-content: center; z-index: 50; box-shadow: 0 4px 20px rgba(0,0,0,0.85), 0 0 12px rgba(255,215,0,0.4); transition: all 0.25s ease;" onmouseover="this.style.background='#ffd700'; this.style.color='#000'; this.style.transform='scale(1.1)';" onmouseout="this.style.background='#060a10'; this.style.color='#ffd700'; this.style.transform='scale(1)';">&times;</button>
                 <div id="bundle-modal-header" style="height: 180px; background-size: cover; background-position: center; position: relative; border-radius: 20px 20px 0 0;">
                     <span id="bundle-modal-badge" style="position: absolute; bottom: 1rem; left: 1.5rem; background: #ffd700; color: #000; font-size: 0.75rem; font-weight: 900; padding: 0.3rem 0.8rem; border-radius: 12px; text-transform: uppercase;"></span>
                 </div>
@@ -367,6 +367,9 @@ window.openBundleModal = function (bundleKey) {
                 </div>
             </div>
         `;
+        modalDiv.addEventListener('click', (e) => {
+            if (e.target === modalDiv) window.closeBundleModal();
+        });
         document.body.appendChild(modalDiv);
         modal = modalDiv;
     }
